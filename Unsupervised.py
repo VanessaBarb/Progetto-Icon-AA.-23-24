@@ -16,12 +16,12 @@ def manage_outliers(df):
     #si calcolano i quartili per entrambe le features e si effettua un filtraggio
     for feature in features:
        plt.figure(figsize=(10, 6))
-       #si visualizza il range di valori tramite boxplot
+       #visualizzazione del range di valori tramite boxplot
        sns.boxplot(x=df[feature])
        plt.title(f'Box Plot per {feature}')
        plt.show()
 
-       # Calcolo dell'IQR per la feature corrente
+       #calcolo dell'IQR per la feature corrente
        Q1 = df[feature].quantile(0.25)
        Q3 = df[feature].quantile(0.75)
        IQR = Q3 - Q1
@@ -90,9 +90,9 @@ def K_means_clustering(optimal_clusters,df):
 
 
 #Caricamento del dataset
-df = pd.read_csv(r"C:\Users\Stefano\Desktop\ICON\ProgettoIcon\globalAirNew.csv")
+df = pd.read_csv(r"globalAirNew.csv")
 df=manage_outliers(df)
-#selezione unicamente delle colonne numeriche
+#selezione delle sole colonne contenenti valori float
 numerical_columns = df.select_dtypes(include=['float64']).columns
 scaler = StandardScaler()
 #scalarizzazione dei valori nelle colonne numeriche
