@@ -20,12 +20,16 @@ NS = Namespace("http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#
 
 def populate_ontology(df):
     df = df.sort_values(by=['Date'])
-    #liste contenente il nome delle città, dei paesi e delle label
-    city_list=[]
-    country_list=[]
-    label_list=[]
+    #dizionari contenenti il nome delle città, dei paesi e delle label
+    city_dict = {}
+    country_dict = {}
+    label_dict = {}
     #indice per numerare le misurazioni
     i=0
+    #indici per numerare città,paesi e label
+    cr=0
+    ci=0
+    l=0
     for index, row in df.iterrows():
         i+=1
         padded_index = str(i).zfill(5)
@@ -74,27 +78,43 @@ def populate_ontology(df):
         g.add((aqi_uri, NS['value'], Literal(row['Air_Quality'], datatype=XSD.float)))
 
 
+         # Gestione dei paesi
         country = row['Country']
-        country_uri = URIRef(NS[country.replace(" ", "_")])
-        if country not in country_list:
-            country_list.append(country)
+        if country not in country_dict:
+            cr += 1
+            padded_index_cr = str(cr).zfill(5)
+            country_uri = URIRef(NS[f'Country_{padded_index_cr}'])
+            country_dict[country] = country_uri
             g.add((country_uri, RDF.type, NS['Country']))
+            g.add((country_uri, NS['name'], Literal(country, datatype=XSD.string)))
+        else:
+            country_uri = country_dict[country]
 
-
-
+        # Gestione delle città
         city = row['City']
-        city_uri = URIRef(NS[city.replace(" ", "_")])
-        if city not in city_list:
-            city_list.append(city)
+        if city not in city_dict:
+            ci += 1
+            padded_index_ci = str(ci).zfill(5)
+            city_uri = URIRef(NS[f'City_{padded_index_ci}'])
+            city_dict[city] = city_uri
             g.add((city_uri, RDF.type, NS['City']))
+            g.add((city_uri, NS['name'], Literal(city, datatype=XSD.string)))
             g.add((city_uri, NS['Is_in'], country_uri))
+        else:
+            city_uri = city_dict[city]
 
-
+        # Gestione delle label
         label = row['Air_Quality_Category']
-        label_uri = URIRef(NS[label.replace(" ", "_")])
-        if label not in label_list:
-            label_list.append(label)
+        if label not in label_dict:
+            l += 1
+            padded_index_l = str(l).zfill(5)
+            label_uri = URIRef(NS[f'Label_{padded_index_l}'])
+            label_dict[label] = label_uri
             g.add((label_uri, RDF.type, NS['AQI_Label']))
+            g.add((label_uri, NS['label'], Literal(label, datatype=XSD.string)))
+        else:
+            label_uri = label_dict[label]
+
 
 
 
@@ -126,43 +146,6 @@ def populate_ontology(df):
         g.add((aqi_uri, NS['corresponds_to'], label_uri))
 
     # Serializza il grafo in formato XML
-    g.serialize(destination=r"C:\Users\Stefano\Desktop\Protege-5.6.3\Global_Aqi_Ontology.owl", format='xml')
+    g.serialize(destination=r"C:\Users\Stefano\Desktop\Protege-5.6.3\Global_Aqi_Ontology.xml", format='xml')
 
 
-
-def max_pm25(g,ns):
-
-    query= """
-    PREFIX ns: <http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#>
-    SELECT ?City ?Date ?PM2_5
-    WHERE {
-    ?measurement ns:Measured_in ?City .
-    ?measurement ns:value ?PM2_5 .
-    ?measurement ns:measured_on ?Date .
-    }
-    ORDER BY DESC(?PM2_5)
-    LIMIT 1
-        """
-    result=g.query(query)
-
-    for row in result:
-        print(row)
-        print("Città con il PM2.5 più alto: {row.City},Data: {row.Date}, Valore PM2.5: {row.PM2_5}")
-
-
-
-
-
-
-
-
-
-def analyze_ontology():
-    for subj, pred, obj in g:
-        print(subj, pred, obj)
-
-
-
-
-#populate_ontology(df)
-max_pm25(g,NS)
