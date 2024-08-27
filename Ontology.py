@@ -2,22 +2,22 @@ import pandas as pd
 from rdflib import Graph, Namespace, URIRef, Literal
 from rdflib.namespace import RDF, RDFS, OWL, XSD
 
-# Carica il file CSV
-df = pd.read_csv(r"C:\Users\Stefano\Desktop\ICON\ProgettoIcon\global_air_quality.csv")
 
-# Crea un grafo RDF
+df = pd.read_csv(r"globalAirNew.csv")
+
+# Creazione grafo RDF
 g = Graph()
 
-g.parse(r"C:\Users\Stefano\Desktop\Protege-5.6.3\Global_Aqi_Ontology.xml", format="xml")
+g.parse(r"Global_Aqi_Ontology.xml", format="xml")
 
-# Definisci il namespace
+# Definizione namespace
 NS = Namespace("http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#")
 
 
 
 
 
-
+#vengono inseriti individui e le loro relazioni in base al dataset
 def populate_ontology(df):
     df = df.sort_values(by=['Date'])
     #dizionari contenenti il nome delle città, dei paesi e delle label
@@ -146,6 +146,6 @@ def populate_ontology(df):
         g.add((aqi_uri, NS['corresponds_to'], label_uri))
 
     # Serializza il grafo in formato XML
-    g.serialize(destination=r"C:\Users\Stefano\Desktop\Protege-5.6.3\Global_Aqi_Ontology.xml", format='xml')
+    g.serialize(destination=r"Global_Aqi_Ontology.xml", format='xml')
 
 
