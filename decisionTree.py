@@ -19,11 +19,9 @@ def prepare_data(df):
 
 def train_model(X_train, y_train, X_test):
     DecTree= DecisionTreeClassifier(random_state=42)
-
-
     DecTree.fit(X_train, y_train)
-
     y_pred= DecTree.predict(X_test)
+
     return DecTree,y_pred
 
 

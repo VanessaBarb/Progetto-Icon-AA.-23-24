@@ -1,14 +1,11 @@
 import pandas as pd
-from sklearn.model_selection import train_test_split
+from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import confusion_matrix,classification_report, accuracy_score, precision_score, recall_score, f1_score
-from sklearn.model_selection import cross_val_score
-from sklearn.metrics import roc_curve, roc_auc_score
 import matplotlib.pyplot as plt
 import numpy as np
 import seaborn as sns
-import matplotlib.pyplot as plt
 from imblearn.over_sampling import SMOTE
 
 
@@ -93,7 +90,7 @@ def train_model(X_train, X_test, y_train, y_test):
     #creazione e addestramento modello classificatore
     model = RandomForestClassifier(n_estimators= 100, random_state=42, class_weight= 'balanced')
     model.fit(X_train_res, y_train_res)
-    print("Distribuzione delle classi dopo SMOTE:")
+    print("\nDistribuzione delle classi dopo SMOTE:")
     print(y_train_res.value_counts())
 
 
@@ -124,14 +121,18 @@ def evaluate_model(model,df, X_test, y_test,scaler, X_train_res, y_train_res):
 
     occurrences = df['Air_Quality_Category'].value_counts()
     # Visualizza i risultati
-    print("Occorrenze di Air_Quality_Category: ", occurrences)
+    print("\nOccorrenze di Air_Quality_Category: ", occurrences)
 
     # Controlla la distribuzione delle categorie nell'insieme di test
-    print("Distribuzione delle categorie nel test set:")
+    print("\nDistribuzione delle categorie nel test set:")
     print(y_test.value_counts())
 
 #verifica overfitting
 def check_of(model, X_train, y_train, X_test, y_test, X_train_res, y_train_res):
+    scaler= StandardScaler()
+    X_train = pd.DataFrame(scaler.fit_transform(X_train), columns=X_train.columns)
+    X_test = pd.DataFrame(scaler.transform(X_test), columns=X_test.columns)
+
     y_train_pred= model.predict(X_train_res)
     y_test_pred= model.predict(X_test)
 
@@ -150,13 +151,13 @@ def check_of(model, X_train, y_train, X_test, y_test, X_train_res, y_train_res):
     test_f1 = f1_score(y_test, y_test_pred, average='weighted', zero_division=0)
 
     # Stampa dei risultati
-    print("\nMetriche del training set:")
+    print("\n\nMetriche del training set:")
     print(f"Accuratezza: {train_accuracy:.2f}")
     print(f"Precision: {train_precision:.2f}")
     print(f"Recall: {train_recall:.2f}")
     print(f"F1-score: {train_f1:.2f}")
 
-    print("\nMetriche del test set:")
+    print("\n\nMetriche del test set:")
     print(f"Accuratezza: {test_accuracy:.2f}")
     print(f"Precision: {test_precision:.2f}")
     print(f"Recall: {test_recall:.2f}")
@@ -166,5 +167,5 @@ def check_of(model, X_train, y_train, X_test, y_test, X_train_res, y_train_res):
     cv_scores = cross_val_score(model, X_train_res, y_train_res, cv=5, scoring='accuracy')
 
     # Stampa dei risultati
-    print(f"Accuratezza Cross-validation: {cv_scores}")
-    print(f"Media accuratezza Cross-validation: {cv_scores.mean():.2f}")
+    print(f"\nAccuratezza Cross-validation: {cv_scores}")
+    print(f"\nMedia accuratezza Cross-validation: {cv_scores.mean():.2f}")

@@ -7,8 +7,7 @@ def load_data():
     df=pd.read_csv(r"globalAirNew.csv")
     return df
 
-def load_and_filter_data():
-    df=pd.read_csv(r"globalAirNew.csv")
+def filter_data(df):
     #Conta il numero di dati etichettati come "Dangerous"
     dangerous_df= df[df['Air_Quality_Category']=='Dangerous']
     dangerous_count= dangerous_df.shape[0]
@@ -49,5 +48,6 @@ def train_model(X_train,X_test, y_train):
     rf.fit(X_train, y_train)
     y_pred= rf.predict(X_test)
     return y_pred, rf
+
 
 
