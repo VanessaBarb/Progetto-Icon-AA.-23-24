@@ -26,11 +26,12 @@ def feature_correlation(df):
 
 #Distribuzione delle categorie dell'aqi
 def category_distribution(df):
-    plt.figure(figsize=(8, 6))
-    plt.hist(df['Air_Quality_Category'], bins=30, color='skyblue', edgecolor='black')
-    plt.title('Label Distribution')
-    plt.xlabel('AQI Category')
-    plt.ylabel('Frequency')
+    counts = df['Air_Quality_Category'].value_counts()
+
+    # Visualizza un grafico a torta
+    plt.figure(figsize=(8, 8))
+    plt.pie(counts, labels=counts.index, autopct='%1.1f%%', startangle=140)
+    plt.title('Category distribution')
     plt.show()
 
 
