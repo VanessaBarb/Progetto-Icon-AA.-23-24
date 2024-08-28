@@ -5,11 +5,8 @@ import randomForestBalanced as rfb
 import Smote as sm
 import Ontology as oy
 
+
 def main():
-
-    #Popolamento Ontologia
-    oy.populate_ontology()
-
 
     #Classificatore
     print("***Classificatore Random Forest***")
