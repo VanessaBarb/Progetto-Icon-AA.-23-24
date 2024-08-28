@@ -11,7 +11,7 @@ from imblearn.over_sampling import SMOTE
 
 #Carica il dataset
 def load_data():
-    df= pd.read_csv(r'globalAir.csv')
+    df= pd.read_csv(r'globalAirNew.csv')
     return df
 
 #Calcola l'AQI

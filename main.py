@@ -3,13 +3,15 @@ import decisionTree as dect
 import ValutazioneModello as evalmod
 import randomForestBalanced as rfb
 import Smote as sm
+import Ontology as oy
 
 def main():
-    #Feature Study
 
-    print("Helloooo")
+    #Popolamento Ontologia
+    oy.populate_ontology()
+
+
     #Classificatore
-
     print("***Classificatore Random Forest***")
     df_rfc= rfc.load_data()
     df_rfc = rfc.prepare_data(df_rfc)
@@ -38,6 +40,7 @@ def main():
     y_pred_rfp, rf= rfb.train_model(X_train_rfp,X_test_rfp, y_train_rfp)
     #valutazione predittore Random Forest
     evalmod.evaluate_model(rf,"Random Forest", X_train_rfp,X_test_rfp,y_train_rfp,y_test_rfp, y_pred_rfp)
+
 
 
 if __name__ == "__main__":
