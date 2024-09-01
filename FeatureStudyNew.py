@@ -4,6 +4,38 @@ import seaborn as sns
 
 
 
+#metodo per la scomposizione della data in Giorno,Mese ed Anno
+def date_division():
+    df = pd.read_csv(r"C:\Users\Stefano\Desktop\ICON\ProgettoIcon\globalAirNew.csv")
+    # Conversione della colonna 'Date' in formato datetime
+    df['Date'] = pd.to_datetime(df['Date'])
+
+    df['Year'] = df['Date'].dt.year
+    df['Month'] = df['Date'].dt.month
+    df['Day'] = df['Date'].dt.day
+
+    df = df.drop(columns=['Date'])
+
+    df.to_csv(r"C:\Users\Stefano\Desktop\ICON\ProgettoIcon\globalAir01.csv", index=False)
+
+#metodo per il calcolo della velocità del vento media e della temperatura media mensile
+def calc_avg(df):
+    monthly_avg = df.groupby(['City', 'Year', 'Month']).agg({
+    'Temperature': 'mean',
+    'Wind Speed': 'mean'
+    }).reset_index()
+
+
+    monthly_avg.columns = ['City', 'Year', 'Month', 'Monthly_Avg_Temperature', 'Monthly_Avg_Wind_Speed']
+
+    #arrotondamento alle prime due cifre dopo la virgola
+    monthly_avg['Monthly_Avg_Temperature'] = monthly_avg['Monthly_Avg_Temperature'].round(2)
+    monthly_avg['Monthly_Avg_Wind_Speed'] = monthly_avg['Monthly_Avg_Wind_Speed'].round(2)
+
+    df = pd.merge(df, monthly_avg, on=['City', 'Year', 'Month'], how='left')
+
+
+    df.to_csv(r"C:\Users\Stefano\Desktop\ICON\ProgettoIcon\globalAir01.csv", index=False)
 
 #Distribuzione delle feature PM2.5 e PM10
 def PM_distribution(df):

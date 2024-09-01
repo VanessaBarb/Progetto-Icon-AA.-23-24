@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#"
+     xml:base="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:Global-Air-Quality="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality">
+        <rdfs:comment xml:lang="en">Ontologia  about  the presence of polluting agents in the air and their impact on the air quality and the climatic phenomena</rdfs:comment>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Is_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Is_in">
+        <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#AsymmetricProperty"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
+        <rdfs:comment xml:lang="en">Indicates the country where a city is in</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Measured_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Measured_in">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
+        <rdfs:comment xml:lang="en">Shows where the measurements were made</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#corresponds_to -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#corresponds_to">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI_Label"/>
+        <rdfs:comment>Shows to what label correspond an AQI</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#measured_on -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#measured_on">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Date"/>
+        <rdfs:comment xml:lang="en">Shows the date when a measurament was taken</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#date -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#date">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Date"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#label -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#label">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI_Label"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#value -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#value">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:comment xml:lang="en">numerical value of a mesurament</rdfs:comment>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI">
+        <rdfs:comment xml:lang="en">An Air Quality Index (AQI) is a number used to measure the air pollution</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI_Label -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI_Label">
+        <rdfs:comment xml:lang="en">Describes the quality of the air</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#CO -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#CO">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of carbon monoxide (mg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City">
+        <rdfs:comment xml:lang="en">The name of the city where the air quality measurement was taken.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors">
+        <rdfs:comment xml:lang="en">Climatic condition in a city in a specific date</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country">
+        <rdfs:comment xml:lang="en">The country in which the city is located.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Date -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Date">
+        <rdfs:comment xml:lang="en">The date when the measurement was recorded.</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Humidity -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Humidity">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:comment xml:lang="en">The humidity level at the time of measurement (%).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#NO2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#NO2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of nitrogen dioxide (µg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#O3 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#O3">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of ozone (µg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#PM10 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#PM10">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of particulate matter with a diameter of less than 10 micrometers (µg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#PM2_5 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#PM2_5">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of fine particulate matter with a diameter of less than 2.5 micrometers (µg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants">
+        <rdfs:comment xml:lang="en">pollutant agents in the air</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#SO2 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#SO2">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
+        <rdfs:comment xml:lang="en">The concentration of sulfur dioxide (µg/m³).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Temperature -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Temperature">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:comment xml:lang="en">The temperature at the time of measurement (°C).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#WindSpeed -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#WindSpeed">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
+        <rdfs:comment xml:lang="en">The wind speed at the time of measurement (m/s).</rdfs:comment>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI01 -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI01">
+        <value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.0</value>
+    </owl:NamedIndividual>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi -->
+
