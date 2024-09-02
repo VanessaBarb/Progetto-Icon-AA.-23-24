@@ -92,8 +92,7 @@ def avg_PM2_5(df):
 
 
 
-df= pd.read_csv(r"globalAirNew.csv")
-
+df= pd.read_csv(r"globalAirQualityUp.csv")
 
 feature_correlation(df)
 PM_distribution(df)
