@@ -1,10 +1,8 @@
-import RandomForestClassifier as rfc
 import decisionTree as dect
 import ValutazioneModello as evalmod
 import randomForestBalanced as rfb
-import Smote as sm
 import Ontology as oy
-
+import pandas as pd
 
 def main():
 
@@ -17,7 +15,6 @@ def main():
     df_dt= dect.balance_dataset(df)
     X_train_dt, X_test_dt, y_train_dt, y_test_dt= dect.prepare_data(df_dt)
     DecTree = dect.train_model(X_train_dt, X_test_dt, y_train_dt, y_test_dt)
-    df_dt= pd.read_csv(r"globalAirNew.csv")
     #Valutazione decision tree
     evalmod.evaluate_model(DecTree,X_train_dt, X_test_dt, y_train_dt, y_test_dt, "Decision Tree")
 

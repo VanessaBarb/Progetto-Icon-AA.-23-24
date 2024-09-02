@@ -35,7 +35,7 @@ def balance_dataset(df):
     print(df_balanced['Air_Quality'].value_counts())
 
     # Salva il nuovo dataset bilanciato
-    df_balanced.to_csv("globalAirNew_balanced.csv", index=False)
+    #df_balanced.to_csv("globalAirNew_balanced.csv", index=False)
     print("Dataset bilanciato salvato come 'globalAirNew_balanced.csv'.")
     return df_balanced
 
