@@ -233,6 +233,25 @@
     
 
 
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#aqi_value -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#aqi_value">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#c_name -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#c_name">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City"/>
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#date -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#date">
@@ -247,6 +266,7 @@
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#day_number">
         <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Day"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
         <rdfs:comment xml:lang="en">number of the corresponding day</rdfs:comment>
     </owl:DatatypeProperty>
     
@@ -271,16 +291,6 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#name -->
-
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#name">
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#City"/>
-        <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Country"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
-    </owl:DatatypeProperty>
-    
-
-
     <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#rained -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#rained">
@@ -297,7 +307,7 @@
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Averages"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Climatic_Factors"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Pollutants"/>
-        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#decimal"/>
         <rdfs:comment xml:lang="en">numerical value of a mesurament</rdfs:comment>
     </owl:DatatypeProperty>
     
@@ -522,19 +532,11 @@
     
 
 
-    <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI01 -->
-
-    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#AQI01">
-        <value rdf:datatype="http://www.w3.org/2001/XMLSchema#float">101.0</value>
-    </owl:NamedIndividual>
-    
-
-
     <!-- http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#April -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#April">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">4</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">4</month_number>
     </owl:NamedIndividual>
     
 
@@ -543,7 +545,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#August">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">8</month_number>
     </owl:NamedIndividual>
     
 
@@ -552,7 +554,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#December">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">12</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">12</month_number>
     </owl:NamedIndividual>
     
 
@@ -561,7 +563,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#February">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">2</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2</month_number>
     </owl:NamedIndividual>
     
 
@@ -570,7 +572,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#January">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">1</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1</month_number>
     </owl:NamedIndividual>
     
 
@@ -579,7 +581,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#July">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">7</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">7</month_number>
     </owl:NamedIndividual>
     
 
@@ -588,7 +590,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#June">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">6</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">6</month_number>
     </owl:NamedIndividual>
     
 
@@ -597,7 +599,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#March">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">3</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">3</month_number>
     </owl:NamedIndividual>
     
 
@@ -606,7 +608,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#May">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">5</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">5</month_number>
     </owl:NamedIndividual>
     
 
@@ -615,7 +617,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#November">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">11</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">11</month_number>
     </owl:NamedIndividual>
     
 
@@ -624,7 +626,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#October">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">10</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">10</month_number>
     </owl:NamedIndividual>
     
 
@@ -633,7 +635,7 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#September">
         <rdf:type rdf:resource="http://www.semanticweb.org/ontologies/2024/7/Global-Air-Quality#Month"/>
-        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">9</month_number>
+        <month_number rdf:datatype="http://www.w3.org/2001/XMLSchema#int">9</month_number>
     </owl:NamedIndividual>
     
 
