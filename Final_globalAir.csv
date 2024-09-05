@@ -1,4 +1,4 @@
-City,Country,PM2.5,PM10,NO2,SO2,CO,O3,Temperature,Humidity,Wind Speed,Air_Quality,Air_Quality_Category,Year,Month,Day,Monthly_Avg_Temperature,Monthly_Avg_Wind_Speed,HasRained,Is_Stagnant,Dispersion_Index
+City,Country,Month,Day,PM2.5,PM10,NO2,SO2,CO,O3,Temperature,Humidity,Wind Speed,Air_Quality,Air_Quality_Category,Monthly_Avg_Temperature,Monthly_Avg_Wind_Speed,HasRained,Is_Stagnant,Dispersion_Index
 Bangkok,Thailand,3,19,86.57,25.19,99.88,30.63,4.46,36.29,17.67,59.35,13.76,346,Dangerous,13.32,10.64,false,false,8.64
 Istanbul,Turkey,2,16,50.63,97.39,48.14,8.71,3.4,144.16,3.46,67.51,6.36,203,Very Unhealthy,9.58,10.91,false,false,3.8
 Rio de Janeiro,Brazil,11,13,130.21,57.22,98.51,9.92,0.12,179.31,25.29,29.3,12.87,521,Dangerous,11.39,11.28,false,false,9.95
