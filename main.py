@@ -1,12 +1,10 @@
 import decisionTree as dect
 import ValutazioneModello as evalmod
 import randomForestBalanced as rfb
-import Ontology as oy
 import pandas as pd
 
 def main():
-
-
+    #Feature Study
 
     #Predittori: Decision-Tree e Random Forest
 
@@ -20,13 +18,10 @@ def main():
 
     #RandomForest
     df_rfp = rfb.load_data()
-    df_rfp_filtered= rfb.filter_data(df_rfp)
-    X_train_rfp, X_test_rfp, y_train_rfp, y_test_rfp = rfb.prepare_data(df_rfp_filtered)
+    X_train_rfp, X_test_rfp, y_train_rfp, y_test_rfp = rfb.prepare_data(df_rfp)
     rf= rfb.train_model(X_train_rfp,X_test_rfp, y_train_rfp)
     #valutazione predittore Random Forest
     evalmod.evaluate_model(rf,X_train_rfp, X_test_rfp, y_train_rfp, y_test_rfp, "Random Forest")
-
-
 
 if __name__ == "__main__":
     main()
