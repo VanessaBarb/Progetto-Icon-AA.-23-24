@@ -17,7 +17,6 @@ def create_kb(dataset):
     geo_dict = []
     avg_dict = {}
 
-
     for _, row in df.iterrows():
         #controlli per evitare la ripetizione del fatto
         if row['City'] not in geo_dict:
@@ -122,64 +121,22 @@ def rule_definition():
         print("Create regole.")
 
 
-#metodo per popolare il nuovo dataset
-def create_csv(output_file):
+#metodo per la creazione del dataset definitivo
+def create_csv(input_file, output_file):
+    df = pd.read_csv(input_file)
+
     prolog = Prolog()
     prolog.consult("knowledge_base.pl")
 
-    # Colonne del nuovo file CSV
-    headers = [
-        "City", "Country", "PM2.5", "PM10", "NO2", "SO2", "CO", "O3",
-        "Temperature", "Humidity", "Wind Speed", "Air_Quality", "Air_Quality_Category",
-        "Year", "Month", "Day", "Monthly_Avg_Temperature", "Monthly_Avg_Wind_Speed",
-        "HasRained", "Is_Stagnant", "Dispersion_Index"
-    ]
 
-    with open(output_file, mode='w', newline='') as file:
-        writer = csv.writer(file)
-        writer.writerow(headers)
-
-        #set per impedire la presenza di duplicati nel file
-        seen_rows = set()
-
-        # Query per ottenere i fatti
-        query = """
-            get_measurements(City, Month, Day, PM2_5, PM10, NO2, SO2, O3, CO, Temperature, Humidity, Wind_Speed, AQI_value, AQI_category),
-            monthly_averages(City, Month, Avg_Temperature, Avg_Wind_Speed),
-            geography(City, Country).
-        """
-
-        # Esecuzione della query
-        results = list(prolog.query(query))
-
-        for result in results:
-            city = result['City']
-            country = result['Country']
-            month = result['Month']
-            day = result['Day']
-            pm2_5 = result['PM2_5']
-
-
-            if (city, month, day,pm2_5) in seen_rows:
-                continue
-            else:
-                seen_rows.add((city, month, day,pm2_5))
-
-
-            pm10 = result['PM10']
-            no2 = result['NO2']
-            so2 = result['SO2']
-            co = result['CO']
-            o3 = result['O3']
-            temperature = result['Temperature']
-            humidity = result['Humidity']
-            wind_speed = result['Wind_Speed']
-            air_quality = result['AQI_value']
-            air_quality_category = result['AQI_category']
-            avg_temp = result['Avg_Temperature']
-            avg_wind_speed = result['Avg_Wind_Speed']
-
-            # Esecuzione delle regole p
+    for index, row in df.iterrows():
+        #informazioni principali su cui eseguire le query
+        city = row['City']
+        month = row['Month']
+        day = row['Day']
+        pm2_5 = row['PM2.5']
+        # Esegui le query Prolog per le nuove feature
+        try:
             rainy_day_query = f"rainy_day('{city}', {month}, {day}, HasRained)."
             rainy_day_result = list(prolog.query(rainy_day_query))
             has_rained = rainy_day_result[0]['HasRained']
@@ -192,12 +149,16 @@ def create_csv(output_file):
             dispersion_result = list(prolog.query(dispersion_query))
             dispersion_index = round(dispersion_result[0]['Dispersion_Index'], 2)
 
-            #Scrittura delle righe del csv
-            writer.writerow([
-                city, country, month, day, pm2_5, pm10, no2, so2, co, o3, temperature, humidity, wind_speed,
-                air_quality, air_quality_category, avg_temp, avg_wind_speed,
-                has_rained, is_stagnant, dispersion_index
-            ])
+            # Aggiungi le feature mancanti al DataFrame
+            df.at[index, 'HasRained'] = has_rained
+            df.at[index, 'Is_Stagnant'] = is_stagnant
+            df.at[index, 'Dispersion_Index'] = dispersion_index
 
-    print("csv creato.")
+        except Exception as e:
+            print(f"Errore durante la query per {city}, {month}, {day}: {e}")
 
+    df.to_csv(output_file, index=False)
+
+    print(f"Dataset creato")
+
+create_csv(r"globalAir01.csv","Final_globalAir.csv")
