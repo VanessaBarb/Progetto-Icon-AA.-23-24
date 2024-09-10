@@ -20270,27 +20270,27 @@ monthly_averages('Bangkok', 4, 12.61, 11.02).
 % Fatti sulla qualità dell'aria 
 aqi('Bangkok', 3, 19, 167.04246575342466, 'Unhealthy').
 aqi('Istanbul', 2, 16, 138.25477386934674, 'Poor').
-aqi('Rio de Janeiro', 11, 13, 189.57523709167543, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 13, 189.57523709167546, 'Unhealthy').
 aqi('Mumbai', 3, 16, 184.1485774499473, 'Unhealthy').
 aqi('Paris', 4, 4, 149.50753768844223, 'Poor').
 aqi('Los Angeles', 1, 5, 184.96438356164384, 'Unhealthy').
 aqi('Tokyo', 9, 17, 183.6632244467861, 'Unhealthy').
 aqi('New York', 11, 23, 159.78798735511063, 'Unhealthy').
-aqi('Tokyo', 9, 21, 190.22065331928343, 'Unhealthy').
+aqi('Tokyo', 9, 21, 190.22065331928346, 'Unhealthy').
 aqi('London', 9, 13, 155.7554267650158, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 11, 168.81348788198102, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 26, 92.98161616161616, 'Moderate').
 aqi('Mumbai', 8, 28, 156.09104320337198, 'Unhealthy').
 aqi('Seoul', 1, 13, 152.1204425711275, 'Unhealthy').
 aqi('Cairo', 6, 18, 152.96206533192836, 'Unhealthy').
-aqi('Paris', 5, 15, 192.4047418335089, 'Unhealthy').
+aqi('Paris', 5, 15, 192.40474183350895, 'Unhealthy').
 aqi('Cairo', 7, 24, 129.66130653266333, 'Poor').
 aqi('Mexico City', 1, 26, 164.88935721812436, 'Unhealthy').
-aqi('Istanbul', 6, 7, 60.54434782608696, 'Moderate').
+aqi('Istanbul', 6, 7, 60.544347826086955, 'Moderate').
 aqi('Berlin', 11, 2, 167.43487881981034, 'Unhealthy').
 aqi('Bangkok', 10, 25, 183.0126448893572, 'Unhealthy').
 aqi('Beijing', 10, 26, 112.03115577889446, 'Poor').
-aqi('Sydney', 7, 3, 193.12760800843, 'Unhealthy').
+aqi('Sydney', 7, 3, 193.12760800842995, 'Unhealthy').
 aqi('Dubai', 4, 21, 163.93930453108536, 'Unhealthy').
 aqi('New York', 6, 26, 164.88935721812436, 'Unhealthy').
 aqi('Seoul', 1, 22, 171.92697576396208, 'Unhealthy').
@@ -20300,11 +20300,11 @@ aqi('Istanbul', 1, 8, 146.74974874371858, 'Poor').
 aqi('Berlin', 11, 4, 130.72010050251257, 'Poor').
 aqi('Rio de Janeiro', 4, 4, 166.02012644889356, 'Unhealthy').
 aqi('Seoul', 1, 14, 131.26180904522613, 'Poor').
-aqi('Mexico City', 5, 8, 184.76817702845105, 'Unhealthy').
+aqi('Mexico City', 5, 8, 184.76817702845102, 'Unhealthy').
 aqi('Madrid', 6, 28, 153.98440463645943, 'Unhealthy').
 aqi('Los Angeles', 7, 17, 151.69704952581665, 'Unhealthy').
 aqi('London', 7, 6, 146.0849246231156, 'Poor').
-aqi('Los Angeles', 7, 15, 199.65922023182296, 'Unhealthy').
+aqi('Los Angeles', 7, 15, 199.65922023182299, 'Unhealthy').
 aqi('Toronto', 9, 28, 159.5246575342466, 'Unhealthy').
 aqi('New York', 10, 12, 154.53171759747102, 'Unhealthy').
 aqi('Bangkok', 3, 13, 198.0895679662803, 'Unhealthy').
@@ -20317,19 +20317,19 @@ aqi('Beijing', 6, 12, 178.84067439409904, 'Unhealthy').
 aqi('London', 10, 27, 157.4386722866175, 'Unhealthy').
 aqi('Johannesburg', 10, 9, 90.2940404040404, 'Moderate').
 aqi('Mumbai', 2, 15, 145.42010050251258, 'Poor').
-aqi('Mexico City', 4, 11, 183.2449947312961, 'Unhealthy').
+aqi('Mexico City', 4, 11, 183.24499473129612, 'Unhealthy').
 aqi('Toronto', 12, 3, 107.64222222222222, 'Poor').
 aqi('Berlin', 6, 12, 193.96406743940992, 'Unhealthy').
 aqi('Paris', 10, 24, 96.79767676767676, 'Moderate').
-aqi('Cairo', 9, 7, 105.39310344827584, 'Poor').
-aqi('Johannesburg', 4, 6, 192.29114857745, 'Unhealthy').
-aqi('Bangkok', 9, 10, 198.2238145416228, 'Unhealthy').
-aqi('Rio de Janeiro', 2, 13, 113.21306532663316, 'Poor').
+aqi('Cairo', 9, 7, 105.39310344827585, 'Poor').
+aqi('Johannesburg', 4, 6, 192.29114857744995, 'Unhealthy').
+aqi('Bangkok', 9, 10, 198.22381454162277, 'Unhealthy').
+aqi('Rio de Janeiro', 2, 13, 113.21306532663317, 'Poor').
 aqi('Rio de Janeiro', 9, 19, 166.6913593256059, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 12, 158.027291886196, 'Unhealthy').
 aqi('Moscow', 10, 28, 165.42118018967335, 'Unhealthy').
-aqi('Mumbai', 10, 18, 168.55015806111695, 'Unhealthy').
-aqi('Mexico City', 4, 14, 188.8472075869336, 'Unhealthy').
+aqi('Mumbai', 10, 18, 168.55015806111697, 'Unhealthy').
+aqi('Mexico City', 4, 14, 188.84720758693362, 'Unhealthy').
 aqi('Paris', 11, 25, 160.69157007376185, 'Unhealthy').
 aqi('New York', 3, 11, 159.10126448893573, 'Unhealthy').
 aqi('Madrid', 3, 24, 193.6026343519494, 'Unhealthy').
@@ -20339,60 +20339,60 @@ aqi('Cairo', 6, 18, 156.2459430979979, 'Unhealthy').
 aqi('Sydney', 12, 19, 174.22982086406745, 'Unhealthy').
 aqi('Istanbul', 9, 1, 103.4351515151515, 'Poor').
 aqi('Cairo', 7, 14, 184.11243414120128, 'Unhealthy').
-aqi('Los Angeles', 4, 24, 198.78661749209687, 'Unhealthy').
+aqi('Los Angeles', 4, 24, 198.78661749209695, 'Unhealthy').
 aqi('Toronto', 12, 24, 175.8459430979979, 'Unhealthy').
 aqi('Moscow', 1, 21, 152.63161222339303, 'Unhealthy').
 aqi('Mumbai', 5, 22, 106.31859296482412, 'Poor').
 aqi('Paris', 6, 8, 159.93256059009482, 'Unhealthy').
 aqi('Mumbai', 8, 23, 162.33350895679663, 'Unhealthy').
-aqi('Mexico City', 5, 1, 198.099894625922, 'Unhealthy').
+aqi('Mexico City', 5, 1, 198.09989462592202, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 2, 93.54377682403432, 'Moderate').
 aqi('New York', 6, 6, 73.05000000000001, 'Moderate').
 aqi('Rio de Janeiro', 10, 6, 167.30063224446786, 'Unhealthy').
 aqi('Cairo', 12, 27, 118.84787878787878, 'Poor').
 aqi('Mumbai', 6, 26, 197.18598524762908, 'Unhealthy').
-aqi('Tokyo', 5, 28, 59.19179487179488, 'Moderate').
+aqi('Tokyo', 5, 28, 59.191794871794876, 'Moderate').
 aqi('Bangkok', 10, 10, 155.33719704952583, 'Unhealthy').
 aqi('Sydney', 9, 2, 122.27437185929648, 'Poor').
 aqi('Cairo', 10, 20, 177.10063224446787, 'Unhealthy').
 aqi('Los Angeles', 5, 24, 195.8899894625922, 'Unhealthy').
-aqi('Paris', 8, 12, 182.18651211801892, 'Unhealthy').
+aqi('Paris', 8, 12, 182.18651211801898, 'Unhealthy').
 aqi('Mexico City', 5, 10, 94.5, 'Moderate').
 aqi('Paris', 2, 11, 97.30252525252526, 'Moderate').
 aqi('Mumbai', 6, 10, 181.28809272918863, 'Unhealthy').
-aqi('Paris', 3, 21, 185.9867228661749, 'Unhealthy').
+aqi('Paris', 3, 21, 185.98672286617492, 'Unhealthy').
 aqi('Los Angeles', 10, 2, 193.1740779768177, 'Unhealthy').
-aqi('Istanbul', 3, 18, 63.8, 'Moderate').
+aqi('Istanbul', 3, 18, 63.800000000000004, 'Moderate').
 aqi('Rio de Janeiro', 9, 11, 177.095468914647, 'Unhealthy').
 aqi('Toronto', 10, 16, 164.940990516333, 'Unhealthy').
 aqi('Seoul', 8, 6, 155.18229715489989, 'Unhealthy').
 aqi('Bangkok', 5, 18, 137.04824120603016, 'Poor').
-aqi('Berlin', 6, 24, 167.78082191780825, 'Unhealthy').
+aqi('Berlin', 6, 24, 167.78082191780823, 'Unhealthy').
 aqi('Madrid', 10, 15, 84.14334763948499, 'Moderate').
 aqi('Madrid', 6, 27, 131.38492462311558, 'Poor').
 aqi('Sydney', 3, 15, 166.1905163329821, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 6, 156.80874604847207, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 9, 189.3377239199157, 'Unhealthy').
-aqi('London', 2, 17, 196.2256059009484, 'Unhealthy').
+aqi('London', 2, 17, 196.22560590094838, 'Unhealthy').
 aqi('Bangkok', 8, 26, 169.57766069546892, 'Unhealthy').
 aqi('Sydney', 1, 8, 165.89620653319284, 'Unhealthy').
 aqi('Mexico City', 6, 2, 197.57839831401475, 'Unhealthy').
 aqi('Cairo', 1, 11, 106.74141414141414, 'Poor').
-aqi('London', 9, 12, 194.99157007376184, 'Unhealthy').
+aqi('London', 9, 12, 194.99157007376186, 'Unhealthy').
 aqi('London', 5, 1, 196.53024236037936, 'Unhealthy').
-aqi('Istanbul', 11, 27, 116.83266331658292, 'Poor').
+aqi('Istanbul', 11, 27, 116.83266331658291, 'Poor').
 aqi('Bangkok', 11, 2, 172.74278187565858, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 6, 86.73004291845494, 'Moderate').
 aqi('Rio de Janeiro', 8, 10, 74.58434343434344, 'Moderate').
-aqi('New York', 6, 16, 191.5579557428873, 'Unhealthy').
+aqi('New York', 6, 16, 191.55795574288726, 'Unhealthy').
 aqi('Beijing', 5, 25, 137.31909547738695, 'Poor').
 aqi('Mexico City', 8, 19, 183.08493150684933, 'Unhealthy').
 aqi('Mexico City', 4, 27, 154.1031612223393, 'Unhealthy').
 aqi('Toronto', 10, 28, 118.9502512562814, 'Poor').
 aqi('Dubai', 12, 10, 173.8064278187566, 'Unhealthy').
-aqi('Bangkok', 1, 23, 120.99396984924624, 'Poor').
+aqi('Bangkok', 1, 23, 120.99396984924623, 'Poor').
 aqi('Beijing', 12, 17, 176.13508956796628, 'Unhealthy').
-aqi('Madrid', 7, 17, 190.5665964172813, 'Unhealthy').
+aqi('Madrid', 7, 17, 190.56659641728135, 'Unhealthy').
 aqi('Berlin', 9, 9, 185.7027397260274, 'Unhealthy').
 aqi('Cairo', 11, 21, 165.07523709167546, 'Unhealthy').
 aqi('Tokyo', 3, 19, 182.52212855637512, 'Unhealthy').
@@ -20402,7 +20402,7 @@ aqi('Bangkok', 12, 9, 57.22151515151515, 'Moderate').
 aqi('Los Angeles', 12, 28, 152.35795574288724, 'Unhealthy').
 aqi('Johannesburg', 5, 26, 164.46080084299263, 'Unhealthy').
 aqi('Los Angeles', 2, 28, 177.1264488935722, 'Unhealthy').
-aqi('Cairo', 9, 4, 180.7562697576396, 'Unhealthy').
+aqi('Cairo', 9, 4, 180.75626975763961, 'Unhealthy').
 aqi('Dubai', 2, 13, 102.82211055276382, 'Poor').
 aqi('Bangkok', 3, 27, 178.85616438356163, 'Unhealthy').
 aqi('New York', 6, 21, 167.45036880927293, 'Unhealthy').
@@ -20412,10 +20412,10 @@ aqi('New York', 8, 24, 82.71330472103006, 'Moderate').
 aqi('Beijing', 10, 9, 95.2, 'Moderate').
 aqi('Toronto', 6, 21, 162.01338250790306, 'Unhealthy').
 aqi('Dubai', 4, 27, 175.7994731296101, 'Unhealthy').
-aqi('Madrid', 6, 21, 195.7712328767124, 'Unhealthy').
+aqi('Madrid', 6, 21, 195.77123287671233, 'Unhealthy').
 aqi('Cairo', 7, 12, 132.66532663316582, 'Poor').
 aqi('Rio de Janeiro', 8, 1, 195.04836670179137, 'Unhealthy').
-aqi('Berlin', 4, 18, 110.53767676767676, 'Poor').
+aqi('Berlin', 4, 18, 110.53767676767677, 'Poor').
 aqi('Dubai', 12, 24, 111.81464646464646, 'Poor').
 aqi('Dubai', 10, 22, 133.08391959798996, 'Poor').
 aqi('Madrid', 10, 12, 151.36143308746048, 'Unhealthy').
@@ -20434,20 +20434,20 @@ aqi('Berlin', 11, 19, 192.21886195995785, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 1, 154.67112750263436, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 28, 84.30934782608696, 'Moderate').
 aqi('Bangkok', 7, 27, 179.09884088514227, 'Unhealthy').
-aqi('Berlin', 11, 21, 195.4511064278188, 'Unhealthy').
+aqi('Berlin', 11, 21, 195.45110642781876, 'Unhealthy').
 aqi('Berlin', 12, 24, 106.24472361809046, 'Poor').
-aqi('Johannesburg', 8, 17, 178.272708113804, 'Unhealthy').
+aqi('Johannesburg', 8, 17, 178.27270811380401, 'Unhealthy').
 aqi('Tokyo', 2, 24, 185.75437302423603, 'Unhealthy').
 aqi('Toronto', 1, 13, 117.81838383838384, 'Poor').
 aqi('Istanbul', 11, 3, 159.31296101159114, 'Unhealthy').
 aqi('London', 9, 20, 66.91871794871795, 'Moderate').
-aqi('Dubai', 9, 25, 92.5008695652174, 'Moderate').
+aqi('Dubai', 9, 25, 92.50086956521739, 'Moderate').
 aqi('Sydney', 12, 2, 91.40369565217392, 'Moderate').
 aqi('Bangkok', 12, 2, 198.7349841938883, 'Unhealthy').
 aqi('Istanbul', 6, 12, 152.46122233930453, 'Unhealthy').
 aqi('Dubai', 8, 14, 180.98345626975765, 'Unhealthy').
-aqi('Rio de Janeiro', 5, 18, 196.2669125395153, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 2, 193.9072708113804, 'Unhealthy').
+aqi('Rio de Janeiro', 5, 18, 196.26691253951526, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 2, 193.90727081138039, 'Unhealthy').
 aqi('Johannesburg', 8, 13, 171.79789251844048, 'Unhealthy').
 aqi('Beijing', 7, 21, 176.6359325605901, 'Unhealthy').
 aqi('Sydney', 12, 17, 173.52244467860908, 'Unhealthy').
@@ -20467,44 +20467,44 @@ aqi('Johannesburg', 4, 17, 193.7162276080084, 'Unhealthy').
 aqi('Seoul', 1, 3, 78.9068669527897, 'Moderate').
 aqi('Berlin', 2, 11, 137.78693467336683, 'Poor').
 aqi('Seoul', 12, 2, 157.05658587987355, 'Unhealthy').
-aqi('Sydney', 7, 28, 95.16309012875536, 'Moderate').
+aqi('Sydney', 7, 28, 95.16309012875537, 'Moderate').
 aqi('Mexico City', 3, 26, 82.22141414141414, 'Moderate').
-aqi('Sydney', 1, 19, 184.17439409905165, 'Unhealthy').
+aqi('Sydney', 1, 19, 184.17439409905163, 'Unhealthy').
 aqi('Seoul', 10, 11, 175.30895679662802, 'Unhealthy').
 aqi('Los Angeles', 9, 23, 177.30716543730242, 'Unhealthy').
 aqi('Moscow', 7, 20, 172.87702845100105, 'Unhealthy').
 aqi('Seoul', 6, 11, 162.27671232876713, 'Unhealthy').
-aqi('Madrid', 7, 28, 102.85862068965515, 'Poor').
+aqi('Madrid', 7, 28, 102.85862068965517, 'Poor').
 aqi('Dubai', 5, 18, 155.53340358271865, 'Unhealthy').
-aqi('Paris', 4, 17, 93.9, 'Moderate').
-aqi('Paris', 10, 17, 187.60284510010536, 'Unhealthy').
+aqi('Paris', 4, 17, 93.89999999999999, 'Moderate').
+aqi('Paris', 10, 17, 187.60284510010538, 'Unhealthy').
 aqi('Mexico City', 8, 5, 191.5631190727081, 'Unhealthy').
 aqi('Beijing', 12, 16, 152.68840885142257, 'Unhealthy').
-aqi('Cairo', 7, 12, 122.42211055276384, 'Poor').
+aqi('Cairo', 7, 12, 122.42211055276383, 'Poor').
 aqi('New York', 9, 28, 172.86670179135933, 'Unhealthy').
 aqi('London', 3, 15, 93.90128755364807, 'Moderate').
-aqi('Rio de Janeiro', 9, 13, 97.89646464646464, 'Moderate').
+aqi('Rio de Janeiro', 9, 13, 97.89646464646465, 'Moderate').
 aqi('Cairo', 9, 13, 82.14717171717172, 'Moderate').
 aqi('Madrid', 9, 26, 110.4139393939394, 'Poor').
 aqi('Mumbai', 7, 18, 153.20990516332984, 'Unhealthy').
-aqi('Mumbai', 4, 2, 193.31348788198105, 'Unhealthy').
+aqi('Mumbai', 4, 2, 193.31348788198102, 'Unhealthy').
 aqi('Beijing', 3, 19, 179.02655426765017, 'Unhealthy').
 aqi('Seoul', 2, 17, 122.14424242424242, 'Poor').
-aqi('Seoul', 8, 8, 191.4237091675448, 'Unhealthy').
+aqi('Seoul', 8, 8, 191.42370916754479, 'Unhealthy').
 aqi('Moscow', 12, 26, 190.8350895679663, 'Unhealthy').
 aqi('Madrid', 6, 26, 149.556783919598, 'Poor').
 aqi('Rio de Janeiro', 7, 2, 180.2141201264489, 'Unhealthy').
 aqi('Paris', 5, 5, 155.30105374077976, 'Unhealthy').
-aqi('Sydney', 12, 21, 122.4713567839196, 'Poor').
+aqi('Sydney', 12, 21, 122.47135678391959, 'Poor').
 aqi('Mumbai', 2, 12, 82.36, 'Moderate').
 aqi('Los Angeles', 7, 14, 169.51570073761854, 'Unhealthy').
 aqi('Moscow', 9, 25, 185.27418335089567, 'Unhealthy').
-aqi('Mexico City', 7, 24, 195.745416227608, 'Unhealthy').
+aqi('Mexico City', 7, 24, 195.74541622760802, 'Unhealthy').
 aqi('Paris', 4, 5, 183.12623814541624, 'Unhealthy').
 aqi('New York', 7, 24, 111.7356783919598, 'Poor').
 aqi('Dubai', 10, 7, 155.80706006322444, 'Unhealthy').
 aqi('Mumbai', 6, 10, 162.55036880927292, 'Unhealthy').
-aqi('Tokyo', 4, 20, 189.2344573234984, 'Unhealthy').
+aqi('Tokyo', 4, 20, 189.23445732349842, 'Unhealthy').
 aqi('Toronto', 8, 1, 137.34371859296482, 'Poor').
 aqi('Cairo', 3, 10, 191.7489989462592, 'Unhealthy').
 aqi('Berlin', 4, 13, 161.863645943098, 'Unhealthy').
@@ -20525,18 +20525,18 @@ aqi('Moscow', 11, 19, 186.0899894625922, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 9, 176.06280295047418, 'Unhealthy').
 aqi('Paris', 5, 14, 122.91636363636364, 'Poor').
 aqi('Seoul', 4, 11, 178.15395152792414, 'Unhealthy').
-aqi('Dubai', 11, 8, 199.0654373024236, 'Unhealthy').
+aqi('Dubai', 11, 8, 199.06543730242362, 'Unhealthy').
 aqi('Madrid', 4, 20, 154.08250790305584, 'Unhealthy').
 aqi('Berlin', 10, 17, 78.2908695652174, 'Moderate').
 aqi('Toronto', 6, 24, 182.38788198103268, 'Unhealthy').
-aqi('London', 8, 19, 118.5562814070352, 'Poor').
-aqi('Istanbul', 12, 22, 112.72060301507535, 'Poor').
-aqi('Sydney', 5, 24, 189.34805057955745, 'Unhealthy').
+aqi('London', 8, 19, 118.55628140703519, 'Poor').
+aqi('Istanbul', 12, 22, 112.72060301507537, 'Poor').
+aqi('Sydney', 5, 24, 189.34805057955742, 'Unhealthy').
 aqi('Johannesburg', 8, 3, 88.24420600858369, 'Moderate').
 aqi('Cairo', 1, 5, 130.54773869346735, 'Poor').
 aqi('Madrid', 8, 12, 156.46796628029506, 'Unhealthy').
 aqi('Beijing', 7, 9, 178.87165437302423, 'Unhealthy').
-aqi('Tokyo', 11, 25, 182.31559536354052, 'Unhealthy').
+aqi('Tokyo', 11, 25, 182.31559536354058, 'Unhealthy').
 aqi('Moscow', 5, 28, 104.54878787878788, 'Poor').
 aqi('Moscow', 3, 7, 185.604636459431, 'Unhealthy').
 aqi('Madrid', 2, 6, 185.604636459431, 'Unhealthy').
@@ -20547,16 +20547,16 @@ aqi('Madrid', 5, 5, 114.76949494949494, 'Poor').
 aqi('Cairo', 5, 2, 132.00050251256283, 'Poor').
 aqi('New York', 6, 20, 191.2946259220232, 'Unhealthy').
 aqi('Mumbai', 7, 21, 170.92012644889357, 'Unhealthy').
-aqi('Berlin', 5, 27, 190.354899894626, 'Unhealthy').
-aqi('Tokyo', 7, 7, 94.67939914163092, 'Moderate').
-aqi('Mexico City', 3, 9, 196.28240252897783, 'Unhealthy').
+aqi('Berlin', 5, 27, 190.35489989462593, 'Unhealthy').
+aqi('Tokyo', 7, 7, 94.67939914163091, 'Moderate').
+aqi('Mexico City', 3, 9, 196.28240252897785, 'Unhealthy').
 aqi('Berlin', 1, 10, 140.9140703517588, 'Poor').
 aqi('Berlin', 11, 8, 120.47688442211054, 'Poor').
 aqi('New York', 3, 19, 153.06016859852477, 'Unhealthy').
-aqi('London', 8, 5, 195.5492096944152, 'Unhealthy').
+aqi('London', 8, 5, 195.54920969441517, 'Unhealthy').
 aqi('Paris', 11, 6, 155.22876712328767, 'Unhealthy').
 aqi('Beijing', 10, 12, 164.48661749209694, 'Unhealthy').
-aqi('Paris', 11, 22, 91.53152173913044, 'Moderate').
+aqi('Paris', 11, 22, 91.53152173913043, 'Moderate').
 aqi('Istanbul', 12, 19, 167.92539515279242, 'Unhealthy').
 aqi('Istanbul', 7, 13, 159.10126448893573, 'Unhealthy').
 aqi('Istanbul', 3, 21, 196.31854583772392, 'Unhealthy').
@@ -20578,20 +20578,20 @@ aqi('Moscow', 5, 20, 176.20221285563753, 'Unhealthy').
 aqi('Mumbai', 8, 22, 156.33888303477346, 'Unhealthy').
 aqi('Moscow', 7, 24, 170.6722866174921, 'Unhealthy').
 aqi('Beijing', 4, 20, 143.6964824120603, 'Poor').
-aqi('Paris', 3, 19, 91.69313304721032, 'Moderate').
+aqi('Paris', 3, 19, 91.69313304721031, 'Moderate').
 aqi('Madrid', 7, 2, 184.12792413066387, 'Unhealthy').
 aqi('Mexico City', 1, 24, 198.4923076923077, 'Unhealthy').
 aqi('Madrid', 1, 26, 173.98714436248682, 'Unhealthy').
-aqi('Mumbai', 4, 28, 184.88177028451005, 'Unhealthy').
-aqi('Madrid', 11, 8, 183.6219178082192, 'Unhealthy').
+aqi('Mumbai', 4, 28, 184.88177028451003, 'Unhealthy').
+aqi('Madrid', 11, 8, 183.62191780821917, 'Unhealthy').
 aqi('Beijing', 10, 18, 37.95454545454545, 'Good').
 aqi('Berlin', 7, 3, 175.40706006322443, 'Unhealthy').
 aqi('New York', 10, 2, 164.3781875658588, 'Unhealthy').
 aqi('London', 9, 10, 117.01161616161616, 'Poor').
 aqi('Toronto', 12, 20, 169.80484720758693, 'Unhealthy').
-aqi('Cairo', 2, 1, 181.7269757639621, 'Unhealthy').
+aqi('Cairo', 2, 1, 181.72697576396206, 'Unhealthy').
 aqi('Toronto', 3, 7, 177.627291886196, 'Unhealthy').
-aqi('Johannesburg', 6, 28, 190.2619599578504, 'Unhealthy').
+aqi('Johannesburg', 6, 28, 190.26195995785037, 'Unhealthy').
 aqi('Cairo', 9, 15, 70.02585858585859, 'Moderate').
 aqi('Seoul', 8, 15, 66.42262626262627, 'Moderate').
 aqi('Rio de Janeiro', 4, 18, 112.29969696969698, 'Poor').
@@ -20600,21 +20600,21 @@ aqi('Madrid', 1, 5, 177.322655426765, 'Unhealthy').
 aqi('Mexico City', 7, 19, 105.73103448275862, 'Poor').
 aqi('Beijing', 2, 16, 184.2208640674394, 'Unhealthy').
 aqi('Istanbul', 6, 24, 184.5668071654373, 'Unhealthy').
-aqi('Los Angeles', 10, 15, 112.41353535353537, 'Poor').
+aqi('Los Angeles', 10, 15, 112.41353535353535, 'Poor').
 aqi('Mexico City', 10, 12, 93.7961373390558, 'Moderate').
 aqi('London', 1, 2, 164.7964172813488, 'Unhealthy').
 aqi('Beijing', 5, 16, 112.79447236180904, 'Poor').
-aqi('Dubai', 7, 3, 186.0693361433088, 'Unhealthy').
+aqi('Dubai', 7, 3, 186.06933614330876, 'Unhealthy').
 aqi('Seoul', 3, 2, 176.3777660695469, 'Unhealthy').
 aqi('Istanbul', 12, 16, 162.15795574288725, 'Unhealthy').
-aqi('Dubai', 4, 25, 193.5251844046365, 'Unhealthy').
+aqi('Dubai', 4, 25, 193.52518440463646, 'Unhealthy').
 aqi('Sydney', 10, 8, 170.70326659641728, 'Unhealthy').
 aqi('Sydney', 1, 25, 187.31886195995787, 'Unhealthy').
 aqi('Mexico City', 10, 28, 173.16101159114857, 'Unhealthy').
 aqi('New York', 3, 4, 174.18335089567967, 'Unhealthy').
 aqi('Madrid', 10, 19, 95.54163090128756, 'Moderate').
-aqi('Los Angeles', 10, 19, 197.8417281348788, 'Unhealthy').
-aqi('Dubai', 2, 14, 191.6870389884089, 'Unhealthy').
+aqi('Los Angeles', 10, 19, 197.84172813487882, 'Unhealthy').
+aqi('Dubai', 2, 14, 191.68703898840886, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 24, 77.01260869565218, 'Moderate').
 aqi('Toronto', 8, 26, 84.73080808080809, 'Moderate').
 aqi('Mexico City', 4, 16, 169.536354056902, 'Unhealthy').
@@ -20634,44 +20634,44 @@ aqi('Toronto', 4, 18, 96.50901287553648, 'Moderate').
 aqi('London', 5, 12, 162.22507903055848, 'Unhealthy').
 aqi('Dubai', 9, 9, 101.5889898989899, 'Poor').
 aqi('Cairo', 9, 13, 178.09199157007376, 'Unhealthy').
-aqi('Berlin', 8, 16, 183.80263435194945, 'Unhealthy').
-aqi('Mumbai', 2, 25, 61.3, 'Moderate').
+aqi('Berlin', 8, 16, 183.80263435194942, 'Unhealthy').
+aqi('Mumbai', 2, 25, 61.300000000000004, 'Moderate').
 aqi('Istanbul', 10, 11, 158.4403582718651, 'Unhealthy').
 aqi('Paris', 8, 14, 184.30347734457325, 'Unhealthy').
-aqi('Cairo', 2, 20, 187.0400421496312, 'Unhealthy').
-aqi('Dubai', 1, 27, 118.21155778894472, 'Poor').
+aqi('Cairo', 2, 20, 187.04004214963118, 'Unhealthy').
+aqi('Dubai', 1, 27, 118.21155778894473, 'Poor').
 aqi('Cairo', 4, 14, 88.13347826086957, 'Moderate').
 aqi('Beijing', 6, 28, 99.2, 'Moderate').
 aqi('Dubai', 11, 21, 157.28377239199156, 'Unhealthy').
 aqi('Mexico City', 7, 20, 184.92307692307693, 'Unhealthy').
 aqi('Madrid', 5, 21, 111.36633165829146, 'Poor').
 aqi('Bangkok', 6, 12, 193.6336143308746, 'Unhealthy').
-aqi('Mexico City', 2, 5, 110.5291457286432, 'Poor').
+aqi('Mexico City', 2, 5, 110.52914572864321, 'Poor').
 aqi('Johannesburg', 8, 18, 168.74120126448895, 'Unhealthy').
 aqi('Berlin', 8, 14, 154.9086406743941, 'Unhealthy').
-aqi('Bangkok', 6, 14, 196.618018967334, 'Unhealthy').
+aqi('Bangkok', 6, 14, 196.61801896733402, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 19, 106.89979797979797, 'Poor').
-aqi('Seoul', 11, 26, 196.963962065332, 'Unhealthy').
+aqi('Seoul', 11, 26, 196.96396206533194, 'Unhealthy').
 aqi('Cairo', 4, 22, 176.68240252897786, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 22, 66.23949494949495, 'Moderate').
 aqi('Mumbai', 4, 7, 94.3080808080808, 'Moderate').
-aqi('Mexico City', 8, 23, 184.9179135932561, 'Unhealthy').
+aqi('Mexico City', 8, 23, 184.91791359325606, 'Unhealthy').
 aqi('Berlin', 8, 16, 167.4813487881981, 'Unhealthy').
 aqi('Madrid', 9, 25, 71.71858585858585, 'Moderate').
 aqi('Dubai', 9, 2, 139.535175879397, 'Poor').
 aqi('London', 1, 25, 162.76206533192834, 'Unhealthy').
 aqi('Mumbai', 10, 2, 171.7101159114858, 'Unhealthy').
-aqi('Bangkok', 2, 5, 195.63698630136983, 'Unhealthy').
+aqi('Bangkok', 2, 5, 195.63698630136986, 'Unhealthy').
 aqi('Seoul', 3, 12, 198.5336143308746, 'Unhealthy').
 aqi('Istanbul', 9, 22, 188.46512118018967, 'Unhealthy').
 aqi('Beijing', 10, 7, 195.9777660695469, 'Unhealthy').
 aqi('Mexico City', 4, 14, 194.2841938883035, 'Unhealthy').
 aqi('Istanbul', 3, 20, 171.87017913593257, 'Unhealthy').
 aqi('Tokyo', 3, 11, 145.7894472361809, 'Poor').
-aqi('Toronto', 9, 24, 154.7279241306639, 'Unhealthy').
+aqi('Toronto', 9, 24, 154.72792413066387, 'Unhealthy').
 aqi('Seoul', 7, 15, 186.4359325605901, 'Unhealthy').
 aqi('Tokyo', 10, 4, 161.7190727081138, 'Unhealthy').
-aqi('Toronto', 9, 13, 191.5321390937829, 'Unhealthy').
+aqi('Toronto', 9, 13, 191.53213909378292, 'Unhealthy').
 aqi('Paris', 2, 1, 191.39789251844047, 'Unhealthy').
 aqi('London', 2, 22, 196.9381454162276, 'Unhealthy').
 aqi('Paris', 9, 12, 109.38444444444444, 'Poor').
@@ -20680,7 +20680,7 @@ aqi('Bangkok', 10, 12, 164.29557428872496, 'Unhealthy').
 aqi('New York', 3, 3, 190.9331928345627, 'Unhealthy').
 aqi('Beijing', 7, 24, 82.6, 'Moderate').
 aqi('Seoul', 5, 6, 153.32349841938884, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 27, 175.80979978925183, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 27, 175.80979978925185, 'Unhealthy').
 aqi('Berlin', 5, 1, 173.3623814541623, 'Unhealthy').
 aqi('Dubai', 8, 28, 158.13572181243413, 'Unhealthy').
 aqi('Los Angeles', 7, 26, 176.1041095890411, 'Unhealthy').
@@ -20695,22 +20695,22 @@ aqi('Rio de Janeiro', 3, 19, 81.57303030303031, 'Moderate').
 aqi('Dubai', 5, 17, 191.150052687039, 'Unhealthy').
 aqi('Mexico City', 12, 11, 170.0526870389884, 'Unhealthy').
 aqi('Mumbai', 6, 15, 140.6678391959799, 'Poor').
-aqi('Rio de Janeiro', 6, 16, 113.58656565656564, 'Poor').
+aqi('Rio de Janeiro', 6, 16, 113.58656565656565, 'Poor').
 aqi('Johannesburg', 5, 10, 151.0567966280295, 'Unhealthy').
 aqi('Seoul', 7, 8, 184.59778714436248, 'Unhealthy').
 aqi('Istanbul', 6, 25, 177.83898840885143, 'Unhealthy').
 aqi('Berlin', 1, 27, 152.7503688092729, 'Unhealthy').
-aqi('Moscow', 4, 14, 118.60552763819096, 'Poor').
+aqi('Moscow', 4, 14, 118.60552763819095, 'Poor').
 aqi('Mexico City', 7, 6, 156.09620653319283, 'Unhealthy').
-aqi('New York', 10, 24, 181.63403582718647, 'Unhealthy').
+aqi('New York', 10, 24, 181.63403582718652, 'Unhealthy').
 aqi('Los Angeles', 4, 16, 199.63340358271864, 'Unhealthy').
 aqi('Mumbai', 4, 8, 127.17437185929649, 'Poor').
 aqi('Toronto', 6, 21, 107.47587939698494, 'Poor').
 aqi('Tokyo', 7, 22, 156.99462592202318, 'Unhealthy').
-aqi('New York', 10, 27, 123.60402010050252, 'Poor').
+aqi('New York', 10, 27, 123.60402010050251, 'Poor').
 aqi('Mexico City', 5, 27, 163.86701791359326, 'Unhealthy').
 aqi('Sydney', 6, 28, 179.9972602739726, 'Unhealthy').
-aqi('Los Angeles', 4, 8, 97.68363636363635, 'Moderate').
+aqi('Los Angeles', 4, 8, 97.68363636363637, 'Moderate').
 aqi('Istanbul', 12, 14, 64.75464646464647, 'Moderate').
 aqi('Seoul', 9, 20, 167.0786090621707, 'Unhealthy').
 aqi('Mumbai', 6, 7, 131.04020100502512, 'Poor').
@@ -20719,23 +20719,23 @@ aqi('Los Angeles', 8, 6, 151.50600632244468, 'Unhealthy').
 aqi('Cairo', 5, 11, 177.97323498419388, 'Unhealthy').
 aqi('Moscow', 9, 23, 163.8463645943098, 'Unhealthy').
 aqi('Seoul', 4, 7, 120.55545454545454, 'Poor').
-aqi('Paris', 11, 19, 197.4802950474184, 'Unhealthy').
+aqi('Paris', 11, 19, 197.48029504741834, 'Unhealthy').
 aqi('Madrid', 4, 21, 192.14141201264488, 'Unhealthy').
 aqi('Cairo', 10, 14, 193.7213909378293, 'Unhealthy').
 aqi('Beijing', 11, 28, 195.22391991570075, 'Unhealthy').
 aqi('New York', 12, 13, 89.3, 'Moderate').
 aqi('Toronto', 12, 3, 90.3472103004292, 'Moderate').
 aqi('Paris', 11, 24, 132.3206030150754, 'Poor').
-aqi('Sydney', 3, 20, 102.0938383838384, 'Poor').
+aqi('Sydney', 3, 20, 102.09383838383839, 'Poor').
 aqi('Toronto', 3, 21, 161.04783983140146, 'Unhealthy').
 aqi('Johannesburg', 11, 11, 191.13972602739727, 'Unhealthy').
 aqi('Madrid', 3, 20, 96.1, 'Moderate').
 aqi('Rio de Janeiro', 8, 17, 130.76934673366836, 'Poor').
-aqi('New York', 10, 13, 187.5047418335089, 'Unhealthy').
+aqi('New York', 10, 13, 187.50474183350894, 'Unhealthy').
 aqi('Dubai', 2, 10, 152.3940990516333, 'Unhealthy').
 aqi('Moscow', 3, 11, 181.30358271865123, 'Unhealthy').
 aqi('Paris', 1, 27, 181.40168598524764, 'Unhealthy').
-aqi('Paris', 7, 19, 101.989898989899, 'Poor').
+aqi('Paris', 7, 19, 101.98989898989899, 'Poor').
 aqi('Madrid', 7, 3, 176.48619599578504, 'Unhealthy').
 aqi('Madrid', 4, 8, 152.79167544783982, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 27, 156.85521601685986, 'Unhealthy').
@@ -20747,32 +20747,32 @@ aqi('Mumbai', 5, 19, 122.54522613065328, 'Poor').
 aqi('Berlin', 12, 17, 166.1905163329821, 'Unhealthy').
 aqi('Toronto', 11, 21, 188.490937829294, 'Unhealthy').
 aqi('Sydney', 10, 1, 196.2049525816649, 'Unhealthy').
-aqi('Berlin', 2, 1, 194.99157007376184, 'Unhealthy').
+aqi('Berlin', 2, 1, 194.99157007376186, 'Unhealthy').
 aqi('Istanbul', 5, 23, 153.013698630137, 'Unhealthy').
 aqi('Bangkok', 11, 15, 155.11517386722866, 'Unhealthy').
 aqi('Toronto', 6, 25, 90.32618025751074, 'Moderate').
 aqi('Berlin', 9, 10, 174.1885142255005, 'Unhealthy').
-aqi('Mumbai', 6, 17, 193.0966280295048, 'Unhealthy').
+aqi('Mumbai', 6, 17, 193.09662802950476, 'Unhealthy').
 aqi('New York', 12, 5, 108.10747474747475, 'Poor').
-aqi('Moscow', 5, 7, 93.9, 'Moderate').
+aqi('Moscow', 5, 7, 93.89999999999999, 'Moderate').
 aqi('Cairo', 2, 18, 80.79957081545065, 'Moderate').
 aqi('Tokyo', 4, 20, 195.78155953635405, 'Unhealthy').
 aqi('Madrid', 10, 16, 162.54520547945205, 'Unhealthy').
 aqi('Bangkok', 5, 7, 173.02160168598525, 'Unhealthy').
 aqi('Berlin', 1, 23, 99.82956521739132, 'Moderate').
 aqi('Johannesburg', 7, 9, 163.6295047418335, 'Unhealthy').
-aqi('Tokyo', 9, 25, 98.56195652173916, 'Moderate').
+aqi('Tokyo', 9, 25, 98.56195652173915, 'Moderate').
 aqi('Beijing', 10, 20, 160.1958904109589, 'Unhealthy').
-aqi('Paris', 1, 19, 124.51507537688444, 'Poor').
+aqi('Paris', 1, 19, 124.51507537688443, 'Poor').
 aqi('Mumbai', 2, 26, 173.3881981032666, 'Unhealthy').
 aqi('Seoul', 3, 19, 105.99849246231156, 'Poor').
-aqi('New York', 3, 22, 181.0402528977872, 'Unhealthy').
+aqi('New York', 3, 22, 181.04025289778716, 'Unhealthy').
 aqi('New York', 3, 2, 128.18391959798996, 'Poor').
-aqi('Los Angeles', 3, 27, 102.18275862068964, 'Poor').
+aqi('Los Angeles', 3, 27, 102.18275862068965, 'Poor').
 aqi('Beijing', 7, 11, 114.6160606060606, 'Poor').
 aqi('Cairo', 12, 4, 163.96512118018967, 'Unhealthy').
-aqi('London', 1, 25, 90.431330472103, 'Moderate').
-aqi('Cairo', 4, 10, 147.2422110552764, 'Poor').
+aqi('London', 1, 25, 90.43133047210301, 'Moderate').
+aqi('Cairo', 4, 10, 147.24221105527639, 'Poor').
 aqi('Paris', 6, 14, 189.3119072708114, 'Unhealthy').
 aqi('London', 12, 19, 79.7, 'Moderate').
 aqi('Mexico City', 12, 3, 164.78609062170707, 'Unhealthy').
@@ -20784,13 +20784,13 @@ aqi('Berlin', 3, 19, 178.04035827186513, 'Unhealthy').
 aqi('Dubai', 11, 27, 157.24762908324553, 'Unhealthy').
 aqi('Tokyo', 2, 4, 186.91612223393045, 'Unhealthy').
 aqi('Bangkok', 10, 17, 143.08090452261308, 'Poor').
-aqi('Berlin', 2, 10, 173.45532139093785, 'Unhealthy').
-aqi('Paris', 7, 23, 193.8401475237092, 'Unhealthy').
+aqi('Berlin', 2, 10, 173.45532139093783, 'Unhealthy').
+aqi('Paris', 7, 23, 193.84014752370916, 'Unhealthy').
 aqi('Tokyo', 5, 4, 156.22012644889358, 'Unhealthy').
 aqi('Toronto', 9, 21, 194.81601685985248, 'Unhealthy').
 aqi('Cairo', 5, 16, 177.56533192834564, 'Unhealthy').
-aqi('New York', 4, 18, 109.12562814070353, 'Poor').
-aqi('Cairo', 12, 25, 184.1434141201265, 'Unhealthy').
+aqi('New York', 4, 18, 109.12562814070351, 'Poor').
+aqi('Cairo', 12, 25, 184.14341412012647, 'Unhealthy').
 aqi('Johannesburg', 7, 22, 184.60295047418336, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 4, 169.75837723919915, 'Unhealthy').
 aqi('Mumbai', 6, 23, 78.85080808080808, 'Moderate').
@@ -20799,7 +20799,7 @@ aqi('Los Angeles', 12, 14, 192.35310853530032, 'Unhealthy').
 aqi('Paris', 7, 12, 169.6654373024236, 'Unhealthy').
 aqi('Paris', 1, 19, 178.13846153846154, 'Unhealthy').
 aqi('New York', 5, 14, 176.35194942044257, 'Unhealthy').
-aqi('Rio de Janeiro', 9, 27, 104.98894472361808, 'Poor').
+aqi('Rio de Janeiro', 9, 27, 104.98894472361809, 'Poor').
 aqi('Seoul', 7, 12, 108.2655172413793, 'Poor').
 aqi('Sydney', 9, 5, 188.79557428872496, 'Unhealthy').
 aqi('Beijing', 6, 8, 178.22107481559536, 'Unhealthy').
@@ -20824,23 +20824,23 @@ aqi('Rio de Janeiro', 6, 5, 184.0814541622761, 'Unhealthy').
 aqi('Bangkok', 10, 5, 183.9368809272919, 'Unhealthy').
 aqi('Mumbai', 9, 4, 132.0251256281407, 'Poor').
 aqi('New York', 4, 6, 195.40979978925185, 'Unhealthy').
-aqi('Mumbai', 4, 7, 194.418440463646, 'Unhealthy').
+aqi('Mumbai', 4, 7, 194.41844046364594, 'Unhealthy').
 aqi('Paris', 3, 21, 179.9559536354057, 'Unhealthy').
-aqi('Beijing', 2, 11, 117.96532663316584, 'Poor').
+aqi('Beijing', 2, 11, 117.96532663316583, 'Poor').
 aqi('Tokyo', 1, 8, 183.65289778714435, 'Unhealthy').
 aqi('Cairo', 6, 24, 144.06582914572866, 'Poor').
 aqi('Rio de Janeiro', 11, 22, 156.99978925184405, 'Unhealthy').
-aqi('Mumbai', 8, 4, 115.82311557788944, 'Poor').
+aqi('Mumbai', 8, 4, 115.82311557788945, 'Poor').
 aqi('Beijing', 1, 24, 85.6, 'Moderate').
 aqi('Istanbul', 9, 22, 152.6832455216017, 'Unhealthy').
 aqi('Los Angeles', 12, 13, 157.37671232876713, 'Unhealthy').
 aqi('Moscow', 11, 3, 184.6958904109589, 'Unhealthy').
-aqi('Istanbul', 12, 14, 194.0621707060064, 'Unhealthy').
+aqi('Istanbul', 12, 14, 194.06217070600633, 'Unhealthy').
 aqi('Moscow', 6, 17, 115.7049494949495, 'Poor').
 aqi('Sydney', 8, 26, 159.509167544784, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 10, 76.98484848484848, 'Moderate').
 aqi('Bangkok', 11, 2, 163.7740779768177, 'Unhealthy').
-aqi('Johannesburg', 12, 21, 118.5562814070352, 'Poor').
+aqi('Johannesburg', 12, 21, 118.55628140703519, 'Poor').
 aqi('Beijing', 7, 28, 103.61005025125628, 'Poor').
 aqi('Bangkok', 8, 11, 107.20502512562815, 'Poor').
 aqi('Los Angeles', 12, 25, 171.8340358271865, 'Unhealthy').
@@ -20861,7 +20861,7 @@ aqi('Tokyo', 5, 19, 165.61738672286617, 'Unhealthy').
 aqi('Beijing', 5, 13, 179.26923076923077, 'Unhealthy').
 aqi('Berlin', 10, 24, 104.2103448275862, 'Poor').
 aqi('Dubai', 10, 7, 147.36532663316584, 'Poor').
-aqi('Johannesburg', 6, 9, 94.23878787878787, 'Moderate').
+aqi('Johannesburg', 6, 9, 94.23878787878789, 'Moderate').
 aqi('Mexico City', 10, 11, 168.9735511064278, 'Unhealthy').
 aqi('Paris', 2, 17, 84.62891304347826, 'Moderate').
 aqi('Mexico City', 1, 1, 126.60804020100502, 'Poor').
@@ -20873,12 +20873,12 @@ aqi('Berlin', 12, 10, 192.6164383561644, 'Unhealthy').
 aqi('Istanbul', 1, 18, 129.16884422110553, 'Poor').
 aqi('Beijing', 12, 21, 132.88693467336685, 'Poor').
 aqi('Paris', 6, 24, 156.15300316122233, 'Unhealthy').
-aqi('Mexico City', 11, 9, 188.9762908324552, 'Unhealthy').
+aqi('Mexico City', 11, 9, 188.97629083245522, 'Unhealthy').
 aqi('Toronto', 3, 5, 147.7100502512563, 'Poor').
 aqi('Dubai', 7, 12, 185.64077976817703, 'Unhealthy').
 aqi('Madrid', 3, 12, 168.88577449947314, 'Unhealthy').
 aqi('Los Angeles', 5, 23, 178.6186512118019, 'Unhealthy').
-aqi('Bangkok', 9, 8, 181.0402528977872, 'Unhealthy').
+aqi('Bangkok', 9, 8, 181.04025289778716, 'Unhealthy').
 aqi('Dubai', 2, 5, 162.66912539515278, 'Unhealthy').
 aqi('Istanbul', 3, 3, 180.9473129610116, 'Unhealthy').
 aqi('New York', 5, 20, 116.06934673366834, 'Poor').
@@ -20890,12 +20890,12 @@ aqi('Berlin', 1, 22, 153.66944151738673, 'Unhealthy').
 aqi('Dubai', 9, 9, 123.92412060301508, 'Poor').
 aqi('Sydney', 4, 15, 176.08861959957852, 'Unhealthy').
 aqi('Madrid', 3, 22, 179.6926238145416, 'Unhealthy').
-aqi('Beijing', 3, 22, 192.1310853530032, 'Unhealthy').
+aqi('Beijing', 3, 22, 192.13108535300316, 'Unhealthy').
 aqi('Madrid', 7, 13, 99.53474747474748, 'Moderate').
 aqi('Bangkok', 3, 16, 124.93366834170854, 'Poor').
-aqi('Beijing', 2, 26, 121.22363636363636, 'Poor').
+aqi('Beijing', 2, 26, 121.22363636363637, 'Poor').
 aqi('Los Angeles', 12, 10, 176.32613277133825, 'Unhealthy').
-aqi('London', 9, 25, 181.6237091675448, 'Unhealthy').
+aqi('London', 9, 25, 181.62370916754477, 'Unhealthy').
 aqi('Johannesburg', 11, 11, 163.2990516332982, 'Unhealthy').
 aqi('Dubai', 6, 24, 164.1613277133825, 'Unhealthy').
 aqi('Paris', 10, 17, 175.9440463645943, 'Unhealthy').
@@ -20905,9 +20905,9 @@ aqi('Madrid', 7, 27, 182.0677555321391, 'Unhealthy').
 aqi('Toronto', 8, 28, 182.26396206533192, 'Unhealthy').
 aqi('Berlin', 1, 13, 81.1, 'Moderate').
 aqi('Sydney', 7, 28, 156.58155953635406, 'Unhealthy').
-aqi('London', 11, 2, 122.42211055276384, 'Poor').
+aqi('London', 11, 2, 122.42211055276383, 'Poor').
 aqi('New York', 2, 8, 96.68717391304348, 'Moderate').
-aqi('Mexico City', 2, 24, 99.37152173913044, 'Moderate').
+aqi('Mexico City', 2, 24, 99.37152173913043, 'Moderate').
 aqi('Dubai', 3, 25, 162.61749209694415, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 19, 192.5596417281349, 'Unhealthy').
 aqi('Johannesburg', 1, 21, 179.08335089567967, 'Unhealthy').
@@ -20921,7 +20921,7 @@ aqi('Los Angeles', 2, 8, 179.0059009483667, 'Unhealthy').
 aqi('Madrid', 1, 6, 111.6810101010101, 'Poor').
 aqi('Rio de Janeiro', 10, 14, 161.92560590094837, 'Unhealthy').
 aqi('Los Angeles', 1, 17, 168.33329820864066, 'Unhealthy').
-aqi('Bangkok', 7, 2, 126.28793969849248, 'Poor').
+aqi('Bangkok', 7, 2, 126.28793969849247, 'Poor').
 aqi('Berlin', 5, 9, 88.6227467811159, 'Moderate').
 aqi('Seoul', 1, 17, 135.57085427135678, 'Poor').
 aqi('Toronto', 7, 14, 159.395574288725, 'Unhealthy').
@@ -20931,7 +20931,7 @@ aqi('Toronto', 3, 14, 170.88914646996838, 'Unhealthy').
 aqi('Toronto', 1, 20, 171.890832455216, 'Unhealthy').
 aqi('Tokyo', 2, 11, 128.62713567839197, 'Poor').
 aqi('Seoul', 10, 13, 156.22528977871443, 'Unhealthy').
-aqi('Toronto', 1, 9, 180.7201264488936, 'Unhealthy').
+aqi('Toronto', 1, 9, 180.72012644889358, 'Unhealthy').
 aqi('New York', 11, 25, 179.56870389884088, 'Unhealthy').
 aqi('Sydney', 8, 7, 171.8805057955743, 'Unhealthy').
 aqi('Cairo', 6, 16, 79.7120202020202, 'Moderate').
@@ -20942,7 +20942,7 @@ aqi('Los Angeles', 9, 2, 96.7, 'Moderate').
 aqi('Sydney', 12, 4, 192.99336143308747, 'Unhealthy').
 aqi('Dubai', 7, 12, 188.78524762908324, 'Unhealthy').
 aqi('Cairo', 8, 3, 168.13709167544783, 'Unhealthy').
-aqi('Mexico City', 4, 15, 195.8693361433088, 'Unhealthy').
+aqi('Mexico City', 4, 15, 195.86933614330874, 'Unhealthy').
 aqi('Paris', 1, 28, 180.2605900948367, 'Unhealthy').
 aqi('Moscow', 3, 17, 146.65125628140703, 'Poor').
 aqi('Mumbai', 5, 18, 159.74151738672288, 'Unhealthy').
@@ -20950,22 +20950,22 @@ aqi('Paris', 3, 19, 190.11222339304533, 'Unhealthy').
 aqi('Madrid', 11, 14, 83.69999999999999, 'Moderate').
 aqi('Bangkok', 10, 20, 162.95310853530032, 'Unhealthy').
 aqi('Los Angeles', 2, 21, 115.478391959799, 'Poor').
-aqi('New York', 11, 25, 187.86101159114853, 'Unhealthy').
+aqi('New York', 11, 25, 187.86101159114858, 'Unhealthy').
 aqi('Istanbul', 1, 20, 182.5118018967334, 'Unhealthy').
 aqi('Istanbul', 9, 21, 62.62961373390558, 'Moderate').
 aqi('Toronto', 9, 1, 110.1105527638191, 'Poor').
 aqi('Sydney', 1, 7, 189.17249736564804, 'Unhealthy').
-aqi('Berlin', 6, 8, 99.46545454545456, 'Moderate').
+aqi('Berlin', 6, 8, 99.46545454545455, 'Moderate').
 aqi('Tokyo', 11, 21, 172.31422550052687, 'Unhealthy').
 aqi('Toronto', 10, 26, 118.23414141414142, 'Poor').
 aqi('Los Angeles', 10, 28, 166.68619599578503, 'Unhealthy').
 aqi('Johannesburg', 3, 9, 128.87336683417087, 'Poor').
 aqi('Sydney', 4, 7, 181.74246575342465, 'Unhealthy').
 aqi('Istanbul', 6, 16, 168.3900948366702, 'Unhealthy').
-aqi('New York', 9, 23, 121.12959595959596, 'Poor').
-aqi('Dubai', 4, 12, 93.45965665236052, 'Moderate').
+aqi('New York', 9, 23, 121.12959595959595, 'Poor').
+aqi('Dubai', 4, 12, 93.45965665236051, 'Moderate').
 aqi('Mumbai', 1, 25, 130.6462311557789, 'Poor').
-aqi('Madrid', 6, 23, 102.0839393939394, 'Poor').
+aqi('Madrid', 6, 23, 102.08393939393939, 'Poor').
 aqi('Beijing', 7, 23, 188.28440463645944, 'Unhealthy').
 aqi('New York', 9, 12, 181.55658587987355, 'Unhealthy').
 aqi('Tokyo', 3, 20, 168.359114857745, 'Unhealthy').
@@ -20993,27 +20993,27 @@ aqi('London', 11, 9, 172.081875658588, 'Unhealthy').
 aqi('Paris', 6, 16, 156.92750263435195, 'Unhealthy').
 aqi('Madrid', 1, 20, 118.37272727272727, 'Poor').
 aqi('Madrid', 3, 11, 159.03930453108535, 'Unhealthy').
-aqi('Seoul', 6, 12, 124.76130653266333, 'Poor').
+aqi('Seoul', 6, 12, 124.76130653266331, 'Poor').
 aqi('Bangkok', 11, 26, 152.77618545837723, 'Unhealthy').
 aqi('Sydney', 2, 16, 187.9436248682824, 'Unhealthy').
 aqi('Mexico City', 9, 11, 177.40010537407798, 'Unhealthy').
-aqi('Berlin', 7, 1, 194.1447839831401, 'Unhealthy').
+aqi('Berlin', 7, 1, 194.14478398314014, 'Unhealthy').
 aqi('Paris', 2, 19, 85.19484978540773, 'Moderate').
 aqi('London', 11, 16, 179.51190727081138, 'Unhealthy').
 aqi('Madrid', 1, 25, 155.71928345626975, 'Unhealthy').
 aqi('Los Angeles', 6, 19, 121.3140703517588, 'Poor').
 aqi('Mexico City', 9, 23, 161.06332982086406, 'Unhealthy').
-aqi('Istanbul', 2, 12, 195.6886195995785, 'Unhealthy').
+aqi('Istanbul', 2, 12, 195.68861959957852, 'Unhealthy').
 aqi('London', 1, 9, 127.8391959798995, 'Poor').
 aqi('Tokyo', 11, 21, 179.23308746048474, 'Unhealthy').
 aqi('London', 7, 7, 159.20969441517389, 'Unhealthy').
 aqi('Seoul', 8, 7, 118.42717171717172, 'Poor').
-aqi('Cairo', 3, 22, 193.9021074815596, 'Unhealthy').
-aqi('Berlin', 4, 24, 105.82080808080808, 'Poor').
+aqi('Cairo', 3, 22, 193.90210748155954, 'Unhealthy').
+aqi('Berlin', 4, 24, 105.82080808080809, 'Poor').
 aqi('Beijing', 11, 6, 149.40904522613064, 'Poor').
 aqi('Toronto', 8, 18, 163.2577449947313, 'Unhealthy').
-aqi('Tokyo', 2, 4, 187.60800842992623, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 16, 193.809167544784, 'Unhealthy').
+aqi('Tokyo', 2, 4, 187.60800842992626, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 16, 193.80916754478397, 'Unhealthy').
 aqi('Seoul', 1, 14, 110.08232323232323, 'Poor').
 aqi('Tokyo', 12, 24, 192.47702845100105, 'Unhealthy').
 aqi('London', 7, 14, 98.9274678111588, 'Moderate').
@@ -21021,7 +21021,7 @@ aqi('Moscow', 3, 25, 93.24935622317597, 'Moderate').
 aqi('Moscow', 11, 8, 81.4725321888412, 'Moderate').
 aqi('Dubai', 1, 7, 155.38883034773446, 'Unhealthy').
 aqi('Tokyo', 3, 8, 149.0889447236181, 'Poor').
-aqi('Dubai', 1, 22, 91.93232323232324, 'Moderate').
+aqi('Dubai', 1, 22, 91.93232323232323, 'Moderate').
 aqi('Cairo', 3, 9, 69.1349494949495, 'Moderate').
 aqi('Mumbai', 12, 26, 76.235, 'Moderate').
 aqi('Mexico City', 12, 28, 127.05125628140703, 'Poor').
@@ -21040,13 +21040,13 @@ aqi('Sydney', 9, 26, 184.86111696522656, 'Unhealthy').
 aqi('New York', 3, 16, 74.85161616161616, 'Moderate').
 aqi('Paris', 4, 6, 189.3790305584826, 'Unhealthy').
 aqi('Sydney', 7, 6, 128.72562814070352, 'Poor').
-aqi('London', 10, 18, 113.6070351758794, 'Poor').
+aqi('London', 10, 18, 113.60703517587939, 'Poor').
 aqi('Madrid', 10, 18, 174.29694415173867, 'Unhealthy').
 aqi('Mexico City', 10, 8, 167.54847207586934, 'Unhealthy').
 aqi('Beijing', 1, 28, 136.11256281407034, 'Poor').
-aqi('Mumbai', 4, 8, 97.22333333333331, 'Moderate').
+aqi('Mumbai', 4, 8, 97.22333333333333, 'Moderate').
 aqi('Sydney', 5, 28, 113.04070351758794, 'Poor').
-aqi('Istanbul', 7, 19, 192.4357218124341, 'Unhealthy').
+aqi('Istanbul', 7, 19, 192.43572181243414, 'Unhealthy').
 aqi('Beijing', 10, 11, 195.8331928345627, 'Unhealthy').
 aqi('Seoul', 6, 25, 128.2824120603015, 'Poor').
 aqi('Tokyo', 10, 2, 183.76649104320336, 'Unhealthy').
@@ -21063,7 +21063,7 @@ aqi('Paris', 8, 27, 172.99062170706006, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 11, 112.50262626262626, 'Poor').
 aqi('Paris', 4, 20, 157.45932560590094, 'Unhealthy').
 aqi('Los Angeles', 8, 21, 110.03777777777778, 'Poor').
-aqi('Mumbai', 1, 10, 198.9983140147524, 'Unhealthy').
+aqi('Mumbai', 1, 10, 198.99831401475237, 'Unhealthy').
 aqi('Madrid', 5, 2, 160.0255005268704, 'Unhealthy').
 aqi('Los Angeles', 10, 1, 173.52244467860908, 'Unhealthy').
 aqi('Seoul', 12, 25, 176.77017913593255, 'Unhealthy').
@@ -21074,24 +21074,24 @@ aqi('Los Angeles', 10, 20, 157.13919915700737, 'Unhealthy').
 aqi('Moscow', 8, 14, 177.65827186512118, 'Unhealthy').
 aqi('Dubai', 8, 28, 190.3290832455216, 'Unhealthy').
 aqi('New York', 7, 3, 74.15373737373737, 'Moderate').
-aqi('Los Angeles', 11, 11, 184.5306638566913, 'Unhealthy').
+aqi('Los Angeles', 11, 11, 184.53066385669126, 'Unhealthy').
 aqi('Toronto', 1, 23, 129.735175879397, 'Poor').
 aqi('New York', 3, 25, 168.29199157007375, 'Unhealthy').
 aqi('Beijing', 5, 1, 84.20616161616162, 'Moderate').
 aqi('Seoul', 5, 9, 173.6205479452055, 'Unhealthy').
-aqi('Sydney', 12, 9, 188.2379346680717, 'Unhealthy').
+aqi('Sydney', 12, 9, 188.23793466807166, 'Unhealthy').
 aqi('Seoul', 12, 12, 185.73888303477344, 'Unhealthy').
 aqi('Madrid', 4, 19, 168.6430979978925, 'Unhealthy').
 aqi('Paris', 6, 20, 159.4059009483667, 'Unhealthy').
-aqi('Dubai', 9, 12, 113.68555555555557, 'Poor').
+aqi('Dubai', 9, 12, 113.68555555555555, 'Poor').
 aqi('London', 11, 17, 190.90221285563752, 'Unhealthy').
-aqi('New York', 1, 4, 198.5594309799789, 'Unhealthy').
+aqi('New York', 1, 4, 198.55943097997894, 'Unhealthy').
 aqi('Tokyo', 6, 16, 170.98208640674395, 'Unhealthy').
 aqi('Sydney', 7, 2, 183.590937829294, 'Unhealthy').
 aqi('New York', 1, 7, 186.6063224446786, 'Unhealthy').
 aqi('Tokyo', 7, 14, 163.09251844046364, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 1, 102.52663316582914, 'Poor').
-aqi('Mumbai', 12, 21, 190.9693361433088, 'Unhealthy').
+aqi('Mumbai', 12, 21, 190.96933614330874, 'Unhealthy').
 aqi('Los Angeles', 1, 23, 92.42727272727272, 'Moderate').
 aqi('Rio de Janeiro', 7, 7, 179.70295047418335, 'Unhealthy').
 aqi('Berlin', 1, 14, 190.42202318229715, 'Unhealthy').
@@ -21107,31 +21107,31 @@ aqi('Istanbul', 3, 22, 168.40558482613278, 'Unhealthy').
 aqi('London', 6, 13, 161.78619599578505, 'Unhealthy').
 aqi('Bangkok', 10, 18, 159.33877766069548, 'Unhealthy').
 aqi('Johannesburg', 6, 17, 86.35150214592275, 'Moderate').
-aqi('Rio de Janeiro', 7, 10, 109.66733668341708, 'Poor').
+aqi('Rio de Janeiro', 7, 10, 109.66733668341709, 'Poor').
 aqi('Mumbai', 1, 14, 125.30301507537688, 'Poor').
 aqi('Madrid', 5, 15, 171.5758693361433, 'Unhealthy').
 aqi('Istanbul', 11, 17, 108.06683417085426, 'Poor').
 aqi('Seoul', 8, 17, 88.8339393939394, 'Moderate').
-aqi('Istanbul', 11, 1, 90.30888888888887, 'Moderate').
+aqi('Istanbul', 11, 1, 90.30888888888889, 'Moderate').
 aqi('Moscow', 2, 23, 196.75742887249737, 'Unhealthy').
 aqi('Toronto', 3, 15, 119.89717171717172, 'Poor').
-aqi('Madrid', 2, 26, 98.3, 'Moderate').
+aqi('Madrid', 2, 26, 98.30000000000001, 'Moderate').
 aqi('Istanbul', 4, 17, 146.72512562814072, 'Poor').
 aqi('Bangkok', 3, 14, 190.4426765015806, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 5, 94.868669527897, 'Moderate').
 aqi('Los Angeles', 7, 28, 106.1462311557789, 'Poor').
-aqi('Mexico City', 3, 4, 192.0381454162276, 'Unhealthy').
+aqi('Mexico City', 3, 4, 192.03814541622762, 'Unhealthy').
 aqi('Mumbai', 1, 10, 153.43192834562697, 'Unhealthy').
 aqi('Beijing', 4, 26, 193.6232876712329, 'Unhealthy').
 aqi('Cairo', 8, 20, 111.39095477386934, 'Poor').
-aqi('Dubai', 10, 25, 98.64717391304347, 'Moderate').
+aqi('Dubai', 10, 25, 98.64717391304349, 'Moderate').
 aqi('Cairo', 2, 1, 199.41138040042148, 'Unhealthy').
 aqi('Istanbul', 2, 1, 93.4, 'Moderate').
 aqi('Johannesburg', 2, 7, 192.0536354056902, 'Unhealthy').
 aqi('Mumbai', 12, 6, 157.26828240252897, 'Unhealthy').
 aqi('Paris', 5, 2, 167.36259220231824, 'Unhealthy').
 aqi('Beijing', 9, 18, 167.63624868282403, 'Unhealthy').
-aqi('Beijing', 7, 22, 116.1924623115578, 'Poor').
+aqi('Beijing', 7, 22, 116.19246231155779, 'Poor').
 aqi('Johannesburg', 12, 12, 109.3250505050505, 'Poor').
 aqi('Mumbai', 1, 24, 91.6650505050505, 'Moderate').
 aqi('Beijing', 12, 24, 156.545416227608, 'Unhealthy').
@@ -21139,14 +21139,14 @@ aqi('Seoul', 1, 3, 103.5344827586207, 'Poor').
 aqi('London', 10, 9, 157.44383561643835, 'Unhealthy').
 aqi('Dubai', 10, 15, 173.12486828240253, 'Unhealthy').
 aqi('Madrid', 11, 16, 191.0312961011591, 'Unhealthy').
-aqi('Sydney', 1, 9, 195.37881981032663, 'Unhealthy').
+aqi('Sydney', 1, 9, 195.37881981032666, 'Unhealthy').
 aqi('Bangkok', 5, 9, 169.6241306638567, 'Unhealthy').
 aqi('Cairo', 6, 20, 112.59171717171716, 'Poor').
-aqi('Seoul', 11, 10, 191.05194942044253, 'Unhealthy').
+aqi('Seoul', 11, 10, 191.05194942044255, 'Unhealthy').
 aqi('Tokyo', 8, 11, 176.41907270811382, 'Unhealthy').
 aqi('Mumbai', 6, 9, 194.0260273972603, 'Unhealthy').
 aqi('Cairo', 10, 7, 190.7214963119073, 'Unhealthy').
-aqi('New York', 2, 21, 90.6, 'Moderate').
+aqi('New York', 2, 21, 90.60000000000001, 'Moderate').
 aqi('Rio de Janeiro', 3, 11, 88.29326086956522, 'Moderate').
 aqi('New York', 5, 10, 192.3427818756586, 'Unhealthy').
 aqi('Johannesburg', 7, 21, 120.13969696969696, 'Poor').
@@ -21157,8 +21157,8 @@ aqi('Mexico City', 9, 3, 138.5502512562814, 'Poor').
 aqi('Istanbul', 7, 21, 183.12107481559536, 'Unhealthy').
 aqi('Mexico City', 8, 25, 151.19620653319285, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 4, 170.82718651211803, 'Unhealthy').
-aqi('Moscow', 4, 8, 191.3565858798736, 'Unhealthy').
-aqi('Toronto', 11, 23, 102.81151515151517, 'Poor').
+aqi('Moscow', 4, 8, 191.35658587987353, 'Unhealthy').
+aqi('Toronto', 11, 23, 102.81151515151515, 'Poor').
 aqi('Mumbai', 12, 2, 158.56427818756586, 'Unhealthy').
 aqi('Istanbul', 1, 2, 117.31848484848484, 'Poor').
 aqi('Madrid', 7, 20, 153.15827186512118, 'Unhealthy').
@@ -21169,7 +21169,7 @@ aqi('Sydney', 3, 1, 197.63519494204425, 'Unhealthy').
 aqi('Berlin', 8, 6, 165.34373024236038, 'Unhealthy').
 aqi('Mexico City', 4, 14, 177.73055848261328, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 27, 153.40094836670178, 'Unhealthy').
-aqi('Toronto', 8, 22, 125.0075376884422, 'Poor').
+aqi('Toronto', 8, 22, 125.00753768844221, 'Poor').
 aqi('Rio de Janeiro', 7, 21, 197.30474183350896, 'Unhealthy').
 aqi('Berlin', 2, 19, 192.00716543730243, 'Unhealthy').
 aqi('London', 9, 11, 162.07017913593256, 'Unhealthy').
@@ -21178,14 +21178,14 @@ aqi('New York', 6, 4, 173.14035827186513, 'Unhealthy').
 aqi('Mexico City', 1, 28, 81.57768240343349, 'Moderate').
 aqi('Moscow', 9, 16, 65.56141414141415, 'Moderate').
 aqi('New York', 1, 25, 176.58946259220232, 'Unhealthy').
-aqi('Madrid', 10, 25, 101.41859296482411, 'Poor').
+aqi('Madrid', 10, 25, 101.41859296482413, 'Poor').
 aqi('Seoul', 8, 19, 154.42328767123288, 'Unhealthy').
 aqi('Dubai', 7, 17, 94.23776824034334, 'Moderate').
 aqi('Johannesburg', 9, 6, 153.0963119072708, 'Unhealthy').
 aqi('Toronto', 5, 24, 166.6603793466807, 'Unhealthy').
 aqi('Johannesburg', 2, 27, 180.6891464699684, 'Unhealthy').
 aqi('Dubai', 8, 14, 111.15141414141414, 'Poor').
-aqi('New York', 6, 20, 120.32914572864324, 'Poor').
+aqi('New York', 6, 20, 120.32914572864323, 'Poor').
 aqi('Seoul', 11, 27, 124.8105527638191, 'Poor').
 aqi('Los Angeles', 3, 13, 190.65437302423604, 'Unhealthy').
 aqi('New York', 8, 27, 113.5469696969697, 'Poor').
@@ -21195,7 +21195,7 @@ aqi('Los Angeles', 11, 16, 107.6669696969697, 'Poor').
 aqi('Beijing', 7, 5, 156.2717597471022, 'Unhealthy').
 aqi('Dubai', 5, 18, 162.03919915700737, 'Unhealthy').
 aqi('Tokyo', 5, 7, 187.540885142255, 'Unhealthy').
-aqi('Tokyo', 9, 23, 90.26391304347824, 'Moderate').
+aqi('Tokyo', 9, 23, 90.26391304347825, 'Moderate').
 aqi('Los Angeles', 4, 15, 74.03989898989899, 'Moderate').
 aqi('Istanbul', 5, 15, 170.4967334035827, 'Unhealthy').
 aqi('Berlin', 3, 22, 153.35964172813487, 'Unhealthy').
@@ -21203,8 +21203,8 @@ aqi('New York', 1, 9, 153.97924130663856, 'Unhealthy').
 aqi('London', 4, 12, 183.2914646996839, 'Unhealthy').
 aqi('Johannesburg', 5, 3, 198.3322444678609, 'Unhealthy').
 aqi('Cairo', 1, 13, 126.65728643216082, 'Poor').
-aqi('Cairo', 2, 18, 103.87241379310343, 'Poor').
-aqi('Istanbul', 8, 12, 106.39, 'Poor').
+aqi('Cairo', 2, 18, 103.87241379310345, 'Poor').
+aqi('Istanbul', 8, 12, 106.38999999999999, 'Poor').
 aqi('Istanbul', 10, 16, 166.2163329820864, 'Unhealthy').
 aqi('Seoul', 3, 4, 91.1, 'Moderate').
 aqi('Istanbul', 6, 11, 169.78935721812434, 'Unhealthy').
@@ -21221,20 +21221,20 @@ aqi('Mumbai', 10, 10, 182.96617492096945, 'Unhealthy').
 aqi('Toronto', 1, 8, 180.6581664910432, 'Unhealthy').
 aqi('London', 7, 11, 125.5246231155779, 'Poor').
 aqi('New York', 7, 16, 68.9, 'Moderate').
-aqi('Mexico City', 11, 22, 192.28082191780825, 'Unhealthy').
+aqi('Mexico City', 11, 22, 192.28082191780823, 'Unhealthy').
 aqi('London', 9, 27, 153.23055848261328, 'Unhealthy').
 aqi('Tokyo', 7, 2, 80.75636363636364, 'Moderate').
 aqi('Seoul', 3, 27, 55.94206008583691, 'Moderate').
 aqi('Berlin', 7, 19, 134.7829145728643, 'Poor').
 aqi('Bangkok', 6, 2, 176.563645943098, 'Unhealthy').
-aqi('Toronto', 8, 28, 118.8280808080808, 'Poor').
+aqi('Toronto', 8, 28, 118.82808080808081, 'Poor').
 aqi('Sydney', 3, 27, 147.73467336683416, 'Poor').
 aqi('Toronto', 8, 1, 188.2276080084299, 'Unhealthy').
 aqi('Berlin', 12, 7, 130.59698492462311, 'Poor').
 aqi('Mumbai', 5, 23, 196.78324552160169, 'Unhealthy').
 aqi('Dubai', 1, 11, 163.20611169652267, 'Unhealthy').
 aqi('Cairo', 1, 3, 157.17534246575343, 'Unhealthy').
-aqi('Beijing', 2, 11, 188.2224446786091, 'Unhealthy').
+aqi('Beijing', 2, 11, 188.22244467860907, 'Unhealthy').
 aqi('Paris', 4, 19, 161.47123287671232, 'Unhealthy').
 aqi('Madrid', 2, 16, 163.8463645943098, 'Unhealthy').
 aqi('Cairo', 12, 5, 183.5496311907271, 'Unhealthy').
@@ -21244,24 +21244,24 @@ aqi('Mexico City', 5, 10, 194.68177028451, 'Unhealthy').
 aqi('Tokyo', 4, 12, 169.7841938883035, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 7, 90.50891304347826, 'Moderate').
 aqi('Bangkok', 6, 13, 195.7195995785037, 'Unhealthy').
-aqi('Seoul', 6, 14, 119.12261306532665, 'Poor').
+aqi('Seoul', 6, 14, 119.12261306532663, 'Poor').
 aqi('Istanbul', 7, 22, 194.7695468914647, 'Unhealthy').
-aqi('Paris', 3, 2, 157.94984193888305, 'Unhealthy').
+aqi('Paris', 3, 2, 157.94984193888303, 'Unhealthy').
 aqi('London', 5, 5, 179.80105374077976, 'Unhealthy').
 aqi('Johannesburg', 6, 7, 155.86385669125394, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 24, 114.56733668341708, 'Poor').
 aqi('Dubai', 12, 27, 67.44549356223177, 'Moderate').
 aqi('London', 9, 28, 175.1850368809273, 'Unhealthy').
-aqi('Mumbai', 6, 28, 183.9575342465753, 'Unhealthy').
+aqi('Mumbai', 6, 28, 183.95753424657534, 'Unhealthy').
 aqi('New York', 10, 7, 88.74892703862662, 'Moderate').
 aqi('Berlin', 6, 16, 191.89873551106427, 'Unhealthy').
-aqi('London', 6, 21, 198.92086406743945, 'Unhealthy').
+aqi('London', 6, 21, 198.92086406743942, 'Unhealthy').
 aqi('Cairo', 10, 7, 160.3094836670179, 'Unhealthy').
-aqi('Moscow', 11, 3, 182.4601685985248, 'Unhealthy').
+aqi('Moscow', 11, 3, 182.46016859852477, 'Unhealthy').
 aqi('Bangkok', 5, 3, 168.90126448893574, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 24, 179.36217070600634, 'Unhealthy').
 aqi('Bangkok', 5, 23, 174.25563751317176, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 5, 188.718124341412, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 5, 188.71812434141202, 'Unhealthy').
 aqi('Johannesburg', 6, 25, 123.13618090452262, 'Poor').
 aqi('Istanbul', 9, 16, 198.03793466807167, 'Unhealthy').
 aqi('Berlin', 4, 24, 161.7448893572181, 'Unhealthy').
@@ -21270,26 +21270,26 @@ aqi('Beijing', 3, 2, 170.6, 'Unhealthy').
 aqi('Cairo', 1, 7, 169.34531085353004, 'Unhealthy').
 aqi('Mumbai', 8, 10, 195.55437302423604, 'Unhealthy').
 aqi('Berlin', 9, 24, 154.3458377239199, 'Unhealthy').
-aqi('Moscow', 11, 23, 188.873024236038, 'Unhealthy').
+aqi('Moscow', 11, 23, 188.87302423603793, 'Unhealthy').
 aqi('Bangkok', 1, 3, 77.9450505050505, 'Moderate').
 aqi('Beijing', 12, 17, 181.62887249736565, 'Unhealthy').
 aqi('Mumbai', 5, 5, 85.42618025751074, 'Moderate').
 aqi('Paris', 8, 15, 86.3, 'Moderate').
-aqi('London', 4, 25, 187.618335089568, 'Unhealthy').
+aqi('London', 4, 25, 187.61833508956798, 'Unhealthy').
 aqi('Madrid', 2, 17, 191.2791359325606, 'Unhealthy').
 aqi('Paris', 5, 26, 106.54343434343434, 'Poor').
 aqi('Bangkok', 2, 19, 156.5041095890411, 'Unhealthy').
 aqi('London', 4, 27, 160.77418335089567, 'Unhealthy').
-aqi('Tokyo', 1, 16, 102.70262626262628, 'Poor').
-aqi('Toronto', 4, 19, 96.92636363636365, 'Moderate').
+aqi('Tokyo', 1, 16, 102.70262626262627, 'Poor').
+aqi('Toronto', 4, 19, 96.92636363636363, 'Moderate').
 aqi('Berlin', 6, 26, 193.0191780821918, 'Unhealthy').
 aqi('Beijing', 4, 13, 178.05068493150685, 'Unhealthy').
 aqi('Sydney', 2, 7, 169.43825079030557, 'Unhealthy').
 aqi('Berlin', 8, 16, 157.97565858798737, 'Unhealthy').
-aqi('Mumbai', 2, 17, 91.5038626609442, 'Moderate').
+aqi('Mumbai', 2, 17, 91.50386266094421, 'Moderate').
 aqi('Toronto', 1, 24, 166.09241306638566, 'Unhealthy').
 aqi('Paris', 2, 3, 151.4027397260274, 'Unhealthy').
-aqi('Moscow', 11, 21, 99.41115879828324, 'Moderate').
+aqi('Moscow', 11, 21, 99.41115879828325, 'Moderate').
 aqi('Paris', 3, 18, 191.64573234984195, 'Unhealthy').
 aqi('Mexico City', 1, 5, 163.8153846153846, 'Unhealthy').
 aqi('Cairo', 6, 20, 88.08656565656565, 'Moderate').
@@ -21302,11 +21302,11 @@ aqi('Los Angeles', 7, 23, 170.63097997892518, 'Unhealthy').
 aqi('Dubai', 3, 9, 167.59494204425712, 'Unhealthy').
 aqi('Los Angeles', 9, 1, 155.8432033719705, 'Unhealthy').
 aqi('London', 1, 19, 196.0810326659642, 'Unhealthy').
-aqi('Dubai', 12, 8, 90.81782608695652, 'Moderate').
+aqi('Dubai', 12, 8, 90.81782608695653, 'Moderate').
 aqi('New York', 1, 17, 184.009167544784, 'Unhealthy').
-aqi('Cairo', 10, 6, 169.29884088514223, 'Unhealthy').
-aqi('Dubai', 5, 18, 104.42261306532664, 'Poor').
-aqi('Madrid', 9, 2, 126.23869346733667, 'Poor').
+aqi('Cairo', 10, 6, 169.29884088514225, 'Unhealthy').
+aqi('Dubai', 5, 18, 104.42261306532663, 'Poor').
+aqi('Madrid', 9, 2, 126.23869346733669, 'Poor').
 aqi('Mexico City', 6, 24, 110.84949494949495, 'Poor').
 aqi('Beijing', 9, 6, 146.35577889447237, 'Poor').
 aqi('Seoul', 3, 8, 161.99789251844047, 'Unhealthy').
@@ -21315,27 +21315,27 @@ aqi('Madrid', 7, 2, 170.79620653319284, 'Unhealthy').
 aqi('Madrid', 1, 2, 170.1146469968388, 'Unhealthy').
 aqi('Beijing', 7, 24, 199.240990516333, 'Unhealthy').
 aqi('Tokyo', 12, 14, 176.84762908324552, 'Unhealthy').
-aqi('Los Angeles', 9, 28, 126.8788944723618, 'Poor').
-aqi('Madrid', 1, 6, 117.64522613065328, 'Poor').
-aqi('Mumbai', 12, 20, 92.8578787878788, 'Moderate').
+aqi('Los Angeles', 9, 28, 126.87889447236181, 'Poor').
+aqi('Madrid', 1, 6, 117.64522613065327, 'Poor').
+aqi('Mumbai', 12, 20, 92.85787878787879, 'Moderate').
 aqi('Bangkok', 9, 9, 166.8049525816649, 'Unhealthy').
-aqi('Madrid', 12, 25, 90.48760869565216, 'Moderate').
-aqi('Istanbul', 8, 14, 119.88727272727272, 'Poor').
-aqi('Dubai', 10, 26, 194.6662802950474, 'Unhealthy').
+aqi('Madrid', 12, 25, 90.48760869565217, 'Moderate').
+aqi('Istanbul', 8, 14, 119.88727272727273, 'Poor').
+aqi('Dubai', 10, 26, 194.66628029504741, 'Unhealthy').
 aqi('Berlin', 7, 14, 195.23424657534247, 'Unhealthy').
 aqi('Seoul', 6, 27, 163.66564805057956, 'Unhealthy').
 aqi('Johannesburg', 4, 20, 174.43119072708114, 'Unhealthy').
 aqi('Dubai', 6, 7, 103.88060606060606, 'Poor').
-aqi('Paris', 10, 23, 103.16683417085429, 'Poor').
-aqi('Paris', 5, 1, 107.35276381909549, 'Poor').
+aqi('Paris', 10, 23, 103.16683417085427, 'Poor').
+aqi('Paris', 5, 1, 107.35276381909547, 'Poor').
 aqi('Istanbul', 1, 8, 186.41527924130665, 'Unhealthy').
 aqi('Cairo', 6, 11, 174.03877766069547, 'Unhealthy').
 aqi('Cairo', 6, 23, 82.97373737373738, 'Moderate').
 aqi('Rio de Janeiro', 2, 22, 169.72223393045311, 'Unhealthy').
 aqi('Beijing', 5, 14, 126.1894472361809, 'Poor').
 aqi('Paris', 2, 22, 162.66912539515278, 'Unhealthy').
-aqi('Istanbul', 2, 4, 189.4564805057956, 'Unhealthy').
-aqi('Istanbul', 6, 24, 29.77272727272728, 'Good').
+aqi('Istanbul', 2, 4, 189.45648050579558, 'Unhealthy').
+aqi('Istanbul', 6, 24, 29.772727272727273, 'Good').
 aqi('Seoul', 10, 25, 154.45943097997892, 'Unhealthy').
 aqi('Dubai', 10, 14, 180.4464699683878, 'Unhealthy').
 aqi('Toronto', 7, 11, 181.3448893572181, 'Unhealthy').
@@ -21344,14 +21344,14 @@ aqi('Los Angeles', 6, 20, 86.51974248927039, 'Moderate').
 aqi('Johannesburg', 4, 21, 97.83390557939914, 'Moderate').
 aqi('Toronto', 5, 18, 165.3540569020021, 'Unhealthy').
 aqi('Istanbul', 1, 2, 102.01379310344828, 'Poor').
-aqi('Dubai', 7, 10, 182.13487881981035, 'Unhealthy').
-aqi('Berlin', 5, 21, 198.6885142255005, 'Unhealthy').
-aqi('New York', 3, 4, 110.38424242424244, 'Poor').
+aqi('Dubai', 7, 10, 182.13487881981033, 'Unhealthy').
+aqi('Berlin', 5, 21, 198.68851422550054, 'Unhealthy').
+aqi('New York', 3, 4, 110.38424242424243, 'Poor').
 aqi('Moscow', 7, 21, 128.0115577889447, 'Poor').
 aqi('Dubai', 4, 9, 95.44086956521738, 'Moderate').
-aqi('Rio de Janeiro', 12, 13, 97.59454545454544, 'Moderate').
+aqi('Rio de Janeiro', 12, 13, 97.59454545454545, 'Moderate').
 aqi('Cairo', 8, 27, 162.38514225500526, 'Unhealthy').
-aqi('New York', 6, 3, 197.47513171759743, 'Unhealthy').
+aqi('New York', 6, 3, 197.47513171759746, 'Unhealthy').
 aqi('Tokyo', 6, 5, 107.03838383838384, 'Poor').
 aqi('Moscow', 5, 24, 64.96394849785408, 'Moderate').
 aqi('Bangkok', 8, 23, 181.77344573234984, 'Unhealthy').
@@ -21368,8 +21368,8 @@ aqi('Mumbai', 2, 11, 183.83877766069548, 'Unhealthy').
 aqi('Berlin', 8, 13, 99.78969957081546, 'Moderate').
 aqi('Dubai', 11, 4, 147.8824120603015, 'Poor').
 aqi('Mumbai', 6, 6, 140.22462311557788, 'Poor').
-aqi('Bangkok', 1, 17, 106.81105527638192, 'Poor').
-aqi('Sydney', 4, 12, 122.00351758793973, 'Poor').
+aqi('Bangkok', 1, 17, 106.81105527638191, 'Poor').
+aqi('Sydney', 4, 12, 122.00351758793971, 'Poor').
 aqi('Mumbai', 9, 4, 152.17207586933614, 'Unhealthy').
 aqi('Madrid', 2, 20, 156.0032665964173, 'Unhealthy').
 aqi('Los Angeles', 1, 19, 195.35300316122235, 'Unhealthy').
@@ -21377,14 +21377,14 @@ aqi('Toronto', 10, 4, 78.65777777777778, 'Moderate').
 aqi('Moscow', 6, 13, 94.05565656565656, 'Moderate').
 aqi('Toronto', 1, 5, 161.4195995785037, 'Unhealthy').
 aqi('Seoul', 4, 19, 176.5223393045311, 'Unhealthy').
-aqi('Dubai', 1, 28, 111.58793969849243, 'Poor').
+aqi('Dubai', 1, 28, 111.58793969849245, 'Poor').
 aqi('New York', 3, 20, 103.36551724137932, 'Poor').
 aqi('Mexico City', 11, 3, 157.01011591148577, 'Unhealthy').
 aqi('Beijing', 7, 23, 195.7918861959958, 'Unhealthy').
 aqi('Istanbul', 5, 15, 181.5204425711275, 'Unhealthy').
 aqi('New York', 3, 11, 179.38282402528978, 'Unhealthy').
 aqi('Johannesburg', 5, 17, 111.39095477386934, 'Poor').
-aqi('Madrid', 4, 9, 180.83371970495256, 'Unhealthy').
+aqi('Madrid', 4, 9, 180.83371970495259, 'Unhealthy').
 aqi('London', 10, 26, 124.88442211055278, 'Poor').
 aqi('Madrid', 7, 4, 99.84656565656566, 'Moderate').
 aqi('Mexico City', 7, 21, 75.66824034334763, 'Moderate').
@@ -21394,14 +21394,14 @@ aqi('Moscow', 11, 1, 164.14067439409905, 'Unhealthy').
 aqi('Mumbai', 9, 5, 109.55272727272728, 'Poor').
 aqi('Johannesburg', 1, 11, 117.1035175879397, 'Poor').
 aqi('Moscow', 6, 21, 179.5532139093783, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 7, 107.91939393939391, 'Poor').
+aqi('Rio de Janeiro', 8, 7, 107.91939393939393, 'Poor').
 aqi('Berlin', 6, 9, 155.59020021074815, 'Unhealthy').
 aqi('Dubai', 12, 13, 180.8853530031612, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 23, 177.91127502634353, 'Unhealthy').
 aqi('London', 8, 10, 62.88868686868687, 'Moderate').
-aqi('New York', 11, 13, 185.4703898840885, 'Unhealthy').
+aqi('New York', 11, 13, 185.47038988408852, 'Unhealthy').
 aqi('New York', 5, 2, 155.06354056902, 'Unhealthy').
-aqi('Los Angeles', 3, 23, 191.87291886196, 'Unhealthy').
+aqi('Los Angeles', 3, 23, 191.87291886195996, 'Unhealthy').
 aqi('New York', 7, 18, 129.21809045226132, 'Poor').
 aqi('Cairo', 8, 11, 156.26659641728136, 'Unhealthy').
 aqi('Cairo', 10, 28, 189.6939936775553, 'Unhealthy').
@@ -21411,16 +21411,16 @@ aqi('Mumbai', 3, 28, 155.24425711275026, 'Unhealthy').
 aqi('Seoul', 1, 15, 77.28755364806868, 'Moderate').
 aqi('London', 10, 10, 75.69999999999999, 'Moderate').
 aqi('Bangkok', 5, 3, 104.2748743718593, 'Poor').
-aqi('Rio de Janeiro', 4, 6, 185.0676501580612, 'Unhealthy').
+aqi('Rio de Janeiro', 4, 6, 185.06765015806113, 'Unhealthy').
 aqi('Berlin', 1, 9, 103.93015075376884, 'Poor').
 aqi('Berlin', 9, 1, 197.9346680716544, 'Unhealthy').
 aqi('Johannesburg', 1, 27, 155.786406743941, 'Unhealthy').
 aqi('Tokyo', 7, 24, 166.14404636459432, 'Unhealthy').
-aqi('Sydney', 1, 10, 187.63898840885145, 'Unhealthy').
+aqi('Sydney', 1, 10, 187.63898840885142, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 8, 106.54020100502512, 'Poor').
-aqi('Mumbai', 2, 18, 198.1979978925185, 'Unhealthy').
+aqi('Mumbai', 2, 18, 198.19799789251846, 'Unhealthy').
 aqi('London', 10, 25, 94.63130434782607, 'Moderate').
-aqi('Madrid', 1, 14, 180.8801896733404, 'Unhealthy').
+aqi('Madrid', 1, 14, 180.88018967334037, 'Unhealthy').
 aqi('Berlin', 11, 6, 146.89748743718593, 'Poor').
 aqi('Beijing', 10, 8, 99.2, 'Moderate').
 aqi('Bangkok', 4, 9, 168.15258166491043, 'Unhealthy').
@@ -21429,25 +21429,25 @@ aqi('Berlin', 11, 4, 113.16381909547738, 'Poor').
 aqi('Moscow', 5, 6, 169.48988408851423, 'Unhealthy').
 aqi('Madrid', 11, 23, 112.88868686868688, 'Poor').
 aqi('Mumbai', 10, 23, 140.96331658291456, 'Poor').
-aqi('Bangkok', 8, 2, 165.21981032665963, 'Unhealthy').
+aqi('Bangkok', 8, 2, 165.21981032665965, 'Unhealthy').
 aqi('Madrid', 6, 1, 195.03804004214965, 'Unhealthy').
 aqi('Seoul', 5, 21, 121.44636363636364, 'Poor').
 aqi('Dubai', 7, 5, 171.8082191780822, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 23, 154.1651211801897, 'Unhealthy').
 aqi('Mumbai', 1, 17, 84.33065217391305, 'Moderate').
-aqi('Berlin', 10, 7, 185.69241306638563, 'Unhealthy').
-aqi('Seoul', 10, 20, 192.27565858798727, 'Unhealthy').
+aqi('Berlin', 10, 7, 185.69241306638565, 'Unhealthy').
+aqi('Seoul', 10, 20, 192.27565858798735, 'Unhealthy').
 aqi('Mexico City', 11, 18, 176.32096944151738, 'Unhealthy').
 aqi('Berlin', 1, 23, 103.23222222222222, 'Poor').
 aqi('Mumbai', 10, 15, 198.0740779768177, 'Unhealthy').
 aqi('Dubai', 5, 11, 188.38250790305585, 'Unhealthy').
-aqi('New York', 2, 22, 199.2048472075869, 'Unhealthy').
-aqi('Moscow', 2, 14, 94.61, 'Moderate').
+aqi('New York', 2, 22, 199.20484720758694, 'Unhealthy').
+aqi('Moscow', 2, 14, 94.61000000000001, 'Moderate').
 aqi('Toronto', 3, 1, 90.8879797979798, 'Moderate').
 aqi('Madrid', 5, 24, 184.9127502634352, 'Unhealthy').
 aqi('Dubai', 3, 12, 153.27186512118018, 'Unhealthy').
 aqi('Johannesburg', 4, 10, 188.18113804004216, 'Unhealthy').
-aqi('Istanbul', 7, 21, 184.3602739726028, 'Unhealthy').
+aqi('Istanbul', 7, 21, 184.36027397260273, 'Unhealthy').
 aqi('Bangkok', 2, 25, 195.19810326659643, 'Unhealthy').
 aqi('Moscow', 9, 24, 177.86480505795575, 'Unhealthy').
 aqi('Mumbai', 12, 6, 198.41485774499475, 'Unhealthy').
@@ -21456,19 +21456,19 @@ aqi('Istanbul', 11, 15, 170.3573234984194, 'Unhealthy').
 aqi('Beijing', 9, 10, 155.18746048472076, 'Unhealthy').
 aqi('Johannesburg', 10, 28, 195.53888303477345, 'Unhealthy').
 aqi('Berlin', 8, 2, 165.71548998946258, 'Unhealthy').
-aqi('London', 11, 5, 97.44347826086955, 'Moderate').
+aqi('London', 11, 5, 97.44347826086957, 'Moderate').
 aqi('Istanbul', 3, 1, 166.4796628029505, 'Unhealthy').
 aqi('Berlin', 4, 7, 104.54827586206898, 'Poor').
-aqi('Los Angeles', 2, 23, 106.33060606060609, 'Poor').
+aqi('Los Angeles', 2, 23, 106.33060606060607, 'Poor').
 aqi('Beijing', 3, 11, 88.90818181818182, 'Moderate').
 aqi('Dubai', 1, 12, 181.17966280295047, 'Unhealthy').
 aqi('Toronto', 6, 17, 153.61264488935723, 'Unhealthy').
-aqi('Moscow', 11, 8, 105.30111111111113, 'Poor').
+aqi('Moscow', 11, 8, 105.30111111111111, 'Poor').
 aqi('Toronto', 12, 20, 152.95690200210748, 'Unhealthy').
 aqi('London', 2, 14, 175.8872497365648, 'Unhealthy').
-aqi('Bangkok', 12, 14, 93.9, 'Moderate').
+aqi('Bangkok', 12, 14, 93.89999999999999, 'Moderate').
 aqi('New York', 2, 16, 165.49346680716545, 'Unhealthy').
-aqi('Toronto', 6, 9, 193.2721812434141, 'Unhealthy').
+aqi('Toronto', 6, 9, 193.27218124341414, 'Unhealthy').
 aqi('Dubai', 3, 24, 195.36332982086407, 'Unhealthy').
 aqi('Sydney', 8, 24, 103.88090452261306, 'Poor').
 aqi('London', 5, 2, 175.30895679662802, 'Unhealthy').
@@ -21476,10 +21476,10 @@ aqi('Seoul', 7, 1, 161.65711275026342, 'Unhealthy').
 aqi('Madrid', 4, 2, 155.68314014752372, 'Unhealthy').
 aqi('Toronto', 12, 9, 197.58872497365647, 'Unhealthy').
 aqi('Seoul', 11, 15, 183.99884088514227, 'Unhealthy').
-aqi('Bangkok', 11, 1, 106.26131313131312, 'Poor').
+aqi('Bangkok', 11, 1, 106.26131313131313, 'Poor').
 aqi('Rio de Janeiro', 9, 7, 151.63508956796628, 'Unhealthy').
 aqi('Moscow', 11, 25, 162.43161222339305, 'Unhealthy').
-aqi('Dubai', 4, 26, 190.3600632244468, 'Unhealthy').
+aqi('Dubai', 4, 26, 190.36006322444678, 'Unhealthy').
 aqi('New York', 11, 1, 95.62575107296138, 'Moderate').
 aqi('Cairo', 1, 15, 199.42170706006323, 'Unhealthy').
 aqi('Berlin', 8, 19, 180.7304531085353, 'Unhealthy').
@@ -21488,18 +21488,18 @@ aqi('Paris', 2, 3, 126.70653266331658, 'Poor').
 aqi('Cairo', 11, 19, 147.78391959798995, 'Poor').
 aqi('Mexico City', 3, 18, 129.4396984924623, 'Poor').
 aqi('Berlin', 7, 1, 57.28798283261803, 'Moderate').
-aqi('Moscow', 10, 9, 184.427397260274, 'Unhealthy').
+aqi('Moscow', 10, 9, 184.42739726027398, 'Unhealthy').
 aqi('Moscow', 1, 23, 178.25205479452055, 'Unhealthy').
-aqi('Paris', 4, 17, 103.19655172413796, 'Poor').
+aqi('Paris', 4, 17, 103.19655172413795, 'Poor').
 aqi('Berlin', 7, 17, 185.57881981032665, 'Unhealthy').
 aqi('Cairo', 11, 12, 160.2113804004215, 'Unhealthy').
-aqi('New York', 4, 2, 106.40689655172416, 'Poor').
+aqi('New York', 4, 2, 106.40689655172415, 'Poor').
 aqi('Madrid', 4, 18, 61.11676767676768, 'Moderate').
-aqi('Tokyo', 1, 6, 129.83366834170857, 'Poor').
+aqi('Tokyo', 1, 6, 129.83366834170855, 'Poor').
 aqi('Sydney', 1, 24, 172.2677555321391, 'Unhealthy').
 aqi('Berlin', 12, 8, 168.96838777660696, 'Unhealthy').
 aqi('New York', 7, 5, 76.23605150214593, 'Moderate').
-aqi('New York', 11, 5, 97.1837373737374, 'Moderate').
+aqi('New York', 11, 5, 97.18373737373739, 'Moderate').
 aqi('Tokyo', 4, 17, 177.89062170706006, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 6, 162.5968387776607, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 19, 135.1030150753769, 'Poor').
@@ -21507,7 +21507,7 @@ aqi('Seoul', 5, 16, 157.18050579557428, 'Unhealthy').
 aqi('Paris', 8, 28, 177.91643835616438, 'Unhealthy').
 aqi('London', 6, 22, 192.02265542676503, 'Unhealthy').
 aqi('Berlin', 12, 18, 164.44014752370916, 'Unhealthy').
-aqi('Tokyo', 6, 13, 186.2965226554268, 'Unhealthy').
+aqi('Tokyo', 6, 13, 186.29652265542677, 'Unhealthy').
 aqi('Beijing', 12, 14, 148.1040201005025, 'Poor').
 aqi('Cairo', 8, 9, 161.10979978925184, 'Unhealthy').
 aqi('Istanbul', 6, 1, 159.8396206533193, 'Unhealthy').
@@ -21523,35 +21523,35 @@ aqi('Madrid', 1, 1, 80.2, 'Moderate').
 aqi('Los Angeles', 9, 22, 199.1222339304531, 'Unhealthy').
 aqi('Dubai', 12, 20, 175.5154899894626, 'Unhealthy').
 aqi('New York', 2, 4, 168.99936775553215, 'Unhealthy').
-aqi('Beijing', 8, 17, 194.1447839831401, 'Unhealthy').
+aqi('Beijing', 8, 17, 194.14478398314014, 'Unhealthy').
 aqi('Toronto', 8, 27, 165.74130663856693, 'Unhealthy').
 aqi('Sydney', 10, 24, 177.61696522655427, 'Unhealthy').
 aqi('London', 9, 28, 145.42010050251258, 'Poor').
 aqi('Mumbai', 7, 17, 74.33891304347826, 'Moderate').
 aqi('Seoul', 5, 16, 87.89999999999999, 'Moderate').
-aqi('Johannesburg', 1, 26, 181.70632244467865, 'Unhealthy').
+aqi('Johannesburg', 1, 26, 181.70632244467862, 'Unhealthy').
 aqi('Paris', 6, 3, 139.2643216080402, 'Poor').
 aqi('Johannesburg', 5, 13, 173.00094836670178, 'Unhealthy').
 aqi('Johannesburg', 11, 22, 123.75175879396986, 'Poor').
 aqi('Seoul', 4, 13, 175.71169652265542, 'Unhealthy').
 aqi('Dubai', 4, 21, 101.5889898989899, 'Poor').
 aqi('Paris', 11, 26, 157.58840885142254, 'Unhealthy').
-aqi('Mumbai', 3, 22, 171.7617492096944, 'Unhealthy').
-aqi('Istanbul', 3, 20, 193.5561643835616, 'Unhealthy').
-aqi('Johannesburg', 6, 21, 183.19336143308743, 'Unhealthy').
+aqi('Mumbai', 3, 22, 171.76174920969441, 'Unhealthy').
+aqi('Istanbul', 3, 20, 193.55616438356162, 'Unhealthy').
+aqi('Johannesburg', 6, 21, 183.19336143308746, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 28, 74.48040404040404, 'Moderate').
-aqi('Toronto', 10, 3, 180.6220231822972, 'Unhealthy').
+aqi('Toronto', 10, 3, 180.62202318229717, 'Unhealthy').
 aqi('New York', 8, 17, 66.37108695652175, 'Moderate').
 aqi('Moscow', 7, 13, 170.34699683877767, 'Unhealthy').
 aqi('London', 7, 9, 140.59396984924624, 'Poor').
 aqi('Los Angeles', 8, 5, 103.02758620689654, 'Poor').
 aqi('Seoul', 8, 6, 130.25226130653266, 'Poor').
 aqi('Bangkok', 9, 1, 156.0755532139094, 'Unhealthy').
-aqi('Johannesburg', 8, 2, 192.0020021074816, 'Unhealthy').
+aqi('Johannesburg', 8, 2, 192.00200210748156, 'Unhealthy').
 aqi('Cairo', 1, 1, 133.40402010050252, 'Poor').
 aqi('Cairo', 6, 26, 160.36111696522656, 'Unhealthy').
-aqi('Paris', 1, 10, 197.8520547945205, 'Unhealthy').
-aqi('Johannesburg', 11, 21, 194.53719704952584, 'Unhealthy').
+aqi('Paris', 1, 10, 197.85205479452054, 'Unhealthy').
+aqi('Johannesburg', 11, 21, 194.53719704952582, 'Unhealthy').
 aqi('Istanbul', 1, 14, 84.58497854077254, 'Moderate').
 aqi('Berlin', 1, 22, 82.7, 'Moderate').
 aqi('Toronto', 8, 12, 105.84060606060606, 'Poor').
@@ -21563,7 +21563,7 @@ aqi('Paris', 7, 23, 180.3432033719705, 'Unhealthy').
 aqi('Seoul', 7, 3, 177.2245521601686, 'Unhealthy').
 aqi('Johannesburg', 3, 26, 166.01496311907272, 'Unhealthy').
 aqi('Tokyo', 1, 4, 190.31875658587987, 'Unhealthy').
-aqi('Johannesburg', 6, 14, 162.78788198103263, 'Unhealthy').
+aqi('Johannesburg', 6, 14, 162.78788198103265, 'Unhealthy').
 aqi('Tokyo', 5, 15, 161.46606954689148, 'Unhealthy').
 aqi('Seoul', 11, 1, 153.61780821917807, 'Unhealthy').
 aqi('London', 10, 9, 180.12118018967334, 'Unhealthy').
@@ -21572,7 +21572,7 @@ aqi('New York', 11, 24, 154.99641728134878, 'Unhealthy').
 aqi('London', 5, 3, 162.37997892518442, 'Unhealthy').
 aqi('Moscow', 8, 5, 121.03060606060606, 'Poor').
 aqi('Mexico City', 11, 7, 113.87858585858586, 'Poor').
-aqi('Dubai', 2, 7, 118.31828282828285, 'Poor').
+aqi('Dubai', 2, 7, 118.31828282828283, 'Poor').
 aqi('Rio de Janeiro', 4, 17, 199.55079030558483, 'Unhealthy').
 aqi('Bangkok', 4, 17, 193.91759747102213, 'Unhealthy').
 aqi('Dubai', 5, 16, 101.33161616161615, 'Poor').
@@ -21580,16 +21580,16 @@ aqi('Mumbai', 3, 6, 154.32518440463645, 'Unhealthy').
 aqi('Istanbul', 4, 21, 180.64783983140148, 'Unhealthy').
 aqi('Mumbai', 4, 20, 178.690937829294, 'Unhealthy').
 aqi('Los Angeles', 4, 17, 182.5840885142255, 'Unhealthy').
-aqi('Beijing', 2, 26, 193.5148577449948, 'Unhealthy').
+aqi('Beijing', 2, 26, 193.51485774499474, 'Unhealthy').
 aqi('New York', 7, 11, 165.78777660695468, 'Unhealthy').
 aqi('Mumbai', 4, 10, 106.1969696969697, 'Poor').
-aqi('Tokyo', 9, 3, 60.8, 'Moderate').
+aqi('Tokyo', 9, 3, 60.800000000000004, 'Moderate').
 aqi('Madrid', 11, 11, 154.1754478398314, 'Unhealthy').
-aqi('London', 7, 8, 184.48935721812435, 'Unhealthy').
-aqi('Paris', 11, 2, 197.6558482613277, 'Unhealthy').
+aqi('London', 7, 8, 184.48935721812433, 'Unhealthy').
+aqi('Paris', 11, 2, 197.65584826132772, 'Unhealthy').
 aqi('Los Angeles', 12, 27, 152.34246575342465, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 4, 193.6491043203372, 'Unhealthy').
-aqi('Beijing', 8, 5, 189.7766069546892, 'Unhealthy').
+aqi('Beijing', 8, 5, 189.77660695468916, 'Unhealthy').
 aqi('Bangkok', 10, 2, 90.43434782608696, 'Moderate').
 aqi('Rio de Janeiro', 1, 7, 86.94323232323234, 'Moderate').
 aqi('Tokyo', 11, 26, 157.44383561643835, 'Unhealthy').
@@ -21602,8 +21602,8 @@ aqi('Istanbul', 3, 28, 199.74699683877765, 'Unhealthy').
 aqi('Istanbul', 2, 14, 151.91390937829294, 'Unhealthy').
 aqi('Cairo', 1, 23, 189.30158061116964, 'Unhealthy').
 aqi('Berlin', 11, 15, 107.67286432160805, 'Poor').
-aqi('London', 11, 14, 193.8866174920969, 'Unhealthy').
-aqi('Berlin', 1, 7, 96.4741304347826, 'Moderate').
+aqi('London', 11, 14, 193.88661749209695, 'Unhealthy').
+aqi('Berlin', 1, 7, 96.47413043478261, 'Moderate').
 aqi('Berlin', 9, 19, 194.96059009483668, 'Unhealthy').
 aqi('Beijing', 6, 1, 178.41211801896733, 'Unhealthy').
 aqi('Paris', 7, 9, 169.51053740779767, 'Unhealthy').
@@ -21611,15 +21611,15 @@ aqi('Tokyo', 4, 28, 139.2643216080402, 'Poor').
 aqi('Moscow', 8, 11, 192.972708113804, 'Unhealthy').
 aqi('Madrid', 7, 27, 84.86326086956522, 'Moderate').
 aqi('Rio de Janeiro', 5, 2, 178.8458377239199, 'Unhealthy').
-aqi('Madrid', 9, 27, 197.60421496311903, 'Unhealthy').
-aqi('Johannesburg', 2, 15, 192.27565858798727, 'Unhealthy').
+aqi('Madrid', 9, 27, 197.60421496311906, 'Unhealthy').
+aqi('Johannesburg', 2, 15, 192.27565858798735, 'Unhealthy').
 aqi('Tokyo', 7, 25, 63.814565217391305, 'Moderate').
 aqi('Bangkok', 4, 16, 117.3679797979798, 'Poor').
-aqi('Sydney', 8, 21, 119.18444444444444, 'Poor').
+aqi('Sydney', 8, 21, 119.18444444444445, 'Poor').
 aqi('Cairo', 8, 28, 166.02012644889356, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 7, 191.490832455216, 'Unhealthy').
 aqi('Cairo', 9, 18, 176.27966280295047, 'Unhealthy').
-aqi('Tokyo', 6, 13, 122.12663316582916, 'Poor').
+aqi('Tokyo', 6, 13, 122.12663316582915, 'Poor').
 aqi('Beijing', 8, 9, 164.65700737618545, 'Unhealthy').
 aqi('Los Angeles', 7, 5, 155.9, 'Unhealthy').
 aqi('Bangkok', 4, 28, 155.48177028451002, 'Unhealthy').
@@ -21627,24 +21627,24 @@ aqi('Los Angeles', 10, 5, 160.68124341412013, 'Unhealthy').
 aqi('Mexico City', 3, 24, 185.46522655426764, 'Unhealthy').
 aqi('Seoul', 3, 4, 165.18883034773447, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 10, 163.56238145416228, 'Unhealthy').
-aqi('Los Angeles', 11, 6, 185.0469968387777, 'Unhealthy').
-aqi('Johannesburg', 3, 4, 186.172602739726, 'Unhealthy').
-aqi('Madrid', 3, 26, 140.4708542713568, 'Poor').
+aqi('Los Angeles', 11, 6, 185.04699683877766, 'Unhealthy').
+aqi('Johannesburg', 3, 4, 186.17260273972602, 'Unhealthy').
+aqi('Madrid', 3, 26, 140.47085427135679, 'Poor').
 aqi('Dubai', 7, 23, 64.3961373390558, 'Moderate').
 aqi('Los Angeles', 5, 21, 183.78198103266595, 'Unhealthy').
 aqi('Berlin', 9, 13, 163.0253951527924, 'Unhealthy').
-aqi('Sydney', 7, 26, 190.7163329820864, 'Unhealthy').
-aqi('Tokyo', 11, 15, 108.58391959798996, 'Poor').
+aqi('Sydney', 7, 26, 190.71633298208639, 'Unhealthy').
+aqi('Tokyo', 11, 15, 108.58391959798995, 'Poor').
 aqi('Berlin', 4, 22, 159.92739726027398, 'Unhealthy').
-aqi('Dubai', 3, 19, 199.56111696522652, 'Unhealthy').
-aqi('Beijing', 4, 1, 190.82992623814545, 'Unhealthy').
+aqi('Dubai', 3, 19, 199.56111696522657, 'Unhealthy').
+aqi('Beijing', 4, 1, 190.82992623814542, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 15, 184.62876712328767, 'Unhealthy').
-aqi('Johannesburg', 8, 6, 95.0041304347826, 'Moderate').
+aqi('Johannesburg', 8, 6, 95.00413043478261, 'Moderate').
 aqi('Beijing', 7, 14, 169.52602739726026, 'Unhealthy').
 aqi('Cairo', 11, 20, 151.94488935721813, 'Unhealthy').
 aqi('Johannesburg', 4, 28, 161.15626975763962, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 2, 189.98830347734457, 'Unhealthy').
-aqi('London', 3, 17, 199.7521601685985, 'Unhealthy').
+aqi('London', 3, 17, 199.75216016859852, 'Unhealthy').
 aqi('Berlin', 6, 28, 158.20800842992622, 'Unhealthy').
 aqi('Johannesburg', 10, 4, 79.24956521739131, 'Moderate').
 aqi('Sydney', 12, 1, 180.51875658587988, 'Unhealthy').
@@ -21653,7 +21653,7 @@ aqi('Beijing', 9, 3, 177.6531085353003, 'Unhealthy').
 aqi('Bangkok', 5, 25, 153.35447839831403, 'Unhealthy').
 aqi('Paris', 3, 16, 129.29195979899498, 'Poor').
 aqi('Mexico City', 7, 22, 78.33905579399142, 'Moderate').
-aqi('Paris', 2, 5, 192.9417281348788, 'Unhealthy').
+aqi('Paris', 2, 5, 192.94172813487882, 'Unhealthy').
 aqi('Tokyo', 2, 6, 189.55974710221287, 'Unhealthy').
 aqi('Mumbai', 11, 13, 137.36834170854272, 'Poor').
 aqi('Sydney', 4, 8, 154.7485774499473, 'Unhealthy').
@@ -21679,7 +21679,7 @@ aqi('Paris', 7, 11, 167.97702845100105, 'Unhealthy').
 aqi('Beijing', 9, 28, 180.09020021074815, 'Unhealthy').
 aqi('Bangkok', 7, 19, 172.85121180189674, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 4, 75.95804347826088, 'Moderate').
-aqi('Toronto', 5, 25, 183.4102212855637, 'Unhealthy').
+aqi('Toronto', 5, 25, 183.41022128556375, 'Unhealthy').
 aqi('Seoul', 2, 20, 180.3586933614331, 'Unhealthy').
 aqi('Mumbai', 5, 12, 128.3316582914573, 'Poor').
 aqi('Cairo', 6, 18, 180.76659641728136, 'Unhealthy').
@@ -21689,11 +21689,11 @@ aqi('Tokyo', 7, 8, 163.55205479452056, 'Unhealthy').
 aqi('Toronto', 5, 15, 83.02875536480687, 'Moderate').
 aqi('Johannesburg', 10, 7, 190.9744994731296, 'Unhealthy').
 aqi('Sydney', 6, 13, 131.11407035175878, 'Poor').
-aqi('Dubai', 11, 25, 194.88830347734452, 'Unhealthy').
+aqi('Dubai', 11, 25, 194.88830347734458, 'Unhealthy').
 aqi('Paris', 5, 24, 66.5, 'Moderate').
 aqi('Rio de Janeiro', 6, 1, 156.0755532139094, 'Unhealthy').
 aqi('Istanbul', 4, 22, 170.79620653319284, 'Unhealthy').
-aqi('Madrid', 6, 26, 195.4975763962065, 'Unhealthy').
+aqi('Madrid', 6, 26, 195.49757639620654, 'Unhealthy').
 aqi('Moscow', 12, 4, 85.61545064377682, 'Moderate').
 aqi('Istanbul', 8, 7, 170.07850368809272, 'Unhealthy').
 aqi('Sydney', 8, 26, 183.9368809272919, 'Unhealthy').
@@ -21702,15 +21702,15 @@ aqi('Mexico City', 5, 12, 190.02961011591148, 'Unhealthy').
 aqi('Beijing', 3, 22, 110.09222222222222, 'Poor').
 aqi('Bangkok', 4, 14, 93.1862660944206, 'Moderate').
 aqi('Tokyo', 1, 11, 102.43535353535354, 'Poor').
-aqi('Cairo', 8, 13, 157.94984193888305, 'Unhealthy').
+aqi('Cairo', 8, 13, 157.94984193888303, 'Unhealthy').
 aqi('Beijing', 10, 17, 174.86491043203372, 'Unhealthy').
 aqi('Istanbul', 7, 1, 147.6854271356784, 'Poor').
-aqi('Berlin', 1, 20, 127.96231155778896, 'Poor').
-aqi('Istanbul', 10, 27, 99.46545454545456, 'Moderate').
+aqi('Berlin', 1, 20, 127.96231155778895, 'Poor').
+aqi('Istanbul', 10, 27, 99.46545454545455, 'Moderate').
 aqi('Cairo', 4, 25, 97.6, 'Moderate').
 aqi('Moscow', 9, 18, 179.49125395152794, 'Unhealthy').
 aqi('Mumbai', 6, 3, 106.04773869346732, 'Poor').
-aqi('Bangkok', 9, 20, 186.6476290832456, 'Unhealthy').
+aqi('Bangkok', 9, 20, 186.64762908324553, 'Unhealthy').
 aqi('Sydney', 9, 11, 174.7822971548999, 'Unhealthy').
 aqi('Johannesburg', 12, 22, 155.2236037934668, 'Unhealthy').
 aqi('Seoul', 10, 19, 178.84067439409904, 'Unhealthy').
@@ -21721,17 +21721,17 @@ aqi('Rio de Janeiro', 4, 14, 164.25426765015806, 'Unhealthy').
 aqi('Mumbai', 4, 4, 170.34699683877767, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 13, 192.35310853530032, 'Unhealthy').
 aqi('Seoul', 9, 3, 178.33983140147524, 'Unhealthy').
-aqi('Dubai', 1, 25, 116.75879396984924, 'Poor').
+aqi('Dubai', 1, 25, 116.75879396984925, 'Poor').
 aqi('Los Angeles', 11, 12, 136.67889447236183, 'Poor').
 aqi('Johannesburg', 11, 21, 134.88140703517587, 'Poor').
 aqi('Madrid', 12, 6, 132.78844221105527, 'Poor').
-aqi('London', 10, 23, 44.4245283018868, 'Good').
-aqi('Cairo', 2, 12, 124.85979899497488, 'Poor').
+aqi('London', 10, 23, 44.424528301886795, 'Good').
+aqi('Cairo', 2, 12, 124.85979899497487, 'Poor').
 aqi('Johannesburg', 11, 18, 98.78565217391304, 'Moderate').
-aqi('Los Angeles', 10, 15, 102.24232323232324, 'Poor').
+aqi('Los Angeles', 10, 15, 102.24232323232323, 'Poor').
 aqi('Tokyo', 10, 6, 148.30100502512562, 'Poor').
 aqi('Cairo', 6, 23, 148.74422110552763, 'Poor').
-aqi('Berlin', 4, 17, 95.49957081545064, 'Moderate').
+aqi('Berlin', 4, 17, 95.49957081545065, 'Moderate').
 aqi('Mexico City', 3, 16, 88.79098712446353, 'Moderate').
 aqi('Sydney', 12, 19, 148.67035175879397, 'Poor').
 aqi('Paris', 9, 6, 140.421608040201, 'Poor').
@@ -21744,14 +21744,14 @@ aqi('New York', 12, 21, 189.4822971548999, 'Unhealthy').
 aqi('Mumbai', 7, 13, 166.4899894625922, 'Unhealthy').
 aqi('Toronto', 2, 15, 158.53846153846155, 'Unhealthy').
 aqi('Tokyo', 8, 26, 127.19899497487438, 'Poor').
-aqi('Rio de Janeiro', 9, 15, 120.378391959799, 'Poor').
+aqi('Rio de Janeiro', 9, 15, 120.37839195979899, 'Poor').
 aqi('Dubai', 12, 9, 88.75474747474748, 'Moderate').
 aqi('Beijing', 1, 13, 160.686406743941, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 2, 169.55700737618545, 'Unhealthy').
 aqi('Berlin', 4, 18, 190.6905163329821, 'Unhealthy').
-aqi('Los Angeles', 1, 6, 93.25717391304347, 'Moderate').
+aqi('Los Angeles', 1, 6, 93.25717391304349, 'Moderate').
 aqi('Dubai', 4, 19, 151.0309799789252, 'Unhealthy').
-aqi('Seoul', 2, 3, 116.77898989898988, 'Poor').
+aqi('Seoul', 2, 3, 116.77898989898989, 'Poor').
 aqi('Mexico City', 10, 10, 162.34383561643835, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 2, 167.64657534246575, 'Unhealthy').
 aqi('Johannesburg', 11, 23, 132.59145728643216, 'Poor').
@@ -21759,7 +21759,7 @@ aqi('London', 8, 28, 194.08798735511064, 'Unhealthy').
 aqi('Mumbai', 7, 19, 91.72326086956522, 'Moderate').
 aqi('Johannesburg', 6, 28, 156.12202318229714, 'Unhealthy').
 aqi('New York', 9, 23, 153.61264488935723, 'Unhealthy').
-aqi('Berlin', 12, 26, 188.56838777660693, 'Unhealthy').
+aqi('Berlin', 12, 26, 188.56838777660695, 'Unhealthy').
 aqi('Los Angeles', 11, 17, 194.20158061116965, 'Unhealthy').
 aqi('Beijing', 8, 15, 171.23508956796627, 'Unhealthy').
 aqi('Johannesburg', 11, 14, 120.4218181818182, 'Poor').
@@ -21770,14 +21770,14 @@ aqi('Seoul', 9, 17, 154.077344573235, 'Unhealthy').
 aqi('Los Angeles', 4, 13, 70.1, 'Moderate').
 aqi('Mumbai', 1, 9, 174.79262381454163, 'Unhealthy').
 aqi('Tokyo', 11, 19, 116.95577889447236, 'Poor').
-aqi('New York', 8, 21, 189.83340358271863, 'Unhealthy').
-aqi('Dubai', 12, 12, 183.70969441517383, 'Unhealthy').
+aqi('New York', 8, 21, 189.83340358271866, 'Unhealthy').
+aqi('Dubai', 12, 12, 183.70969441517386, 'Unhealthy').
 aqi('Tokyo', 10, 11, 175.85110642781876, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 22, 164.86354056902002, 'Unhealthy').
-aqi('Mexico City', 7, 15, 196.6438356164384, 'Unhealthy').
+aqi('Mexico City', 7, 15, 196.64383561643837, 'Unhealthy').
 aqi('Berlin', 7, 18, 176.5068493150685, 'Unhealthy').
 aqi('Dubai', 9, 13, 168.75152792413067, 'Unhealthy').
-aqi('Sydney', 12, 17, 192.5493150684932, 'Unhealthy').
+aqi('Sydney', 12, 17, 192.54931506849314, 'Unhealthy').
 aqi('Dubai', 11, 10, 192.59062170706008, 'Unhealthy').
 aqi('Mumbai', 5, 8, 133.42864321608042, 'Poor').
 aqi('Madrid', 8, 7, 174.2504741833509, 'Unhealthy').
@@ -21794,13 +21794,13 @@ aqi('Beijing', 12, 13, 128.55326633165828, 'Poor').
 aqi('London', 6, 16, 168.91675447839833, 'Unhealthy').
 aqi('Berlin', 8, 21, 161.559009483667, 'Unhealthy').
 aqi('Los Angeles', 10, 1, 135.20150753768846, 'Poor').
-aqi('Moscow', 4, 17, 190.60273972602732, 'Unhealthy').
+aqi('Moscow', 4, 17, 190.60273972602738, 'Unhealthy').
 aqi('Seoul', 9, 16, 131.90201005025125, 'Poor').
 aqi('Berlin', 12, 4, 154.2219178082192, 'Unhealthy').
 aqi('Dubai', 3, 23, 160.0668071654373, 'Unhealthy').
-aqi('Mumbai', 10, 2, 199.47334035827183, 'Unhealthy').
-aqi('Beijing', 6, 9, 92.50151515151516, 'Moderate').
-aqi('Los Angeles', 11, 22, 187.68029504741835, 'Unhealthy').
+aqi('Mumbai', 10, 2, 199.47334035827186, 'Unhealthy').
+aqi('Beijing', 6, 9, 92.50151515151515, 'Moderate').
+aqi('Los Angeles', 11, 22, 187.68029504741833, 'Unhealthy').
 aqi('Paris', 7, 16, 118.17969696969698, 'Poor').
 aqi('Sydney', 6, 17, 124.02261306532664, 'Poor').
 aqi('Toronto', 9, 9, 83.19999999999999, 'Moderate').
@@ -21813,18 +21813,18 @@ aqi('London', 11, 23, 121.36331658291458, 'Poor').
 aqi('Mexico City', 3, 14, 166.4744994731296, 'Unhealthy').
 aqi('Bangkok', 1, 18, 189.86438356164385, 'Unhealthy').
 aqi('Berlin', 4, 14, 185.6459430979979, 'Unhealthy').
-aqi('Sydney', 12, 13, 183.3947312961012, 'Unhealthy').
+aqi('Sydney', 12, 13, 183.39473129610116, 'Unhealthy').
 aqi('Seoul', 4, 10, 177.74604847207587, 'Unhealthy').
 aqi('Paris', 6, 5, 179.09884088514227, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 22, 151.46986301369864, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 7, 107.42068965517242, 'Poor').
-aqi('Dubai', 3, 17, 180.6375131717597, 'Unhealthy').
+aqi('Dubai', 3, 17, 180.63751317175974, 'Unhealthy').
 aqi('Berlin', 2, 20, 172.77376185458377, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 5, 174.7668071654373, 'Unhealthy').
-aqi('Rio de Janeiro', 5, 15, 90.662660944206, 'Moderate').
+aqi('Rio de Janeiro', 5, 15, 90.66266094420601, 'Moderate').
 aqi('Seoul', 3, 12, 178.55669125395153, 'Unhealthy').
 aqi('Los Angeles', 4, 11, 117.8422110552764, 'Poor').
-aqi('Madrid', 7, 23, 131.28643216080405, 'Poor').
+aqi('Madrid', 7, 23, 131.28643216080403, 'Poor').
 aqi('Madrid', 10, 18, 153.66427818756586, 'Unhealthy').
 aqi('Berlin', 8, 15, 155.55405690200212, 'Unhealthy').
 aqi('Mumbai', 10, 4, 153.54035827186513, 'Unhealthy').
@@ -21834,14 +21834,14 @@ aqi('Toronto', 6, 24, 78.48626609442061, 'Moderate').
 aqi('Madrid', 3, 24, 187.28788198103268, 'Unhealthy').
 aqi('Beijing', 2, 27, 65.86824034334765, 'Moderate').
 aqi('Sydney', 3, 11, 132.2713567839196, 'Poor').
-aqi('New York', 11, 12, 166.0975763962065, 'Unhealthy').
+aqi('New York', 11, 12, 166.09757639620653, 'Unhealthy').
 aqi('Beijing', 10, 15, 182.3414120126449, 'Unhealthy').
 aqi('Istanbul', 4, 4, 186.44109589041096, 'Unhealthy').
 aqi('Berlin', 12, 23, 172.1799789251844, 'Unhealthy').
 aqi('Paris', 12, 1, 173.87871443624869, 'Unhealthy').
-aqi('Moscow', 10, 21, 121.25828282828284, 'Poor').
-aqi('Berlin', 10, 5, 122.34824120603017, 'Poor').
-aqi('Rio de Janeiro', 5, 8, 199.49399367755527, 'Unhealthy').
+aqi('Moscow', 10, 21, 121.25828282828283, 'Poor').
+aqi('Berlin', 10, 5, 122.34824120603015, 'Poor').
+aqi('Rio de Janeiro', 5, 8, 199.49399367755532, 'Unhealthy').
 aqi('Madrid', 7, 15, 79.8, 'Moderate').
 aqi('Beijing', 10, 11, 177.26069546891466, 'Unhealthy').
 aqi('Dubai', 8, 12, 199.55595363540567, 'Unhealthy').
@@ -21849,7 +21849,7 @@ aqi('Istanbul', 12, 25, 159.71570073761853, 'Unhealthy').
 aqi('Paris', 4, 23, 123.80100502512562, 'Poor').
 aqi('Bangkok', 2, 15, 157.44383561643835, 'Unhealthy').
 aqi('Mumbai', 10, 1, 174.740990516333, 'Unhealthy').
-aqi('Berlin', 4, 17, 184.54099051633293, 'Unhealthy').
+aqi('Berlin', 4, 17, 184.54099051633298, 'Unhealthy').
 aqi('Paris', 1, 16, 158.5126448893572, 'Unhealthy').
 aqi('Bangkok', 2, 20, 184.72687038988408, 'Unhealthy').
 aqi('Bangkok', 4, 3, 191.38756585879872, 'Unhealthy').
@@ -21857,12 +21857,12 @@ aqi('London', 11, 26, 81.3849494949495, 'Moderate').
 aqi('New York', 10, 26, 163.13898840885142, 'Unhealthy').
 aqi('Bangkok', 8, 9, 133.84723618090453, 'Poor').
 aqi('Madrid', 7, 8, 190.36522655426765, 'Unhealthy').
-aqi('London', 10, 9, 195.13614330874609, 'Unhealthy').
+aqi('London', 10, 9, 195.13614330874606, 'Unhealthy').
 aqi('Toronto', 6, 27, 196.40115911485776, 'Unhealthy').
 aqi('Los Angeles', 12, 25, 144.18894472361808, 'Poor').
 aqi('Los Angeles', 8, 7, 193.6336143308746, 'Unhealthy').
 aqi('Madrid', 7, 14, 112.44818181818182, 'Poor').
-aqi('Beijing', 7, 2, 178.38113804004217, 'Unhealthy').
+aqi('Beijing', 7, 2, 178.38113804004215, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 4, 171.01822971548998, 'Unhealthy').
 aqi('Mumbai', 3, 7, 156.4886195995785, 'Unhealthy').
 aqi('Moscow', 3, 9, 177.72539515279243, 'Unhealthy').
@@ -21891,9 +21891,9 @@ aqi('Dubai', 5, 23, 177.2503688092729, 'Unhealthy').
 aqi('Mumbai', 6, 25, 119.62, 'Poor').
 aqi('Paris', 1, 22, 186.59599578503688, 'Unhealthy').
 aqi('Bangkok', 12, 24, 171.21443624868283, 'Unhealthy').
-aqi('Seoul', 12, 1, 183.6993677555321, 'Unhealthy').
+aqi('Seoul', 12, 1, 183.69936775553214, 'Unhealthy').
 aqi('Cairo', 12, 2, 151.46986301369864, 'Unhealthy').
-aqi('Moscow', 8, 4, 186.02286617492092, 'Unhealthy').
+aqi('Moscow', 8, 4, 186.02286617492098, 'Unhealthy').
 aqi('Mumbai', 10, 14, 155.38883034773446, 'Unhealthy').
 aqi('Los Angeles', 5, 25, 135.32462311557788, 'Poor').
 aqi('Paris', 8, 9, 157.6400421496312, 'Unhealthy').
@@ -21913,11 +21913,11 @@ aqi('Tokyo', 5, 18, 86.04737373737373, 'Moderate').
 aqi('Moscow', 1, 23, 176.22286617492097, 'Unhealthy').
 aqi('New York', 10, 23, 173.3159114857745, 'Unhealthy').
 aqi('Seoul', 2, 15, 53.400000000000006, 'Moderate').
-aqi('Madrid', 10, 22, 104.16272727272728, 'Poor').
+aqi('Madrid', 10, 22, 104.16272727272727, 'Poor').
 aqi('New York', 6, 13, 170.60516332982087, 'Unhealthy').
-aqi('Berlin', 10, 5, 198.5800842992624, 'Unhealthy').
+aqi('Berlin', 10, 5, 198.58008429926238, 'Unhealthy').
 aqi('Seoul', 6, 5, 179.43962065331928, 'Unhealthy').
-aqi('Berlin', 10, 21, 116.46331658291456, 'Poor').
+aqi('Berlin', 10, 21, 116.46331658291457, 'Poor').
 aqi('Mexico City', 1, 2, 88.97252525252526, 'Moderate').
 aqi('London', 7, 27, 160.9600632244468, 'Unhealthy').
 aqi('Dubai', 1, 16, 166.7946259220232, 'Unhealthy').
@@ -21935,32 +21935,32 @@ aqi('Sydney', 10, 28, 183.78714436248683, 'Unhealthy').
 aqi('Beijing', 7, 20, 176.81664910432033, 'Unhealthy').
 aqi('London', 3, 11, 174.0645943097998, 'Unhealthy').
 aqi('Mumbai', 10, 12, 152.18240252897786, 'Unhealthy').
-aqi('Beijing', 2, 3, 193.14826132771336, 'Unhealthy').
+aqi('Beijing', 2, 3, 193.14826132771339, 'Unhealthy').
 aqi('Berlin', 8, 14, 94.4480686695279, 'Moderate').
-aqi('Rio de Janeiro', 7, 5, 199.5869336143309, 'Unhealthy').
+aqi('Rio de Janeiro', 7, 5, 199.58693361433086, 'Unhealthy').
 aqi('New York', 10, 13, 189.27060063224448, 'Unhealthy').
 aqi('Istanbul', 3, 19, 121.3770707070707, 'Poor').
 aqi('Moscow', 1, 17, 156.1891464699684, 'Unhealthy').
 aqi('Madrid', 12, 28, 62.184782608695656, 'Moderate').
 aqi('Rio de Janeiro', 1, 10, 69.3, 'Moderate').
 aqi('London', 3, 22, 195.83835616438355, 'Unhealthy').
-aqi('Mumbai', 8, 8, 198.27028451001053, 'Unhealthy').
+aqi('Mumbai', 8, 8, 198.27028451001055, 'Unhealthy').
 aqi('Madrid', 7, 18, 151.36659641728136, 'Unhealthy').
 aqi('London', 6, 18, 157.59357218124342, 'Unhealthy').
 aqi('Madrid', 3, 21, 153.85532139093783, 'Unhealthy').
-aqi('Beijing', 8, 13, 63.2, 'Moderate').
+aqi('Beijing', 8, 13, 63.199999999999996, 'Moderate').
 aqi('Johannesburg', 6, 19, 137.58994974874372, 'Poor').
 aqi('Cairo', 3, 12, 155.50758693361433, 'Unhealthy').
 aqi('Toronto', 8, 13, 194.51654373024235, 'Unhealthy').
-aqi('Berlin', 4, 4, 194.3926238145416, 'Unhealthy').
+aqi('Berlin', 4, 4, 194.39262381454162, 'Unhealthy').
 aqi('Beijing', 8, 4, 160.88261327713383, 'Unhealthy').
 aqi('Sydney', 8, 28, 192.5699683877766, 'Unhealthy').
-aqi('Sydney', 5, 19, 116.82848484848483, 'Poor').
+aqi('Sydney', 5, 19, 116.82848484848485, 'Poor').
 aqi('Istanbul', 3, 13, 53.0589898989899, 'Moderate').
-aqi('Rio de Janeiro', 3, 26, 122.42211055276384, 'Poor').
+aqi('Rio de Janeiro', 3, 26, 122.42211055276383, 'Poor').
 aqi('Seoul', 3, 1, 198.29610115911487, 'Unhealthy').
 aqi('Mexico City', 8, 22, 178.32434141201264, 'Unhealthy').
-aqi('Paris', 6, 28, 192.554478398314, 'Unhealthy').
+aqi('Paris', 6, 28, 192.55447839831402, 'Unhealthy').
 aqi('Toronto', 10, 11, 136.62964824120604, 'Poor').
 aqi('Los Angeles', 1, 7, 107.80555555555556, 'Poor').
 aqi('Moscow', 6, 12, 169.31949420442572, 'Unhealthy').
@@ -21979,26 +21979,26 @@ aqi('Toronto', 3, 19, 163.61917808219178, 'Unhealthy').
 aqi('Madrid', 6, 23, 159.2768177028451, 'Unhealthy').
 aqi('Bangkok', 7, 25, 158.0840885142255, 'Unhealthy').
 aqi('Madrid', 6, 17, 159.18904109589042, 'Unhealthy').
-aqi('Tokyo', 7, 28, 182.1038988408852, 'Unhealthy').
+aqi('Tokyo', 7, 28, 182.10389884088514, 'Unhealthy').
 aqi('Tokyo', 8, 24, 102.25577889447236, 'Poor').
 aqi('Sydney', 11, 5, 122.19373737373738, 'Poor').
 aqi('Toronto', 8, 17, 152.5696522655427, 'Unhealthy').
 aqi('Mumbai', 2, 13, 175.14889357218124, 'Unhealthy').
 aqi('Beijing', 1, 28, 103.949898989899, 'Poor').
-aqi('Cairo', 4, 26, 198.56975763962063, 'Unhealthy').
+aqi('Cairo', 4, 26, 198.56975763962066, 'Unhealthy').
 aqi('Mumbai', 7, 17, 84.76050505050505, 'Moderate').
 aqi('Johannesburg', 4, 18, 106.04848484848485, 'Poor').
 aqi('Berlin', 12, 9, 180.4877766069547, 'Unhealthy').
 aqi('Istanbul', 11, 12, 163.2990516332982, 'Unhealthy').
 aqi('Paris', 4, 12, 151.2013698630137, 'Unhealthy').
-aqi('Johannesburg', 11, 13, 181.0815595363541, 'Unhealthy').
-aqi('Bangkok', 3, 8, 131.28643216080405, 'Poor').
+aqi('Johannesburg', 11, 13, 181.08155953635406, 'Unhealthy').
+aqi('Bangkok', 3, 8, 131.28643216080403, 'Poor').
 aqi('Cairo', 11, 9, 147.1929648241206, 'Poor').
-aqi('Bangkok', 4, 7, 193.66459430979972, 'Unhealthy').
+aqi('Bangkok', 4, 7, 193.66459430979978, 'Unhealthy').
 aqi('Seoul', 12, 7, 187.0813487881981, 'Unhealthy').
 aqi('London', 1, 26, 173.40885142255007, 'Unhealthy').
 aqi('Mumbai', 11, 1, 122.30262626262626, 'Poor').
-aqi('Los Angeles', 4, 3, 92.7638383838384, 'Moderate').
+aqi('Los Angeles', 4, 3, 92.76383838383839, 'Moderate').
 aqi('Bangkok', 6, 25, 162.13213909378294, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 3, 198.02244467860908, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 23, 93.1862660944206, 'Moderate').
@@ -22016,10 +22016,10 @@ aqi('Los Angeles', 5, 14, 69.6, 'Moderate').
 aqi('Rio de Janeiro', 11, 22, 65.57381974248928, 'Moderate').
 aqi('Los Angeles', 4, 5, 128.89798994974873, 'Poor').
 aqi('Mexico City', 6, 15, 151.57829293993677, 'Unhealthy').
-aqi('Mumbai', 7, 9, 180.83888303477343, 'Unhealthy').
+aqi('Mumbai', 7, 9, 180.83888303477346, 'Unhealthy').
 aqi('New York', 3, 8, 197.66617492096944, 'Unhealthy').
 aqi('Mumbai', 2, 19, 185.9763962065332, 'Unhealthy').
-aqi('Sydney', 3, 25, 125.59849246231155, 'Poor').
+aqi('Sydney', 3, 25, 125.59849246231157, 'Poor').
 aqi('Moscow', 6, 1, 180.2296101159115, 'Unhealthy').
 aqi('London', 4, 1, 95.20888888888888, 'Moderate').
 aqi('Cairo', 9, 11, 160.89810326659642, 'Unhealthy').
@@ -22029,17 +22029,17 @@ aqi('Bangkok', 6, 26, 194.69209694415173, 'Unhealthy').
 aqi('Madrid', 2, 11, 179.24341412012646, 'Unhealthy').
 aqi('Mumbai', 5, 28, 178.93877766069548, 'Unhealthy').
 aqi('Berlin', 8, 15, 197.20147523709167, 'Unhealthy').
-aqi('Mexico City', 8, 22, 125.9924623115578, 'Poor').
+aqi('Mexico City', 8, 22, 125.99246231155779, 'Poor').
 aqi('Berlin', 1, 18, 151.90358271865122, 'Unhealthy').
 aqi('London', 9, 21, 118.16231155778894, 'Poor').
 aqi('Cairo', 5, 5, 88.67555555555556, 'Moderate').
-aqi('Johannesburg', 5, 6, 116.48793969849244, 'Poor').
+aqi('Johannesburg', 5, 6, 116.48793969849245, 'Poor').
 aqi('New York', 11, 3, 163.52623814541624, 'Unhealthy').
 aqi('Beijing', 10, 10, 142.29296482412062, 'Poor').
 aqi('Toronto', 8, 20, 171.0027397260274, 'Unhealthy').
 aqi('Berlin', 2, 23, 109.32261306532664, 'Poor').
 aqi('Madrid', 5, 24, 184.51517386722867, 'Unhealthy').
-aqi('Istanbul', 6, 28, 133.0592964824121, 'Poor').
+aqi('Istanbul', 6, 28, 133.05929648241207, 'Poor').
 aqi('Toronto', 11, 10, 184.61844046364595, 'Unhealthy').
 aqi('Berlin', 9, 21, 159.02897787144363, 'Unhealthy').
 aqi('Mumbai', 5, 6, 168.83930453108536, 'Unhealthy').
@@ -22050,27 +22050,27 @@ aqi('Bangkok', 11, 19, 82.9236051502146, 'Moderate').
 aqi('Johannesburg', 4, 8, 178.45858798735512, 'Unhealthy').
 aqi('Madrid', 6, 2, 155.92065331928345, 'Unhealthy').
 aqi('Cairo', 3, 26, 66.3978787878788, 'Moderate').
-aqi('Mumbai', 2, 1, 183.554794520548, 'Unhealthy').
+aqi('Mumbai', 2, 1, 183.55479452054794, 'Unhealthy').
 aqi('Beijing', 9, 6, 170.9872497365648, 'Unhealthy').
-aqi('Berlin', 8, 22, 188.86269757639624, 'Unhealthy').
+aqi('Berlin', 8, 22, 188.86269757639622, 'Unhealthy').
 aqi('Bangkok', 7, 16, 130.2030150753769, 'Poor').
 aqi('Johannesburg', 12, 22, 174.9991570073762, 'Unhealthy').
-aqi('New York', 9, 16, 113.21306532663316, 'Poor').
-aqi('Johannesburg', 8, 2, 117.81343434343437, 'Poor').
+aqi('New York', 9, 16, 113.21306532663317, 'Poor').
+aqi('Johannesburg', 8, 2, 117.81343434343435, 'Poor').
 aqi('Mexico City', 10, 27, 179.56870389884088, 'Unhealthy').
 aqi('Mumbai', 3, 20, 153.75721812434142, 'Unhealthy').
-aqi('Johannesburg', 10, 18, 193.69041095890407, 'Unhealthy').
+aqi('Johannesburg', 10, 18, 193.69041095890412, 'Unhealthy').
 aqi('Tokyo', 12, 25, 188.77492096944152, 'Unhealthy').
-aqi('Mumbai', 11, 4, 162.0185458377239, 'Unhealthy').
+aqi('Mumbai', 11, 4, 162.01854583772393, 'Unhealthy').
 aqi('Sydney', 2, 11, 164.68798735511064, 'Unhealthy').
 aqi('London', 4, 5, 165.86006322444678, 'Unhealthy').
 aqi('Tokyo', 12, 20, 183.9059009483667, 'Unhealthy').
 aqi('Mumbai', 1, 20, 182.96617492096945, 'Unhealthy').
-aqi('Los Angeles', 2, 3, 120.2881818181818, 'Poor').
+aqi('Los Angeles', 2, 3, 120.28818181818181, 'Poor').
 aqi('Toronto', 6, 21, 108.9286432160804, 'Poor').
 aqi('Mumbai', 12, 5, 173.06290832455215, 'Unhealthy').
 aqi('Moscow', 4, 7, 158.93603793466806, 'Unhealthy').
-aqi('London', 5, 3, 121.52060606060608, 'Poor').
+aqi('London', 5, 3, 121.52060606060607, 'Poor').
 aqi('Bangkok', 6, 7, 175.9027397260274, 'Unhealthy').
 aqi('Seoul', 8, 5, 74.4, 'Moderate').
 aqi('Rio de Janeiro', 9, 8, 161.7913593256059, 'Unhealthy').
@@ -22080,24 +22080,24 @@ aqi('Paris', 4, 26, 78.76171717171718, 'Moderate').
 aqi('Mexico City', 1, 8, 180.04889357218124, 'Unhealthy').
 aqi('Mexico City', 2, 5, 167.49167544783984, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 9, 155.38883034773446, 'Unhealthy').
-aqi('Bangkok', 2, 7, 113.48391959798997, 'Poor').
+aqi('Bangkok', 2, 7, 113.48391959798995, 'Poor').
 aqi('Istanbul', 3, 28, 179.73393045310854, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 20, 186.68893572181244, 'Unhealthy').
 aqi('Tokyo', 11, 18, 175.0559536354057, 'Unhealthy').
 aqi('Beijing', 5, 24, 178.17460484720758, 'Unhealthy').
-aqi('Cairo', 12, 17, 110.73070707070708, 'Poor').
-aqi('Rio de Janeiro', 11, 19, 111.93838383838384, 'Poor').
+aqi('Cairo', 12, 17, 110.73070707070707, 'Poor').
+aqi('Rio de Janeiro', 11, 19, 111.93838383838383, 'Poor').
 aqi('Istanbul', 9, 9, 175.4277133825079, 'Unhealthy').
 aqi('Los Angeles', 12, 24, 162.67428872497365, 'Unhealthy').
 aqi('Toronto', 12, 24, 179.87850368809274, 'Unhealthy').
 aqi('Madrid', 2, 1, 187.8403582718651, 'Unhealthy').
 aqi('Tokyo', 2, 19, 171.85468914646998, 'Unhealthy').
 aqi('Cairo', 11, 12, 163.23709167544783, 'Unhealthy').
-aqi('Los Angeles', 4, 23, 104.91507537688445, 'Poor').
+aqi('Los Angeles', 4, 23, 104.91507537688443, 'Poor').
 aqi('Dubai', 11, 27, 172.48977871443626, 'Unhealthy').
 aqi('Mumbai', 3, 15, 171.63266596417282, 'Unhealthy').
-aqi('Johannesburg', 2, 27, 123.89949748743716, 'Poor').
-aqi('Istanbul', 10, 28, 103.06888888888888, 'Poor').
+aqi('Johannesburg', 2, 27, 123.89949748743717, 'Poor').
+aqi('Istanbul', 10, 28, 103.06888888888889, 'Poor').
 aqi('Madrid', 7, 23, 152.03266596417282, 'Unhealthy').
 aqi('Cairo', 9, 10, 180.66332982086408, 'Unhealthy').
 aqi('Toronto', 3, 3, 173.33656480505795, 'Unhealthy').
@@ -22106,21 +22106,21 @@ aqi('Cairo', 5, 17, 167.99251844046364, 'Unhealthy').
 aqi('Dubai', 3, 22, 119.81206030150754, 'Poor').
 aqi('Madrid', 8, 24, 182.87323498419389, 'Unhealthy').
 aqi('Bangkok', 5, 20, 128.9964824120603, 'Poor').
-aqi('Paris', 10, 26, 153.7830347734457, 'Unhealthy').
+aqi('Paris', 10, 26, 153.78303477344573, 'Unhealthy').
 aqi('Toronto', 10, 18, 179.5790305584826, 'Unhealthy').
-aqi('Tokyo', 5, 18, 97.22828282828284, 'Moderate').
+aqi('Tokyo', 5, 18, 97.22828282828283, 'Moderate').
 aqi('New York', 10, 10, 186.10031612223395, 'Unhealthy').
 aqi('Mexico City', 2, 21, 106.34321608040202, 'Poor').
 aqi('Beijing', 4, 7, 175.2108535300316, 'Unhealthy').
-aqi('Johannesburg', 5, 6, 102.6005025125628, 'Poor').
+aqi('Johannesburg', 5, 6, 102.60050251256281, 'Poor').
 aqi('Toronto', 3, 14, 132.34522613065326, 'Poor').
 aqi('Los Angeles', 4, 12, 99.01158798283262, 'Moderate').
 aqi('Johannesburg', 10, 13, 185.26385669125395, 'Unhealthy').
 aqi('Sydney', 9, 6, 168.49336143308744, 'Unhealthy').
 aqi('Cairo', 7, 5, 95.53555555555556, 'Moderate').
-aqi('Madrid', 11, 11, 120.8708542713568, 'Poor').
+aqi('Madrid', 11, 11, 120.87085427135679, 'Poor').
 aqi('Moscow', 11, 22, 143.86884422110552, 'Poor').
-aqi('Beijing', 12, 11, 107.75862068965516, 'Poor').
+aqi('Beijing', 12, 11, 107.75862068965517, 'Poor').
 aqi('Johannesburg', 4, 20, 164.3781875658588, 'Unhealthy').
 aqi('Bangkok', 7, 15, 152.1927291886196, 'Unhealthy').
 aqi('Bangkok', 8, 6, 195.56986301369864, 'Unhealthy').
@@ -22133,16 +22133,16 @@ aqi('Dubai', 11, 12, 174.9836670179136, 'Unhealthy').
 aqi('Mumbai', 6, 21, 175.5154899894626, 'Unhealthy').
 aqi('Istanbul', 1, 22, 153.36480505795575, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 3, 158.559114857745, 'Unhealthy').
-aqi('Seoul', 7, 4, 193.9382507903056, 'Unhealthy').
-aqi('Mumbai', 9, 10, 107.58282828282827, 'Poor').
-aqi('Moscow', 7, 16, 103.01939393939396, 'Poor').
-aqi('Paris', 12, 13, 184.0556375131717, 'Unhealthy').
+aqi('Seoul', 7, 4, 193.93825079030557, 'Unhealthy').
+aqi('Mumbai', 9, 10, 107.58282828282829, 'Poor').
+aqi('Moscow', 7, 16, 103.01939393939395, 'Poor').
+aqi('Paris', 12, 13, 184.05563751317175, 'Unhealthy').
 aqi('Istanbul', 10, 4, 147.4145728643216, 'Poor').
 aqi('Madrid', 1, 14, 179.54805057955744, 'Unhealthy').
 aqi('Johannesburg', 11, 24, 153.37513171759747, 'Unhealthy').
 aqi('Sydney', 11, 7, 183.12623814541624, 'Unhealthy').
 aqi('London', 6, 23, 171.97344573234983, 'Unhealthy').
-aqi('London', 8, 2, 190.5201264488936, 'Unhealthy').
+aqi('London', 8, 2, 190.52012644889356, 'Unhealthy').
 aqi('Mexico City', 4, 16, 121.70804020100502, 'Poor').
 aqi('Mexico City', 8, 18, 180.8440463645943, 'Unhealthy').
 aqi('Madrid', 10, 11, 111.5140703517588, 'Poor').
@@ -22155,19 +22155,19 @@ aqi('Sydney', 9, 5, 169.01485774499474, 'Unhealthy').
 aqi('Beijing', 6, 16, 122.05276381909547, 'Poor').
 aqi('Mexico City', 11, 1, 151.51116965226555, 'Unhealthy').
 aqi('Dubai', 4, 15, 84.33065217391305, 'Moderate').
-aqi('Madrid', 4, 8, 90.81868686868688, 'Moderate').
+aqi('Madrid', 4, 8, 90.81868686868687, 'Moderate').
 aqi('Los Angeles', 7, 27, 155.65732349841937, 'Unhealthy').
 aqi('Cairo', 11, 24, 85.53133047210301, 'Moderate').
 aqi('Cairo', 4, 12, 30.833333333333336, 'Good').
 aqi('Toronto', 3, 5, 144.50904522613067, 'Poor').
 aqi('Mumbai', 3, 2, 164.9513171759747, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 5, 155.15648050579557, 'Unhealthy').
-aqi('Beijing', 10, 24, 97.30815450643776, 'Moderate').
+aqi('Beijing', 10, 24, 97.30815450643777, 'Moderate').
 aqi('Rio de Janeiro', 11, 8, 152.66259220231822, 'Unhealthy').
-aqi('Los Angeles', 12, 7, 183.5031612223393, 'Unhealthy').
+aqi('Los Angeles', 12, 7, 183.50316122233932, 'Unhealthy').
 aqi('New York', 4, 4, 175.92855637513173, 'Unhealthy').
 aqi('Dubai', 9, 12, 165.7, 'Unhealthy').
-aqi('Seoul', 6, 25, 120.2040404040404, 'Poor').
+aqi('Seoul', 6, 25, 120.20404040404041, 'Poor').
 aqi('Los Angeles', 11, 25, 138.5502512562814, 'Poor').
 aqi('Paris', 5, 10, 179.74942044257114, 'Unhealthy').
 aqi('Mexico City', 6, 12, 181.38103266596417, 'Unhealthy').
@@ -22175,13 +22175,13 @@ aqi('Toronto', 7, 28, 98.96952789699571, 'Moderate').
 aqi('Johannesburg', 8, 11, 179.0368809272919, 'Unhealthy').
 aqi('Paris', 12, 9, 156.73645943097998, 'Unhealthy').
 aqi('Toronto', 10, 27, 186.07966280295048, 'Unhealthy').
-aqi('Paris', 11, 19, 97.72875536480689, 'Moderate').
-aqi('Bangkok', 7, 24, 112.4497487437186, 'Poor').
+aqi('Paris', 11, 19, 97.72875536480687, 'Moderate').
+aqi('Bangkok', 7, 24, 112.44974874371859, 'Poor').
 aqi('Paris', 10, 19, 68.81244635193133, 'Moderate').
 aqi('Los Angeles', 12, 10, 160.0822971548999, 'Unhealthy').
 aqi('Istanbul', 12, 14, 174.75131717597472, 'Unhealthy').
 aqi('New York', 7, 4, 164.88419388830349, 'Unhealthy').
-aqi('Los Angeles', 11, 28, 196.11717597471025, 'Unhealthy').
+aqi('Los Angeles', 11, 28, 196.11717597471022, 'Unhealthy').
 aqi('New York', 11, 19, 193.46838777660696, 'Unhealthy').
 aqi('Mumbai', 6, 21, 197.43382507903056, 'Unhealthy').
 aqi('Istanbul', 2, 25, 168.72054794520548, 'Unhealthy').
@@ -22193,7 +22193,7 @@ aqi('Tokyo', 6, 11, 170.98208640674395, 'Unhealthy').
 aqi('London', 4, 19, 154.84668071654374, 'Unhealthy').
 aqi('Mumbai', 9, 10, 177.47755532139095, 'Unhealthy').
 aqi('London', 10, 4, 155.26491043203373, 'Unhealthy').
-aqi('Mexico City', 3, 11, 196.9949420442572, 'Unhealthy').
+aqi('Mexico City', 3, 11, 196.99494204425713, 'Unhealthy').
 aqi('Cairo', 10, 4, 153.53519494204426, 'Unhealthy').
 aqi('Dubai', 1, 7, 93.2, 'Moderate').
 aqi('Dubai', 4, 26, 83.80000000000001, 'Moderate').
@@ -22224,14 +22224,14 @@ aqi('Rio de Janeiro', 12, 17, 92.6, 'Moderate').
 aqi('Madrid', 10, 26, 155.31138040042148, 'Unhealthy').
 aqi('Berlin', 4, 21, 194.3100105374078, 'Unhealthy').
 aqi('Los Angeles', 6, 9, 190.9744994731296, 'Unhealthy').
-aqi('Moscow', 10, 15, 199.3287671232877, 'Unhealthy').
-aqi('Johannesburg', 10, 18, 193.8866174920969, 'Unhealthy').
+aqi('Moscow', 10, 15, 199.32876712328766, 'Unhealthy').
+aqi('Johannesburg', 10, 18, 193.88661749209695, 'Unhealthy').
 aqi('Cairo', 5, 6, 172.9441517386723, 'Unhealthy').
 aqi('Moscow', 11, 27, 78.99098712446352, 'Moderate').
-aqi('London', 8, 4, 193.69041095890407, 'Unhealthy').
+aqi('London', 8, 4, 193.69041095890412, 'Unhealthy').
 aqi('Mumbai', 10, 10, 69.63261802575107, 'Moderate').
 aqi('Tokyo', 2, 8, 154.49557428872498, 'Unhealthy').
-aqi('Dubai', 6, 2, 195.5130663856692, 'Unhealthy').
+aqi('Dubai', 6, 2, 195.51306638566913, 'Unhealthy').
 aqi('London', 11, 27, 178.25205479452055, 'Unhealthy').
 aqi('Paris', 11, 21, 158.1976817702845, 'Unhealthy').
 aqi('Istanbul', 6, 16, 77.0, 'Moderate').
@@ -22245,10 +22245,10 @@ aqi('Mumbai', 1, 2, 149.06432160804022, 'Poor').
 aqi('Moscow', 5, 12, 113.77939698492462, 'Poor').
 aqi('Mumbai', 11, 17, 189.80242360379347, 'Unhealthy').
 aqi('Bangkok', 11, 12, 131.8035175879397, 'Poor').
-aqi('Toronto', 7, 4, 195.6266596417281, 'Unhealthy').
+aqi('Toronto', 7, 4, 195.62665964172814, 'Unhealthy').
 aqi('Madrid', 3, 13, 172.38651211801897, 'Unhealthy').
 aqi('Dubai', 7, 2, 129.14422110552763, 'Poor').
-aqi('Paris', 12, 16, 111.464824120603, 'Poor').
+aqi('Paris', 12, 16, 111.46482412060301, 'Poor').
 aqi('Mexico City', 1, 20, 154.75890410958905, 'Unhealthy').
 aqi('New York', 1, 5, 171.18345626975764, 'Unhealthy').
 aqi('Los Angeles', 5, 5, 97.1, 'Moderate').
@@ -22256,7 +22256,7 @@ aqi('Tokyo', 12, 25, 84.14334763948499, 'Moderate').
 aqi('London', 12, 21, 163.99093782929398, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 13, 156.4473129610116, 'Unhealthy').
 aqi('Beijing', 10, 22, 181.56691253951527, 'Unhealthy').
-aqi('Beijing', 12, 17, 180.172813487882, 'Unhealthy').
+aqi('Beijing', 12, 17, 180.17281348788197, 'Unhealthy').
 aqi('London', 10, 10, 71.65424242424243, 'Moderate').
 aqi('Sydney', 3, 11, 177.5085353003161, 'Unhealthy').
 aqi('London', 12, 2, 171.0595363540569, 'Unhealthy').
@@ -22268,9 +22268,9 @@ aqi('Tokyo', 6, 4, 91.0909090909091, 'Moderate').
 aqi('Johannesburg', 10, 14, 157.39220231822972, 'Unhealthy').
 aqi('Johannesburg', 11, 27, 197.13435194942045, 'Unhealthy').
 aqi('Mumbai', 12, 4, 177.0799789251844, 'Unhealthy').
-aqi('Istanbul', 2, 10, 194.7747102212856, 'Unhealthy').
+aqi('Istanbul', 2, 10, 194.77471022128557, 'Unhealthy').
 aqi('Seoul', 11, 16, 167.63108535300316, 'Unhealthy').
-aqi('London', 12, 11, 196.89167544783984, 'Unhealthy').
+aqi('London', 12, 11, 196.89167544783982, 'Unhealthy').
 aqi('Madrid', 9, 20, 90.1041304347826, 'Moderate').
 aqi('Paris', 5, 7, 165.93234984193887, 'Unhealthy').
 aqi('Sydney', 5, 21, 154.97576396206534, 'Unhealthy').
@@ -22278,25 +22278,25 @@ aqi('Dubai', 10, 22, 82.37682403433476, 'Moderate').
 aqi('Madrid', 9, 28, 122.2251256281407, 'Poor').
 aqi('Tokyo', 12, 6, 175.00948366701792, 'Unhealthy').
 aqi('Dubai', 1, 18, 156.75194942044257, 'Unhealthy').
-aqi('New York', 5, 7, 180.4774499473129, 'Unhealthy').
+aqi('New York', 5, 7, 180.47744994731295, 'Unhealthy').
 aqi('Sydney', 2, 27, 164.8945205479452, 'Unhealthy').
 aqi('Mumbai', 11, 12, 153.25121180189674, 'Unhealthy').
 aqi('Moscow', 5, 11, 159.96354056902, 'Unhealthy').
-aqi('Paris', 10, 4, 97.4763948497854, 'Moderate').
+aqi('Paris', 10, 4, 97.47639484978541, 'Moderate').
 aqi('New York', 11, 25, 179.58935721812435, 'Unhealthy').
-aqi('Toronto', 11, 15, 117.65505050505053, 'Poor').
+aqi('Toronto', 11, 15, 117.65505050505051, 'Poor').
 aqi('Sydney', 10, 7, 198.48714436248684, 'Unhealthy').
 aqi('Mumbai', 5, 19, 123.4070351758794, 'Poor').
 aqi('Rio de Janeiro', 4, 7, 84.5, 'Moderate').
 aqi('Berlin', 7, 6, 183.98335089567968, 'Unhealthy').
 aqi('Dubai', 8, 17, 97.6, 'Moderate').
-aqi('London', 4, 15, 185.1760800842993, 'Unhealthy').
+aqi('London', 4, 15, 185.17608008429926, 'Unhealthy').
 aqi('Tokyo', 2, 20, 167.5691253951528, 'Unhealthy').
 aqi('Mexico City', 10, 5, 156.2304531085353, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 24, 82.3137339055794, 'Moderate').
 aqi('Moscow', 2, 11, 84.6, 'Moderate').
 aqi('Toronto', 2, 21, 134.7829145728643, 'Poor').
-aqi('Rio de Janeiro', 5, 23, 108.6519191919192, 'Poor').
+aqi('Rio de Janeiro', 5, 23, 108.65191919191919, 'Poor').
 aqi('Cairo', 1, 8, 164.64151738672285, 'Unhealthy').
 aqi('Tokyo', 12, 22, 92.1, 'Moderate').
 aqi('Berlin', 5, 3, 157.25795574288725, 'Unhealthy').
@@ -22305,41 +22305,41 @@ aqi('Tokyo', 5, 26, 74.40616161616163, 'Moderate').
 aqi('Tokyo', 1, 24, 121.68341708542714, 'Poor').
 aqi('Seoul', 4, 10, 69.59055793991416, 'Moderate').
 aqi('Toronto', 6, 7, 104.35575757575758, 'Poor').
-aqi('Los Angeles', 2, 3, 183.07976817702848, 'Unhealthy').
+aqi('Los Angeles', 2, 3, 183.07976817702846, 'Unhealthy').
 aqi('Sydney', 4, 10, 185.57881981032665, 'Unhealthy').
 aqi('Cairo', 2, 21, 177.78219178082193, 'Unhealthy').
 aqi('Tokyo', 4, 4, 119.88592964824122, 'Poor').
 aqi('Berlin', 2, 2, 199.15837723919915, 'Unhealthy').
-aqi('Seoul', 12, 3, 180.61169652265545, 'Unhealthy').
+aqi('Seoul', 12, 3, 180.61169652265542, 'Unhealthy').
 aqi('Madrid', 5, 4, 165.56575342465754, 'Unhealthy').
 aqi('Sydney', 1, 8, 151.98619599578504, 'Unhealthy').
 aqi('Tokyo', 5, 27, 169.85648050579556, 'Unhealthy').
 aqi('Bangkok', 2, 28, 176.145416227608, 'Unhealthy').
 aqi('Johannesburg', 1, 16, 95.25838383838384, 'Moderate').
 aqi('Cairo', 6, 22, 188.2172813487882, 'Unhealthy').
-aqi('Sydney', 5, 18, 162.1269757639621, 'Unhealthy').
-aqi('Madrid', 11, 26, 191.8109589041096, 'Unhealthy').
+aqi('Sydney', 5, 18, 162.12697576396207, 'Unhealthy').
+aqi('Madrid', 11, 26, 191.81095890410958, 'Unhealthy').
 aqi('Seoul', 11, 15, 101.47515151515152, 'Poor').
 aqi('Paris', 8, 19, 161.20790305584825, 'Unhealthy').
 aqi('Istanbul', 1, 14, 176.15057955742887, 'Unhealthy').
-aqi('Mexico City', 1, 20, 187.76807165437305, 'Unhealthy').
+aqi('Mexico City', 1, 20, 187.76807165437302, 'Unhealthy').
 aqi('Bangkok', 7, 26, 173.02676501580612, 'Unhealthy').
-aqi('London', 9, 20, 183.06427818756583, 'Unhealthy').
+aqi('London', 9, 20, 183.06427818756586, 'Unhealthy').
 aqi('Cairo', 2, 21, 187.1123287671233, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 24, 177.4517386722866, 'Unhealthy').
 aqi('Los Angeles', 11, 13, 164.79125395152792, 'Unhealthy').
 aqi('Paris', 7, 21, 99.5, 'Moderate').
-aqi('Mumbai', 5, 19, 126.4849246231156, 'Poor').
+aqi('Mumbai', 5, 19, 126.48492462311559, 'Poor').
 aqi('Istanbul', 1, 3, 179.15563751317177, 'Unhealthy').
 aqi('Moscow', 7, 7, 110.77537688442212, 'Poor').
-aqi('Istanbul', 6, 19, 165.3179135932561, 'Unhealthy').
+aqi('Istanbul', 6, 19, 165.31791359325607, 'Unhealthy').
 aqi('London', 11, 6, 113.0619191919192, 'Poor').
 aqi('Cairo', 2, 6, 133.77336683417087, 'Poor').
 aqi('Rio de Janeiro', 12, 3, 170.89430979978926, 'Unhealthy').
 aqi('Sydney', 11, 2, 173.54309799789252, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 23, 121.92151515151517, 'Poor').
-aqi('Seoul', 12, 13, 106.91379310344828, 'Poor').
-aqi('New York', 7, 9, 105.57989949748745, 'Poor').
+aqi('Seoul', 12, 13, 106.91379310344827, 'Poor').
+aqi('New York', 7, 9, 105.57989949748743, 'Poor').
 aqi('Berlin', 11, 13, 171.33835616438355, 'Unhealthy').
 aqi('Mexico City', 10, 5, 119.6643216080402, 'Poor').
 aqi('Cairo', 1, 28, 133.67487437185932, 'Poor').
@@ -22348,19 +22348,19 @@ aqi('Paris', 6, 11, 178.26754478398314, 'Unhealthy').
 aqi('Toronto', 12, 3, 157.53677555321391, 'Unhealthy').
 aqi('Mumbai', 11, 17, 193.72655426765016, 'Unhealthy').
 aqi('Istanbul', 10, 18, 126.2140703517588, 'Poor').
-aqi('Tokyo', 6, 24, 184.3292939936776, 'Unhealthy').
+aqi('Tokyo', 6, 24, 184.32929399367754, 'Unhealthy').
 aqi('Moscow', 6, 23, 168.80832455216017, 'Unhealthy').
 aqi('Johannesburg', 3, 21, 176.58946259220232, 'Unhealthy').
 aqi('Istanbul', 7, 17, 158.14604847207588, 'Unhealthy').
 aqi('Bangkok', 3, 4, 111.31708542713568, 'Poor').
 aqi('Los Angeles', 10, 27, 63.71487179487179, 'Moderate').
 aqi('Beijing', 12, 6, 169.9236037934668, 'Unhealthy').
-aqi('Los Angeles', 4, 26, 198.5800842992624, 'Unhealthy').
+aqi('Los Angeles', 4, 26, 198.58008429926238, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 13, 160.57797681770285, 'Unhealthy').
-aqi('Rio de Janeiro', 6, 4, 107.69748743718591, 'Poor').
+aqi('Rio de Janeiro', 6, 4, 107.69748743718593, 'Poor').
 aqi('London', 11, 16, 185.8060063224447, 'Unhealthy').
 aqi('Johannesburg', 8, 6, 194.4855637513172, 'Unhealthy').
-aqi('Istanbul', 9, 18, 180.4619599578504, 'Unhealthy').
+aqi('Istanbul', 9, 18, 180.46195995785038, 'Unhealthy').
 aqi('Mexico City', 9, 23, 179.0936775553214, 'Unhealthy').
 aqi('Berlin', 12, 2, 151.2736564805058, 'Unhealthy').
 aqi('Moscow', 6, 12, 157.21664910432034, 'Unhealthy').
@@ -22368,12 +22368,12 @@ aqi('Toronto', 1, 16, 191.25848261327712, 'Unhealthy').
 aqi('Toronto', 2, 19, 162.75173867228662, 'Unhealthy').
 aqi('Paris', 7, 26, 181.41201264488936, 'Unhealthy').
 aqi('Toronto', 1, 26, 57.29575757575758, 'Moderate').
-aqi('Cairo', 6, 22, 97.73313131313132, 'Moderate').
+aqi('Cairo', 6, 22, 97.73313131313131, 'Moderate').
 aqi('Dubai', 5, 20, 163.6036880927292, 'Unhealthy').
 aqi('Istanbul', 3, 28, 174.66354056902003, 'Unhealthy').
 aqi('Madrid', 9, 4, 172.54141201264488, 'Unhealthy').
 aqi('Johannesburg', 11, 15, 182.413698630137, 'Unhealthy').
-aqi('Bangkok', 6, 4, 183.80263435194945, 'Unhealthy').
+aqi('Bangkok', 6, 4, 183.80263435194942, 'Unhealthy').
 aqi('Mumbai', 9, 4, 168.00800842992624, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 20, 157.7846153846154, 'Unhealthy').
 aqi('Moscow', 9, 13, 75.79442060085837, 'Moderate').
@@ -22401,16 +22401,16 @@ aqi('Johannesburg', 5, 15, 88.81414141414142, 'Moderate').
 aqi('London', 9, 21, 180.89567966280296, 'Unhealthy').
 aqi('Moscow', 9, 17, 132.68994974874371, 'Poor').
 aqi('Mexico City', 3, 11, 177.47755532139095, 'Unhealthy').
-aqi('Moscow', 11, 14, 189.745626975764, 'Unhealthy').
+aqi('Moscow', 11, 14, 189.74562697576397, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 26, 158.62107481559536, 'Unhealthy').
-aqi('Tokyo', 3, 14, 190.6130663856692, 'Unhealthy').
+aqi('Tokyo', 3, 14, 190.61306638566913, 'Unhealthy').
 aqi('Toronto', 3, 22, 108.06787878787878, 'Poor').
 aqi('Mumbai', 5, 22, 78.82274678111588, 'Moderate').
 aqi('Sydney', 4, 25, 119.3329292929293, 'Poor').
 aqi('Rio de Janeiro', 7, 15, 173.73930453108537, 'Unhealthy').
 aqi('Johannesburg', 1, 28, 186.79220231822973, 'Unhealthy').
 aqi('Cairo', 3, 3, 190.01928345626976, 'Unhealthy').
-aqi('London', 3, 3, 99.52065217391304, 'Moderate').
+aqi('London', 3, 3, 99.52065217391305, 'Moderate').
 aqi('New York', 2, 14, 170.52255005268705, 'Unhealthy').
 aqi('Mexico City', 8, 16, 87.88858585858586, 'Moderate').
 aqi('Bangkok', 9, 2, 124.41658291457286, 'Poor').
@@ -22422,7 +22422,7 @@ aqi('Tokyo', 11, 15, 94.5209090909091, 'Moderate').
 aqi('Mexico City', 12, 9, 191.1913593256059, 'Unhealthy').
 aqi('Beijing', 9, 27, 163.65532139093784, 'Unhealthy').
 aqi('Beijing', 4, 16, 139.65829145728645, 'Poor').
-aqi('New York', 9, 14, 115.91777777777776, 'Poor').
+aqi('New York', 9, 14, 115.91777777777777, 'Poor').
 aqi('Seoul', 6, 16, 114.16565656565656, 'Poor').
 aqi('Toronto', 4, 26, 72.9609090909091, 'Moderate').
 aqi('Mexico City', 8, 23, 192.74035827186512, 'Unhealthy').
@@ -22446,7 +22446,7 @@ aqi('Seoul', 4, 5, 108.43618090452262, 'Poor').
 aqi('Moscow', 5, 6, 172.03024236037936, 'Unhealthy').
 aqi('Beijing', 1, 10, 158.00147523709168, 'Unhealthy').
 aqi('Bangkok', 4, 15, 177.67892518440465, 'Unhealthy').
-aqi('Paris', 10, 13, 116.48793969849244, 'Poor').
+aqi('Paris', 10, 13, 116.48793969849245, 'Poor').
 aqi('Seoul', 2, 2, 186.66828240252897, 'Unhealthy').
 aqi('Mumbai', 3, 12, 187.08651211801896, 'Unhealthy').
 aqi('Cairo', 1, 15, 86.39717391304347, 'Moderate').
@@ -22457,12 +22457,12 @@ aqi('Dubai', 10, 12, 170.66195995785037, 'Unhealthy').
 aqi('Dubai', 8, 5, 87.89999999999999, 'Moderate').
 aqi('Mumbai', 2, 6, 160.83614330874605, 'Unhealthy').
 aqi('Seoul', 10, 13, 86.45665236051502, 'Moderate').
-aqi('Mexico City', 9, 17, 199.0447839831401, 'Unhealthy').
+aqi('Mexico City', 9, 17, 199.04478398314015, 'Unhealthy').
 aqi('London', 1, 24, 74.7, 'Moderate').
 aqi('Tokyo', 5, 16, 165.01327713382508, 'Unhealthy').
 aqi('Cairo', 2, 24, 155.69346680716544, 'Unhealthy').
 aqi('Johannesburg', 7, 18, 90.24454545454546, 'Moderate').
-aqi('Moscow', 5, 13, 199.0602739726028, 'Unhealthy').
+aqi('Moscow', 5, 13, 199.06027397260274, 'Unhealthy').
 aqi('New York', 6, 22, 147.9562814070352, 'Poor').
 aqi('Paris', 6, 7, 160.80516332982086, 'Unhealthy').
 aqi('Johannesburg', 11, 1, 176.27966280295047, 'Unhealthy').
@@ -22472,11 +22472,11 @@ aqi('Berlin', 10, 5, 165.02876712328768, 'Unhealthy').
 aqi('Toronto', 7, 7, 165.20432033719706, 'Unhealthy').
 aqi('Madrid', 4, 5, 108.62222222222222, 'Poor').
 aqi('Tokyo', 3, 20, 158.4403582718651, 'Unhealthy').
-aqi('Beijing', 8, 17, 151.30979978925183, 'Unhealthy').
+aqi('Beijing', 8, 17, 151.30979978925185, 'Unhealthy').
 aqi('Berlin', 10, 10, 161.82233930453108, 'Unhealthy').
 aqi('Beijing', 4, 2, 174.65321390937828, 'Unhealthy').
 aqi('Tokyo', 3, 17, 184.64425711275027, 'Unhealthy').
-aqi('Los Angeles', 9, 3, 101.53454545454548, 'Poor').
+aqi('Los Angeles', 9, 3, 101.53454545454547, 'Poor').
 aqi('Madrid', 2, 6, 157.35605900948366, 'Unhealthy').
 aqi('Toronto', 9, 17, 155.01190727081138, 'Unhealthy').
 aqi('Beijing', 7, 15, 197.00526870389885, 'Unhealthy').
@@ -22487,18 +22487,18 @@ aqi('Istanbul', 6, 23, 96.26108695652174, 'Moderate').
 aqi('Paris', 12, 9, 164.22845100105374, 'Unhealthy').
 aqi('Sydney', 10, 4, 188.04689146469968, 'Unhealthy').
 aqi('Tokyo', 5, 4, 197.55258166491043, 'Unhealthy').
-aqi('Toronto', 1, 13, 116.43747474747477, 'Poor').
+aqi('Toronto', 1, 13, 116.43747474747475, 'Poor').
 aqi('Bangkok', 7, 28, 155.7141201264489, 'Unhealthy').
 aqi('Los Angeles', 5, 10, 94.39717171717172, 'Moderate').
 aqi('Johannesburg', 9, 9, 166.5312961011591, 'Unhealthy').
-aqi('Sydney', 8, 24, 102.89597989949748, 'Poor').
+aqi('Sydney', 8, 24, 102.89597989949749, 'Poor').
 aqi('Beijing', 9, 22, 133.2070351758794, 'Poor').
 aqi('Bangkok', 9, 22, 164.1613277133825, 'Unhealthy').
 aqi('Seoul', 11, 6, 194.7282402528978, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 13, 168.35395152792412, 'Unhealthy').
 aqi('London', 7, 7, 193.0759747102213, 'Unhealthy').
 aqi('Seoul', 6, 22, 78.5, 'Moderate').
-aqi('Dubai', 8, 28, 187.12265542676505, 'Unhealthy').
+aqi('Dubai', 8, 28, 187.12265542676502, 'Unhealthy').
 aqi('Johannesburg', 7, 22, 137.93467336683418, 'Poor').
 aqi('Johannesburg', 9, 22, 128.60251256281407, 'Poor').
 aqi('Beijing', 7, 1, 95.68884120171674, 'Moderate').
@@ -22506,27 +22506,27 @@ aqi('Mexico City', 11, 15, 175.4845100105374, 'Unhealthy').
 aqi('Moscow', 5, 27, 79.5, 'Moderate').
 aqi('Johannesburg', 5, 12, 171.24025289778714, 'Unhealthy').
 aqi('Bangkok', 11, 19, 130.05527638190955, 'Poor').
-aqi('Mumbai', 10, 10, 125.40150753768845, 'Poor').
+aqi('Mumbai', 10, 10, 125.40150753768843, 'Poor').
 aqi('Bangkok', 6, 11, 162.43677555321392, 'Unhealthy').
 aqi('Beijing', 11, 25, 168.95289778714437, 'Unhealthy').
 aqi('Istanbul', 4, 23, 142.21909547738693, 'Poor').
-aqi('Mexico City', 9, 14, 123.18858585858588, 'Poor').
+aqi('Mexico City', 9, 14, 123.18858585858587, 'Poor').
 aqi('Moscow', 2, 8, 115.37989949748744, 'Poor').
 aqi('Tokyo', 6, 4, 185.21738672286617, 'Unhealthy').
 aqi('Paris', 9, 7, 67.1, 'Moderate').
-aqi('Dubai', 2, 24, 122.10201005025128, 'Poor').
+aqi('Dubai', 2, 24, 122.10201005025127, 'Poor').
 aqi('London', 8, 2, 181.74246575342465, 'Unhealthy').
 aqi('Bangkok', 1, 14, 175.0146469968388, 'Unhealthy').
 aqi('Cairo', 7, 24, 177.26069546891466, 'Unhealthy').
 aqi('Seoul', 4, 23, 184.62876712328767, 'Unhealthy').
 aqi('Berlin', 4, 6, 144.18894472361808, 'Poor').
 aqi('Mexico City', 11, 5, 187.83519494204427, 'Unhealthy').
-aqi('Dubai', 2, 27, 194.3358271865121, 'Unhealthy').
+aqi('Dubai', 2, 27, 194.33582718651212, 'Unhealthy').
 aqi('Berlin', 4, 27, 133.52713567839197, 'Poor').
 aqi('Madrid', 5, 10, 168.56564805057957, 'Unhealthy').
 aqi('Berlin', 3, 13, 160.9858798735511, 'Unhealthy').
-aqi('Cairo', 6, 20, 158.79662802950477, 'Unhealthy').
-aqi('Beijing', 10, 19, 106.76121212121213, 'Poor').
+aqi('Cairo', 6, 20, 158.79662802950475, 'Unhealthy').
+aqi('Beijing', 10, 19, 106.76121212121211, 'Poor').
 aqi('Rio de Janeiro', 12, 26, 179.35700737618546, 'Unhealthy').
 aqi('Madrid', 12, 15, 183.8232876712329, 'Unhealthy').
 aqi('Johannesburg', 4, 3, 154.10832455216018, 'Unhealthy').
@@ -22544,31 +22544,31 @@ aqi('Mumbai', 9, 22, 153.34415173867228, 'Unhealthy').
 aqi('Toronto', 12, 20, 77.6431313131313, 'Moderate').
 aqi('Johannesburg', 1, 19, 121.5356783919598, 'Poor').
 aqi('Cairo', 4, 4, 102.5206896551724, 'Poor').
-aqi('New York', 9, 11, 112.0621212121212, 'Poor').
+aqi('New York', 9, 11, 112.06212121212121, 'Poor').
 aqi('Bangkok', 8, 25, 186.10031612223395, 'Unhealthy').
 aqi('Johannesburg', 9, 24, 155.74510010537406, 'Unhealthy').
 aqi('Mumbai', 8, 1, 112.40050251256282, 'Poor').
-aqi('Toronto', 4, 23, 103.1678787878788, 'Poor').
+aqi('Toronto', 4, 23, 103.16787878787879, 'Poor').
 aqi('Istanbul', 5, 3, 162.64330874604846, 'Unhealthy').
 aqi('Berlin', 7, 22, 145.1246231155779, 'Poor').
 aqi('Dubai', 8, 1, 169.66027397260274, 'Unhealthy').
 aqi('Paris', 3, 17, 179.222760800843, 'Unhealthy').
 aqi('Dubai', 11, 9, 140.8894472361809, 'Poor').
 aqi('Seoul', 7, 20, 168.6172813487882, 'Unhealthy').
-aqi('Berlin', 4, 11, 180.58071654373023, 'Unhealthy').
+aqi('Berlin', 4, 11, 180.58071654373026, 'Unhealthy').
 aqi('Cairo', 11, 5, 174.82360379346682, 'Unhealthy').
 aqi('Madrid', 7, 28, 89.6110101010101, 'Moderate').
 aqi('Mexico City', 11, 14, 149.60603015075378, 'Poor').
 aqi('Sydney', 6, 4, 91.20944206008583, 'Moderate').
 aqi('Istanbul', 5, 11, 173.6463645943098, 'Unhealthy').
 aqi('Tokyo', 10, 25, 137.09748743718592, 'Poor').
-aqi('Los Angeles', 10, 10, 192.1827186512118, 'Unhealthy').
+aqi('Los Angeles', 10, 10, 192.18271865121181, 'Unhealthy').
 aqi('Mumbai', 2, 9, 161.21306638566912, 'Unhealthy').
-aqi('Mexico City', 6, 7, 112.05222222222224, 'Poor').
+aqi('Mexico City', 6, 7, 112.05222222222223, 'Poor').
 aqi('Dubai', 12, 15, 176.47586933614332, 'Unhealthy').
-aqi('Sydney', 9, 27, 199.4578503688093, 'Unhealthy').
+aqi('Sydney', 9, 27, 199.45785036880926, 'Unhealthy').
 aqi('Paris', 3, 18, 161.22855637513172, 'Unhealthy').
-aqi('Toronto', 5, 1, 191.2997892518441, 'Unhealthy').
+aqi('Toronto', 5, 1, 191.29978925184406, 'Unhealthy').
 aqi('Mumbai', 5, 20, 84.94847826086956, 'Moderate').
 aqi('Sydney', 7, 6, 156.28208640674393, 'Unhealthy').
 aqi('London', 11, 21, 136.5065326633166, 'Poor').
@@ -22581,10 +22581,10 @@ aqi('Bangkok', 10, 3, 160.23203371970496, 'Unhealthy').
 aqi('Sydney', 4, 1, 166.4486828240253, 'Unhealthy').
 aqi('Paris', 7, 15, 74.86909871244636, 'Moderate').
 aqi('Bangkok', 12, 16, 163.36101159114858, 'Unhealthy').
-aqi('Madrid', 5, 7, 181.009272918862, 'Unhealthy').
+aqi('Madrid', 5, 7, 181.00927291886197, 'Unhealthy').
 aqi('Paris', 4, 11, 195.1413066385669, 'Unhealthy').
 aqi('Seoul', 9, 7, 199.02413066385668, 'Unhealthy').
-aqi('London', 1, 18, 160.4024236037935, 'Unhealthy').
+aqi('London', 1, 18, 160.40242360379347, 'Unhealthy').
 aqi('Beijing', 8, 16, 190.66469968387776, 'Unhealthy').
 aqi('Berlin', 10, 27, 141.70201005025126, 'Poor').
 aqi('Sydney', 1, 28, 105.27141414141414, 'Poor').
@@ -22594,22 +22594,22 @@ aqi('Cairo', 7, 13, 164.85837723919917, 'Unhealthy').
 aqi('Dubai', 9, 28, 153.00337197049527, 'Unhealthy').
 aqi('London', 10, 1, 192.9004214963119, 'Unhealthy').
 aqi('Mumbai', 8, 16, 92.3579797979798, 'Moderate').
-aqi('New York', 2, 3, 187.5925184404637, 'Unhealthy').
-aqi('London', 12, 13, 186.1674394099052, 'Unhealthy').
-aqi('Rio de Janeiro', 1, 9, 187.8506849315069, 'Unhealthy').
-aqi('Sydney', 7, 4, 99.1, 'Moderate').
+aqi('New York', 2, 3, 187.59251844046366, 'Unhealthy').
+aqi('London', 12, 13, 186.16743940990517, 'Unhealthy').
+aqi('Rio de Janeiro', 1, 9, 187.85068493150686, 'Unhealthy').
+aqi('Sydney', 7, 4, 99.10000000000001, 'Moderate').
 aqi('Toronto', 2, 26, 167.65690200210747, 'Unhealthy').
 aqi('London', 3, 3, 117.20201005025126, 'Poor').
 aqi('Cairo', 6, 22, 154.48524762908323, 'Unhealthy').
 aqi('Istanbul', 9, 10, 63.09227467811159, 'Moderate').
 aqi('Moscow', 2, 23, 125.57386934673366, 'Poor').
 aqi('Cairo', 6, 11, 168.60695468914648, 'Unhealthy').
-aqi('Seoul', 3, 24, 198.21348788198105, 'Unhealthy').
+aqi('Seoul', 3, 24, 198.21348788198102, 'Unhealthy').
 aqi('Mumbai', 2, 19, 152.5231822971549, 'Unhealthy').
 aqi('Beijing', 8, 26, 101.61557788944724, 'Poor').
 aqi('Istanbul', 4, 10, 94.61, 'Moderate').
 aqi('Paris', 11, 11, 145.24773869346734, 'Poor').
-aqi('Rio de Janeiro', 1, 7, 91.7658695652174, 'Moderate').
+aqi('Rio de Janeiro', 1, 7, 91.76586956521739, 'Moderate').
 aqi('Paris', 7, 5, 99.6, 'Moderate').
 aqi('Seoul', 4, 20, 168.95289778714437, 'Unhealthy').
 aqi('Mumbai', 12, 22, 152.6264488935722, 'Unhealthy').
@@ -22617,7 +22617,7 @@ aqi('Rio de Janeiro', 12, 3, 194.21707060063224, 'Unhealthy').
 aqi('Berlin', 1, 28, 194.81601685985248, 'Unhealthy').
 aqi('London', 9, 19, 117.8422110552764, 'Poor').
 aqi('Moscow', 7, 24, 165.3695468914647, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 1, 187.4376185458377, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 1, 187.43761854583772, 'Unhealthy').
 aqi('Tokyo', 9, 26, 186.92128556375133, 'Unhealthy').
 aqi('Madrid', 4, 16, 108.79050505050506, 'Poor').
 aqi('Paris', 9, 16, 160.37144362486828, 'Unhealthy').
@@ -22632,7 +22632,7 @@ aqi('Bangkok', 3, 12, 181.3758693361433, 'Unhealthy').
 aqi('Toronto', 4, 7, 170.77038988408853, 'Unhealthy').
 aqi('Los Angeles', 4, 9, 168.58113804004216, 'Unhealthy').
 aqi('Toronto', 6, 9, 186.48240252897787, 'Unhealthy').
-aqi('Sydney', 2, 8, 115.65545454545456, 'Poor').
+aqi('Sydney', 2, 8, 115.65545454545455, 'Poor').
 aqi('Johannesburg', 12, 18, 107.82040404040404, 'Poor').
 aqi('Johannesburg', 12, 16, 167.41422550052687, 'Unhealthy').
 aqi('London', 3, 28, 167.26448893572183, 'Unhealthy').
@@ -22648,14 +22648,14 @@ aqi('Cairo', 2, 28, 157.45932560590094, 'Unhealthy').
 aqi('Los Angeles', 8, 15, 168.4159114857745, 'Unhealthy').
 aqi('Moscow', 8, 7, 185.7337197049526, 'Unhealthy').
 aqi('Cairo', 3, 18, 88.90323232323233, 'Moderate').
-aqi('Los Angeles', 6, 25, 159.5866174920969, 'Unhealthy').
+aqi('Los Angeles', 6, 25, 159.58661749209693, 'Unhealthy').
 aqi('Moscow', 5, 4, 151.43371970495258, 'Unhealthy').
-aqi('Madrid', 5, 27, 184.5564805057956, 'Unhealthy').
+aqi('Madrid', 5, 27, 184.55648050579558, 'Unhealthy').
 aqi('Los Angeles', 6, 2, 106.58944723618092, 'Poor').
-aqi('Sydney', 8, 25, 195.6214963119073, 'Unhealthy').
+aqi('Sydney', 8, 25, 195.62149631190726, 'Unhealthy').
 aqi('London', 1, 11, 182.5840885142255, 'Unhealthy').
 aqi('Los Angeles', 9, 13, 158.90505795574288, 'Unhealthy').
-aqi('Mexico City', 3, 15, 192.18788198103263, 'Unhealthy').
+aqi('Mexico City', 3, 15, 192.18788198103266, 'Unhealthy').
 aqi('Johannesburg', 5, 14, 175.99051633298208, 'Unhealthy').
 aqi('Toronto', 9, 21, 151.72802950474184, 'Unhealthy').
 aqi('Toronto', 8, 20, 190.3032665964173, 'Unhealthy').
@@ -22670,14 +22670,14 @@ aqi('London', 2, 11, 68.33846153846153, 'Moderate').
 aqi('Johannesburg', 4, 5, 137.68844221105527, 'Poor').
 aqi('Madrid', 12, 9, 178.7322444678609, 'Unhealthy').
 aqi('Madrid', 11, 7, 166.23698630136985, 'Unhealthy').
-aqi('Mumbai', 7, 8, 197.8520547945205, 'Unhealthy').
+aqi('Mumbai', 7, 8, 197.85205479452054, 'Unhealthy').
 aqi('Madrid', 7, 22, 109.54422110552764, 'Poor').
-aqi('Madrid', 6, 24, 194.7230769230769, 'Unhealthy').
+aqi('Madrid', 6, 24, 194.72307692307692, 'Unhealthy').
 aqi('Bangkok', 11, 20, 94.71652173913044, 'Moderate').
 aqi('Madrid', 11, 10, 176.96122233930453, 'Unhealthy').
 aqi('Beijing', 5, 21, 176.98703898840884, 'Unhealthy').
 aqi('Moscow', 8, 17, 168.472708113804, 'Unhealthy').
-aqi('Dubai', 5, 19, 133.0592964824121, 'Poor').
+aqi('Dubai', 5, 19, 133.05929648241207, 'Poor').
 aqi('Mexico City', 2, 23, 159.59694415173868, 'Unhealthy').
 aqi('Cairo', 12, 4, 179.5790305584826, 'Unhealthy').
 aqi('Paris', 7, 17, 89.16673913043479, 'Moderate').
@@ -22686,11 +22686,11 @@ aqi('Madrid', 6, 21, 58.76461538461538, 'Moderate').
 aqi('Paris', 6, 18, 90.55751072961374, 'Moderate').
 aqi('Seoul', 4, 24, 175.1127502634352, 'Unhealthy').
 aqi('Toronto', 5, 24, 122.9391959798995, 'Poor').
-aqi('Beijing', 1, 19, 198.18250790305584, 'Unhealthy').
-aqi('Moscow', 5, 3, 92.41565217391305, 'Moderate').
+aqi('Beijing', 1, 19, 198.18250790305586, 'Unhealthy').
+aqi('Moscow', 5, 3, 92.41565217391303, 'Moderate').
 aqi('Los Angeles', 10, 15, 191.23782929399368, 'Unhealthy').
 aqi('London', 6, 9, 144.13969849246232, 'Poor').
-aqi('Berlin', 2, 10, 189.4874604847208, 'Unhealthy').
+aqi('Berlin', 2, 10, 189.48746048472077, 'Unhealthy').
 aqi('Tokyo', 6, 14, 186.9832455216017, 'Unhealthy').
 aqi('Cairo', 10, 22, 173.92518440463647, 'Unhealthy').
 aqi('London', 11, 6, 110.18442211055276, 'Poor').
@@ -22700,10 +22700,10 @@ aqi('Mexico City', 6, 27, 99.64248927038626, 'Moderate').
 aqi('Beijing', 7, 25, 192.73519494204427, 'Unhealthy').
 aqi('Johannesburg', 2, 8, 92.4, 'Moderate').
 aqi('London', 9, 28, 157.14436248682824, 'Unhealthy').
-aqi('Beijing', 4, 14, 125.0075376884422, 'Poor').
+aqi('Beijing', 4, 14, 125.00753768844221, 'Poor').
 aqi('Mexico City', 8, 13, 152.47671232876712, 'Unhealthy').
-aqi('Mexico City', 2, 19, 189.745626975764, 'Unhealthy').
-aqi('Cairo', 3, 18, 182.31559536354052, 'Unhealthy').
+aqi('Mexico City', 2, 19, 189.74562697576397, 'Unhealthy').
+aqi('Cairo', 3, 18, 182.31559536354058, 'Unhealthy').
 aqi('Moscow', 5, 6, 143.9180904522613, 'Poor').
 aqi('Bangkok', 1, 15, 153.0963119072708, 'Unhealthy').
 aqi('Berlin', 1, 9, 182.60474183350897, 'Unhealthy').
@@ -22717,7 +22717,7 @@ aqi('Paris', 7, 2, 162.7569020021075, 'Unhealthy').
 aqi('Mexico City', 7, 5, 154.22708113804003, 'Unhealthy').
 aqi('Mumbai', 7, 19, 109.59346733668342, 'Poor').
 aqi('Berlin', 3, 6, 165.56059009483667, 'Unhealthy').
-aqi('Mumbai', 1, 25, 186.1158061116965, 'Unhealthy').
+aqi('Mumbai', 1, 25, 186.11580611169654, 'Unhealthy').
 aqi('Sydney', 2, 2, 183.49799789251844, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 9, 122.81608040201004, 'Poor').
 aqi('London', 6, 17, 61.55708154506438, 'Moderate').
@@ -22726,20 +22726,20 @@ aqi('Mexico City', 5, 17, 43.66666666666667, 'Good').
 aqi('Beijing', 5, 15, 162.4522655426765, 'Unhealthy').
 aqi('Los Angeles', 8, 9, 180.81822971549, 'Unhealthy').
 aqi('Paris', 5, 27, 133.97035175879398, 'Poor').
-aqi('Bangkok', 4, 4, 190.08640674394096, 'Unhealthy').
+aqi('Bangkok', 4, 4, 190.08640674394098, 'Unhealthy').
 aqi('Sydney', 7, 7, 92.61845493562232, 'Moderate').
-aqi('Rio de Janeiro', 3, 1, 183.4566912539516, 'Unhealthy').
-aqi('Paris', 10, 5, 181.57723919915705, 'Unhealthy').
+aqi('Rio de Janeiro', 3, 1, 183.45669125395153, 'Unhealthy').
+aqi('Paris', 10, 5, 181.57723919915702, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 19, 77.7, 'Moderate').
-aqi('Cairo', 9, 4, 188.1656480505796, 'Unhealthy').
-aqi('Berlin', 8, 24, 114.07487437185932, 'Poor').
+aqi('Cairo', 9, 4, 188.16564805057956, 'Unhealthy').
+aqi('Berlin', 8, 24, 114.07487437185931, 'Poor').
 aqi('New York', 12, 4, 177.7976817702845, 'Unhealthy').
 aqi('Madrid', 9, 16, 189.76111696522656, 'Unhealthy').
-aqi('Paris', 12, 4, 97.60257510729612, 'Moderate').
+aqi('Paris', 12, 4, 97.60257510729613, 'Moderate').
 aqi('Seoul', 6, 22, 170.56385669125396, 'Unhealthy').
 aqi('London', 2, 26, 160.268177028451, 'Unhealthy').
 aqi('Toronto', 4, 27, 198.88988408851424, 'Unhealthy').
-aqi('Seoul', 1, 6, 91.63004291845492, 'Moderate').
+aqi('Seoul', 1, 6, 91.63004291845493, 'Moderate').
 aqi('Tokyo', 11, 17, 166.39704952581664, 'Unhealthy').
 aqi('Mumbai', 8, 25, 197.44415173867228, 'Unhealthy').
 aqi('Toronto', 1, 21, 163.5004214963119, 'Unhealthy').
@@ -22760,14 +22760,14 @@ aqi('Istanbul', 4, 5, 170.60516332982087, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 2, 189.54942044257112, 'Unhealthy').
 aqi('Los Angeles', 6, 15, 122.76683417085428, 'Poor').
 aqi('Moscow', 9, 1, 198.5749209694415, 'Unhealthy').
-aqi('Johannesburg', 12, 1, 92.57639484978544, 'Moderate').
+aqi('Johannesburg', 12, 1, 92.57639484978543, 'Moderate').
 aqi('Moscow', 9, 28, 149.58140703517589, 'Poor').
 aqi('Toronto', 9, 12, 82.71330472103006, 'Moderate').
 aqi('Mumbai', 12, 5, 137.78693467336683, 'Poor').
 aqi('Johannesburg', 4, 7, 161.73972602739727, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 25, 158.44552160168598, 'Unhealthy').
 aqi('London', 1, 11, 183.0126448893572, 'Unhealthy').
-aqi('Toronto', 2, 26, 189.9056902002108, 'Unhealthy').
+aqi('Toronto', 2, 26, 189.90569020021076, 'Unhealthy').
 aqi('Sydney', 10, 8, 165.2249736564805, 'Unhealthy').
 aqi('Bangkok', 1, 19, 76.84592274678113, 'Moderate').
 aqi('Bangkok', 2, 16, 133.97035175879398, 'Poor').
@@ -22778,7 +22778,7 @@ aqi('Los Angeles', 9, 8, 142.0713567839196, 'Poor').
 aqi('Moscow', 11, 25, 110.04272727272728, 'Poor').
 aqi('Istanbul', 1, 28, 179.34668071654374, 'Unhealthy').
 aqi('London', 9, 26, 176.31064278187566, 'Unhealthy').
-aqi('Moscow', 6, 9, 187.76807165437305, 'Unhealthy').
+aqi('Moscow', 6, 9, 187.76807165437302, 'Unhealthy').
 aqi('Los Angeles', 4, 2, 163.13382507903057, 'Unhealthy').
 aqi('Seoul', 5, 19, 113.06532663316582, 'Poor').
 aqi('Mumbai', 12, 20, 192.78166491043203, 'Unhealthy').
@@ -22786,30 +22786,30 @@ aqi('Tokyo', 1, 4, 166.8617492096944, 'Unhealthy').
 aqi('Bangkok', 2, 4, 184.47386722866176, 'Unhealthy').
 aqi('Istanbul', 12, 12, 168.9477344573235, 'Unhealthy').
 aqi('Cairo', 12, 20, 183.09525816649105, 'Unhealthy').
-aqi('Tokyo', 7, 20, 122.12663316582916, 'Poor').
+aqi('Tokyo', 7, 20, 122.12663316582915, 'Poor').
 aqi('Istanbul', 12, 12, 176.67207586933614, 'Unhealthy').
 aqi('Moscow', 7, 1, 170.95626975763963, 'Unhealthy').
 aqi('Johannesburg', 7, 26, 171.67397260273972, 'Unhealthy').
-aqi('Rio de Janeiro', 12, 11, 93.1, 'Moderate').
+aqi('Rio de Janeiro', 12, 11, 93.10000000000001, 'Moderate').
 aqi('New York', 8, 8, 170.83234984193888, 'Unhealthy').
 aqi('Moscow', 1, 6, 148.25175879396986, 'Poor').
-aqi('New York', 8, 24, 56.46919191919192, 'Moderate').
+aqi('New York', 8, 24, 56.469191919191914, 'Moderate').
 aqi('Seoul', 2, 15, 104.54383838383838, 'Poor').
 aqi('New York', 10, 4, 151.84678609062172, 'Unhealthy').
 aqi('Tokyo', 4, 5, 113.31155778894473, 'Poor').
 aqi('Johannesburg', 1, 13, 167.4245521601686, 'Unhealthy').
-aqi('Moscow', 10, 13, 59.55369565217392, 'Moderate').
-aqi('Paris', 2, 13, 121.00090909090908, 'Poor').
+aqi('Moscow', 10, 13, 59.553695652173914, 'Moderate').
+aqi('Paris', 2, 13, 121.00090909090909, 'Poor').
 aqi('New York', 7, 12, 182.3827186512118, 'Unhealthy').
 aqi('London', 11, 13, 89.80000000000001, 'Moderate').
-aqi('Berlin', 10, 28, 115.4178787878788, 'Poor').
-aqi('Mexico City', 9, 1, 190.2103266596417, 'Unhealthy').
+aqi('Berlin', 10, 28, 115.41787878787879, 'Poor').
+aqi('Mexico City', 9, 1, 190.21032665964174, 'Unhealthy').
 aqi('Los Angeles', 11, 11, 94.76351931330473, 'Moderate').
 aqi('Dubai', 5, 12, 170.3418335089568, 'Unhealthy').
 aqi('Mexico City', 1, 14, 179.30021074815596, 'Unhealthy').
-aqi('Johannesburg', 2, 19, 182.07291886196, 'Unhealthy').
+aqi('Johannesburg', 2, 19, 182.07291886195998, 'Unhealthy').
 aqi('Cairo', 8, 28, 180.67881981032667, 'Unhealthy').
-aqi('Bangkok', 5, 9, 93.17464646464649, 'Moderate').
+aqi('Bangkok', 5, 9, 93.17464646464647, 'Moderate').
 aqi('Paris', 1, 25, 128.62713567839197, 'Poor').
 aqi('Toronto', 2, 22, 172.61369863013698, 'Unhealthy').
 aqi('Beijing', 8, 11, 136.4819095477387, 'Poor').
@@ -22823,9 +22823,9 @@ aqi('Los Angeles', 6, 10, 126.38643216080402, 'Poor').
 aqi('Istanbul', 6, 20, 191.75416227608008, 'Unhealthy').
 aqi('Mumbai', 7, 16, 189.43066385669127, 'Unhealthy').
 aqi('Bangkok', 4, 8, 84.0, 'Moderate').
-aqi('Dubai', 4, 16, 187.9539515279241, 'Unhealthy').
-aqi('Mumbai', 6, 19, 55.09589743589744, 'Moderate').
-aqi('Seoul', 10, 22, 111.64141414141416, 'Poor').
+aqi('Dubai', 4, 16, 187.95395152792412, 'Unhealthy').
+aqi('Mumbai', 6, 19, 55.095897435897434, 'Moderate').
+aqi('Seoul', 10, 22, 111.64141414141415, 'Poor').
 aqi('Seoul', 1, 20, 164.77576396206533, 'Unhealthy').
 aqi('Los Angeles', 4, 22, 177.56016859852477, 'Unhealthy').
 aqi('Cairo', 5, 24, 169.53119072708114, 'Unhealthy').
@@ -22837,16 +22837,16 @@ aqi('Moscow', 11, 16, 144.90301507537689, 'Poor').
 aqi('Beijing', 3, 3, 92.07090909090908, 'Moderate').
 aqi('Mumbai', 12, 14, 163.4281348788198, 'Unhealthy').
 aqi('Bangkok', 9, 26, 97.050101010101, 'Moderate').
-aqi('Bangkok', 6, 17, 186.2965226554268, 'Unhealthy').
-aqi('Dubai', 11, 23, 187.38082191780825, 'Unhealthy').
+aqi('Bangkok', 6, 17, 186.29652265542677, 'Unhealthy').
+aqi('Dubai', 11, 23, 187.38082191780822, 'Unhealthy').
 aqi('Berlin', 10, 18, 71.1, 'Moderate').
 aqi('Seoul', 12, 3, 165.5554267650158, 'Unhealthy').
 aqi('Paris', 1, 23, 164.00126448893573, 'Unhealthy').
 aqi('Tokyo', 4, 11, 118.31005025125629, 'Poor').
-aqi('Johannesburg', 11, 13, 170.2334035827187, 'Unhealthy').
+aqi('Johannesburg', 11, 13, 170.23340358271867, 'Unhealthy').
 aqi('Istanbul', 7, 16, 113.04070351758794, 'Poor').
 aqi('Paris', 5, 28, 116.65525252525252, 'Poor').
-aqi('New York', 4, 27, 115.23216080402013, 'Poor').
+aqi('New York', 4, 27, 115.23216080402011, 'Poor').
 aqi('Mumbai', 4, 19, 96.0849494949495, 'Moderate').
 aqi('Mumbai', 4, 15, 153.57650158061116, 'Unhealthy').
 aqi('Madrid', 9, 19, 179.0368809272919, 'Unhealthy').
@@ -22854,7 +22854,7 @@ aqi('Istanbul', 8, 25, 163.82054794520548, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 25, 187.06069546891464, 'Unhealthy').
 aqi('Moscow', 10, 1, 163.20611169652267, 'Unhealthy').
 aqi('Madrid', 7, 18, 110.55252525252526, 'Poor').
-aqi('Istanbul', 3, 14, 193.1121180189673, 'Unhealthy').
+aqi('Istanbul', 3, 14, 193.11211801896735, 'Unhealthy').
 aqi('London', 1, 16, 86.96137339055795, 'Moderate').
 aqi('Beijing', 12, 26, 169.04067439409906, 'Unhealthy').
 aqi('Paris', 4, 1, 105.42484848484848, 'Poor').
@@ -22864,27 +22864,27 @@ aqi('Paris', 9, 25, 133.82261306532664, 'Poor').
 aqi('Bangkok', 7, 26, 189.28609062170707, 'Unhealthy').
 aqi('Moscow', 7, 4, 87.2649494949495, 'Moderate').
 aqi('Mexico City', 5, 21, 187.06585879873552, 'Unhealthy').
-aqi('Seoul', 5, 27, 186.47207586933607, 'Unhealthy').
+aqi('Seoul', 5, 27, 186.47207586933615, 'Unhealthy').
 aqi('Johannesburg', 3, 4, 175.6600632244468, 'Unhealthy').
 aqi('Johannesburg', 5, 9, 140.17537688442212, 'Poor').
 aqi('Seoul', 7, 17, 169.52602739726026, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 3, 93.96021739130435, 'Moderate').
 aqi('Moscow', 5, 14, 161.29567966280294, 'Unhealthy').
-aqi('Madrid', 9, 9, 191.5321390937829, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 14, 190.7473129610116, 'Unhealthy').
+aqi('Madrid', 9, 9, 191.53213909378292, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 14, 190.74731296101157, 'Unhealthy').
 aqi('Seoul', 12, 17, 187.5253951527924, 'Unhealthy').
 aqi('Mumbai', 12, 4, 177.5240252897787, 'Unhealthy').
 aqi('Cairo', 4, 14, 64.3, 'Moderate').
 aqi('Istanbul', 10, 16, 129.7597989949749, 'Poor').
-aqi('Seoul', 12, 9, 184.3757639620653, 'Unhealthy').
+aqi('Seoul', 12, 9, 184.37576396206532, 'Unhealthy').
 aqi('Tokyo', 5, 13, 169.87197049525815, 'Unhealthy').
 aqi('Los Angeles', 3, 27, 175.37608008429925, 'Unhealthy').
 aqi('Toronto', 10, 4, 163.3145416227608, 'Unhealthy').
 aqi('Los Angeles', 6, 21, 151.227186512118, 'Unhealthy').
-aqi('Mumbai', 5, 24, 181.7631190727081, 'Unhealthy').
+aqi('Mumbai', 5, 24, 181.76311907270812, 'Unhealthy').
 aqi('Istanbul', 6, 10, 191.75416227608008, 'Unhealthy').
 aqi('Tokyo', 10, 27, 98.90282608695652, 'Moderate').
-aqi('New York', 3, 16, 182.05742887249733, 'Unhealthy').
+aqi('New York', 3, 16, 182.05742887249738, 'Unhealthy').
 aqi('Bangkok', 9, 27, 156.3027397260274, 'Unhealthy').
 aqi('Paris', 6, 24, 171.33319283456268, 'Unhealthy').
 aqi('London', 7, 3, 160.99620653319283, 'Unhealthy').
@@ -22895,14 +22895,14 @@ aqi('Bangkok', 8, 24, 193.69557428872497, 'Unhealthy').
 aqi('Mumbai', 1, 27, 151.3717597471022, 'Unhealthy').
 aqi('New York', 10, 3, 167.78598524762907, 'Unhealthy').
 aqi('Toronto', 6, 28, 174.96301369863014, 'Unhealthy').
-aqi('Madrid', 12, 16, 99.76565217391304, 'Moderate').
+aqi('Madrid', 12, 16, 99.76565217391305, 'Moderate').
 aqi('Madrid', 7, 18, 177.72539515279243, 'Unhealthy').
 aqi('Moscow', 7, 22, 85.2, 'Moderate').
 aqi('Tokyo', 5, 20, 83.31525252525253, 'Moderate').
 aqi('Dubai', 12, 18, 192.8849315068493, 'Unhealthy').
 aqi('Berlin', 2, 2, 183.52897787144363, 'Unhealthy').
-aqi('Rio de Janeiro', 3, 8, 181.618545837724, 'Unhealthy').
-aqi('Istanbul', 12, 12, 172.62918861959955, 'Unhealthy').
+aqi('Rio de Janeiro', 3, 8, 181.61854583772393, 'Unhealthy').
+aqi('Istanbul', 12, 12, 172.62918861959957, 'Unhealthy').
 aqi('Moscow', 5, 11, 193.7781875658588, 'Unhealthy').
 aqi('Bangkok', 12, 16, 83.99613733905579, 'Moderate').
 aqi('Madrid', 11, 3, 156.7467860906217, 'Unhealthy').
@@ -22910,10 +22910,10 @@ aqi('Beijing', 8, 23, 185.52202318229715, 'Unhealthy').
 aqi('Dubai', 5, 15, 73.19999999999999, 'Moderate').
 aqi('Toronto', 12, 13, 163.23709167544783, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 11, 166.6758693361433, 'Unhealthy').
-aqi('Toronto', 8, 18, 94.13261802575109, 'Moderate').
+aqi('Toronto', 8, 18, 94.13261802575107, 'Moderate').
 aqi('Los Angeles', 8, 2, 172.80474183350896, 'Unhealthy').
 aqi('Cairo', 5, 18, 152.4095890410959, 'Unhealthy').
-aqi('London', 8, 12, 95.9412017167382, 'Moderate').
+aqi('London', 8, 12, 95.94120171673819, 'Moderate').
 aqi('New York', 6, 4, 85.3, 'Moderate').
 aqi('Rio de Janeiro', 4, 3, 191.6767123287671, 'Unhealthy').
 aqi('London', 10, 2, 136.4819095477387, 'Poor').
@@ -22924,9 +22924,9 @@ aqi('Seoul', 8, 22, 89.94757575757575, 'Moderate').
 aqi('Tokyo', 6, 1, 95.0, 'Moderate').
 aqi('Berlin', 3, 10, 165.92718651211803, 'Unhealthy').
 aqi('Beijing', 9, 28, 140.10150753768846, 'Poor').
-aqi('Seoul', 5, 18, 95.8, 'Moderate').
+aqi('Seoul', 5, 18, 95.80000000000001, 'Moderate').
 aqi('Johannesburg', 8, 26, 157.9859852476291, 'Unhealthy').
-aqi('Cairo', 7, 24, 196.6438356164384, 'Unhealthy').
+aqi('Cairo', 7, 24, 196.64383561643837, 'Unhealthy').
 aqi('London', 1, 6, 188.83688092729187, 'Unhealthy').
 aqi('Bangkok', 12, 23, 121.58492462311558, 'Poor').
 aqi('Tokyo', 1, 18, 119.14723618090451, 'Poor').
@@ -22946,9 +22946,9 @@ aqi('Cairo', 3, 15, 160.50052687038988, 'Unhealthy').
 aqi('Sydney', 8, 9, 168.21970495258165, 'Unhealthy').
 aqi('Toronto', 8, 20, 162.42644889357217, 'Unhealthy').
 aqi('Tokyo', 7, 9, 174.3072708113804, 'Unhealthy').
-aqi('London', 5, 13, 180.6375131717597, 'Unhealthy').
-aqi('Sydney', 7, 13, 182.4601685985248, 'Unhealthy').
-aqi('Berlin', 9, 23, 181.7631190727081, 'Unhealthy').
+aqi('London', 5, 13, 180.63751317175974, 'Unhealthy').
+aqi('Sydney', 7, 13, 182.46016859852477, 'Unhealthy').
+aqi('Berlin', 9, 23, 181.76311907270812, 'Unhealthy').
 aqi('Istanbul', 11, 11, 170.7290832455216, 'Unhealthy').
 aqi('Los Angeles', 8, 1, 75.83648068669528, 'Moderate').
 aqi('Moscow', 8, 24, 106.0689655172414, 'Poor').
@@ -22958,11 +22958,11 @@ aqi('Mexico City', 10, 25, 186.3068493150685, 'Unhealthy').
 aqi('Mexico City', 3, 21, 75.2336956521739, 'Moderate').
 aqi('Los Angeles', 9, 26, 168.29715489989462, 'Unhealthy').
 aqi('Tokyo', 1, 11, 174.38472075869336, 'Unhealthy').
-aqi('Dubai', 12, 5, 116.51256281407036, 'Poor').
-aqi('Paris', 10, 8, 183.818124341412, 'Unhealthy').
+aqi('Dubai', 12, 5, 116.51256281407035, 'Poor').
+aqi('Paris', 10, 8, 183.81812434141202, 'Unhealthy').
 aqi('Berlin', 12, 17, 182.14520547945204, 'Unhealthy').
 aqi('London', 11, 24, 169.84615384615384, 'Unhealthy').
-aqi('Seoul', 11, 2, 182.6873551106428, 'Unhealthy').
+aqi('Seoul', 11, 2, 182.68735511064278, 'Unhealthy').
 aqi('Madrid', 7, 18, 175.0559536354057, 'Unhealthy').
 aqi('New York', 3, 3, 180.01791359325605, 'Unhealthy').
 aqi('Sydney', 2, 1, 157.75879873551108, 'Unhealthy').
@@ -22974,8 +22974,8 @@ aqi('Seoul', 10, 20, 181.54625922023183, 'Unhealthy').
 aqi('Berlin', 4, 7, 108.97858585858586, 'Poor').
 aqi('Bangkok', 4, 2, 155.22876712328767, 'Unhealthy').
 aqi('New York', 1, 3, 171.56037934668072, 'Unhealthy').
-aqi('Berlin', 8, 17, 121.10979797979796, 'Poor').
-aqi('Sydney', 5, 6, 182.22265542676504, 'Unhealthy').
+aqi('Berlin', 8, 17, 121.10979797979797, 'Poor').
+aqi('Sydney', 5, 6, 182.22265542676502, 'Unhealthy').
 aqi('Dubai', 10, 20, 179.109167544784, 'Unhealthy').
 aqi('Dubai', 5, 13, 84.47982832618027, 'Moderate').
 aqi('Berlin', 7, 15, 173.56375131717598, 'Unhealthy').
@@ -22984,42 +22984,42 @@ aqi('New York', 4, 22, 138.6241206030151, 'Poor').
 aqi('Paris', 7, 14, 160.91359325605902, 'Unhealthy').
 aqi('Madrid', 3, 25, 151.531822971549, 'Unhealthy').
 aqi('Seoul', 2, 24, 179.05753424657536, 'Unhealthy').
-aqi('Paris', 10, 20, 106.06828282828285, 'Poor').
-aqi('Paris', 9, 19, 183.0539515279241, 'Unhealthy').
+aqi('Paris', 10, 20, 106.06828282828283, 'Poor').
+aqi('Paris', 9, 19, 183.05395152792414, 'Unhealthy').
 aqi('New York', 10, 26, 82.77575757575758, 'Moderate').
 aqi('Toronto', 8, 23, 170.52255005268705, 'Unhealthy').
-aqi('Dubai', 1, 6, 186.1984193888304, 'Unhealthy').
-aqi('Mumbai', 7, 25, 195.6886195995785, 'Unhealthy').
-aqi('Mumbai', 9, 27, 103.78241206030152, 'Poor').
-aqi('Toronto', 6, 9, 189.2344573234984, 'Unhealthy').
+aqi('Dubai', 1, 6, 186.19841938883036, 'Unhealthy').
+aqi('Mumbai', 7, 25, 195.68861959957852, 'Unhealthy').
+aqi('Mumbai', 9, 27, 103.78241206030151, 'Poor').
+aqi('Toronto', 6, 9, 189.23445732349842, 'Unhealthy').
 aqi('Madrid', 7, 18, 113.25494949494949, 'Poor').
 aqi('Seoul', 4, 20, 94.2239393939394, 'Moderate').
-aqi('Mexico City', 7, 24, 105.56206896551724, 'Poor').
-aqi('Mumbai', 5, 6, 61.76515151515152, 'Moderate').
+aqi('Mexico City', 7, 24, 105.56206896551723, 'Poor').
+aqi('Mumbai', 5, 6, 61.765151515151516, 'Moderate').
 aqi('Moscow', 4, 8, 158.72434141201265, 'Unhealthy').
 aqi('Mumbai', 9, 13, 180.6891464699684, 'Unhealthy').
 aqi('Moscow', 5, 12, 108.78090452261306, 'Poor').
 aqi('Paris', 9, 27, 186.23972602739727, 'Unhealthy').
-aqi('Bangkok', 10, 8, 149.01507537688445, 'Poor').
+aqi('Bangkok', 10, 8, 149.01507537688443, 'Poor').
 aqi('Berlin', 5, 20, 158.08925184404637, 'Unhealthy').
 aqi('Cairo', 1, 2, 177.60147523709168, 'Unhealthy').
-aqi('Madrid', 5, 14, 97.76304347826088, 'Moderate').
-aqi('Berlin', 4, 13, 197.2685985247629, 'Unhealthy').
+aqi('Madrid', 5, 14, 97.76304347826087, 'Moderate').
+aqi('Berlin', 4, 13, 197.26859852476292, 'Unhealthy').
 aqi('Toronto', 5, 14, 86.07811158798285, 'Moderate').
 aqi('Mexico City', 2, 1, 91.7, 'Moderate').
 aqi('Paris', 2, 3, 154.58335089567967, 'Unhealthy').
 aqi('Madrid', 2, 17, 198.63171759747104, 'Unhealthy').
-aqi('Toronto', 4, 24, 182.76480505795573, 'Unhealthy').
+aqi('Toronto', 4, 24, 182.76480505795575, 'Unhealthy').
 aqi('Toronto', 6, 24, 194.05700737618545, 'Unhealthy').
 aqi('Mexico City', 12, 10, 156.39567966280296, 'Unhealthy').
 aqi('Tokyo', 5, 14, 184.72170706006324, 'Unhealthy').
-aqi('Cairo', 9, 24, 103.78241206030152, 'Poor').
+aqi('Cairo', 9, 24, 103.78241206030151, 'Poor').
 aqi('Beijing', 9, 8, 88.81521739130434, 'Moderate').
 aqi('Berlin', 10, 13, 90.22103004291846, 'Moderate').
 aqi('Johannesburg', 11, 6, 78.86608695652174, 'Moderate').
 aqi('Cairo', 1, 11, 61.02272727272727, 'Moderate').
 aqi('London', 11, 9, 85.4, 'Moderate').
-aqi('Toronto', 3, 5, 181.4739726027397, 'Unhealthy').
+aqi('Toronto', 3, 5, 181.47397260273974, 'Unhealthy').
 aqi('Mexico City', 11, 20, 167.24383561643836, 'Unhealthy').
 aqi('Dubai', 10, 3, 189.63203371970496, 'Unhealthy').
 aqi('Paris', 1, 15, 181.9696522655427, 'Unhealthy').
@@ -23028,9 +23028,9 @@ aqi('Beijing', 3, 18, 47.67142857142857, 'Good').
 aqi('New York', 11, 9, 157.01527924130664, 'Unhealthy').
 aqi('Mumbai', 7, 27, 162.40063224446786, 'Unhealthy').
 aqi('Paris', 9, 17, 82.7, 'Moderate').
-aqi('Dubai', 4, 22, 190.70084299262385, 'Unhealthy').
+aqi('Dubai', 4, 22, 190.70084299262382, 'Unhealthy').
 aqi('Beijing', 8, 22, 172.72212855637514, 'Unhealthy').
-aqi('New York', 6, 18, 199.1945205479452, 'Unhealthy').
+aqi('New York', 6, 18, 199.19452054794522, 'Unhealthy').
 aqi('Cairo', 5, 15, 120.50150753768844, 'Poor').
 aqi('Cairo', 8, 6, 105.38291457286432, 'Poor').
 aqi('Toronto', 1, 15, 140.20000000000002, 'Poor').
@@ -23045,14 +23045,14 @@ aqi('Toronto', 10, 14, 184.75268703898843, 'Unhealthy').
 aqi('New York', 7, 7, 81.85020202020202, 'Moderate').
 aqi('Beijing', 7, 3, 101.54170854271356, 'Poor').
 aqi('Dubai', 12, 13, 103.47969696969696, 'Poor').
-aqi('Bangkok', 10, 13, 196.88134878819807, 'Unhealthy').
+aqi('Bangkok', 10, 13, 196.88134878819812, 'Unhealthy').
 aqi('London', 7, 20, 92.4, 'Moderate').
 aqi('Dubai', 7, 11, 155.86385669125394, 'Unhealthy').
 aqi('Sydney', 2, 19, 167.3367755532139, 'Unhealthy').
 aqi('Beijing', 12, 14, 118.27868686868686, 'Poor').
 aqi('Paris', 11, 3, 167.31095890410958, 'Unhealthy').
-aqi('Mumbai', 5, 11, 180.7562697576396, 'Unhealthy').
-aqi('Sydney', 7, 3, 107.44424242424245, 'Poor').
+aqi('Mumbai', 5, 11, 180.75626975763961, 'Unhealthy').
+aqi('Sydney', 7, 3, 107.44424242424243, 'Poor').
 aqi('Cairo', 6, 25, 164.42982086406744, 'Unhealthy').
 aqi('London', 3, 23, 118.40242424242425, 'Poor').
 aqi('Paris', 8, 26, 86.62489270386266, 'Moderate').
@@ -23060,13 +23060,13 @@ aqi('Mexico City', 6, 27, 158.86375131717597, 'Unhealthy').
 aqi('Cairo', 8, 17, 80.0, 'Moderate').
 aqi('Beijing', 8, 26, 181.0609062170706, 'Unhealthy').
 aqi('New York', 4, 14, 105.50603015075376, 'Poor').
-aqi('Johannesburg', 9, 19, 167.79114857744997, 'Unhealthy').
+aqi('Johannesburg', 9, 19, 167.79114857744995, 'Unhealthy').
 aqi('Toronto', 4, 28, 180.53424657534248, 'Unhealthy').
 aqi('Mexico City', 3, 7, 124.68743718592964, 'Poor').
 aqi('Mexico City', 2, 8, 198.404531085353, 'Unhealthy').
-aqi('Madrid', 3, 27, 183.0746048472076, 'Unhealthy').
-aqi('Berlin', 4, 22, 103.87241379310343, 'Poor').
-aqi('Istanbul', 11, 8, 188.9866174920969, 'Unhealthy').
+aqi('Madrid', 3, 27, 183.07460484720758, 'Unhealthy').
+aqi('Berlin', 4, 22, 103.87241379310345, 'Poor').
+aqi('Istanbul', 11, 8, 188.98661749209694, 'Unhealthy').
 aqi('Seoul', 7, 3, 158.4558482613277, 'Unhealthy').
 aqi('New York', 12, 22, 155.81738672286616, 'Unhealthy').
 aqi('London', 9, 14, 172.74794520547945, 'Unhealthy').
@@ -23077,8 +23077,8 @@ aqi('London', 5, 13, 177.59114857744996, 'Unhealthy').
 aqi('Seoul', 6, 24, 83.07081545064378, 'Moderate').
 aqi('Berlin', 6, 6, 171.36417281348787, 'Unhealthy').
 aqi('New York', 5, 15, 178.75289778714438, 'Unhealthy').
-aqi('Paris', 10, 1, 183.6322444678609, 'Unhealthy').
-aqi('Toronto', 7, 1, 196.9794520547945, 'Unhealthy').
+aqi('Paris', 10, 1, 183.63224446786091, 'Unhealthy').
+aqi('Toronto', 7, 1, 196.97945205479454, 'Unhealthy').
 aqi('Tokyo', 8, 20, 83.62707070707071, 'Moderate').
 aqi('Seoul', 3, 7, 162.56069546891464, 'Unhealthy').
 aqi('Madrid', 12, 2, 131.68040201005024, 'Poor').
@@ -23086,7 +23086,7 @@ aqi('Paris', 3, 16, 159.08061116965226, 'Unhealthy').
 aqi('Dubai', 10, 4, 113.90251256281408, 'Poor').
 aqi('Cairo', 6, 15, 64.16717948717948, 'Moderate').
 aqi('Los Angeles', 12, 6, 49.88679245283019, 'Good').
-aqi('Bangkok', 3, 21, 188.909167544784, 'Unhealthy').
+aqi('Bangkok', 3, 21, 188.90916754478397, 'Unhealthy').
 aqi('Cairo', 10, 1, 161.9617492096944, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 22, 162.41612223393045, 'Unhealthy').
 aqi('Cairo', 4, 14, 94.0, 'Moderate').
@@ -23116,11 +23116,11 @@ aqi('Cairo', 12, 16, 75.33175965665237, 'Moderate').
 aqi('Paris', 12, 19, 63.87847826086957, 'Moderate').
 aqi('Tokyo', 5, 1, 178.54120126448893, 'Unhealthy').
 aqi('London', 7, 13, 81.64232323232324, 'Moderate').
-aqi('Paris', 10, 14, 95.8, 'Moderate').
+aqi('Paris', 10, 14, 95.80000000000001, 'Moderate').
 aqi('Paris', 5, 22, 137.1713567839196, 'Poor').
 aqi('Mumbai', 6, 24, 156.7622760800843, 'Unhealthy').
-aqi('Sydney', 5, 7, 194.89346680716545, 'Unhealthy').
-aqi('Mexico City', 2, 14, 196.2565858798736, 'Unhealthy').
+aqi('Sydney', 5, 7, 194.89346680716542, 'Unhealthy').
+aqi('Mexico City', 2, 14, 196.25658587987357, 'Unhealthy').
 aqi('Paris', 7, 8, 163.6036880927292, 'Unhealthy').
 aqi('Bangkok', 11, 27, 173.4295047418335, 'Unhealthy').
 aqi('Cairo', 1, 28, 179.47576396206534, 'Unhealthy').
@@ -23132,14 +23132,14 @@ aqi('New York', 5, 14, 88.69999999999999, 'Moderate').
 aqi('Berlin', 1, 13, 199.51981032665964, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 8, 71.80272727272728, 'Moderate').
 aqi('Johannesburg', 9, 20, 144.36130653266332, 'Poor').
-aqi('Moscow', 5, 8, 190.0502634351949, 'Unhealthy').
+aqi('Moscow', 5, 8, 190.05026343519495, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 2, 165.9736564805058, 'Unhealthy').
 aqi('Los Angeles', 4, 23, 173.86838777660697, 'Unhealthy').
 aqi('New York', 7, 1, 108.97788944723618, 'Poor').
 aqi('Paris', 7, 20, 163.05121180189673, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 15, 134.70904522613066, 'Poor').
 aqi('Sydney', 10, 28, 196.7109589041096, 'Unhealthy').
-aqi('Los Angeles', 1, 6, 190.95900948366705, 'Unhealthy').
+aqi('Los Angeles', 1, 6, 190.95900948366702, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 8, 173.82708113804003, 'Unhealthy').
 aqi('Cairo', 12, 7, 195.42528977871444, 'Unhealthy').
 aqi('Sydney', 9, 24, 118.3479797979798, 'Poor').
@@ -23166,7 +23166,7 @@ aqi('Mexico City', 6, 15, 129.39045226130654, 'Poor').
 aqi('New York', 2, 3, 172.76343519494205, 'Unhealthy').
 aqi('Moscow', 10, 13, 169.81517386722865, 'Unhealthy').
 aqi('Mexico City', 1, 18, 154.5472075869336, 'Unhealthy').
-aqi('Mexico City', 4, 1, 115.05656565656564, 'Poor').
+aqi('Mexico City', 4, 1, 115.05656565656565, 'Poor').
 aqi('Dubai', 6, 19, 176.88893572181243, 'Unhealthy').
 aqi('Istanbul', 6, 16, 198.15152792413068, 'Unhealthy').
 aqi('Sydney', 4, 23, 172.93898840885143, 'Unhealthy').
@@ -23184,7 +23184,7 @@ aqi('Moscow', 12, 11, 176.72887249736564, 'Unhealthy').
 aqi('Johannesburg', 2, 8, 122.29899497487438, 'Poor').
 aqi('Sydney', 4, 2, 152.01717597471023, 'Unhealthy').
 aqi('Dubai', 1, 23, 175.9750263435195, 'Unhealthy').
-aqi('Istanbul', 5, 20, 193.1947312961012, 'Unhealthy').
+aqi('Istanbul', 5, 20, 193.19473129610117, 'Unhealthy').
 aqi('Mumbai', 11, 20, 118.9419191919192, 'Poor').
 aqi('Mumbai', 5, 17, 189.5958904109589, 'Unhealthy').
 aqi('Johannesburg', 3, 21, 176.20737618545837, 'Unhealthy').
@@ -23205,15 +23205,15 @@ aqi('Istanbul', 7, 28, 170.65163329820865, 'Unhealthy').
 aqi('Istanbul', 10, 18, 164.6931506849315, 'Unhealthy').
 aqi('Bangkok', 7, 9, 198.7194942044257, 'Unhealthy').
 aqi('Toronto', 8, 14, 165.17850368809272, 'Unhealthy').
-aqi('Seoul', 1, 18, 193.14826132771336, 'Unhealthy').
-aqi('Bangkok', 8, 21, 188.3670179135933, 'Unhealthy').
-aqi('Johannesburg', 1, 17, 189.936670179136, 'Unhealthy').
+aqi('Seoul', 1, 18, 193.14826132771339, 'Unhealthy').
+aqi('Bangkok', 8, 21, 188.36701791359326, 'Unhealthy').
+aqi('Johannesburg', 1, 17, 189.93667017913594, 'Unhealthy').
 aqi('Bangkok', 7, 12, 176.02665964172814, 'Unhealthy').
-aqi('Toronto', 10, 20, 99.05464646464648, 'Moderate').
+aqi('Toronto', 10, 20, 99.05464646464647, 'Moderate').
 aqi('Paris', 2, 9, 178.09715489989463, 'Unhealthy').
 aqi('Dubai', 7, 10, 173.73930453108537, 'Unhealthy').
 aqi('Cairo', 8, 25, 142.19447236180903, 'Poor').
-aqi('Toronto', 6, 28, 187.4634351949421, 'Unhealthy').
+aqi('Toronto', 6, 28, 187.46343519494206, 'Unhealthy').
 aqi('Bangkok', 11, 21, 153.72623814541623, 'Unhealthy').
 aqi('Toronto', 9, 21, 175.00948366701792, 'Unhealthy').
 aqi('Mumbai', 4, 11, 190.40653319283456, 'Unhealthy').
@@ -23221,11 +23221,11 @@ aqi('Dubai', 6, 20, 166.02528977871444, 'Unhealthy').
 aqi('London', 4, 7, 96.67725321888412, 'Moderate').
 aqi('Dubai', 4, 26, 170.71875658587987, 'Unhealthy').
 aqi('Tokyo', 3, 28, 196.58703898840884, 'Unhealthy').
-aqi('Madrid', 5, 7, 191.31527924130663, 'Unhealthy').
+aqi('Madrid', 5, 7, 191.31527924130665, 'Unhealthy').
 aqi('Tokyo', 12, 25, 166.31443624868282, 'Unhealthy').
-aqi('London', 5, 4, 112.41848484848484, 'Poor').
+aqi('London', 5, 4, 112.41848484848485, 'Poor').
 aqi('Tokyo', 5, 6, 127.3713567839196, 'Poor').
-aqi('Toronto', 7, 22, 195.7247629083245, 'Unhealthy').
+aqi('Toronto', 7, 22, 195.72476290832455, 'Unhealthy').
 aqi('London', 1, 10, 183.5186512118019, 'Unhealthy').
 aqi('Beijing', 3, 28, 133.42864321608042, 'Poor').
 aqi('Los Angeles', 1, 18, 79.85321888412018, 'Moderate').
@@ -23245,44 +23245,44 @@ aqi('Seoul', 10, 4, 118.7532663316583, 'Poor').
 aqi('Moscow', 4, 24, 136.9251256281407, 'Poor').
 aqi('Madrid', 8, 18, 189.6526870389884, 'Unhealthy').
 aqi('Dubai', 3, 2, 130.25226130653266, 'Poor').
-aqi('Mumbai', 9, 7, 97.21838383838384, 'Moderate').
+aqi('Mumbai', 9, 7, 97.21838383838383, 'Moderate').
 aqi('Rio de Janeiro', 3, 26, 168.6895679662803, 'Unhealthy').
 aqi('Bangkok', 6, 1, 131.5572864321608, 'Poor').
 aqi('Mexico City', 8, 11, 115.55226130653266, 'Poor').
 aqi('Madrid', 9, 23, 175.8459430979979, 'Unhealthy').
 aqi('Dubai', 1, 25, 164.28524762908324, 'Unhealthy').
-aqi('London', 10, 22, 191.6870389884089, 'Unhealthy').
+aqi('London', 10, 22, 191.68703898840886, 'Unhealthy').
 aqi('Mumbai', 12, 21, 188.63034773445733, 'Unhealthy').
-aqi('Moscow', 9, 28, 99.75747474747476, 'Moderate').
+aqi('Moscow', 9, 28, 99.75747474747475, 'Moderate').
 aqi('Mexico City', 4, 19, 121.5356783919598, 'Poor').
 aqi('Mexico City', 2, 21, 159.4936775553214, 'Unhealthy').
 aqi('Istanbul', 10, 18, 153.24604847207587, 'Unhealthy').
 aqi('London', 2, 14, 180.89567966280296, 'Unhealthy').
-aqi('Rio de Janeiro', 2, 18, 113.74, 'Poor').
+aqi('Rio de Janeiro', 2, 18, 113.74000000000001, 'Poor').
 aqi('London', 1, 17, 84.7, 'Moderate').
-aqi('Madrid', 12, 2, 190.2103266596417, 'Unhealthy').
-aqi('Dubai', 4, 18, 185.19673340358275, 'Unhealthy').
+aqi('Madrid', 12, 2, 190.21032665964174, 'Unhealthy').
+aqi('Dubai', 4, 18, 185.19673340358273, 'Unhealthy').
 aqi('Beijing', 1, 8, 163.3868282402529, 'Unhealthy').
 aqi('Sydney', 9, 7, 164.5072708113804, 'Unhealthy').
-aqi('Madrid', 5, 9, 99.51630901287557, 'Moderate').
+aqi('Madrid', 5, 9, 99.51630901287555, 'Moderate').
 aqi('Seoul', 6, 17, 181.67017913593256, 'Unhealthy').
 aqi('Moscow', 8, 18, 152.70389884088513, 'Unhealthy').
-aqi('Tokyo', 8, 7, 103.51929292929292, 'Poor').
+aqi('Tokyo', 8, 7, 103.51929292929293, 'Poor').
 aqi('Rio de Janeiro', 1, 25, 152.5799789251844, 'Unhealthy').
 aqi('Mumbai', 9, 14, 124.3180904522613, 'Poor').
-aqi('Paris', 12, 22, 183.02297154899887, 'Unhealthy').
+aqi('Paris', 12, 22, 183.02297154899895, 'Unhealthy').
 aqi('Johannesburg', 8, 22, 142.5638190954774, 'Poor').
 aqi('London', 6, 24, 178.25205479452055, 'Unhealthy').
 aqi('Toronto', 4, 5, 191.13972602739727, 'Unhealthy').
 aqi('Berlin', 2, 3, 195.94162276080084, 'Unhealthy').
-aqi('Paris', 9, 9, 95.9412017167382, 'Moderate').
+aqi('Paris', 9, 9, 95.94120171673819, 'Moderate').
 aqi('Johannesburg', 8, 16, 60.92618025751074, 'Moderate').
 aqi('Dubai', 6, 13, 44.85185185185185, 'Good').
 aqi('Dubai', 1, 17, 164.29557428872496, 'Unhealthy').
 aqi('Madrid', 4, 25, 175.4018967334036, 'Unhealthy').
 aqi('Sydney', 1, 21, 183.74583772391992, 'Unhealthy').
 aqi('Paris', 4, 18, 166.650052687039, 'Unhealthy').
-aqi('Toronto', 6, 26, 90.17525252525252, 'Moderate').
+aqi('Toronto', 6, 26, 90.17525252525253, 'Moderate').
 aqi('Johannesburg', 11, 2, 67.3, 'Moderate').
 aqi('Madrid', 3, 17, 165.43150684931507, 'Unhealthy').
 aqi('Moscow', 1, 17, 153.2253951527924, 'Unhealthy').
@@ -23291,9 +23291,9 @@ aqi('Mexico City', 11, 12, 112.1809090909091, 'Poor').
 aqi('Dubai', 12, 26, 166.00463645943097, 'Unhealthy').
 aqi('Cairo', 6, 10, 99.57939914163092, 'Moderate').
 aqi('New York', 5, 11, 140.84020100502514, 'Poor').
-aqi('Los Angeles', 3, 11, 189.9521601685985, 'Unhealthy').
+aqi('Los Angeles', 3, 11, 189.95216016859854, 'Unhealthy').
 aqi('Berlin', 6, 28, 168.97871443624868, 'Unhealthy').
-aqi('Johannesburg', 3, 25, 195.4201264488936, 'Unhealthy').
+aqi('Johannesburg', 3, 25, 195.42012644889357, 'Unhealthy').
 aqi('Dubai', 2, 10, 109.32261306532664, 'Poor').
 aqi('Mumbai', 7, 1, 161.06332982086406, 'Unhealthy').
 aqi('Madrid', 1, 7, 122.86532663316584, 'Poor').
@@ -23303,22 +23303,22 @@ aqi('Sydney', 7, 2, 167.64141201264488, 'Unhealthy').
 aqi('Istanbul', 11, 11, 82.22961373390558, 'Moderate').
 aqi('Rio de Janeiro', 9, 16, 176.89926238145415, 'Unhealthy').
 aqi('Tokyo', 2, 18, 110.03777777777778, 'Poor').
-aqi('London', 5, 10, 114.41959798994976, 'Poor').
+aqi('London', 5, 10, 114.41959798994975, 'Poor').
 aqi('Seoul', 8, 14, 173.2900948366702, 'Unhealthy').
 aqi('Cairo', 4, 24, 159.94288724973657, 'Unhealthy').
 aqi('Johannesburg', 8, 24, 176.73919915700736, 'Unhealthy').
 aqi('Cairo', 8, 9, 139.313567839196, 'Poor').
 aqi('Tokyo', 11, 18, 172.48977871443626, 'Unhealthy').
 aqi('Cairo', 10, 18, 92.6, 'Moderate').
-aqi('Cairo', 10, 28, 189.08988408851425, 'Unhealthy').
+aqi('Cairo', 10, 28, 189.08988408851422, 'Unhealthy').
 aqi('Mexico City', 6, 28, 176.9508956796628, 'Unhealthy').
 aqi('Paris', 9, 23, 162.97376185458378, 'Unhealthy').
 aqi('Sydney', 11, 12, 82.89454545454545, 'Moderate').
-aqi('Johannesburg', 8, 27, 186.77154899894623, 'Unhealthy').
+aqi('Johannesburg', 8, 27, 186.77154899894626, 'Unhealthy').
 aqi('Johannesburg', 4, 23, 84.75060606060606, 'Moderate').
 aqi('Rio de Janeiro', 8, 11, 154.03603793466806, 'Unhealthy').
 aqi('New York', 11, 13, 164.19747102212855, 'Unhealthy').
-aqi('London', 7, 24, 182.6873551106428, 'Unhealthy').
+aqi('London', 7, 24, 182.68735511064278, 'Unhealthy').
 aqi('Sydney', 4, 13, 169.44341412012645, 'Unhealthy').
 aqi('Los Angeles', 10, 2, 175.613593256059, 'Unhealthy').
 aqi('Moscow', 8, 27, 182.90421496311907, 'Unhealthy').
@@ -23327,7 +23327,7 @@ aqi('Paris', 10, 18, 91.92446351931332, 'Moderate').
 aqi('Rio de Janeiro', 2, 8, 180.9731296101159, 'Unhealthy').
 aqi('Mexico City', 6, 16, 154.9241306638567, 'Unhealthy').
 aqi('Moscow', 7, 2, 168.84963119072708, 'Unhealthy').
-aqi('Seoul', 8, 27, 123.33316582914571, 'Poor').
+aqi('Seoul', 8, 27, 123.33316582914573, 'Poor').
 aqi('Istanbul', 4, 5, 195.81253951527924, 'Unhealthy').
 aqi('Toronto', 4, 25, 154.84151738672287, 'Unhealthy').
 aqi('Johannesburg', 1, 12, 162.11148577449947, 'Unhealthy').
@@ -23337,27 +23337,27 @@ aqi('Mexico City', 8, 6, 172.0199157007376, 'Unhealthy').
 aqi('Dubai', 4, 22, 67.2, 'Moderate').
 aqi('Istanbul', 6, 24, 81.30429184549357, 'Moderate').
 aqi('Istanbul', 11, 17, 155.82255005268703, 'Unhealthy').
-aqi('Berlin', 4, 10, 187.2775553213909, 'Unhealthy').
+aqi('Berlin', 4, 10, 187.27755532139093, 'Unhealthy').
 aqi('London', 10, 12, 189.0950474183351, 'Unhealthy').
 aqi('Beijing', 2, 23, 194.81601685985248, 'Unhealthy').
 aqi('Johannesburg', 1, 25, 192.5596417281349, 'Unhealthy').
 aqi('Mexico City', 3, 21, 144.04120603015076, 'Poor').
-aqi('Rio de Janeiro', 3, 15, 115.2941414141414, 'Poor').
-aqi('Rio de Janeiro', 8, 28, 98.6961373390558, 'Moderate').
+aqi('Rio de Janeiro', 3, 15, 115.29414141414141, 'Poor').
+aqi('Rio de Janeiro', 8, 28, 98.69613733905581, 'Moderate').
 aqi('Seoul', 10, 3, 168.91675447839833, 'Unhealthy').
-aqi('Johannesburg', 4, 16, 186.9884088514225, 'Unhealthy').
+aqi('Johannesburg', 4, 16, 186.98840885142255, 'Unhealthy').
 aqi('Beijing', 3, 3, 151.68155953635406, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 21, 176.450052687039, 'Unhealthy').
-aqi('Beijing', 10, 8, 185.7801896733404, 'Unhealthy').
+aqi('Beijing', 10, 8, 185.78018967334037, 'Unhealthy').
 aqi('Johannesburg', 1, 2, 153.33382507903056, 'Unhealthy').
 aqi('Berlin', 10, 3, 187.8145416227608, 'Unhealthy').
 aqi('London', 8, 9, 160.77934668071654, 'Unhealthy').
 aqi('Johannesburg', 9, 3, 178.82518440463645, 'Unhealthy').
 aqi('Tokyo', 7, 3, 93.0509090909091, 'Moderate').
 aqi('Mexico City', 5, 27, 110.0859296482412, 'Poor').
-aqi('Bangkok', 4, 28, 101.18313131313133, 'Poor').
+aqi('Bangkok', 4, 28, 101.18313131313131, 'Poor').
 aqi('Cairo', 10, 8, 160.14425711275027, 'Unhealthy').
-aqi('London', 4, 2, 157.12370916754475, 'Unhealthy').
+aqi('London', 4, 2, 157.12370916754477, 'Unhealthy').
 aqi('Madrid', 5, 23, 156.66417281348788, 'Unhealthy').
 aqi('Cairo', 5, 12, 191.20168598524765, 'Unhealthy').
 aqi('Sydney', 1, 23, 87.8245652173913, 'Moderate').
@@ -23374,42 +23374,42 @@ aqi('New York', 6, 5, 146.99597989949748, 'Poor').
 aqi('London', 2, 18, 167.8582718651212, 'Unhealthy').
 aqi('Johannesburg', 12, 27, 113.3854271356784, 'Poor').
 aqi('Istanbul', 9, 14, 197.0827186512118, 'Unhealthy').
-aqi('Seoul', 6, 22, 90.33363636363636, 'Moderate').
+aqi('Seoul', 6, 22, 90.33363636363637, 'Moderate').
 aqi('Johannesburg', 11, 22, 151.58345626975765, 'Unhealthy').
 aqi('Los Angeles', 2, 9, 163.5314014752371, 'Unhealthy').
 aqi('Moscow', 11, 20, 178.9904109589041, 'Unhealthy').
-aqi('Madrid', 3, 19, 191.9710221285564, 'Unhealthy').
+aqi('Madrid', 3, 19, 191.97102212855637, 'Unhealthy').
 aqi('Berlin', 5, 26, 172.77892518440464, 'Unhealthy').
 aqi('London', 6, 20, 99.0945652173913, 'Moderate').
 aqi('Toronto', 9, 28, 173.59473129610117, 'Unhealthy').
 aqi('Mumbai', 7, 8, 64.54334763948498, 'Moderate').
 aqi('Istanbul', 9, 14, 177.76153846153846, 'Unhealthy').
-aqi('Mumbai', 10, 23, 122.64371859296485, 'Poor').
+aqi('Mumbai', 10, 23, 122.64371859296483, 'Poor').
 aqi('Mexico City', 9, 26, 152.55932560590094, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 15, 185.06248682824025, 'Unhealthy').
 aqi('Toronto', 2, 1, 94.08804347826089, 'Moderate').
-aqi('Madrid', 2, 8, 188.8575342465753, 'Unhealthy').
-aqi('Seoul', 12, 7, 129.83366834170857, 'Poor').
+aqi('Madrid', 2, 8, 188.85753424657534, 'Unhealthy').
+aqi('Seoul', 12, 7, 129.83366834170855, 'Poor').
 aqi('Sydney', 6, 4, 138.5994974874372, 'Poor').
 aqi('Paris', 6, 9, 114.5427135678392, 'Poor').
 aqi('Moscow', 7, 1, 176.18155953635406, 'Unhealthy').
-aqi('Paris', 5, 19, 92.53433476394852, 'Moderate').
-aqi('Sydney', 9, 14, 186.55468914647, 'Unhealthy').
+aqi('Paris', 5, 19, 92.53433476394851, 'Moderate').
+aqi('Sydney', 9, 14, 186.55468914646997, 'Unhealthy').
 aqi('Los Angeles', 8, 18, 196.4218124341412, 'Unhealthy').
 aqi('Toronto', 3, 10, 153.9327713382508, 'Unhealthy').
-aqi('Sydney', 1, 6, 196.88134878819807, 'Unhealthy').
+aqi('Sydney', 1, 6, 196.88134878819812, 'Unhealthy').
 aqi('Johannesburg', 6, 28, 84.6219191919192, 'Moderate').
 aqi('Seoul', 5, 20, 78.920101010101, 'Moderate').
 aqi('Cairo', 6, 16, 166.24214963119073, 'Unhealthy').
 aqi('Seoul', 9, 23, 128.5778894472362, 'Poor').
 aqi('Mumbai', 4, 3, 164.87386722866177, 'Unhealthy').
-aqi('Bangkok', 12, 27, 99.05195652173911, 'Moderate').
+aqi('Bangkok', 12, 27, 99.05195652173913, 'Moderate').
 aqi('Berlin', 10, 3, 99.43218884120174, 'Moderate').
 aqi('Seoul', 5, 5, 79.41158798283263, 'Moderate').
 aqi('Toronto', 1, 27, 172.5517386722866, 'Unhealthy').
-aqi('Dubai', 1, 24, 119.49195979899496, 'Poor').
+aqi('Dubai', 1, 24, 119.49195979899497, 'Poor').
 aqi('Cairo', 10, 24, 166.02528977871444, 'Unhealthy').
-aqi('Berlin', 9, 28, 189.47197049525812, 'Unhealthy').
+aqi('Berlin', 9, 28, 189.47197049525818, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 17, 104.4718592964824, 'Poor').
 aqi('Tokyo', 12, 13, 176.49652265542676, 'Unhealthy').
 aqi('Toronto', 5, 17, 102.18190954773868, 'Poor').
@@ -23417,9 +23417,9 @@ aqi('Johannesburg', 8, 16, 178.58767123287672, 'Unhealthy').
 aqi('Paris', 1, 21, 178.64446786090622, 'Unhealthy').
 aqi('Moscow', 6, 1, 180.2605900948367, 'Unhealthy').
 aqi('Mexico City', 4, 15, 108.43448275862067, 'Poor').
-aqi('Mumbai', 12, 15, 157.19083245521605, 'Unhealthy').
+aqi('Mumbai', 12, 15, 157.19083245521603, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 18, 153.2253951527924, 'Unhealthy').
-aqi('Seoul', 11, 24, 99.47424892703864, 'Moderate').
+aqi('Seoul', 11, 24, 99.47424892703863, 'Moderate').
 aqi('Dubai', 10, 10, 166.75331928345628, 'Unhealthy').
 aqi('Madrid', 3, 24, 114.2250505050505, 'Poor').
 aqi('Mumbai', 8, 1, 187.3550052687039, 'Unhealthy').
@@ -23433,15 +23433,15 @@ aqi('London', 2, 18, 136.33417085427135, 'Poor').
 aqi('London', 7, 27, 160.61412012644888, 'Unhealthy').
 aqi('Toronto', 4, 8, 93.01217391304348, 'Moderate').
 aqi('Toronto', 11, 10, 91.75622317596569, 'Moderate').
-aqi('Moscow', 9, 22, 160.30432033719703, 'Unhealthy').
+aqi('Moscow', 9, 22, 160.30432033719705, 'Unhealthy').
 aqi('Beijing', 4, 24, 141.6773869346734, 'Poor').
-aqi('Rio de Janeiro', 4, 7, 185.7853530031612, 'Unhealthy').
+aqi('Rio de Janeiro', 4, 7, 185.78535300316122, 'Unhealthy').
 aqi('Moscow', 6, 19, 160.2113804004215, 'Unhealthy').
 aqi('Johannesburg', 8, 15, 121.92964824120602, 'Poor').
 aqi('Mexico City', 1, 26, 66.4, 'Moderate').
 aqi('Toronto', 5, 23, 151.06712328767122, 'Unhealthy').
 aqi('Seoul', 1, 16, 161.98240252897787, 'Unhealthy').
-aqi('Madrid', 1, 4, 181.618545837724, 'Unhealthy').
+aqi('Madrid', 1, 4, 181.61854583772393, 'Unhealthy').
 aqi('Paris', 7, 19, 194.0105374077977, 'Unhealthy').
 aqi('London', 3, 14, 90.47339055793992, 'Moderate').
 aqi('London', 8, 3, 171.53972602739725, 'Unhealthy').
@@ -23450,7 +23450,7 @@ aqi('London', 11, 5, 93.4369696969697, 'Moderate').
 aqi('Mumbai', 2, 2, 158.65205479452055, 'Unhealthy').
 aqi('Beijing', 10, 27, 172.66533192834564, 'Unhealthy').
 aqi('Moscow', 1, 1, 164.00642781875658, 'Unhealthy').
-aqi('Los Angeles', 1, 18, 199.43719704952585, 'Unhealthy').
+aqi('Los Angeles', 1, 18, 199.43719704952582, 'Unhealthy').
 aqi('Berlin', 2, 1, 106.90474747474748, 'Poor').
 aqi('Los Angeles', 7, 15, 156.6022128556375, 'Unhealthy').
 aqi('Moscow', 11, 28, 165.97881981032666, 'Unhealthy').
@@ -23464,13 +23464,13 @@ aqi('London', 2, 7, 92.70257510729614, 'Moderate').
 aqi('Los Angeles', 6, 24, 170.72391991570075, 'Unhealthy').
 aqi('Moscow', 3, 1, 156.03424657534248, 'Unhealthy').
 aqi('Los Angeles', 4, 23, 180.15216016859853, 'Unhealthy').
-aqi('Istanbul', 8, 17, 191.3256059009484, 'Unhealthy').
+aqi('Istanbul', 8, 17, 191.32560590094837, 'Unhealthy').
 aqi('Dubai', 12, 2, 165.91685985247628, 'Unhealthy').
 aqi('Seoul', 6, 7, 178.62897787144362, 'Unhealthy').
 aqi('Tokyo', 8, 5, 165.91169652265543, 'Unhealthy').
-aqi('Dubai', 5, 21, 194.86248682824024, 'Unhealthy').
+aqi('Dubai', 5, 21, 194.86248682824026, 'Unhealthy').
 aqi('Johannesburg', 4, 14, 156.9894625922023, 'Unhealthy').
-aqi('London', 5, 2, 123.030202020202, 'Poor').
+aqi('London', 5, 2, 123.03020202020201, 'Poor').
 aqi('Mexico City', 11, 4, 185.27418335089567, 'Unhealthy').
 aqi('Madrid', 10, 26, 94.110101010101, 'Moderate').
 aqi('Los Angeles', 12, 27, 79.3, 'Moderate').
@@ -23480,9 +23480,9 @@ aqi('Mexico City', 3, 9, 189.03308746048472, 'Unhealthy').
 aqi('Johannesburg', 12, 5, 123.97336683417086, 'Poor').
 aqi('Mexico City', 4, 22, 168.88577449947314, 'Unhealthy').
 aqi('Istanbul', 10, 10, 113.09656565656566, 'Poor').
-aqi('Cairo', 6, 27, 188.8472075869336, 'Unhealthy').
+aqi('Cairo', 6, 27, 188.84720758693362, 'Unhealthy').
 aqi('Mumbai', 11, 6, 175.5, 'Unhealthy').
-aqi('Toronto', 11, 18, 91.06223175965664, 'Moderate').
+aqi('Toronto', 11, 18, 91.06223175965665, 'Moderate').
 aqi('Bangkok', 9, 25, 172.7118018967334, 'Unhealthy').
 aqi('Dubai', 12, 12, 172.0663856691254, 'Unhealthy').
 aqi('Beijing', 12, 6, 138.15628140703518, 'Poor').
@@ -23495,61 +23495,61 @@ aqi('Dubai', 12, 19, 85.99399141630903, 'Moderate').
 aqi('Seoul', 6, 21, 148.1040201005025, 'Poor').
 aqi('Mumbai', 3, 20, 99.4141304347826, 'Moderate').
 aqi('Madrid', 12, 2, 181.3345626975764, 'Unhealthy').
-aqi('Cairo', 9, 28, 111.69090909090907, 'Poor').
+aqi('Cairo', 9, 28, 111.69090909090909, 'Poor').
 aqi('Los Angeles', 9, 6, 59.76952789699571, 'Moderate').
-aqi('Istanbul', 2, 21, 191.69736564805052, 'Unhealthy').
+aqi('Istanbul', 2, 21, 191.69736564805058, 'Unhealthy').
 aqi('Berlin', 2, 18, 160.60895679662804, 'Unhealthy').
 aqi('Paris', 11, 27, 185.69757639620653, 'Unhealthy').
 aqi('Tokyo', 9, 17, 121.95427135678392, 'Poor').
 aqi('Paris', 9, 7, 136.62964824120604, 'Poor').
 aqi('Dubai', 6, 4, 108.04221105527638, 'Poor').
-aqi('Istanbul', 2, 15, 92.80772532188844, 'Moderate').
+aqi('Istanbul', 2, 15, 92.80772532188843, 'Moderate').
 aqi('Toronto', 5, 19, 192.3995785036881, 'Unhealthy').
 aqi('Toronto', 3, 23, 173.85806111696522, 'Unhealthy').
-aqi('Paris', 7, 19, 105.14272727272729, 'Poor').
+aqi('Paris', 7, 19, 105.14272727272727, 'Poor').
 aqi('Toronto', 10, 2, 54.28068669527897, 'Moderate').
 aqi('London', 12, 24, 151.1858798735511, 'Unhealthy').
 aqi('Sydney', 9, 7, 170.87881981032666, 'Unhealthy').
 aqi('Madrid', 1, 12, 81.63242424242424, 'Moderate').
 aqi('Madrid', 6, 12, 155.32170706006323, 'Unhealthy').
-aqi('Dubai', 4, 27, 140.3477386934673, 'Poor').
+aqi('Dubai', 4, 27, 140.34773869346733, 'Poor').
 aqi('Los Angeles', 7, 5, 181.67017913593256, 'Unhealthy').
 aqi('Mexico City', 1, 24, 174.02328767123288, 'Unhealthy').
 aqi('Beijing', 6, 6, 196.16880927291885, 'Unhealthy').
 aqi('Istanbul', 3, 11, 84.16437768240344, 'Moderate').
-aqi('Bangkok', 10, 17, 196.4476290832456, 'Unhealthy').
+aqi('Bangkok', 10, 17, 196.44762908324554, 'Unhealthy').
 aqi('Johannesburg', 2, 10, 198.00695468914648, 'Unhealthy').
 aqi('Tokyo', 3, 5, 156.5299262381454, 'Unhealthy').
 aqi('Paris', 6, 25, 126.6326633165829, 'Poor').
 aqi('Toronto', 8, 26, 119.3428282828283, 'Poor').
 aqi('Paris', 4, 25, 166.4073761854584, 'Unhealthy').
-aqi('London', 5, 26, 92.47124463519312, 'Moderate').
+aqi('London', 5, 26, 92.47124463519313, 'Moderate').
 aqi('Mexico City', 12, 7, 185.8473129610116, 'Unhealthy').
 aqi('Berlin', 7, 15, 165.58124341412014, 'Unhealthy').
 aqi('Istanbul', 6, 2, 171.38482613277134, 'Unhealthy').
 aqi('Cairo', 12, 25, 184.01433087460484, 'Unhealthy').
 aqi('Berlin', 10, 25, 163.4746048472076, 'Unhealthy').
 aqi('Bangkok', 6, 9, 183.35342465753425, 'Unhealthy').
-aqi('Los Angeles', 8, 1, 92.2, 'Moderate').
+aqi('Los Angeles', 8, 1, 92.19999999999999, 'Moderate').
 aqi('Cairo', 7, 15, 144.6321608040201, 'Poor').
-aqi('Tokyo', 9, 20, 194.908956796628, 'Unhealthy').
-aqi('Toronto', 8, 15, 188.7284510010537, 'Unhealthy').
+aqi('Tokyo', 9, 20, 194.90895679662802, 'Unhealthy').
+aqi('Toronto', 8, 15, 188.72845100105374, 'Unhealthy').
 aqi('Mexico City', 6, 27, 194.4804004214963, 'Unhealthy').
 aqi('Beijing', 5, 6, 185.70790305584825, 'Unhealthy').
 aqi('Toronto', 7, 3, 165.78777660695468, 'Unhealthy').
-aqi('Sydney', 1, 2, 197.1240252897788, 'Unhealthy').
+aqi('Sydney', 1, 2, 197.12402528977873, 'Unhealthy').
 aqi('London', 5, 12, 198.28061116965227, 'Unhealthy').
 aqi('Dubai', 12, 21, 140.864824120603, 'Poor').
 aqi('Seoul', 3, 24, 156.46280295047418, 'Unhealthy').
-aqi('London', 3, 2, 109.34723618090452, 'Poor').
+aqi('London', 3, 2, 109.34723618090453, 'Poor').
 aqi('Istanbul', 5, 24, 136.9005025125628, 'Poor').
 aqi('Cairo', 4, 26, 153.1840885142255, 'Unhealthy').
 aqi('Seoul', 12, 14, 188.80073761854584, 'Unhealthy').
 aqi('Tokyo', 8, 7, 149.03969849246232, 'Poor').
 aqi('Toronto', 11, 18, 137.1467336683417, 'Poor').
-aqi('Los Angeles', 2, 4, 151.41822971549, 'Unhealthy').
+aqi('Los Angeles', 2, 4, 151.41822971548999, 'Unhealthy').
 aqi('Cairo', 5, 22, 76.54929292929293, 'Moderate').
-aqi('Bangkok', 7, 20, 118.30343434343436, 'Poor').
+aqi('Bangkok', 7, 20, 118.30343434343435, 'Poor').
 aqi('Cairo', 3, 25, 198.2186512118019, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 20, 192.23435194942044, 'Unhealthy').
 aqi('Sydney', 1, 3, 86.39999999999999, 'Moderate').
@@ -23561,34 +23561,34 @@ aqi('Beijing', 5, 28, 118.0145728643216, 'Poor').
 aqi('London', 11, 21, 164.7964172813488, 'Unhealthy').
 aqi('Los Angeles', 10, 5, 167.79631190727082, 'Unhealthy').
 aqi('Madrid', 12, 28, 197.1550052687039, 'Unhealthy').
-aqi('New York', 7, 21, 113.26231155778892, 'Poor').
+aqi('New York', 7, 21, 113.26231155778893, 'Poor').
 aqi('Johannesburg', 10, 21, 172.17481559536355, 'Unhealthy').
 aqi('London', 5, 25, 183.0436248682824, 'Unhealthy').
 aqi('Johannesburg', 10, 27, 188.9504741833509, 'Unhealthy').
 aqi('Moscow', 10, 21, 101.76331658291458, 'Poor').
-aqi('Beijing', 8, 23, 121.97101010101012, 'Poor').
-aqi('Moscow', 10, 4, 125.59849246231155, 'Poor').
+aqi('Beijing', 8, 23, 121.97101010101011, 'Poor').
+aqi('Moscow', 10, 4, 125.59849246231157, 'Poor').
 aqi('Mexico City', 1, 27, 164.5795574288725, 'Unhealthy').
 aqi('Mexico City', 1, 6, 186.0899894625922, 'Unhealthy').
 aqi('Paris', 3, 1, 156.41116965226556, 'Unhealthy').
 aqi('Johannesburg', 11, 6, 185.38261327713383, 'Unhealthy').
-aqi('Berlin', 2, 16, 195.8177028451001, 'Unhealthy').
+aqi('Berlin', 2, 16, 195.81770284510011, 'Unhealthy').
 aqi('Los Angeles', 6, 4, 107.39969696969698, 'Poor').
 aqi('Mexico City', 8, 12, 166.3195995785037, 'Unhealthy').
 aqi('Mumbai', 12, 3, 186.5495258166491, 'Unhealthy').
-aqi('Paris', 6, 5, 110.578391959799, 'Poor').
+aqi('Paris', 6, 5, 110.57839195979899, 'Poor').
 aqi('Johannesburg', 2, 19, 92.3030042918455, 'Moderate').
 aqi('Rio de Janeiro', 7, 4, 161.56933614330876, 'Unhealthy').
 aqi('Mexico City', 9, 26, 83.66171717171717, 'Moderate').
 aqi('Mexico City', 4, 26, 151.87776606954688, 'Unhealthy').
-aqi('Sydney', 5, 23, 195.40463645943092, 'Unhealthy').
+aqi('Sydney', 5, 23, 195.40463645943098, 'Unhealthy').
 aqi('New York', 5, 8, 162.9427818756586, 'Unhealthy').
 aqi('Berlin', 2, 3, 178.7219178082192, 'Unhealthy').
-aqi('Moscow', 7, 23, 185.4239199157008, 'Unhealthy').
+aqi('Moscow', 7, 23, 185.42391991570074, 'Unhealthy').
 aqi('Los Angeles', 11, 14, 135.91557788944723, 'Poor').
 aqi('New York', 8, 2, 151.99652265542676, 'Unhealthy').
 aqi('Los Angeles', 4, 12, 195.32718651211803, 'Unhealthy').
-aqi('Rio de Janeiro', 1, 11, 199.3494204425712, 'Unhealthy').
+aqi('Rio de Janeiro', 1, 11, 199.34942044257113, 'Unhealthy').
 aqi('Bangkok', 9, 21, 76.72500000000001, 'Moderate').
 aqi('Johannesburg', 5, 2, 177.35879873551107, 'Unhealthy').
 aqi('London', 1, 13, 129.80904522613065, 'Poor').
@@ -23596,25 +23596,25 @@ aqi('Mexico City', 7, 28, 143.6964824120603, 'Poor').
 aqi('Sydney', 7, 21, 158.3835616438356, 'Unhealthy').
 aqi('Cairo', 9, 11, 134.73366834170855, 'Poor').
 aqi('Los Angeles', 9, 3, 151.69704952581665, 'Unhealthy').
-aqi('Mexico City', 11, 7, 156.23561643835615, 'Unhealthy').
-aqi('Seoul', 10, 21, 195.254899894626, 'Unhealthy').
+aqi('Mexico City', 11, 7, 156.23561643835617, 'Unhealthy').
+aqi('Seoul', 10, 21, 195.25489989462594, 'Unhealthy').
 aqi('Los Angeles', 4, 23, 162.57102212855636, 'Unhealthy').
 aqi('Paris', 2, 26, 187.4995785036881, 'Unhealthy').
 aqi('Los Angeles', 5, 20, 168.12160168598524, 'Unhealthy').
-aqi('Bangkok', 11, 14, 199.69536354056905, 'Unhealthy').
+aqi('Bangkok', 11, 14, 199.69536354056902, 'Unhealthy').
 aqi('Bangkok', 6, 1, 183.03846153846155, 'Unhealthy').
 aqi('Mumbai', 12, 14, 169.18008429926238, 'Unhealthy').
 aqi('Los Angeles', 9, 24, 161.82233930453108, 'Unhealthy').
 aqi('Toronto', 12, 1, 194.4855637513172, 'Unhealthy').
 aqi('Beijing', 8, 24, 189.86438356164385, 'Unhealthy').
-aqi('Istanbul', 6, 16, 106.68793969849249, 'Poor').
+aqi('Istanbul', 6, 16, 106.68793969849247, 'Poor').
 aqi('Bangkok', 10, 6, 198.90537407797683, 'Unhealthy').
 aqi('Cairo', 11, 16, 101.24747474747475, 'Poor').
 aqi('Sydney', 4, 6, 176.73919915700736, 'Unhealthy').
 aqi('Moscow', 9, 4, 155.59536354056902, 'Unhealthy').
 aqi('Bangkok', 9, 28, 121.85577889447237, 'Poor').
 aqi('Johannesburg', 4, 12, 186.35331928345627, 'Unhealthy').
-aqi('New York', 11, 3, 194.872813487882, 'Unhealthy').
+aqi('New York', 11, 3, 194.87281348788198, 'Unhealthy').
 aqi('Johannesburg', 12, 14, 164.9358271865121, 'Unhealthy').
 aqi('Istanbul', 8, 26, 157.13403582718652, 'Unhealthy').
 aqi('London', 11, 27, 162.45742887249736, 'Unhealthy').
@@ -23627,18 +23627,18 @@ aqi('Seoul', 2, 8, 168.82381454162277, 'Unhealthy').
 aqi('Mumbai', 8, 28, 95.59, 'Moderate').
 aqi('Sydney', 12, 16, 169.83582718651212, 'Unhealthy').
 aqi('Madrid', 2, 26, 67.33333333333333, 'Moderate').
-aqi('London', 1, 26, 197.2169652265543, 'Unhealthy').
+aqi('London', 1, 26, 197.21696522655427, 'Unhealthy').
 aqi('Bangkok', 11, 10, 182.5427818756586, 'Unhealthy').
 aqi('Berlin', 4, 16, 167.62592202318228, 'Unhealthy').
 aqi('Paris', 10, 2, 160.51085353003162, 'Unhealthy').
-aqi('Tokyo', 6, 11, 195.2600632244468, 'Unhealthy').
+aqi('Tokyo', 6, 11, 195.26006322444678, 'Unhealthy').
 aqi('Sydney', 6, 18, 173.2023182297155, 'Unhealthy').
 aqi('Sydney', 8, 1, 176.08345626975765, 'Unhealthy').
 aqi('Mumbai', 11, 20, 178.25205479452055, 'Unhealthy').
 aqi('Los Angeles', 8, 18, 197.30474183350896, 'Unhealthy').
 aqi('Beijing', 4, 19, 198.404531085353, 'Unhealthy').
 aqi('New York', 11, 5, 148.1040201005025, 'Poor').
-aqi('Seoul', 9, 9, 190.82992623814545, 'Unhealthy').
+aqi('Seoul', 9, 9, 190.82992623814542, 'Unhealthy').
 aqi('Johannesburg', 8, 21, 184.3086406743941, 'Unhealthy').
 aqi('Dubai', 1, 26, 190.92286617492096, 'Unhealthy').
 aqi('Bangkok', 6, 13, 125.278391959799, 'Poor').
@@ -23648,7 +23648,7 @@ aqi('Cairo', 11, 15, 174.82876712328766, 'Unhealthy').
 aqi('New York', 7, 23, 139.14120603015076, 'Poor').
 aqi('Berlin', 3, 26, 196.3340358271865, 'Unhealthy').
 aqi('Sydney', 9, 4, 119.68929292929292, 'Poor').
-aqi('Cairo', 1, 3, 158.8069546891465, 'Unhealthy').
+aqi('Cairo', 1, 3, 158.80695468914647, 'Unhealthy').
 aqi('London', 9, 22, 154.01538461538462, 'Unhealthy').
 aqi('Tokyo', 7, 6, 170.81685985247628, 'Unhealthy').
 aqi('Bangkok', 1, 16, 151.96554267650157, 'Unhealthy').
@@ -23664,33 +23664,33 @@ aqi('Istanbul', 9, 19, 184.3344573234984, 'Unhealthy').
 aqi('Cairo', 1, 21, 177.96290832455216, 'Unhealthy').
 aqi('Mumbai', 11, 8, 168.60695468914648, 'Unhealthy').
 aqi('Tokyo', 8, 21, 170.4709167544784, 'Unhealthy').
-aqi('Dubai', 6, 24, 184.41190727081133, 'Unhealthy').
-aqi('Madrid', 2, 4, 109.20131313131311, 'Poor').
-aqi('New York', 7, 22, 181.4894625922024, 'Unhealthy').
-aqi('Sydney', 12, 1, 199.36491043203367, 'Unhealthy').
+aqi('Dubai', 6, 24, 184.41190727081138, 'Unhealthy').
+aqi('Madrid', 2, 4, 109.20131313131313, 'Poor').
+aqi('New York', 7, 22, 181.48946259220233, 'Unhealthy').
+aqi('Sydney', 12, 1, 199.36491043203372, 'Unhealthy').
 aqi('Madrid', 12, 27, 178.56701791359325, 'Unhealthy').
 aqi('Sydney', 8, 17, 190.5924130663857, 'Unhealthy').
 aqi('Seoul', 1, 9, 176.70305584826133, 'Unhealthy').
 aqi('London', 11, 28, 88.24989898989898, 'Moderate').
-aqi('London', 5, 19, 199.2048472075869, 'Unhealthy').
+aqi('London', 5, 19, 199.20484720758694, 'Unhealthy').
 aqi('Bangkok', 4, 18, 160.60895679662804, 'Unhealthy').
 aqi('Johannesburg', 1, 4, 163.40748155953636, 'Unhealthy').
 aqi('Tokyo', 5, 14, 193.46838777660696, 'Unhealthy').
 aqi('Tokyo', 7, 5, 181.3913593256059, 'Unhealthy').
-aqi('Seoul', 6, 22, 113.85326633165828, 'Poor').
+aqi('Seoul', 6, 22, 113.85326633165829, 'Poor').
 aqi('Johannesburg', 7, 28, 92.8, 'Moderate').
 aqi('Toronto', 6, 10, 89.5, 'Moderate').
 aqi('Toronto', 3, 5, 127.8145728643216, 'Poor').
 aqi('Bangkok', 8, 2, 170.34699683877767, 'Unhealthy').
-aqi('Berlin', 8, 4, 116.93737373737372, 'Poor').
+aqi('Berlin', 8, 4, 116.93737373737373, 'Poor').
 aqi('Los Angeles', 4, 7, 132.81306532663316, 'Poor').
 aqi('Sydney', 11, 13, 199.15837723919915, 'Unhealthy').
-aqi('Tokyo', 8, 16, 191.67154899894624, 'Unhealthy').
+aqi('Tokyo', 8, 16, 191.67154899894626, 'Unhealthy').
 aqi('Tokyo', 7, 20, 161.33698630136985, 'Unhealthy').
 aqi('Sydney', 1, 19, 175.4845100105374, 'Unhealthy').
-aqi('Bangkok', 2, 20, 175.159220231823, 'Unhealthy').
+aqi('Bangkok', 2, 20, 175.15922023182299, 'Unhealthy').
 aqi('Beijing', 3, 19, 187.9694415173867, 'Unhealthy').
-aqi('Seoul', 1, 5, 196.72644889357213, 'Unhealthy').
+aqi('Seoul', 1, 5, 196.72644889357218, 'Unhealthy').
 aqi('Tokyo', 4, 9, 190.8609062170706, 'Unhealthy').
 aqi('Madrid', 12, 21, 78.71759656652361, 'Moderate').
 aqi('Johannesburg', 11, 20, 166.7791359325606, 'Unhealthy').
@@ -23714,7 +23714,7 @@ aqi('Rio de Janeiro', 1, 27, 189.85922023182297, 'Unhealthy').
 aqi('Los Angeles', 11, 15, 197.0259220231823, 'Unhealthy').
 aqi('Berlin', 12, 9, 168.0286617492097, 'Unhealthy').
 aqi('Madrid', 9, 15, 192.99336143308747, 'Unhealthy').
-aqi('Moscow', 7, 21, 193.31348788198105, 'Unhealthy').
+aqi('Moscow', 7, 21, 193.31348788198102, 'Unhealthy').
 aqi('Sydney', 1, 5, 76.5, 'Moderate').
 aqi('Berlin', 5, 15, 178.65479452054794, 'Unhealthy').
 aqi('Cairo', 3, 11, 162.10115911485775, 'Unhealthy').
@@ -23722,15 +23722,15 @@ aqi('Bangkok', 11, 25, 93.18260869565216, 'Moderate').
 aqi('Istanbul', 4, 6, 158.62623814541624, 'Unhealthy').
 aqi('Berlin', 8, 18, 84.75321888412017, 'Moderate').
 aqi('Bangkok', 3, 9, 185.6304531085353, 'Unhealthy').
-aqi('Rio de Janeiro', 5, 16, 188.1656480505796, 'Unhealthy').
+aqi('Rio de Janeiro', 5, 16, 188.16564805057956, 'Unhealthy').
 aqi('Dubai', 1, 25, 71.81434782608696, 'Moderate').
-aqi('Toronto', 5, 23, 189.60105374077972, 'Unhealthy').
+aqi('Toronto', 5, 23, 189.60105374077978, 'Unhealthy').
 aqi('Istanbul', 1, 12, 169.60347734457324, 'Unhealthy').
 aqi('Dubai', 8, 6, 179.05237091675448, 'Unhealthy').
 aqi('Moscow', 6, 21, 167.34710221285565, 'Unhealthy').
-aqi('Tokyo', 9, 7, 189.4874604847208, 'Unhealthy').
+aqi('Tokyo', 9, 7, 189.48746048472077, 'Unhealthy').
 aqi('London', 8, 5, 156.6899894625922, 'Unhealthy').
-aqi('Johannesburg', 1, 21, 191.88840885142253, 'Unhealthy').
+aqi('Johannesburg', 1, 21, 191.88840885142255, 'Unhealthy').
 aqi('Seoul', 6, 23, 167.86343519494204, 'Unhealthy').
 aqi('Toronto', 12, 24, 168.62244467860907, 'Unhealthy').
 aqi('Cairo', 5, 13, 179.61517386722866, 'Unhealthy').
@@ -23739,13 +23739,13 @@ aqi('Johannesburg', 3, 7, 161.61580611169651, 'Unhealthy').
 aqi('Beijing', 4, 14, 138.5994974874372, 'Poor').
 aqi('Tokyo', 9, 11, 187.8868282402529, 'Unhealthy').
 aqi('Madrid', 10, 13, 179.50158061116966, 'Unhealthy').
-aqi('London', 11, 17, 105.04868686868689, 'Poor').
+aqi('London', 11, 17, 105.04868686868687, 'Poor').
 aqi('Cairo', 12, 4, 106.66331658291456, 'Poor').
 aqi('Seoul', 5, 3, 155.0222339304531, 'Unhealthy').
 aqi('New York', 2, 26, 95.5, 'Moderate').
 aqi('Johannesburg', 2, 9, 181.11253951527925, 'Unhealthy').
-aqi('Los Angeles', 10, 21, 185.63561643835612, 'Unhealthy').
-aqi('New York', 6, 19, 181.5927291886196, 'Unhealthy').
+aqi('Los Angeles', 10, 21, 185.63561643835618, 'Unhealthy').
+aqi('New York', 6, 19, 181.59272918861961, 'Unhealthy').
 aqi('Bangkok', 9, 16, 187.31886195995787, 'Unhealthy').
 aqi('Sydney', 12, 15, 148.891959798995, 'Poor').
 aqi('Toronto', 6, 5, 95.07525252525252, 'Moderate').
@@ -23771,14 +23771,14 @@ aqi('Madrid', 4, 15, 146.35577889447237, 'Poor').
 aqi('Toronto', 11, 22, 44.79166666666667, 'Good').
 aqi('Sydney', 9, 21, 188.42897787144364, 'Unhealthy').
 aqi('Beijing', 12, 1, 191.6922023182297, 'Unhealthy').
-aqi('Mexico City', 7, 2, 108.18994974874371, 'Poor').
+aqi('Mexico City', 7, 2, 108.18994974874373, 'Poor').
 aqi('Sydney', 7, 11, 178.7890410958904, 'Unhealthy').
 aqi('Beijing', 11, 22, 174.54994731296102, 'Unhealthy').
 aqi('Istanbul', 3, 13, 169.12845100105375, 'Unhealthy').
 aqi('Istanbul', 9, 22, 189.67850368809275, 'Unhealthy').
 aqi('Sydney', 11, 17, 88.6648068669528, 'Moderate').
-aqi('Toronto', 12, 21, 113.85326633165828, 'Poor').
-aqi('Istanbul', 2, 3, 95.8919191919192, 'Moderate').
+aqi('Toronto', 12, 21, 113.85326633165829, 'Poor').
+aqi('Istanbul', 2, 3, 95.89191919191919, 'Moderate').
 aqi('Istanbul', 2, 12, 89.61115879828327, 'Moderate').
 aqi('Dubai', 3, 3, 113.39353535353536, 'Poor').
 aqi('Sydney', 5, 16, 156.51443624868284, 'Unhealthy').
@@ -23789,10 +23789,10 @@ aqi('London', 1, 21, 179.49641728134878, 'Unhealthy').
 aqi('Tokyo', 11, 5, 95.1, 'Moderate').
 aqi('Johannesburg', 5, 3, 161.37829293993678, 'Unhealthy').
 aqi('Istanbul', 7, 21, 155.58503688092728, 'Unhealthy').
-aqi('Istanbul', 5, 28, 98.75922746781116, 'Moderate').
+aqi('Istanbul', 5, 28, 98.75922746781117, 'Moderate').
 aqi('Toronto', 9, 1, 189.51327713382508, 'Unhealthy').
 aqi('London', 7, 18, 176.5791359325606, 'Unhealthy').
-aqi('Mexico City', 10, 25, 186.6527924130664, 'Unhealthy').
+aqi('Mexico City', 10, 25, 186.65279241306638, 'Unhealthy').
 aqi('Sydney', 5, 22, 175.9750263435195, 'Unhealthy').
 aqi('London', 7, 18, 196.1481559536354, 'Unhealthy').
 aqi('London', 11, 24, 148.0793969849246, 'Poor').
@@ -23801,10 +23801,10 @@ aqi('Istanbul', 2, 1, 99.33676767676768, 'Moderate').
 aqi('Tokyo', 8, 16, 173.6463645943098, 'Unhealthy').
 aqi('Bangkok', 12, 6, 102.8709090909091, 'Poor').
 aqi('Cairo', 11, 10, 186.58050579557428, 'Unhealthy').
-aqi('Madrid', 6, 14, 193.5303477344573, 'Unhealthy').
+aqi('Madrid', 6, 14, 193.53034773445734, 'Unhealthy').
 aqi('Moscow', 9, 10, 163.76375131717597, 'Unhealthy').
-aqi('Dubai', 8, 24, 199.08609062170703, 'Unhealthy').
-aqi('Mumbai', 3, 5, 40.7, 'Good').
+aqi('Dubai', 8, 24, 199.08609062170706, 'Unhealthy').
+aqi('Mumbai', 3, 5, 40.699999999999996, 'Good').
 aqi('Seoul', 5, 7, 157.20632244467862, 'Unhealthy').
 aqi('Seoul', 3, 5, 195.17744994731297, 'Unhealthy').
 aqi('Moscow', 1, 10, 189.55974710221287, 'Unhealthy').
@@ -23815,48 +23815,48 @@ aqi('Toronto', 7, 11, 173.87871443624869, 'Unhealthy').
 aqi('Paris', 1, 3, 54.0, 'Moderate').
 aqi('Moscow', 7, 17, 192.14141201264488, 'Unhealthy').
 aqi('Sydney', 2, 9, 136.43266331658293, 'Poor').
-aqi('Beijing', 12, 21, 196.28240252897783, 'Unhealthy').
-aqi('Cairo', 6, 13, 104.37931034482756, 'Poor').
+aqi('Beijing', 12, 21, 196.28240252897785, 'Unhealthy').
+aqi('Cairo', 6, 13, 104.37931034482757, 'Poor').
 aqi('Rio de Janeiro', 2, 12, 167.1767123287671, 'Unhealthy').
 aqi('Mumbai', 1, 9, 177.90611169652266, 'Unhealthy').
 aqi('Istanbul', 9, 6, 108.36231155778896, 'Poor').
 aqi('Toronto', 2, 18, 161.4299262381454, 'Unhealthy').
-aqi('Madrid', 11, 11, 177.6427818756586, 'Unhealthy').
+aqi('Madrid', 11, 11, 177.64278187565859, 'Unhealthy').
 aqi('Beijing', 2, 7, 93.69391304347826, 'Moderate').
 aqi('Cairo', 9, 1, 168.33329820864066, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 9, 165.6122233930453, 'Unhealthy').
-aqi('Los Angeles', 3, 5, 190.62855637513167, 'Unhealthy').
-aqi('Dubai', 5, 5, 183.20885142255003, 'Unhealthy').
+aqi('Los Angeles', 3, 5, 190.62855637513172, 'Unhealthy').
+aqi('Dubai', 5, 5, 183.20885142255005, 'Unhealthy').
 aqi('Bangkok', 11, 8, 171.06986301369864, 'Unhealthy').
 aqi('Mumbai', 2, 13, 88.98025751072961, 'Moderate').
-aqi('Cairo', 9, 8, 91.84323232323231, 'Moderate').
+aqi('Cairo', 9, 8, 91.84323232323233, 'Moderate').
 aqi('Berlin', 10, 15, 94.66444444444446, 'Moderate').
 aqi('New York', 6, 7, 178.5308746048472, 'Unhealthy').
 aqi('Dubai', 10, 13, 152.54383561643834, 'Unhealthy').
 aqi('Istanbul', 1, 7, 151.62476290832456, 'Unhealthy').
 aqi('Istanbul', 11, 15, 120.17434343434344, 'Poor').
-aqi('Los Angeles', 3, 24, 107.75862068965516, 'Poor').
-aqi('Berlin', 6, 15, 193.66975763962063, 'Unhealthy').
+aqi('Los Angeles', 3, 24, 107.75862068965517, 'Poor').
+aqi('Berlin', 6, 15, 193.66975763962066, 'Unhealthy').
 aqi('Madrid', 3, 23, 108.78090452261306, 'Poor').
 aqi('Seoul', 11, 12, 155.57471022128556, 'Unhealthy').
 aqi('New York', 9, 11, 198.6213909378293, 'Unhealthy').
 aqi('Mexico City', 11, 15, 79.36952789699572, 'Moderate').
-aqi('Paris', 12, 5, 115.30603015075376, 'Poor').
+aqi('Paris', 12, 5, 115.30603015075377, 'Poor').
 aqi('Rio de Janeiro', 9, 13, 155.61085353003162, 'Unhealthy').
 aqi('Tokyo', 12, 28, 97.13991416309014, 'Moderate').
 aqi('Dubai', 10, 5, 193.504531085353, 'Unhealthy').
 aqi('Seoul', 12, 20, 194.2945205479452, 'Unhealthy').
 aqi('Paris', 12, 11, 67.96153846153845, 'Moderate').
 aqi('Moscow', 12, 5, 188.06238145416228, 'Unhealthy').
-aqi('Mumbai', 4, 15, 198.3012644889357, 'Unhealthy').
-aqi('Berlin', 12, 28, 183.4102212855637, 'Unhealthy').
+aqi('Mumbai', 4, 15, 198.30126448893571, 'Unhealthy').
+aqi('Berlin', 12, 28, 183.41022128556375, 'Unhealthy').
 aqi('Cairo', 3, 9, 96.88676767676768, 'Moderate').
 aqi('Sydney', 2, 15, 163.47976817702846, 'Unhealthy').
 aqi('Los Angeles', 3, 18, 191.88324552160168, 'Unhealthy').
 aqi('Mexico City', 7, 10, 117.10565656565656, 'Poor').
 aqi('Paris', 4, 19, 153.9895679662803, 'Unhealthy').
 aqi('London', 2, 15, 155.27007376185458, 'Unhealthy').
-aqi('London', 10, 22, 185.89894625922025, 'Unhealthy').
+aqi('London', 10, 22, 185.89894625922022, 'Unhealthy').
 aqi('Beijing', 11, 16, 166.02528977871444, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 11, 98.4, 'Moderate').
 aqi('Mumbai', 5, 22, 125.84472361809046, 'Poor').
@@ -23885,7 +23885,7 @@ aqi('New York', 11, 5, 73.64935622317597, 'Moderate').
 aqi('Tokyo', 7, 13, 161.47123287671232, 'Unhealthy').
 aqi('Bangkok', 5, 21, 188.44963119072708, 'Unhealthy').
 aqi('Madrid', 4, 9, 90.0107296137339, 'Moderate').
-aqi('Toronto', 2, 17, 182.8474183350896, 'Unhealthy').
+aqi('Toronto', 2, 17, 182.84741833508957, 'Unhealthy').
 aqi('New York', 8, 1, 147.53768844221105, 'Poor').
 aqi('Dubai', 4, 10, 72.3, 'Moderate').
 aqi('Mexico City', 12, 22, 156.68482613277135, 'Unhealthy').
@@ -23893,12 +23893,12 @@ aqi('Beijing', 1, 13, 107.84522613065327, 'Poor').
 aqi('Bangkok', 8, 16, 71.04163090128756, 'Moderate').
 aqi('Paris', 2, 2, 178.48440463645943, 'Unhealthy').
 aqi('Paris', 4, 28, 115.24464646464646, 'Poor').
-aqi('Sydney', 7, 2, 199.7005268703899, 'Unhealthy').
-aqi('Tokyo', 8, 21, 187.1329820864068, 'Unhealthy').
+aqi('Sydney', 7, 2, 199.70052687038987, 'Unhealthy').
+aqi('Tokyo', 8, 21, 187.13298208640674, 'Unhealthy').
 aqi('Paris', 8, 11, 195.55437302423604, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 6, 199.4010537407798, 'Unhealthy').
 aqi('New York', 6, 15, 196.163645943098, 'Unhealthy').
-aqi('Rio de Janeiro', 6, 5, 190.34457323498413, 'Unhealthy').
+aqi('Rio de Janeiro', 6, 5, 190.34457323498418, 'Unhealthy').
 aqi('New York', 2, 20, 171.1731296101159, 'Unhealthy').
 aqi('Mumbai', 3, 19, 159.88609062170707, 'Unhealthy').
 aqi('Paris', 8, 8, 98.8, 'Moderate').
@@ -23910,40 +23910,40 @@ aqi('Berlin', 2, 15, 171.15247629083245, 'Unhealthy').
 aqi('Tokyo', 2, 22, 191.49599578503688, 'Unhealthy').
 aqi('Istanbul', 7, 25, 196.80389884088515, 'Unhealthy').
 aqi('Toronto', 7, 20, 169.36596417281348, 'Unhealthy').
-aqi('Berlin', 1, 11, 107.7221105527638, 'Poor').
+aqi('Berlin', 1, 11, 107.72211055276381, 'Poor').
 aqi('Istanbul', 11, 13, 171.82887249736564, 'Unhealthy').
 aqi('Moscow', 2, 25, 155.07386722866175, 'Unhealthy').
-aqi('Madrid', 9, 3, 112.779797979798, 'Poor').
-aqi('Moscow', 9, 19, 117.43727272727271, 'Poor').
-aqi('Mexico City', 3, 3, 96.48798283261804, 'Moderate').
-aqi('Johannesburg', 2, 1, 104.37931034482756, 'Poor').
+aqi('Madrid', 9, 3, 112.77979797979799, 'Poor').
+aqi('Moscow', 9, 19, 117.43727272727273, 'Poor').
+aqi('Mexico City', 3, 3, 96.48798283261803, 'Moderate').
+aqi('Johannesburg', 2, 1, 104.37931034482757, 'Poor').
 aqi('Berlin', 3, 20, 89.88323232323233, 'Moderate').
-aqi('Moscow', 6, 12, 111.14472361809044, 'Poor').
+aqi('Moscow', 6, 12, 111.14472361809045, 'Poor').
 aqi('Cairo', 11, 22, 165.3385669125395, 'Unhealthy').
-aqi('Rio de Janeiro', 10, 4, 96.4, 'Moderate').
+aqi('Rio de Janeiro', 10, 4, 96.39999999999999, 'Moderate').
 aqi('Paris', 7, 6, 161.15626975763962, 'Unhealthy').
 aqi('Tokyo', 10, 12, 178.4740779768177, 'Unhealthy').
 aqi('Madrid', 12, 15, 80.38934782608696, 'Moderate').
 aqi('Berlin', 9, 12, 102.6497487437186, 'Poor').
 aqi('Beijing', 6, 15, 198.14120126448893, 'Unhealthy').
 aqi('Berlin', 6, 1, 187.83519494204427, 'Unhealthy').
-aqi('Mumbai', 5, 16, 188.95563751317167, 'Unhealthy').
-aqi('Cairo', 5, 8, 184.1434141201265, 'Unhealthy').
+aqi('Mumbai', 5, 16, 188.95563751317175, 'Unhealthy').
+aqi('Cairo', 5, 8, 184.14341412012647, 'Unhealthy').
 aqi('Los Angeles', 10, 3, 159.68988408851422, 'Unhealthy').
-aqi('Johannesburg', 10, 22, 95.16309012875536, 'Moderate').
+aqi('Johannesburg', 10, 22, 95.16309012875537, 'Moderate').
 aqi('Istanbul', 12, 1, 156.545416227608, 'Unhealthy').
 aqi('Mexico City', 1, 28, 167.0631190727081, 'Unhealthy').
-aqi('Los Angeles', 2, 18, 186.5030558482613, 'Unhealthy').
+aqi('Los Angeles', 2, 18, 186.50305584826134, 'Unhealthy').
 aqi('Dubai', 6, 23, 147.14371859296483, 'Poor').
 aqi('Beijing', 6, 4, 182.25879873551108, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 18, 156.61253951527925, 'Unhealthy').
 aqi('Paris', 11, 1, 156.8190727081138, 'Unhealthy').
-aqi('Cairo', 2, 6, 187.618335089568, 'Unhealthy').
+aqi('Cairo', 2, 6, 187.61833508956798, 'Unhealthy').
 aqi('Dubai', 7, 19, 167.25416227608008, 'Unhealthy').
 aqi('Madrid', 7, 7, 172.88735511064277, 'Unhealthy').
 aqi('Beijing', 6, 28, 56.131330472103, 'Moderate').
-aqi('Dubai', 4, 9, 183.5857744994732, 'Unhealthy').
-aqi('Johannesburg', 12, 5, 178.2830347734457, 'Unhealthy').
+aqi('Dubai', 4, 9, 183.58577449947313, 'Unhealthy').
+aqi('Johannesburg', 12, 5, 178.28303477344573, 'Unhealthy').
 aqi('Johannesburg', 5, 9, 90.9, 'Moderate').
 aqi('Paris', 3, 2, 166.98566912539516, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 11, 183.60126448893573, 'Unhealthy').
@@ -23959,11 +23959,11 @@ aqi('Mexico City', 10, 22, 176.2486828240253, 'Unhealthy').
 aqi('Moscow', 6, 22, 151.72286617492097, 'Unhealthy').
 aqi('Dubai', 2, 24, 135.47236180904522, 'Poor').
 aqi('Bangkok', 11, 4, 188.0881981032666, 'Unhealthy').
-aqi('Toronto', 4, 9, 195.12065331928343, 'Unhealthy').
+aqi('Toronto', 4, 9, 195.12065331928346, 'Unhealthy').
 aqi('Mexico City', 7, 1, 96.57, 'Moderate').
-aqi('Dubai', 8, 9, 95.51543478260872, 'Moderate').
+aqi('Dubai', 8, 9, 95.51543478260871, 'Moderate').
 aqi('Dubai', 2, 24, 166.4796628029505, 'Unhealthy').
-aqi('Madrid', 2, 17, 107.30351758793972, 'Poor').
+aqi('Madrid', 2, 17, 107.30351758793971, 'Poor').
 aqi('New York', 6, 11, 157.7691253951528, 'Unhealthy').
 aqi('London', 3, 16, 181.2158061116965, 'Unhealthy').
 aqi('Madrid', 12, 24, 194.8108535300316, 'Unhealthy').
@@ -23982,19 +23982,19 @@ aqi('Rio de Janeiro', 7, 20, 188.32054794520548, 'Unhealthy').
 aqi('Istanbul', 10, 8, 178.06617492096944, 'Unhealthy').
 aqi('Berlin', 12, 26, 74.57467811158799, 'Moderate').
 aqi('Moscow', 4, 9, 109.11034482758622, 'Poor').
-aqi('Paris', 12, 11, 118.80828282828284, 'Poor').
-aqi('Rio de Janeiro', 3, 8, 187.0193888303477, 'Unhealthy').
+aqi('Paris', 12, 11, 118.80828282828283, 'Poor').
+aqi('Rio de Janeiro', 3, 8, 187.01938883034774, 'Unhealthy').
 aqi('Istanbul', 5, 21, 172.4691253951528, 'Unhealthy').
 aqi('Beijing', 2, 21, 196.05521601685984, 'Unhealthy').
 aqi('London', 1, 10, 166.37123287671233, 'Unhealthy').
 aqi('Seoul', 3, 10, 159.60210748155953, 'Unhealthy').
 aqi('Paris', 4, 21, 177.37428872497367, 'Unhealthy').
-aqi('Moscow', 9, 14, 104.37931034482756, 'Poor').
+aqi('Moscow', 9, 14, 104.37931034482757, 'Poor').
 aqi('Sydney', 5, 22, 147.14371859296483, 'Poor').
-aqi('Mumbai', 1, 25, 199.58177028451, 'Unhealthy').
+aqi('Mumbai', 1, 25, 199.58177028451001, 'Unhealthy').
 aqi('Johannesburg', 2, 18, 198.2444678609062, 'Unhealthy').
 aqi('Seoul', 3, 25, 103.61005025125628, 'Poor').
-aqi('Toronto', 6, 25, 198.099894625922, 'Unhealthy').
+aqi('Toronto', 6, 25, 198.09989462592202, 'Unhealthy').
 aqi('Moscow', 3, 4, 172.6808219178082, 'Unhealthy').
 aqi('New York', 5, 5, 177.43108535300317, 'Unhealthy').
 aqi('Sydney', 6, 17, 167.66722866174922, 'Unhealthy').
@@ -24004,17 +24004,17 @@ aqi('Mumbai', 11, 6, 190.66986301369863, 'Unhealthy').
 aqi('Toronto', 6, 19, 182.6099051633298, 'Unhealthy').
 aqi('Toronto', 11, 1, 194.2532139093783, 'Unhealthy').
 aqi('Moscow', 12, 14, 167.43487881981034, 'Unhealthy').
-aqi('Istanbul', 8, 26, 191.9348788198104, 'Unhealthy').
+aqi('Istanbul', 8, 26, 191.93487881981034, 'Unhealthy').
 aqi('Sydney', 8, 4, 139.55979899497487, 'Poor').
 aqi('Mumbai', 8, 11, 173.2900948366702, 'Unhealthy').
 aqi('Mumbai', 11, 8, 162.41095890410958, 'Unhealthy').
 aqi('Paris', 9, 5, 196.0810326659642, 'Unhealthy').
-aqi('London', 3, 22, 181.4894625922024, 'Unhealthy').
+aqi('London', 3, 22, 181.48946259220233, 'Unhealthy').
 aqi('Seoul', 1, 15, 176.9354056902002, 'Unhealthy').
-aqi('Paris', 5, 2, 109.4240404040404, 'Poor').
+aqi('Paris', 5, 2, 109.42404040404041, 'Poor').
 aqi('Beijing', 12, 24, 66.45384615384614, 'Moderate').
 aqi('Istanbul', 4, 21, 96.8, 'Moderate').
-aqi('Rio de Janeiro', 8, 17, 105.80150753768844, 'Poor').
+aqi('Rio de Janeiro', 8, 17, 105.80150753768845, 'Poor').
 aqi('Tokyo', 1, 19, 185.945416227608, 'Unhealthy').
 aqi('Cairo', 11, 4, 198.0172813487882, 'Unhealthy').
 aqi('Johannesburg', 11, 24, 194.1396206533193, 'Unhealthy').
@@ -24027,13 +24027,13 @@ aqi('Madrid', 12, 21, 152.8949420442571, 'Unhealthy').
 aqi('Cairo', 10, 8, 118.42222222222222, 'Poor').
 aqi('Los Angeles', 2, 1, 192.60611169652265, 'Unhealthy').
 aqi('Mexico City', 2, 6, 190.37555321390937, 'Unhealthy').
-aqi('Cairo', 8, 16, 195.72992623814545, 'Unhealthy').
-aqi('Bangkok', 3, 8, 187.5925184404637, 'Unhealthy').
+aqi('Cairo', 8, 16, 195.72992623814542, 'Unhealthy').
+aqi('Bangkok', 3, 8, 187.59251844046366, 'Unhealthy').
 aqi('Istanbul', 11, 6, 178.69610115911485, 'Unhealthy').
 aqi('Los Angeles', 3, 5, 158.08925184404637, 'Unhealthy').
 aqi('Dubai', 12, 23, 154.45426765015807, 'Unhealthy').
 aqi('Tokyo', 8, 7, 198.78145416227608, 'Unhealthy').
-aqi('Mexico City', 8, 13, 193.9382507903056, 'Unhealthy').
+aqi('Mexico City', 8, 13, 193.93825079030557, 'Unhealthy').
 aqi('Paris', 9, 9, 189.43066385669127, 'Unhealthy').
 aqi('Moscow', 3, 15, 159.849947312961, 'Unhealthy').
 aqi('Los Angeles', 11, 9, 161.91011591148578, 'Unhealthy').
@@ -24050,28 +24050,28 @@ aqi('Los Angeles', 1, 14, 199.76765015806112, 'Unhealthy').
 aqi('Cairo', 4, 6, 86.51974248927039, 'Moderate').
 aqi('Sydney', 12, 19, 156.95848261327714, 'Unhealthy').
 aqi('Tokyo', 10, 27, 164.48661749209694, 'Unhealthy').
-aqi('Sydney', 4, 28, 122.44673366834172, 'Poor').
+aqi('Sydney', 4, 28, 122.44673366834171, 'Poor').
 aqi('Cairo', 10, 2, 178.8200210748156, 'Unhealthy').
-aqi('Rio de Janeiro', 9, 17, 185.43424657534248, 'Unhealthy').
+aqi('Rio de Janeiro', 9, 17, 185.43424657534246, 'Unhealthy').
 aqi('Tokyo', 3, 14, 99.83175965665237, 'Moderate').
-aqi('London', 2, 7, 193.163751317176, 'Unhealthy').
+aqi('London', 2, 7, 193.16375131717598, 'Unhealthy').
 aqi('Mexico City', 12, 14, 183.27081138040043, 'Unhealthy').
 aqi('Johannesburg', 12, 12, 153.82434141201264, 'Unhealthy').
 aqi('Paris', 12, 7, 139.43668341708542, 'Poor').
 aqi('Istanbul', 2, 1, 152.9414120126449, 'Unhealthy').
-aqi('Johannesburg', 5, 15, 186.3946259220232, 'Unhealthy').
+aqi('Johannesburg', 5, 15, 186.39462592202318, 'Unhealthy').
 aqi('Seoul', 9, 28, 132.2467336683417, 'Poor').
 aqi('Seoul', 7, 18, 179.96628029504743, 'Unhealthy').
 aqi('Madrid', 7, 26, 174.52929399367756, 'Unhealthy').
 aqi('Dubai', 10, 14, 84.33065217391305, 'Moderate').
-aqi('Paris', 1, 7, 183.818124341412, 'Unhealthy').
-aqi('Bangkok', 9, 20, 95.49957081545064, 'Moderate').
+aqi('Paris', 1, 7, 183.81812434141202, 'Unhealthy').
+aqi('Bangkok', 9, 20, 95.49957081545065, 'Moderate').
 aqi('Seoul', 10, 16, 125.84472361809046, 'Poor').
-aqi('Johannesburg', 8, 13, 117.42361809045228, 'Poor').
-aqi('Seoul', 3, 1, 94.7, 'Moderate').
+aqi('Johannesburg', 8, 13, 117.42361809045227, 'Poor').
+aqi('Seoul', 3, 1, 94.69999999999999, 'Moderate').
 aqi('Bangkok', 8, 14, 187.23108535300315, 'Unhealthy').
 aqi('Mumbai', 9, 10, 152.5386722866175, 'Unhealthy').
-aqi('Moscow', 8, 21, 186.0073761854584, 'Unhealthy').
+aqi('Moscow', 8, 21, 186.00737618545838, 'Unhealthy').
 aqi('Beijing', 2, 3, 73.94090909090909, 'Moderate').
 aqi('London', 9, 14, 151.68672286617493, 'Unhealthy').
 aqi('Sydney', 10, 10, 169.7945205479452, 'Unhealthy').
@@ -24079,7 +24079,7 @@ aqi('Berlin', 4, 21, 122.49597989949748, 'Poor').
 aqi('Paris', 4, 4, 90.15793991416308, 'Moderate').
 aqi('Toronto', 3, 18, 110.8, 'Poor').
 aqi('Mumbai', 11, 17, 182.11938883034773, 'Unhealthy').
-aqi('Mexico City', 5, 10, 103.83165829145727, 'Poor').
+aqi('Mexico City', 5, 10, 103.83165829145729, 'Poor').
 aqi('Seoul', 1, 17, 169.08198103266596, 'Unhealthy').
 aqi('New York', 12, 27, 167.40906217070602, 'Unhealthy').
 aqi('Berlin', 10, 25, 165.87555321390937, 'Unhealthy').
@@ -24091,50 +24091,50 @@ aqi('Toronto', 2, 16, 160.50052687038988, 'Unhealthy').
 aqi('Sydney', 7, 9, 97.10454545454546, 'Moderate').
 aqi('Paris', 8, 4, 176.47586933614332, 'Unhealthy').
 aqi('Mexico City', 3, 21, 166.81011591148578, 'Unhealthy').
-aqi('Istanbul', 1, 16, 196.618018967334, 'Unhealthy').
+aqi('Istanbul', 1, 16, 196.61801896733402, 'Unhealthy').
 aqi('Sydney', 5, 18, 178.90263435194942, 'Unhealthy').
 aqi('Mumbai', 12, 10, 91.31858585858586, 'Moderate').
 aqi('Los Angeles', 6, 4, 107.83030303030304, 'Poor').
 aqi('Beijing', 9, 14, 158.3009483667018, 'Unhealthy').
-aqi('Berlin', 11, 17, 182.8783983140148, 'Unhealthy').
+aqi('Berlin', 11, 17, 182.87839831401476, 'Unhealthy').
 aqi('Seoul', 7, 3, 168.91675447839833, 'Unhealthy').
 aqi('Sydney', 11, 28, 182.0419388830348, 'Unhealthy').
 aqi('Paris', 8, 16, 172.44330874604847, 'Unhealthy').
 aqi('New York', 9, 17, 129.16884422110553, 'Poor').
-aqi('Bangkok', 2, 11, 181.5978925184405, 'Unhealthy').
+aqi('Bangkok', 2, 11, 181.59789251844046, 'Unhealthy').
 aqi('Moscow', 2, 18, 88.79098712446353, 'Moderate').
 aqi('Toronto', 4, 6, 67.32343434343434, 'Moderate').
-aqi('Sydney', 1, 15, 185.2948366701792, 'Unhealthy').
+aqi('Sydney', 1, 15, 185.29483667017914, 'Unhealthy').
 aqi('Bangkok', 11, 10, 93.24935622317597, 'Moderate').
 aqi('Seoul', 4, 27, 89.70010101010101, 'Moderate').
 aqi('London', 10, 28, 173.9923076923077, 'Unhealthy').
-aqi('Johannesburg', 5, 17, 186.90063224446783, 'Unhealthy').
-aqi('Toronto', 9, 23, 184.200210748156, 'Unhealthy').
+aqi('Johannesburg', 5, 17, 186.90063224446786, 'Unhealthy').
+aqi('Toronto', 9, 23, 184.20021074815594, 'Unhealthy').
 aqi('Seoul', 10, 5, 181.8973656480506, 'Unhealthy').
 aqi('Toronto', 4, 20, 44.96226415094339, 'Good').
-aqi('New York', 7, 4, 106.27121212121212, 'Poor').
+aqi('New York', 7, 4, 106.27121212121213, 'Poor').
 aqi('Bangkok', 5, 4, 159.29747102212855, 'Unhealthy').
 aqi('Berlin', 10, 23, 186.477239199157, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 21, 180.13667017913593, 'Unhealthy').
 aqi('Moscow', 12, 3, 68.57608695652175, 'Moderate').
 aqi('Seoul', 8, 14, 175.63940990516332, 'Unhealthy').
-aqi('Moscow', 1, 7, 192.063962065332, 'Unhealthy').
+aqi('Moscow', 1, 7, 192.06396206533194, 'Unhealthy').
 aqi('Paris', 7, 8, 157.40769230769232, 'Unhealthy').
-aqi('Bangkok', 11, 5, 186.8903055848261, 'Unhealthy').
-aqi('Rio de Janeiro', 4, 5, 182.945521601686, 'Unhealthy').
+aqi('Bangkok', 11, 5, 186.89030558482614, 'Unhealthy').
+aqi('Rio de Janeiro', 4, 5, 182.94552160168598, 'Unhealthy').
 aqi('Moscow', 9, 15, 166.27312961011592, 'Unhealthy').
 aqi('Sydney', 2, 26, 178.82518440463645, 'Unhealthy').
-aqi('Mumbai', 7, 27, 93.1, 'Moderate').
+aqi('Mumbai', 7, 27, 93.10000000000001, 'Moderate').
 aqi('Mexico City', 5, 12, 192.4563751317176, 'Unhealthy').
 aqi('Johannesburg', 6, 14, 175.00432033719704, 'Unhealthy').
 aqi('Seoul', 4, 12, 198.4200210748156, 'Unhealthy').
 aqi('Toronto', 4, 13, 153.70042149631192, 'Unhealthy').
 aqi('Bangkok', 1, 8, 167.4813487881981, 'Unhealthy').
-aqi('Moscow', 3, 15, 182.336248682824, 'Unhealthy').
+aqi('Moscow', 3, 15, 182.33624868282402, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 9, 181.67534246575343, 'Unhealthy').
 aqi('Berlin', 6, 16, 166.51064278187567, 'Unhealthy').
 aqi('New York', 3, 17, 172.27291886195997, 'Unhealthy').
-aqi('Dubai', 7, 23, 184.427397260274, 'Unhealthy').
+aqi('Dubai', 7, 23, 184.42739726027398, 'Unhealthy').
 aqi('Moscow', 6, 5, 178.43793466807165, 'Unhealthy').
 aqi('Johannesburg', 5, 17, 140.20000000000002, 'Poor').
 aqi('London', 4, 4, 160.81032665964173, 'Unhealthy').
@@ -24143,13 +24143,13 @@ aqi('Toronto', 3, 28, 182.3672286617492, 'Unhealthy').
 aqi('Seoul', 12, 13, 129.26733668341708, 'Poor').
 aqi('Tokyo', 1, 12, 159.29747102212855, 'Unhealthy').
 aqi('Mexico City', 1, 14, 159.89125395152791, 'Unhealthy').
-aqi('Los Angeles', 11, 5, 117.179898989899, 'Poor').
+aqi('Los Angeles', 11, 5, 117.17989898989899, 'Poor').
 aqi('London', 5, 17, 166.3041095890411, 'Unhealthy').
 aqi('Tokyo', 10, 2, 130.4, 'Poor').
 aqi('Cairo', 3, 28, 117.81758793969848, 'Poor').
 aqi('Tokyo', 3, 14, 171.24541622760802, 'Unhealthy').
 aqi('Mumbai', 7, 17, 133.13316582914572, 'Poor').
-aqi('Toronto', 11, 3, 185.54267650158064, 'Unhealthy').
+aqi('Toronto', 11, 3, 185.54267650158062, 'Unhealthy').
 aqi('Istanbul', 9, 7, 187.7835616438356, 'Unhealthy').
 aqi('New York', 2, 4, 180.2709167544784, 'Unhealthy').
 aqi('New York', 11, 10, 174.97850368809273, 'Unhealthy').
@@ -24158,13 +24158,13 @@ aqi('Bangkok', 8, 16, 175.6445732349842, 'Unhealthy').
 aqi('Dubai', 11, 28, 165.4986301369863, 'Unhealthy').
 aqi('Dubai', 1, 16, 151.87260273972603, 'Unhealthy').
 aqi('Mexico City', 2, 17, 142.14522613065327, 'Poor').
-aqi('Los Angeles', 2, 22, 193.9485774499473, 'Unhealthy').
-aqi('Dubai', 12, 2, 126.14020100502512, 'Poor').
+aqi('Los Angeles', 2, 22, 193.94857744994732, 'Unhealthy').
+aqi('Dubai', 12, 2, 126.14020100502513, 'Poor').
 aqi('Istanbul', 2, 26, 185.25869336143307, 'Unhealthy').
-aqi('Sydney', 4, 16, 122.9638190954774, 'Poor').
-aqi('Moscow', 7, 27, 198.0430979978925, 'Unhealthy').
+aqi('Sydney', 4, 16, 122.96381909547739, 'Poor').
+aqi('Moscow', 7, 27, 198.04309799789252, 'Unhealthy').
 aqi('Mumbai', 3, 10, 89.37982832618026, 'Moderate').
-aqi('Moscow', 8, 5, 97.2, 'Moderate').
+aqi('Moscow', 8, 5, 97.19999999999999, 'Moderate').
 aqi('Bangkok', 9, 28, 165.4831401475237, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 10, 98.2755364806867, 'Moderate').
 aqi('New York', 12, 19, 187.3550052687039, 'Unhealthy').
@@ -24172,23 +24172,23 @@ aqi('Paris', 3, 27, 171.64299262381454, 'Unhealthy').
 aqi('Sydney', 3, 12, 184.62876712328767, 'Unhealthy').
 aqi('Bangkok', 2, 22, 82.4, 'Moderate').
 aqi('Dubai', 3, 10, 196.9691253951528, 'Unhealthy').
-aqi('Seoul', 11, 22, 108.58391959798996, 'Poor').
+aqi('Seoul', 11, 22, 108.58391959798995, 'Poor').
 aqi('Beijing', 3, 6, 176.61527924130664, 'Unhealthy').
 aqi('Dubai', 10, 3, 157.15468914646996, 'Unhealthy').
 aqi('Mexico City', 9, 11, 194.38746048472075, 'Unhealthy').
-aqi('Berlin', 1, 13, 185.527186512118, 'Unhealthy').
+aqi('Berlin', 1, 13, 185.52718651211802, 'Unhealthy').
 aqi('Tokyo', 7, 8, 192.2704952581665, 'Unhealthy').
-aqi('Seoul', 3, 13, 187.30853530031607, 'Unhealthy').
+aqi('Seoul', 3, 13, 187.30853530031612, 'Unhealthy').
 aqi('Seoul', 6, 16, 103.0929648241206, 'Poor').
 aqi('Beijing', 11, 13, 164.29041095890412, 'Unhealthy').
-aqi('Berlin', 6, 16, 195.2394099051633, 'Unhealthy').
+aqi('Berlin', 6, 16, 195.23940990516334, 'Unhealthy').
 aqi('Istanbul', 9, 7, 97.69848484848484, 'Moderate').
 aqi('Dubai', 4, 21, 83.7648068669528, 'Moderate').
 aqi('Dubai', 8, 3, 194.83150684931508, 'Unhealthy').
-aqi('Rio de Janeiro', 2, 7, 163.62434141201263, 'Unhealthy').
+aqi('Rio de Janeiro', 2, 7, 163.62434141201265, 'Unhealthy').
 aqi('Los Angeles', 9, 19, 97.51040404040404, 'Moderate').
 aqi('Bangkok', 7, 18, 83.17596566523605, 'Moderate').
-aqi('Beijing', 4, 6, 102.59868686868688, 'Poor').
+aqi('Beijing', 4, 6, 102.59868686868687, 'Poor').
 aqi('London', 8, 25, 195.97260273972603, 'Unhealthy').
 aqi('London', 2, 3, 135.37386934673367, 'Poor').
 aqi('Johannesburg', 11, 3, 195.47692307692307, 'Unhealthy').
@@ -24203,11 +24203,11 @@ aqi('Seoul', 10, 1, 77.03391304347826, 'Moderate').
 aqi('Johannesburg', 2, 4, 188.15532139093784, 'Unhealthy').
 aqi('Berlin', 8, 13, 95.8563043478261, 'Moderate').
 aqi('Tokyo', 3, 15, 157.61422550052689, 'Unhealthy').
-aqi('Los Angeles', 11, 1, 193.92276080084292, 'Unhealthy').
+aqi('Los Angeles', 11, 1, 193.92276080084298, 'Unhealthy').
 aqi('Istanbul', 4, 13, 180.16765015806112, 'Unhealthy').
 aqi('Moscow', 12, 11, 64.49232323232323, 'Moderate').
 aqi('Dubai', 8, 9, 157.44383561643835, 'Unhealthy').
-aqi('Dubai', 10, 11, 181.8302423603793, 'Unhealthy').
+aqi('Dubai', 10, 11, 181.83024236037934, 'Unhealthy').
 aqi('Mexico City', 6, 8, 152.67808219178082, 'Unhealthy').
 aqi('Bangkok', 5, 24, 171.53972602739725, 'Unhealthy').
 aqi('Madrid', 5, 25, 156.25110642781877, 'Unhealthy').
@@ -24215,20 +24215,20 @@ aqi('Beijing', 10, 27, 177.52918861959958, 'Unhealthy').
 aqi('Dubai', 9, 12, 199.44236037934667, 'Unhealthy').
 aqi('Paris', 12, 15, 128.87336683417087, 'Poor').
 aqi('New York', 11, 27, 190.0141201264489, 'Unhealthy').
-aqi('Seoul', 4, 9, 195.3220231822972, 'Unhealthy').
+aqi('Seoul', 4, 9, 195.32202318229716, 'Unhealthy').
 aqi('Moscow', 2, 16, 190.90221285563752, 'Unhealthy').
 aqi('Sydney', 6, 18, 57.95586956521739, 'Moderate').
 aqi('Tokyo', 11, 6, 167.47102212855637, 'Unhealthy').
 aqi('Beijing', 3, 23, 151.64025289778715, 'Unhealthy').
 aqi('Madrid', 11, 1, 160.64510010537407, 'Unhealthy').
-aqi('New York', 3, 1, 119.36884422110552, 'Poor').
+aqi('New York', 3, 1, 119.36884422110553, 'Poor').
 aqi('London', 8, 24, 92.68154506437769, 'Moderate').
-aqi('Rio de Janeiro', 6, 5, 113.48391959798997, 'Poor').
+aqi('Rio de Janeiro', 6, 5, 113.48391959798995, 'Poor').
 aqi('Rio de Janeiro', 9, 24, 164.89968387776608, 'Unhealthy').
 aqi('Paris', 12, 24, 152.51801896733403, 'Unhealthy').
 aqi('Beijing', 1, 12, 193.3186512118019, 'Unhealthy').
 aqi('Seoul', 10, 21, 170.69293993677556, 'Unhealthy').
-aqi('Paris', 10, 12, 184.0556375131717, 'Unhealthy').
+aqi('Paris', 10, 12, 184.05563751317175, 'Unhealthy').
 aqi('Tokyo', 3, 1, 98.2, 'Moderate').
 aqi('Toronto', 5, 23, 84.05369565217391, 'Moderate').
 aqi('Sydney', 9, 4, 191.39789251844047, 'Unhealthy').
@@ -24237,7 +24237,7 @@ aqi('Bangkok', 6, 6, 180.9473129610116, 'Unhealthy').
 aqi('Cairo', 1, 26, 97.96008583690988, 'Moderate').
 aqi('Moscow', 8, 11, 197.00526870389885, 'Unhealthy').
 aqi('Johannesburg', 11, 27, 168.8444678609062, 'Unhealthy').
-aqi('Mumbai', 5, 14, 192.70937829294, 'Unhealthy').
+aqi('Mumbai', 5, 14, 192.70937829293993, 'Unhealthy').
 aqi('Madrid', 10, 12, 178.2881981032666, 'Unhealthy').
 aqi('Beijing', 3, 25, 156.75711275026345, 'Unhealthy').
 aqi('Dubai', 7, 4, 155.46628029504743, 'Unhealthy').
@@ -24251,12 +24251,12 @@ aqi('Paris', 3, 3, 90.86323232323232, 'Moderate').
 aqi('Johannesburg', 5, 1, 78.6, 'Moderate').
 aqi('Rio de Janeiro', 6, 28, 163.52623814541624, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 26, 127.44522613065328, 'Poor').
-aqi('Seoul', 12, 2, 192.01749209694407, 'Unhealthy').
+aqi('Seoul', 12, 2, 192.01749209694415, 'Unhealthy').
 aqi('Johannesburg', 6, 26, 81.11502145922748, 'Moderate').
 aqi('Istanbul', 5, 11, 191.44436248682825, 'Unhealthy').
-aqi('Istanbul', 11, 11, 126.50954773869348, 'Poor').
+aqi('Istanbul', 11, 11, 126.50954773869347, 'Poor').
 aqi('Berlin', 3, 1, 185.73888303477344, 'Unhealthy').
-aqi('Mexico City', 11, 5, 187.02455216016853, 'Unhealthy').
+aqi('Mexico City', 11, 5, 187.02455216016858, 'Unhealthy').
 aqi('Beijing', 1, 23, 97.22403433476396, 'Moderate').
 aqi('Rio de Janeiro', 5, 17, 151.59378292939937, 'Unhealthy').
 aqi('Paris', 8, 24, 178.23140147523708, 'Unhealthy').
@@ -24265,18 +24265,18 @@ aqi('Sydney', 8, 25, 83.5, 'Moderate').
 aqi('Moscow', 9, 27, 87.99184549356224, 'Moderate').
 aqi('Sydney', 7, 19, 91.14635193133049, 'Moderate').
 aqi('Mumbai', 5, 7, 98.0, 'Moderate').
-aqi('Los Angeles', 1, 12, 172.62918861959955, 'Unhealthy').
+aqi('Los Angeles', 1, 12, 172.62918861959957, 'Unhealthy').
 aqi('New York', 12, 19, 174.37439409905164, 'Unhealthy').
 aqi('Los Angeles', 4, 11, 165.28693361433088, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 4, 179.36733403582718, 'Unhealthy').
 aqi('Beijing', 4, 20, 141.3572864321608, 'Poor').
-aqi('Dubai', 2, 17, 192.3892518440464, 'Unhealthy').
-aqi('Sydney', 7, 13, 183.54446786090625, 'Unhealthy').
+aqi('Dubai', 2, 17, 192.38925184404636, 'Unhealthy').
+aqi('Sydney', 7, 13, 183.54446786090622, 'Unhealthy').
 aqi('New York', 9, 2, 173.02160168598525, 'Unhealthy').
 aqi('New York', 12, 7, 168.96322444678609, 'Unhealthy').
 aqi('Moscow', 6, 10, 83.30000000000001, 'Moderate').
 aqi('New York', 4, 7, 191.38756585879872, 'Unhealthy').
-aqi('Mumbai', 9, 11, 121.13949494949496, 'Poor').
+aqi('Mumbai', 9, 11, 121.13949494949495, 'Poor').
 aqi('Paris', 9, 15, 184.1485774499473, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 14, 130.57236180904522, 'Poor').
 aqi('Moscow', 5, 2, 188.05205479452056, 'Unhealthy').
@@ -24288,57 +24288,57 @@ aqi('Tokyo', 4, 22, 193.82465753424657, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 22, 104.40030303030304, 'Poor').
 aqi('Sydney', 4, 25, 178.22107481559536, 'Unhealthy').
 aqi('Toronto', 3, 18, 179.9972602739726, 'Unhealthy').
-aqi('Mexico City', 1, 12, 195.5492096944152, 'Unhealthy').
+aqi('Mexico City', 1, 12, 195.54920969441517, 'Unhealthy').
 aqi('Sydney', 10, 20, 174.2349841938883, 'Unhealthy').
 aqi('Sydney', 7, 15, 177.63761854583774, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 17, 178.59799789251844, 'Unhealthy').
 aqi('Cairo', 6, 16, 67.95021459227468, 'Moderate').
-aqi('Sydney', 7, 20, 60.73690987124464, 'Moderate').
+aqi('Sydney', 7, 20, 60.736909871244634, 'Moderate').
 aqi('Moscow', 6, 8, 160.72255005268704, 'Unhealthy').
 aqi('Paris', 12, 23, 174.98883034773445, 'Unhealthy').
 aqi('London', 12, 11, 174.73066385669125, 'Unhealthy').
 aqi('Madrid', 8, 10, 180.80790305584827, 'Unhealthy').
 aqi('Los Angeles', 11, 8, 170.5277133825079, 'Unhealthy').
-aqi('Los Angeles', 1, 7, 166.9133825079031, 'Unhealthy').
+aqi('Los Angeles', 1, 7, 166.91338250790307, 'Unhealthy').
 aqi('Dubai', 9, 8, 87.65413043478262, 'Moderate').
 aqi('Cairo', 2, 28, 172.93898840885143, 'Unhealthy').
 aqi('Tokyo', 7, 17, 78.6, 'Moderate').
 aqi('Rio de Janeiro', 7, 23, 181.64436248682824, 'Unhealthy').
-aqi('Cairo', 10, 12, 198.5594309799789, 'Unhealthy').
+aqi('Cairo', 10, 12, 198.55943097997894, 'Unhealthy').
 aqi('Madrid', 2, 19, 139.41206030150755, 'Poor').
 aqi('Moscow', 5, 25, 142.29296482412062, 'Poor').
 aqi('Sydney', 3, 11, 87.01500000000001, 'Moderate').
 aqi('Mumbai', 10, 5, 167.65173867228663, 'Unhealthy').
 aqi('Istanbul', 4, 18, 166.2214963119073, 'Unhealthy').
 aqi('Madrid', 6, 8, 123.08693467336684, 'Poor').
-aqi('Madrid', 1, 19, 112.8639393939394, 'Poor').
-aqi('Sydney', 3, 1, 183.28113804004207, 'Unhealthy').
+aqi('Madrid', 1, 19, 112.86393939393939, 'Poor').
+aqi('Sydney', 3, 1, 183.28113804004215, 'Unhealthy').
 aqi('Mumbai', 10, 5, 185.62528977871443, 'Unhealthy').
 aqi('Mumbai', 9, 9, 172.57755532139095, 'Unhealthy').
 aqi('Mexico City', 10, 2, 187.57702845100107, 'Unhealthy').
-aqi('Beijing', 11, 8, 105.678391959799, 'Poor').
+aqi('Beijing', 11, 8, 105.67839195979899, 'Poor').
 aqi('Bangkok', 2, 19, 93.62789699570816, 'Moderate').
 aqi('Johannesburg', 8, 18, 183.98335089567968, 'Unhealthy').
 aqi('Mexico City', 2, 26, 158.86891464699684, 'Unhealthy').
 aqi('Madrid', 1, 18, 172.51559536354057, 'Unhealthy').
-aqi('Toronto', 2, 25, 180.4981032665964, 'Unhealthy').
-aqi('Los Angeles', 11, 10, 114.6358585858586, 'Poor').
+aqi('Toronto', 2, 25, 180.49810326659642, 'Unhealthy').
+aqi('Los Angeles', 11, 10, 114.63585858585859, 'Poor').
 aqi('Johannesburg', 11, 7, 111.66616161616162, 'Poor').
 aqi('London', 10, 19, 157.34573234984194, 'Unhealthy').
-aqi('Johannesburg', 2, 2, 96.7679797979798, 'Moderate').
+aqi('Johannesburg', 2, 2, 96.76797979797979, 'Moderate').
 aqi('New York', 12, 12, 62.74515151515152, 'Moderate').
 aqi('Bangkok', 11, 17, 121.0678391959799, 'Poor').
 aqi('Berlin', 7, 7, 193.25152792413067, 'Unhealthy').
 aqi('Bangkok', 7, 9, 121.53050505050504, 'Poor').
 aqi('Bangkok', 1, 7, 175.6858798735511, 'Unhealthy').
-aqi('Tokyo', 6, 17, 194.14994731296105, 'Unhealthy').
+aqi('Tokyo', 6, 17, 194.14994731296102, 'Unhealthy').
 aqi('London', 11, 8, 135.42311557788943, 'Poor').
 aqi('Sydney', 7, 8, 176.84246575342465, 'Unhealthy').
 aqi('Los Angeles', 3, 6, 160.66575342465754, 'Unhealthy').
 aqi('Berlin', 12, 23, 132.86231155778893, 'Poor').
 aqi('Dubai', 4, 17, 199.05511064278187, 'Unhealthy').
 aqi('London', 5, 16, 179.0626975763962, 'Unhealthy').
-aqi('New York', 7, 12, 174.30210748155957, 'Unhealthy').
+aqi('New York', 7, 12, 174.30210748155955, 'Unhealthy').
 aqi('Madrid', 8, 21, 156.00842992623814, 'Unhealthy').
 aqi('Istanbul', 10, 17, 177.67892518440465, 'Unhealthy').
 aqi('Tokyo', 6, 6, 88.49656652360515, 'Moderate').
@@ -24347,7 +24347,7 @@ aqi('Moscow', 4, 8, 85.3, 'Moderate').
 aqi('London', 6, 7, 175.0869336143309, 'Unhealthy').
 aqi('Johannesburg', 9, 18, 143.13015075376885, 'Poor').
 aqi('Bangkok', 4, 21, 162.39546891464698, 'Unhealthy').
-aqi('Dubai', 12, 6, 198.9157007376185, 'Unhealthy').
+aqi('Dubai', 12, 6, 198.91570073761855, 'Unhealthy').
 aqi('Tokyo', 6, 14, 178.48440463645943, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 18, 187.31886195995787, 'Unhealthy').
 aqi('Paris', 12, 28, 168.96838777660696, 'Unhealthy').
@@ -24358,17 +24358,17 @@ aqi('Mexico City', 5, 12, 177.59631190727083, 'Unhealthy').
 aqi('Cairo', 4, 4, 174.76164383561644, 'Unhealthy').
 aqi('Berlin', 12, 11, 145.3708542713568, 'Poor').
 aqi('Toronto', 7, 25, 171.29188619599577, 'Unhealthy').
-aqi('Istanbul', 11, 14, 180.3122233930453, 'Unhealthy').
+aqi('Istanbul', 11, 14, 180.31222339304531, 'Unhealthy').
 aqi('Dubai', 8, 17, 170.45026343519496, 'Unhealthy').
 aqi('Paris', 3, 22, 177.0696522655427, 'Unhealthy').
-aqi('New York', 3, 20, 103.72222222222224, 'Poor').
+aqi('New York', 3, 20, 103.72222222222223, 'Poor').
 aqi('Los Angeles', 4, 14, 184.37060063224448, 'Unhealthy').
 aqi('Sydney', 8, 19, 116.90767676767676, 'Poor').
 aqi('New York', 10, 16, 159.622760800843, 'Unhealthy').
-aqi('Paris', 6, 18, 109.06767676767676, 'Poor').
+aqi('Paris', 6, 18, 109.06767676767677, 'Poor').
 aqi('Seoul', 6, 15, 161.21306638566912, 'Unhealthy').
 aqi('Mexico City', 9, 14, 190.0709167544784, 'Unhealthy').
-aqi('Cairo', 8, 25, 196.17397260273967, 'Unhealthy').
+aqi('Cairo', 8, 25, 196.17397260273972, 'Unhealthy').
 aqi('Beijing', 11, 5, 152.62128556375131, 'Unhealthy').
 aqi('Toronto', 3, 22, 96.29871244635194, 'Moderate').
 aqi('Madrid', 6, 7, 162.13730242360378, 'Unhealthy').
@@ -24376,8 +24376,8 @@ aqi('Los Angeles', 5, 12, 186.96259220231823, 'Unhealthy').
 aqi('Mexico City', 3, 24, 59.43051282051282, 'Moderate').
 aqi('Berlin', 3, 8, 95.1745652173913, 'Moderate').
 aqi('Toronto', 4, 1, 86.39999999999999, 'Moderate').
-aqi('Cairo', 4, 18, 198.099894625922, 'Unhealthy').
-aqi('Mumbai', 4, 2, 162.1269757639621, 'Unhealthy').
+aqi('Cairo', 4, 18, 198.09989462592202, 'Unhealthy').
+aqi('Mumbai', 4, 2, 162.12697576396207, 'Unhealthy').
 aqi('Johannesburg', 2, 24, 170.7290832455216, 'Unhealthy').
 aqi('Cairo', 1, 4, 165.70516332982086, 'Unhealthy').
 aqi('Bangkok', 3, 27, 195.65247629083245, 'Unhealthy').
@@ -24385,14 +24385,14 @@ aqi('Madrid', 5, 20, 85.8889898989899, 'Moderate').
 aqi('Johannesburg', 6, 7, 185.27418335089567, 'Unhealthy').
 aqi('New York', 11, 15, 133.72412060301508, 'Poor').
 aqi('Berlin', 12, 4, 158.34741833508957, 'Unhealthy').
-aqi('Los Angeles', 2, 26, 99.12652173913044, 'Moderate').
-aqi('Moscow', 3, 15, 193.4219178082192, 'Unhealthy').
+aqi('Los Angeles', 2, 26, 99.12652173913045, 'Moderate').
+aqi('Moscow', 3, 15, 193.42191780821918, 'Unhealthy').
 aqi('Beijing', 12, 28, 156.30790305584827, 'Unhealthy').
 aqi('Cairo', 6, 4, 96.25665236051502, 'Moderate').
 aqi('Seoul', 4, 26, 156.27692307692308, 'Unhealthy').
 aqi('New York', 10, 2, 173.5327713382508, 'Unhealthy').
 aqi('Cairo', 1, 26, 152.17207586933614, 'Unhealthy').
-aqi('Dubai', 8, 26, 194.0776606954689, 'Unhealthy').
+aqi('Dubai', 8, 26, 194.07766069546892, 'Unhealthy').
 aqi('Berlin', 8, 24, 199.27713382507903, 'Unhealthy').
 aqi('Los Angeles', 11, 9, 145.5185929648241, 'Poor').
 aqi('Istanbul', 5, 22, 127.19899497487438, 'Poor').
@@ -24403,7 +24403,7 @@ aqi('Toronto', 6, 4, 198.52328767123288, 'Unhealthy').
 aqi('Beijing', 6, 13, 99.4354347826087, 'Moderate').
 aqi('Beijing', 5, 19, 95.41676767676768, 'Moderate').
 aqi('Istanbul', 11, 12, 165.2094836670179, 'Unhealthy').
-aqi('Sydney', 11, 19, 198.2289778714436, 'Unhealthy').
+aqi('Sydney', 11, 19, 198.22897787144362, 'Unhealthy').
 aqi('Tokyo', 11, 28, 188.39799789251845, 'Unhealthy').
 aqi('Cairo', 11, 17, 165.4676501580611, 'Unhealthy').
 aqi('Dubai', 9, 27, 194.21190727081137, 'Unhealthy').
@@ -24412,30 +24412,30 @@ aqi('Toronto', 4, 15, 66.93737373737375, 'Moderate').
 aqi('Los Angeles', 8, 25, 129.26733668341708, 'Poor').
 aqi('London', 7, 17, 154.65563751317177, 'Unhealthy').
 aqi('Beijing', 9, 13, 160.12876712328767, 'Unhealthy').
-aqi('Mexico City', 5, 3, 190.7576396206533, 'Unhealthy').
+aqi('Mexico City', 5, 3, 190.75763962065332, 'Unhealthy').
 aqi('London', 2, 25, 148.81809045226132, 'Poor').
 aqi('Seoul', 2, 7, 182.65121180189672, 'Unhealthy').
-aqi('Johannesburg', 8, 20, 193.5251844046365, 'Unhealthy').
+aqi('Johannesburg', 8, 20, 193.52518440463646, 'Unhealthy').
 aqi('Tokyo', 12, 5, 186.22939936775555, 'Unhealthy').
 aqi('Bangkok', 10, 7, 107.42068965517242, 'Poor').
 aqi('Cairo', 10, 4, 158.2699683877766, 'Unhealthy').
-aqi('Istanbul', 7, 2, 195.1619599578504, 'Unhealthy').
+aqi('Istanbul', 7, 2, 195.16195995785037, 'Unhealthy').
 aqi('London', 5, 24, 177.99388830347735, 'Unhealthy').
 aqi('Dubai', 1, 13, 81.9, 'Moderate').
-aqi('Toronto', 4, 4, 198.5800842992624, 'Unhealthy').
+aqi('Toronto', 4, 4, 198.58008429926238, 'Unhealthy').
 aqi('Johannesburg', 4, 2, 184.93340358271865, 'Unhealthy').
 aqi('Bangkok', 2, 6, 102.6497487437186, 'Poor').
 aqi('Bangkok', 1, 3, 128.47939698492462, 'Poor').
 aqi('New York', 12, 3, 152.20305584826133, 'Unhealthy').
-aqi('Berlin', 5, 10, 98.1, 'Moderate').
+aqi('Berlin', 5, 10, 98.10000000000001, 'Moderate').
 aqi('Sydney', 11, 11, 171.34351949420443, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 18, 77.28755364806868, 'Moderate').
 aqi('Madrid', 7, 13, 103.28994974874372, 'Poor').
 aqi('Seoul', 4, 9, 117.86683417085428, 'Poor').
 aqi('Sydney', 6, 17, 176.46037934668072, 'Unhealthy').
-aqi('Dubai', 8, 8, 194.14994731296105, 'Unhealthy').
+aqi('Dubai', 8, 8, 194.14994731296102, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 2, 115.72969696969696, 'Poor').
-aqi('Johannesburg', 4, 19, 102.18275862068964, 'Poor').
+aqi('Johannesburg', 4, 19, 102.18275862068965, 'Poor').
 aqi('Istanbul', 2, 8, 113.3489898989899, 'Poor').
 aqi('Cairo', 12, 3, 93.12020202020202, 'Moderate').
 aqi('Dubai', 3, 15, 152.18240252897786, 'Unhealthy').
@@ -24449,41 +24449,41 @@ aqi('Moscow', 6, 27, 111.83939393939394, 'Poor').
 aqi('Moscow', 4, 26, 178.08166491043204, 'Unhealthy').
 aqi('Seoul', 2, 21, 103.79151515151514, 'Poor').
 aqi('Beijing', 2, 28, 86.83391304347826, 'Moderate').
-aqi('Cairo', 8, 23, 193.8866174920969, 'Unhealthy').
+aqi('Cairo', 8, 23, 193.88661749209695, 'Unhealthy').
 aqi('Mexico City', 2, 26, 155.81738672286616, 'Unhealthy').
-aqi('Johannesburg', 11, 14, 95.14260869565216, 'Moderate').
-aqi('Paris', 3, 22, 113.18070707070709, 'Poor').
+aqi('Johannesburg', 11, 14, 95.14260869565217, 'Moderate').
+aqi('Paris', 3, 22, 113.18070707070707, 'Poor').
 aqi('Bangkok', 5, 6, 179.0213909378293, 'Unhealthy').
 aqi('London', 9, 26, 191.97618545837724, 'Unhealthy').
 aqi('Beijing', 10, 25, 164.22328767123287, 'Unhealthy').
-aqi('Mumbai', 10, 20, 184.54099051633293, 'Unhealthy').
+aqi('Mumbai', 10, 20, 184.54099051633298, 'Unhealthy').
 aqi('Toronto', 1, 1, 199.16354056902003, 'Unhealthy').
 aqi('Los Angeles', 11, 4, 162.6536354056902, 'Unhealthy').
 aqi('Johannesburg', 11, 28, 161.70874604847208, 'Unhealthy').
-aqi('Paris', 7, 14, 182.7957850368809, 'Unhealthy').
+aqi('Paris', 7, 14, 182.79578503688094, 'Unhealthy').
 aqi('Mumbai', 5, 14, 169.9958904109589, 'Unhealthy').
 aqi('Mexico City', 5, 8, 173.38303477344573, 'Unhealthy').
 aqi('New York', 12, 2, 189.022760800843, 'Unhealthy').
 aqi('London', 3, 2, 168.56564805057957, 'Unhealthy').
-aqi('Seoul', 9, 25, 186.13645943098, 'Unhealthy').
-aqi('Beijing', 5, 28, 138.3778894472362, 'Poor').
+aqi('Seoul', 9, 25, 186.13645943097998, 'Unhealthy').
+aqi('Beijing', 5, 28, 138.37788944723619, 'Poor').
 aqi('Madrid', 5, 5, 158.85858798735512, 'Unhealthy').
 aqi('Johannesburg', 11, 11, 120.27333333333334, 'Poor').
 aqi('Dubai', 3, 2, 167.0373024236038, 'Unhealthy').
 aqi('Toronto', 3, 18, 164.82739726027398, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 25, 152.063645943098, 'Unhealthy').
-aqi('Paris', 9, 9, 127.88844221105528, 'Poor').
+aqi('Paris', 9, 9, 127.88844221105529, 'Poor').
 aqi('Los Angeles', 8, 7, 168.4881981032666, 'Unhealthy').
 aqi('Istanbul', 10, 16, 79.53776824034335, 'Moderate').
-aqi('Johannesburg', 11, 26, 93.2340404040404, 'Moderate').
+aqi('Johannesburg', 11, 26, 93.23404040404041, 'Moderate').
 aqi('Toronto', 8, 25, 73.20772532188842, 'Moderate').
 aqi('Paris', 4, 11, 151.23751317175976, 'Unhealthy').
 aqi('Bangkok', 2, 4, 191.26880927291887, 'Unhealthy').
 aqi('Bangkok', 4, 3, 110.20904522613066, 'Poor').
-aqi('Johannesburg', 6, 9, 95.18412017167384, 'Moderate').
+aqi('Johannesburg', 6, 9, 95.18412017167383, 'Moderate').
 aqi('London', 3, 9, 157.30958904109588, 'Unhealthy').
 aqi('Toronto', 7, 14, 121.97889447236182, 'Poor').
-aqi('Bangkok', 7, 20, 92.81828282828285, 'Moderate').
+aqi('Bangkok', 7, 20, 92.81828282828283, 'Moderate').
 aqi('Los Angeles', 10, 13, 74.3, 'Moderate').
 aqi('New York', 11, 20, 118.97487437185929, 'Poor').
 aqi('Rio de Janeiro', 10, 28, 173.87871443624869, 'Unhealthy').
@@ -24495,7 +24495,7 @@ aqi('Toronto', 1, 8, 170.77555321390938, 'Unhealthy').
 aqi('New York', 8, 21, 192.1259220231823, 'Unhealthy').
 aqi('Johannesburg', 9, 12, 96.21459227467813, 'Moderate').
 aqi('Rio de Janeiro', 8, 20, 187.33435194942044, 'Unhealthy').
-aqi('Istanbul', 1, 25, 183.6838777660696, 'Unhealthy').
+aqi('Istanbul', 1, 25, 183.68387776606954, 'Unhealthy').
 aqi('Mexico City', 9, 9, 116.199898989899, 'Poor').
 aqi('Mexico City', 3, 28, 123.01306532663315, 'Poor').
 aqi('Berlin', 7, 27, 157.5522655426765, 'Unhealthy').
@@ -24509,17 +24509,17 @@ aqi('Mumbai', 3, 11, 108.68656565656566, 'Poor').
 aqi('Seoul', 11, 16, 187.93846153846155, 'Unhealthy').
 aqi('Moscow', 9, 20, 191.0777660695469, 'Unhealthy').
 aqi('Istanbul', 4, 13, 188.54257112750264, 'Unhealthy').
-aqi('Mexico City', 10, 26, 193.6542676501581, 'Unhealthy').
+aqi('Mexico City', 10, 26, 193.65426765015806, 'Unhealthy').
 aqi('Tokyo', 4, 13, 182.60474183350897, 'Unhealthy').
 aqi('Johannesburg', 9, 22, 159.76217070600632, 'Unhealthy').
 aqi('New York', 3, 19, 120.25353535353536, 'Poor').
 aqi('Johannesburg', 1, 18, 183.2914646996839, 'Unhealthy').
 aqi('Mumbai', 3, 22, 165.04425711275027, 'Unhealthy').
 aqi('Los Angeles', 10, 11, 139.2396984924623, 'Poor').
-aqi('Bangkok', 6, 11, 187.89715489989464, 'Unhealthy').
+aqi('Bangkok', 6, 11, 187.89715489989462, 'Unhealthy').
 aqi('Tokyo', 9, 8, 147.9070351758794, 'Poor').
 aqi('Madrid', 4, 11, 64.93777777777778, 'Moderate').
-aqi('Moscow', 2, 20, 190.37038988408847, 'Unhealthy').
+aqi('Moscow', 2, 20, 190.37038988408852, 'Unhealthy').
 aqi('London', 6, 5, 163.1699683877766, 'Unhealthy').
 aqi('Sydney', 12, 12, 67.14030303030303, 'Moderate').
 aqi('Dubai', 12, 25, 170.1714436248683, 'Unhealthy').
@@ -24530,16 +24530,16 @@ aqi('London', 2, 18, 199.7418335089568, 'Unhealthy').
 aqi('Istanbul', 9, 18, 186.0177028451001, 'Unhealthy').
 aqi('New York', 3, 4, 77.3, 'Moderate').
 aqi('Seoul', 11, 26, 185.4290832455216, 'Unhealthy').
-aqi('Moscow', 6, 16, 103.70344827586209, 'Poor').
+aqi('Moscow', 6, 16, 103.70344827586207, 'Poor').
 aqi('Tokyo', 3, 8, 170.3108535300316, 'Unhealthy').
 aqi('Seoul', 2, 13, 172.20063224446787, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 18, 196.2101159114858, 'Unhealthy').
 aqi('Los Angeles', 12, 25, 170.76006322444678, 'Unhealthy').
-aqi('Los Angeles', 2, 10, 189.100210748156, 'Unhealthy').
-aqi('Beijing', 5, 9, 109.07638190954772, 'Poor').
+aqi('Los Angeles', 2, 10, 189.10021074815594, 'Unhealthy').
+aqi('Beijing', 5, 9, 109.07638190954773, 'Poor').
 aqi('Sydney', 4, 14, 163.21127502634351, 'Unhealthy').
 aqi('Johannesburg', 6, 26, 140.39698492462313, 'Poor').
-aqi('Rio de Janeiro', 3, 7, 112.05222222222224, 'Poor').
+aqi('Rio de Janeiro', 3, 7, 112.05222222222223, 'Poor').
 aqi('Dubai', 9, 13, 117.57585858585858, 'Poor').
 aqi('Cairo', 3, 11, 170.85300316122235, 'Unhealthy').
 aqi('Mumbai', 4, 11, 120.77818181818182, 'Poor').
@@ -24550,14 +24550,14 @@ aqi('Toronto', 10, 7, 122.19868686868688, 'Poor').
 aqi('Los Angeles', 9, 20, 86.3789898989899, 'Moderate').
 aqi('Los Angeles', 11, 7, 101.02462311557788, 'Poor').
 aqi('Paris', 9, 28, 157.38703898840885, 'Unhealthy').
-aqi('Madrid', 11, 6, 189.2292939936776, 'Unhealthy').
+aqi('Madrid', 11, 6, 189.22929399367754, 'Unhealthy').
 aqi('New York', 9, 23, 186.94710221285564, 'Unhealthy').
 aqi('Tokyo', 6, 28, 194.4804004214963, 'Unhealthy').
 aqi('Toronto', 9, 1, 183.11074815595364, 'Unhealthy').
-aqi('Mexico City', 12, 9, 112.96292929292927, 'Poor').
+aqi('Mexico City', 12, 9, 112.96292929292929, 'Poor').
 aqi('Bangkok', 9, 17, 170.5845100105374, 'Unhealthy').
 aqi('Istanbul', 3, 10, 171.7359325605901, 'Unhealthy').
-aqi('Seoul', 11, 28, 99.8, 'Moderate').
+aqi('Seoul', 11, 28, 99.80000000000001, 'Moderate').
 aqi('Mexico City', 10, 5, 152.50252897787144, 'Unhealthy').
 aqi('Los Angeles', 2, 12, 170.5586933614331, 'Unhealthy').
 aqi('Tokyo', 8, 18, 172.03024236037936, 'Unhealthy').
@@ -24582,8 +24582,8 @@ aqi('Tokyo', 12, 19, 153.99989462592202, 'Unhealthy').
 aqi('Mumbai', 8, 1, 189.1105374077977, 'Unhealthy').
 aqi('Johannesburg', 3, 25, 152.8536354056902, 'Unhealthy').
 aqi('Los Angeles', 9, 3, 173.9200210748156, 'Unhealthy').
-aqi('Seoul', 3, 8, 192.21369863013692, 'Unhealthy').
-aqi('Madrid', 9, 9, 98.73239130434784, 'Moderate').
+aqi('Seoul', 3, 8, 192.21369863013697, 'Unhealthy').
+aqi('Madrid', 9, 9, 98.73239130434783, 'Moderate').
 aqi('Toronto', 5, 26, 157.7949420442571, 'Unhealthy').
 aqi('Mexico City', 4, 6, 153.43709167544785, 'Unhealthy').
 aqi('Beijing', 6, 3, 91.73434343434344, 'Moderate').
@@ -24592,14 +24592,14 @@ aqi('Beijing', 8, 24, 93.8, 'Moderate').
 aqi('Berlin', 9, 23, 159.0341412012645, 'Unhealthy').
 aqi('Madrid', 6, 20, 196.6644889357218, 'Unhealthy').
 aqi('Dubai', 6, 18, 86.96137339055795, 'Moderate').
-aqi('Los Angeles', 11, 27, 191.56828240252892, 'Unhealthy').
-aqi('Sydney', 4, 20, 177.53435194942043, 'Unhealthy').
+aqi('Los Angeles', 11, 27, 191.56828240252898, 'Unhealthy').
+aqi('Sydney', 4, 20, 177.53435194942045, 'Unhealthy').
 aqi('Toronto', 12, 1, 66.95222222222222, 'Moderate').
 aqi('Mumbai', 9, 2, 91.48283261802575, 'Moderate').
 aqi('Mumbai', 1, 26, 156.66417281348788, 'Unhealthy').
-aqi('Moscow', 11, 19, 190.37038988408847, 'Unhealthy').
+aqi('Moscow', 11, 19, 190.37038988408852, 'Unhealthy').
 aqi('London', 4, 19, 136.6542713567839, 'Poor').
-aqi('Beijing', 2, 23, 190.34457323498413, 'Unhealthy').
+aqi('Beijing', 2, 23, 190.34457323498418, 'Unhealthy').
 aqi('Moscow', 5, 27, 158.3112750263435, 'Unhealthy').
 aqi('Johannesburg', 12, 23, 152.04815595363542, 'Unhealthy').
 aqi('Berlin', 3, 12, 92.79848484848485, 'Moderate').
@@ -24617,13 +24617,13 @@ aqi('Bangkok', 8, 23, 166.8927291886196, 'Unhealthy').
 aqi('Istanbul', 5, 9, 84.81, 'Moderate').
 aqi('Madrid', 2, 28, 192.17239199157007, 'Unhealthy').
 aqi('Istanbul', 9, 14, 77.15108695652174, 'Moderate').
-aqi('Sydney', 10, 5, 103.7577889447236, 'Poor').
+aqi('Sydney', 10, 5, 103.75778894472361, 'Poor').
 aqi('Beijing', 5, 11, 164.69831401475238, 'Unhealthy').
 aqi('Johannesburg', 10, 11, 193.50969441517387, 'Unhealthy').
 aqi('Paris', 5, 25, 159.1787144362487, 'Unhealthy').
 aqi('London', 4, 2, 155.79157007376185, 'Unhealthy').
-aqi('Tokyo', 12, 1, 131.28643216080405, 'Poor').
-aqi('Istanbul', 9, 11, 193.3702845100105, 'Unhealthy').
+aqi('Tokyo', 12, 1, 131.28643216080403, 'Poor').
+aqi('Istanbul', 9, 11, 193.37028451001055, 'Unhealthy').
 aqi('Mexico City', 8, 23, 170.6154899894626, 'Unhealthy').
 aqi('Tokyo', 2, 21, 137.1467336683417, 'Poor').
 aqi('Berlin', 8, 2, 120.96626262626263, 'Poor').
@@ -24639,7 +24639,7 @@ aqi('Sydney', 3, 19, 95.7519313304721, 'Moderate').
 aqi('Dubai', 11, 26, 172.73761854583773, 'Unhealthy').
 aqi('Los Angeles', 1, 27, 195.84351949420443, 'Unhealthy').
 aqi('Sydney', 11, 4, 134.8321608040201, 'Poor').
-aqi('New York', 12, 15, 198.4303477344573, 'Unhealthy').
+aqi('New York', 12, 15, 198.43034773445734, 'Unhealthy').
 aqi('Moscow', 2, 26, 198.75563751317176, 'Unhealthy').
 aqi('Mumbai', 3, 20, 159.76217070600632, 'Unhealthy').
 aqi('Sydney', 4, 1, 115.55226130653266, 'Poor').
@@ -24655,22 +24655,22 @@ aqi('Johannesburg', 8, 14, 117.76834170854272, 'Poor').
 aqi('Toronto', 5, 26, 193.21022128556376, 'Unhealthy').
 aqi('Seoul', 9, 14, 176.9973656480506, 'Unhealthy').
 aqi('Bangkok', 4, 25, 109.27555555555556, 'Poor').
-aqi('Moscow', 6, 1, 195.6886195995785, 'Unhealthy').
+aqi('Moscow', 6, 1, 195.68861959957852, 'Unhealthy').
 aqi('Cairo', 8, 28, 155.17197049525817, 'Unhealthy').
 aqi('Seoul', 8, 16, 177.4827186512118, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 19, 146.18341708542715, 'Poor').
 aqi('Madrid', 5, 10, 186.79220231822973, 'Unhealthy').
 aqi('Sydney', 6, 17, 156.25110642781877, 'Unhealthy').
-aqi('Rio de Janeiro', 10, 12, 180.3483667017913, 'Unhealthy').
+aqi('Rio de Janeiro', 10, 12, 180.34836670179135, 'Unhealthy').
 aqi('Toronto', 5, 10, 99.09570815450644, 'Moderate').
-aqi('Mumbai', 12, 5, 189.2138040042149, 'Unhealthy').
-aqi('Bangkok', 3, 1, 135.1522613065327, 'Poor').
+aqi('Mumbai', 12, 5, 189.21380400421495, 'Unhealthy').
+aqi('Bangkok', 3, 1, 135.15226130653267, 'Poor').
 aqi('Bangkok', 5, 1, 108.09655172413792, 'Poor').
-aqi('Paris', 2, 12, 92.93390557939917, 'Moderate').
-aqi('Bangkok', 10, 14, 194.0311907270812, 'Unhealthy').
+aqi('Paris', 2, 12, 92.93390557939915, 'Moderate').
+aqi('Bangkok', 10, 14, 194.03119072708114, 'Unhealthy').
 aqi('Beijing', 11, 12, 163.02023182297154, 'Unhealthy').
-aqi('Seoul', 9, 1, 126.75577889447236, 'Poor').
-aqi('Bangkok', 11, 24, 185.527186512118, 'Unhealthy').
+aqi('Seoul', 9, 1, 126.75577889447237, 'Poor').
+aqi('Bangkok', 11, 24, 185.52718651211802, 'Unhealthy').
 aqi('Cairo', 3, 10, 71.80272727272728, 'Moderate').
 aqi('Berlin', 11, 20, 167.03213909378292, 'Unhealthy').
 aqi('Beijing', 11, 5, 163.154478398314, 'Unhealthy').
@@ -24680,23 +24680,23 @@ aqi('Sydney', 12, 26, 196.7677555321391, 'Unhealthy').
 aqi('Beijing', 8, 13, 183.63740779768176, 'Unhealthy').
 aqi('New York', 11, 13, 185.9299262381454, 'Unhealthy').
 aqi('Berlin', 10, 1, 169.05616438356165, 'Unhealthy').
-aqi('New York', 8, 3, 195.98809272918865, 'Unhealthy').
+aqi('New York', 8, 3, 195.98809272918862, 'Unhealthy').
 aqi('Los Angeles', 10, 10, 134.48743718592965, 'Poor').
 aqi('Los Angeles', 4, 7, 165.7, 'Unhealthy').
 aqi('Bangkok', 8, 2, 151.90874604847207, 'Unhealthy').
 aqi('Tokyo', 2, 4, 102.88575757575758, 'Poor').
-aqi('Moscow', 9, 23, 190.37038988408847, 'Unhealthy').
+aqi('Moscow', 9, 23, 190.37038988408852, 'Unhealthy').
 aqi('Dubai', 3, 2, 158.5281348788198, 'Unhealthy').
 aqi('Dubai', 6, 10, 196.3495258166491, 'Unhealthy').
 aqi('Moscow', 6, 22, 108.14070351758794, 'Poor').
-aqi('Cairo', 6, 8, 191.8057955742888, 'Unhealthy').
+aqi('Cairo', 6, 8, 191.80579557428874, 'Unhealthy').
 aqi('Sydney', 11, 28, 174.45700737618546, 'Unhealthy').
-aqi('Rio de Janeiro', 4, 3, 121.4018181818182, 'Poor').
+aqi('Rio de Janeiro', 4, 3, 121.40181818181819, 'Poor').
 aqi('Berlin', 6, 5, 158.81211801896734, 'Unhealthy').
-aqi('London', 9, 13, 195.26522655426768, 'Unhealthy').
+aqi('London', 9, 13, 195.26522655426766, 'Unhealthy').
 aqi('Istanbul', 4, 19, 172.2522655426765, 'Unhealthy').
 aqi('Bangkok', 9, 25, 160.56765015806113, 'Unhealthy').
-aqi('Berlin', 1, 11, 102.24727272727272, 'Poor').
+aqi('Berlin', 1, 11, 102.24727272727273, 'Poor').
 aqi('Johannesburg', 11, 16, 107.08275862068965, 'Poor').
 aqi('Cairo', 11, 1, 173.02160168598525, 'Unhealthy').
 aqi('Moscow', 11, 9, 80.56824034334764, 'Moderate').
@@ -24704,28 +24704,28 @@ aqi('Dubai', 7, 27, 160.23203371970496, 'Unhealthy').
 aqi('New York', 12, 12, 172.59304531085354, 'Unhealthy').
 aqi('New York', 10, 11, 75.48020202020201, 'Moderate').
 aqi('London', 10, 25, 176.11959957850368, 'Unhealthy').
-aqi('Paris', 4, 26, 111.4879797979798, 'Poor').
+aqi('Paris', 4, 26, 111.48797979797979, 'Poor').
 aqi('Los Angeles', 9, 8, 61.93978260869565, 'Moderate').
 aqi('London', 4, 21, 175.613593256059, 'Unhealthy').
-aqi('Johannesburg', 6, 21, 118.58090452261308, 'Poor').
+aqi('Johannesburg', 6, 21, 118.58090452261307, 'Poor').
 aqi('Berlin', 5, 27, 72.99742489270386, 'Moderate').
-aqi('Cairo', 12, 16, 182.6873551106428, 'Unhealthy').
+aqi('Cairo', 12, 16, 182.68735511064278, 'Unhealthy').
 aqi('Mexico City', 5, 16, 174.62739726027397, 'Unhealthy').
 aqi('Moscow', 5, 23, 177.6531085353003, 'Unhealthy').
 aqi('Dubai', 11, 21, 154.418124341412, 'Unhealthy').
-aqi('Toronto', 11, 2, 198.6110642781876, 'Unhealthy').
+aqi('Toronto', 11, 2, 198.61106427818757, 'Unhealthy').
 aqi('Mumbai', 1, 5, 105.15757575757576, 'Poor').
 aqi('New York', 12, 7, 175.69104320337198, 'Unhealthy').
-aqi('Rio de Janeiro', 3, 9, 106.91379310344828, 'Poor').
+aqi('Rio de Janeiro', 3, 9, 106.91379310344827, 'Poor').
 aqi('Cairo', 2, 6, 81.93519313304722, 'Moderate').
 aqi('Cairo', 4, 8, 134.48743718592965, 'Poor').
 aqi('London', 3, 9, 167.60526870389884, 'Unhealthy').
 aqi('London', 7, 22, 195.6628029504742, 'Unhealthy').
 aqi('Cairo', 6, 19, 164.2491043203372, 'Unhealthy').
 aqi('Cairo', 6, 12, 151.77449947312962, 'Unhealthy').
-aqi('Beijing', 7, 12, 93.159797979798, 'Moderate').
+aqi('Beijing', 7, 12, 93.15979797979799, 'Moderate').
 aqi('Tokyo', 5, 14, 187.23108535300315, 'Unhealthy').
-aqi('Toronto', 4, 25, 162.1269757639621, 'Unhealthy').
+aqi('Toronto', 4, 25, 162.12697576396207, 'Unhealthy').
 aqi('Los Angeles', 12, 8, 167.48651211801896, 'Unhealthy').
 aqi('Berlin', 4, 24, 165.10105374077978, 'Unhealthy').
 aqi('Toronto', 2, 21, 183.7355110642782, 'Unhealthy').
@@ -24739,8 +24739,8 @@ aqi('Istanbul', 11, 25, 158.5281348788198, 'Unhealthy').
 aqi('New York', 11, 1, 105.22413793103448, 'Poor').
 aqi('New York', 5, 11, 154.6040042149631, 'Unhealthy').
 aqi('Berlin', 5, 27, 186.43076923076924, 'Unhealthy').
-aqi('Seoul', 3, 19, 193.53551106427813, 'Unhealthy').
-aqi('Toronto', 7, 19, 113.85326633165828, 'Poor').
+aqi('Seoul', 3, 19, 193.53551106427818, 'Unhealthy').
+aqi('Toronto', 7, 19, 113.85326633165829, 'Poor').
 aqi('Madrid', 5, 8, 186.2758693361433, 'Unhealthy').
 aqi('Johannesburg', 2, 21, 196.42697576396205, 'Unhealthy').
 aqi('London', 12, 16, 188.02623814541624, 'Unhealthy').
@@ -24751,11 +24751,11 @@ aqi('Paris', 3, 14, 166.990832455216, 'Unhealthy').
 aqi('Beijing', 4, 11, 133.87185929648243, 'Poor').
 aqi('Dubai', 10, 12, 165.0804004214963, 'Unhealthy').
 aqi('Madrid', 9, 13, 117.32343434343434, 'Poor').
-aqi('Seoul', 1, 12, 191.5527924130664, 'Unhealthy').
+aqi('Seoul', 1, 12, 191.55279241306638, 'Unhealthy').
 aqi('New York', 10, 6, 188.43930453108536, 'Unhealthy').
 aqi('Moscow', 3, 21, 158.41970495258167, 'Unhealthy').
 aqi('Los Angeles', 3, 28, 166.64488935721812, 'Unhealthy').
-aqi('Tokyo', 8, 12, 176.677239199157, 'Unhealthy').
+aqi('Tokyo', 8, 12, 176.67723919915701, 'Unhealthy').
 aqi('Toronto', 10, 4, 151.53698630136986, 'Unhealthy').
 aqi('Seoul', 4, 10, 176.21253951527925, 'Unhealthy').
 aqi('Cairo', 1, 13, 178.11780821917807, 'Unhealthy').
@@ -24765,18 +24765,18 @@ aqi('Istanbul', 8, 7, 98.5, 'Moderate').
 aqi('Berlin', 8, 1, 95.7098712446352, 'Moderate').
 aqi('Madrid', 1, 24, 175.43287671232878, 'Unhealthy').
 aqi('Los Angeles', 3, 1, 117.17738693467336, 'Poor').
-aqi('Sydney', 11, 12, 122.59447236180904, 'Poor').
+aqi('Sydney', 11, 12, 122.59447236180905, 'Poor').
 aqi('Bangkok', 2, 16, 158.16153846153847, 'Unhealthy').
 aqi('Mumbai', 12, 11, 163.60885142255006, 'Unhealthy').
 aqi('Toronto', 1, 11, 168.21970495258165, 'Unhealthy').
-aqi('Bangkok', 1, 11, 95.16309012875536, 'Moderate').
+aqi('Bangkok', 1, 11, 95.16309012875537, 'Moderate').
 aqi('Madrid', 4, 26, 70.62103004291846, 'Moderate').
 aqi('Seoul', 2, 16, 138.8457286432161, 'Poor').
 aqi('Dubai', 11, 17, 138.8457286432161, 'Poor').
 aqi('Los Angeles', 7, 1, 173.39336143308748, 'Unhealthy').
 aqi('New York', 6, 27, 138.6241206030151, 'Poor').
 aqi('Johannesburg', 7, 22, 161.6312961011591, 'Unhealthy').
-aqi('Dubai', 3, 9, 192.92623814541625, 'Unhealthy').
+aqi('Dubai', 3, 9, 192.92623814541622, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 24, 178.01970495258166, 'Unhealthy').
 aqi('Cairo', 10, 7, 177.1264488935722, 'Unhealthy').
 aqi('Moscow', 11, 28, 144.70603015075378, 'Poor').
@@ -24784,12 +24784,12 @@ aqi('New York', 8, 26, 79.9, 'Moderate').
 aqi('Paris', 6, 2, 152.79167544783982, 'Unhealthy').
 aqi('Mexico City', 2, 22, 128.50402010050252, 'Poor').
 aqi('Beijing', 1, 4, 112.2035175879397, 'Poor').
-aqi('Mexico City', 2, 25, 121.11708542713568, 'Poor').
+aqi('Mexico City', 2, 25, 121.11708542713569, 'Poor').
 aqi('Mumbai', 1, 26, 166.13888303477344, 'Unhealthy').
 aqi('Cairo', 4, 20, 159.7673340358272, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 12, 159.72602739726028, 'Unhealthy').
 aqi('Madrid', 4, 21, 159.8964172813488, 'Unhealthy').
-aqi('Sydney', 12, 2, 116.5661616161616, 'Poor').
+aqi('Sydney', 12, 2, 116.56616161616161, 'Poor').
 aqi('Mumbai', 6, 7, 137.95929648241207, 'Poor').
 aqi('Cairo', 1, 5, 167.06828240252898, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 19, 165.18883034773447, 'Unhealthy').
@@ -24806,7 +24806,7 @@ aqi('Rio de Janeiro', 9, 7, 105.98909090909092, 'Poor').
 aqi('London', 7, 17, 181.65985247629084, 'Unhealthy').
 aqi('Tokyo', 3, 6, 157.5832455216017, 'Unhealthy').
 aqi('London', 3, 13, 154.82602739726028, 'Unhealthy').
-aqi('Berlin', 9, 25, 104.34874371859296, 'Poor').
+aqi('Berlin', 9, 25, 104.34874371859297, 'Poor').
 aqi('Madrid', 9, 8, 69.00131313131314, 'Moderate').
 aqi('Dubai', 5, 20, 165.5244467860906, 'Unhealthy').
 aqi('Bangkok', 7, 19, 159.99968387776607, 'Unhealthy').
@@ -24818,32 +24818,32 @@ aqi('Paris', 12, 8, 84.1708695652174, 'Moderate').
 aqi('Beijing', 3, 8, 159.27165437302423, 'Unhealthy').
 aqi('Moscow', 6, 3, 141.8251256281407, 'Poor').
 aqi('Johannesburg', 3, 14, 193.74204425711275, 'Unhealthy').
-aqi('Beijing', 6, 14, 190.95900948366705, 'Unhealthy').
+aqi('Beijing', 6, 14, 190.95900948366702, 'Unhealthy').
 aqi('Bangkok', 7, 12, 176.90442571127502, 'Unhealthy').
 aqi('Mexico City', 1, 18, 166.98566912539516, 'Unhealthy').
 aqi('Berlin', 3, 8, 154.90347734457325, 'Unhealthy').
 aqi('Mexico City', 1, 10, 180.16765015806112, 'Unhealthy').
 aqi('Berlin', 8, 9, 109.19949748743718, 'Poor').
-aqi('Sydney', 1, 27, 177.6324552160169, 'Unhealthy').
+aqi('Sydney', 1, 27, 177.63245521601687, 'Unhealthy').
 aqi('Paris', 5, 13, 175.8872497365648, 'Unhealthy').
 aqi('Istanbul', 8, 2, 123.38241206030152, 'Poor').
-aqi('New York', 9, 16, 172.727291886196, 'Unhealthy').
-aqi('Madrid', 9, 24, 98.30727272727272, 'Moderate').
+aqi('New York', 9, 16, 172.72729188619599, 'Unhealthy').
+aqi('Madrid', 9, 24, 98.30727272727273, 'Moderate').
 aqi('London', 9, 14, 111.63718592964824, 'Poor').
-aqi('Johannesburg', 6, 22, 105.33366834170856, 'Poor').
+aqi('Johannesburg', 6, 22, 105.33366834170855, 'Poor').
 aqi('Los Angeles', 9, 2, 89.02231759656652, 'Moderate').
 aqi('Toronto', 3, 25, 161.38345626975763, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 17, 177.72539515279243, 'Unhealthy').
-aqi('Moscow', 6, 11, 96.19356223175969, 'Moderate').
+aqi('Moscow', 6, 11, 96.19356223175967, 'Moderate').
 aqi('Mumbai', 7, 27, 143.35175879396985, 'Poor').
-aqi('Toronto', 3, 4, 111.99777777777776, 'Poor').
+aqi('Toronto', 3, 4, 111.99777777777777, 'Poor').
 aqi('Mumbai', 5, 12, 169.94942044257112, 'Unhealthy').
 aqi('Dubai', 9, 6, 94.4395652173913, 'Moderate').
 aqi('Beijing', 7, 13, 115.1159595959596, 'Poor').
 aqi('Berlin', 6, 2, 105.2169696969697, 'Poor').
 aqi('London', 7, 18, 180.33804004214963, 'Unhealthy').
 aqi('Paris', 5, 3, 169.42792413066385, 'Unhealthy').
-aqi('Istanbul', 12, 18, 159.5762908324552, 'Unhealthy').
+aqi('Istanbul', 12, 18, 159.57629083245521, 'Unhealthy').
 aqi('Los Angeles', 5, 6, 70.90191919191919, 'Moderate').
 aqi('Rio de Janeiro', 8, 6, 197.7023182297155, 'Unhealthy').
 aqi('New York', 6, 27, 136.11256281407034, 'Poor').
@@ -24853,27 +24853,27 @@ aqi('Moscow', 6, 13, 51.54678111587983, 'Moderate').
 aqi('Toronto', 11, 22, 199.42687038988407, 'Unhealthy').
 aqi('Paris', 3, 26, 196.41148577449945, 'Unhealthy').
 aqi('Seoul', 6, 22, 90.4969696969697, 'Moderate').
-aqi('Madrid', 5, 7, 191.67154899894624, 'Unhealthy').
+aqi('Madrid', 5, 7, 191.67154899894626, 'Unhealthy').
 aqi('Tokyo', 7, 19, 176.450052687039, 'Unhealthy').
 aqi('Sydney', 10, 23, 180.43614330874607, 'Unhealthy').
-aqi('Mumbai', 7, 25, 192.66807165437305, 'Unhealthy').
+aqi('Mumbai', 7, 25, 192.66807165437302, 'Unhealthy').
 aqi('Bangkok', 1, 1, 189.7249736564805, 'Unhealthy').
 aqi('Tokyo', 4, 10, 156.91717597471023, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 7, 170.88914646996838, 'Unhealthy').
 aqi('Seoul', 10, 15, 162.32318229715491, 'Unhealthy').
 aqi('Mumbai', 8, 7, 156.62802950474185, 'Unhealthy').
-aqi('Dubai', 7, 24, 192.7765015806112, 'Unhealthy').
-aqi('Mumbai', 10, 14, 123.28391959798996, 'Poor').
+aqi('Dubai', 7, 24, 192.77650158061118, 'Unhealthy').
+aqi('Mumbai', 10, 14, 123.28391959798995, 'Poor').
 aqi('Mumbai', 9, 9, 152.27017913593255, 'Unhealthy').
 aqi('Mumbai', 1, 13, 162.01338250790306, 'Unhealthy').
 aqi('Johannesburg', 12, 11, 156.2872497365648, 'Unhealthy').
 aqi('Paris', 1, 5, 164.40400421496312, 'Unhealthy').
 aqi('Bangkok', 3, 8, 186.2190727081138, 'Unhealthy').
 aqi('Madrid', 9, 23, 149.8030150753769, 'Poor').
-aqi('Moscow', 12, 16, 196.11717597471025, 'Unhealthy').
+aqi('Moscow', 12, 16, 196.11717597471022, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 3, 77.13828282828283, 'Moderate').
 aqi('Istanbul', 12, 9, 134.06884422110554, 'Poor').
-aqi('Los Angeles', 5, 13, 186.2603793466808, 'Unhealthy').
+aqi('Los Angeles', 5, 13, 186.26037934668074, 'Unhealthy').
 aqi('Mumbai', 8, 21, 199.50432033719704, 'Unhealthy').
 aqi('Seoul', 11, 8, 172.31938883034775, 'Unhealthy').
 aqi('Paris', 7, 18, 157.7278187565859, 'Unhealthy').
@@ -24881,8 +24881,8 @@ aqi('Istanbul', 5, 14, 109.0280808080808, 'Poor').
 aqi('Dubai', 11, 23, 173.3314014752371, 'Unhealthy').
 aqi('New York', 7, 24, 63.744949494949495, 'Moderate').
 aqi('Toronto', 6, 8, 160.83614330874605, 'Unhealthy').
-aqi('Bangkok', 12, 23, 195.0018967334036, 'Unhealthy').
-aqi('Johannesburg', 9, 19, 191.88840885142253, 'Unhealthy').
+aqi('Bangkok', 12, 23, 195.00189673340358, 'Unhealthy').
+aqi('Johannesburg', 9, 19, 191.88840885142255, 'Unhealthy').
 aqi('Los Angeles', 3, 2, 166.06659641728135, 'Unhealthy').
 aqi('Tokyo', 7, 11, 152.2805057955743, 'Unhealthy').
 aqi('Toronto', 6, 25, 175.23150684931508, 'Unhealthy').
@@ -24896,24 +24896,24 @@ aqi('Dubai', 7, 3, 177.46206533192836, 'Unhealthy').
 aqi('Johannesburg', 11, 14, 177.75121180189674, 'Unhealthy').
 aqi('Tokyo', 12, 21, 183.86975763962064, 'Unhealthy').
 aqi('Madrid', 1, 6, 156.8913593256059, 'Unhealthy').
-aqi('Madrid', 10, 22, 193.7110642781876, 'Unhealthy').
+aqi('Madrid', 10, 22, 193.71106427818756, 'Unhealthy').
 aqi('Johannesburg', 2, 18, 181.40684931506848, 'Unhealthy').
-aqi('Istanbul', 2, 4, 183.6838777660696, 'Unhealthy').
-aqi('Beijing', 4, 26, 187.5925184404637, 'Unhealthy').
+aqi('Istanbul', 2, 4, 183.68387776606954, 'Unhealthy').
+aqi('Beijing', 4, 26, 187.59251844046366, 'Unhealthy').
 aqi('Moscow', 12, 1, 186.95742887249736, 'Unhealthy').
 aqi('Bangkok', 4, 16, 173.5895679662803, 'Unhealthy').
 aqi('Johannesburg', 9, 28, 164.80158061116964, 'Unhealthy').
-aqi('Seoul', 1, 21, 108.53467336683416, 'Poor').
+aqi('Seoul', 1, 21, 108.53467336683417, 'Poor').
 aqi('Rio de Janeiro', 9, 21, 151.82613277133825, 'Unhealthy').
-aqi('Berlin', 1, 9, 194.40811380400424, 'Unhealthy').
+aqi('Berlin', 1, 9, 194.40811380400422, 'Unhealthy').
 aqi('Mumbai', 9, 18, 181.78893572181244, 'Unhealthy').
 aqi('Los Angeles', 4, 5, 167.24899894625923, 'Unhealthy').
 aqi('Dubai', 2, 10, 121.7829292929293, 'Poor').
 aqi('Berlin', 3, 12, 176.6927291886196, 'Unhealthy').
 aqi('Dubai', 10, 4, 179.37249736564806, 'Unhealthy').
 aqi('Seoul', 12, 5, 158.52297154899895, 'Unhealthy').
-aqi('Dubai', 9, 28, 112.14626262626264, 'Poor').
-aqi('Mumbai', 4, 20, 189.34805057955745, 'Unhealthy').
+aqi('Dubai', 9, 28, 112.14626262626263, 'Poor').
+aqi('Mumbai', 4, 20, 189.34805057955742, 'Unhealthy').
 aqi('Sydney', 2, 15, 135.64472361809047, 'Poor').
 aqi('Istanbul', 2, 16, 191.12939936775552, 'Unhealthy').
 aqi('Moscow', 8, 16, 132.86231155778893, 'Poor').
@@ -24924,26 +24924,26 @@ aqi('Berlin', 1, 28, 174.36923076923077, 'Unhealthy').
 aqi('Berlin', 7, 12, 67.74794871794872, 'Moderate').
 aqi('Tokyo', 7, 5, 137.76231155778896, 'Poor').
 aqi('London', 6, 6, 175.46385669125397, 'Unhealthy').
-aqi('Johannesburg', 5, 20, 199.1996838777661, 'Unhealthy').
+aqi('Johannesburg', 5, 20, 199.19968387776606, 'Unhealthy').
 aqi('Paris', 10, 5, 118.06381909547738, 'Poor').
 aqi('Mumbai', 9, 9, 83.88326086956522, 'Moderate').
 aqi('Seoul', 7, 14, 152.77102212855638, 'Unhealthy').
 aqi('Bangkok', 8, 24, 195.0586933614331, 'Unhealthy').
-aqi('Seoul', 6, 22, 194.5475237091676, 'Unhealthy').
-aqi('Bangkok', 12, 8, 181.96448893572185, 'Unhealthy').
+aqi('Seoul', 6, 22, 194.54752370916754, 'Unhealthy').
+aqi('Bangkok', 12, 8, 181.96448893572182, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 7, 77.8, 'Moderate').
 aqi('Toronto', 2, 3, 168.9735511064278, 'Unhealthy').
-aqi('Seoul', 8, 19, 194.24288724973653, 'Unhealthy').
+aqi('Seoul', 8, 19, 194.24288724973655, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 17, 173.37787144362488, 'Unhealthy').
 aqi('Moscow', 5, 14, 160.63477344573235, 'Unhealthy').
 aqi('Bangkok', 1, 5, 171.72560590094838, 'Unhealthy').
 aqi('Berlin', 5, 5, 134.3889447236181, 'Poor').
-aqi('Beijing', 12, 18, 167.8014752370917, 'Unhealthy').
+aqi('Beijing', 12, 18, 167.80147523709167, 'Unhealthy').
 aqi('Moscow', 8, 26, 132.0251256281407, 'Poor').
 aqi('Madrid', 3, 6, 99.5, 'Moderate').
 aqi('Mumbai', 7, 18, 119.88592964824122, 'Poor').
 aqi('Johannesburg', 7, 17, 170.67744994731297, 'Unhealthy').
-aqi('Berlin', 1, 25, 112.41848484848484, 'Poor').
+aqi('Berlin', 1, 25, 112.41848484848485, 'Poor').
 aqi('New York', 6, 19, 160.03066385669126, 'Unhealthy').
 aqi('London', 4, 11, 112.39373737373738, 'Poor').
 aqi('Tokyo', 3, 22, 91.98755364806868, 'Moderate').
@@ -24959,27 +24959,27 @@ aqi('Seoul', 4, 10, 170.40895679662805, 'Unhealthy').
 aqi('Moscow', 9, 5, 156.02391991570073, 'Unhealthy').
 aqi('Moscow', 12, 11, 142.71155778894473, 'Poor').
 aqi('Cairo', 6, 12, 169.03551106427818, 'Unhealthy').
-aqi('Moscow', 2, 13, 198.1721812434141, 'Unhealthy').
+aqi('Moscow', 2, 13, 198.17218124341412, 'Unhealthy').
 aqi('Moscow', 2, 19, 171.85468914646998, 'Unhealthy').
-aqi('Cairo', 3, 16, 102.940202020202, 'Poor').
+aqi('Cairo', 3, 16, 102.94020202020201, 'Poor').
 aqi('Johannesburg', 2, 1, 144.18894472361808, 'Poor').
 aqi('Cairo', 4, 21, 154.18061116965225, 'Unhealthy').
 aqi('New York', 10, 26, 163.85152792413066, 'Unhealthy').
-aqi('Toronto', 5, 9, 113.11636363636364, 'Poor').
+aqi('Toronto', 5, 9, 113.11636363636363, 'Poor').
 aqi('Madrid', 4, 5, 108.62222222222222, 'Poor').
-aqi('Istanbul', 7, 19, 181.3293993677556, 'Unhealthy').
+aqi('Istanbul', 7, 19, 181.32939936775554, 'Unhealthy').
 aqi('Mumbai', 8, 20, 83.86995708154507, 'Moderate').
 aqi('Berlin', 4, 10, 162.7982086406744, 'Unhealthy').
-aqi('Istanbul', 10, 12, 116.92747474747476, 'Poor').
+aqi('Istanbul', 10, 12, 116.92747474747475, 'Poor').
 aqi('Tokyo', 6, 1, 177.76153846153846, 'Unhealthy').
 aqi('Moscow', 5, 17, 157.31991570073762, 'Unhealthy').
 aqi('Mumbai', 2, 20, 156.01875658587988, 'Unhealthy').
 aqi('Toronto', 8, 3, 134.21658291457288, 'Poor').
 aqi('Sydney', 11, 2, 108.6824120603015, 'Poor').
 aqi('Seoul', 3, 15, 165.3798735511064, 'Unhealthy').
-aqi('Toronto', 7, 20, 198.481981032666, 'Unhealthy').
+aqi('Toronto', 7, 20, 198.48198103266597, 'Unhealthy').
 aqi('Cairo', 11, 2, 75.87854077253219, 'Moderate').
-aqi('New York', 7, 12, 118.53165829145728, 'Poor').
+aqi('New York', 7, 12, 118.53165829145729, 'Poor').
 aqi('Tokyo', 10, 1, 170.4141201264489, 'Unhealthy').
 aqi('Sydney', 7, 21, 198.9518440463646, 'Unhealthy').
 aqi('Cairo', 11, 8, 114.00100502512564, 'Poor').
@@ -24991,7 +24991,7 @@ aqi('Los Angeles', 4, 17, 121.85577889447237, 'Poor').
 aqi('Dubai', 7, 3, 116.6603015075377, 'Poor').
 aqi('Seoul', 11, 5, 103.09858585858586, 'Poor').
 aqi('Seoul', 7, 27, 137.41758793969848, 'Poor').
-aqi('Mexico City', 9, 18, 96.78282828282828, 'Moderate').
+aqi('Mexico City', 9, 18, 96.78282828282829, 'Moderate').
 aqi('Madrid', 4, 11, 177.26069546891466, 'Unhealthy').
 aqi('Johannesburg', 8, 25, 84.2274678111588, 'Moderate').
 aqi('Tokyo', 2, 28, 126.31256281407036, 'Poor').
@@ -25016,11 +25016,11 @@ aqi('Seoul', 9, 18, 120.46141414141414, 'Poor').
 aqi('Beijing', 12, 14, 177.87513171759747, 'Unhealthy').
 aqi('Berlin', 11, 11, 179.4086406743941, 'Unhealthy').
 aqi('New York', 9, 25, 148.891959798995, 'Poor').
-aqi('Los Angeles', 6, 9, 197.61970495258169, 'Unhealthy').
+aqi('Los Angeles', 6, 9, 197.61970495258166, 'Unhealthy').
 aqi('London', 8, 27, 101.86616161616162, 'Poor').
 aqi('Moscow', 8, 27, 167.99768177028452, 'Unhealthy').
 aqi('Seoul', 6, 26, 60.71587982832618, 'Moderate').
-aqi('Istanbul', 1, 2, 190.6492096944152, 'Unhealthy').
+aqi('Istanbul', 1, 2, 190.64920969441516, 'Unhealthy').
 aqi('Toronto', 8, 8, 166.48482613277133, 'Unhealthy').
 aqi('Cairo', 12, 8, 188.5167544783983, 'Unhealthy').
 aqi('Istanbul', 11, 26, 168.46754478398313, 'Unhealthy').
@@ -25029,8 +25029,8 @@ aqi('Sydney', 5, 8, 199.15837723919915, 'Unhealthy').
 aqi('Madrid', 10, 6, 167.38324552160168, 'Unhealthy').
 aqi('Bangkok', 11, 14, 176.81148577449946, 'Unhealthy').
 aqi('Sydney', 5, 6, 153.11696522655427, 'Unhealthy').
-aqi('Berlin', 11, 1, 184.200210748156, 'Unhealthy').
-aqi('Seoul', 9, 28, 105.44959595959595, 'Poor').
+aqi('Berlin', 11, 1, 184.20021074815594, 'Unhealthy').
+aqi('Seoul', 9, 28, 105.44959595959597, 'Poor').
 aqi('Tokyo', 1, 17, 110.39909090909092, 'Poor').
 aqi('Mexico City', 10, 23, 191.604425711275, 'Unhealthy').
 aqi('Tokyo', 10, 19, 163.1596417281349, 'Unhealthy').
@@ -25041,40 +25041,40 @@ aqi('Johannesburg', 4, 1, 158.64689146469968, 'Unhealthy').
 aqi('Los Angeles', 12, 1, 93.6068669527897, 'Moderate').
 aqi('Istanbul', 8, 26, 95.45751072961374, 'Moderate').
 aqi('Seoul', 4, 17, 92.00858369098714, 'Moderate').
-aqi('Cairo', 5, 24, 195.7247629083245, 'Unhealthy').
+aqi('Cairo', 5, 24, 195.72476290832455, 'Unhealthy').
 aqi('Mexico City', 5, 3, 99.96804347826088, 'Moderate').
 aqi('Seoul', 4, 8, 136.7281407035176, 'Poor').
 aqi('Mumbai', 12, 27, 163.5159114857745, 'Unhealthy').
 aqi('Mumbai', 4, 16, 152.69873551106429, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 17, 195.32718651211803, 'Unhealthy').
-aqi('Tokyo', 11, 18, 184.0711275026344, 'Unhealthy').
+aqi('Tokyo', 11, 18, 184.07112750263434, 'Unhealthy').
 aqi('Mumbai', 12, 4, 169.85648050579556, 'Unhealthy').
 aqi('Berlin', 10, 11, 185.9299262381454, 'Unhealthy').
-aqi('Dubai', 11, 19, 184.3292939936776, 'Unhealthy').
+aqi('Dubai', 11, 19, 184.32929399367754, 'Unhealthy').
 aqi('London', 2, 27, 94.2239393939394, 'Moderate').
 aqi('Bangkok', 5, 23, 105.92969696969698, 'Poor').
 aqi('Istanbul', 2, 7, 174.46217070600633, 'Unhealthy').
 aqi('Mumbai', 3, 6, 177.91127502634353, 'Unhealthy').
 aqi('Sydney', 4, 22, 114.83819095477386, 'Poor').
-aqi('Johannesburg', 2, 13, 196.6076923076924, 'Unhealthy').
+aqi('Johannesburg', 2, 13, 196.60769230769233, 'Unhealthy').
 aqi('Paris', 7, 3, 65.23130434782608, 'Moderate').
 aqi('Madrid', 12, 12, 146.74974874371858, 'Poor').
 aqi('Seoul', 5, 3, 110.75545454545455, 'Poor').
 aqi('Beijing', 9, 24, 142.90854271356784, 'Poor').
 aqi('London', 8, 11, 182.9300316122234, 'Unhealthy').
-aqi('Paris', 4, 5, 93.47021739130436, 'Moderate').
-aqi('Toronto', 2, 1, 185.036670179136, 'Unhealthy').
-aqi('Cairo', 3, 1, 192.79199157007372, 'Unhealthy').
+aqi('Paris', 4, 5, 93.47021739130435, 'Moderate').
+aqi('Toronto', 2, 1, 185.03667017913594, 'Unhealthy').
+aqi('Cairo', 3, 1, 192.79199157007378, 'Unhealthy').
 aqi('Tokyo', 7, 10, 58.80214592274678, 'Moderate').
 aqi('Beijing', 11, 8, 182.0832455216017, 'Unhealthy').
-aqi('Seoul', 5, 24, 199.3287671232877, 'Unhealthy').
+aqi('Seoul', 5, 24, 199.32876712328766, 'Unhealthy').
 aqi('London', 8, 24, 93.5, 'Moderate').
-aqi('Cairo', 6, 15, 98.95565656565655, 'Moderate').
+aqi('Cairo', 6, 15, 98.95565656565657, 'Moderate').
 aqi('Moscow', 3, 4, 156.77776606954689, 'Unhealthy').
-aqi('Mumbai', 10, 17, 118.7286432160804, 'Poor').
-aqi('Mumbai', 1, 18, 116.143216080402, 'Poor').
+aqi('Mumbai', 10, 17, 118.72864321608041, 'Poor').
+aqi('Mumbai', 1, 18, 116.14321608040201, 'Poor').
 aqi('Paris', 1, 28, 157.6400421496312, 'Unhealthy').
-aqi('Dubai', 10, 19, 93.4175965665236, 'Moderate').
+aqi('Dubai', 10, 19, 93.41759656652361, 'Moderate').
 aqi('Toronto', 5, 13, 185.7337197049526, 'Unhealthy').
 aqi('Johannesburg', 2, 5, 97.61929292929293, 'Moderate').
 aqi('Tokyo', 7, 3, 167.26965226554267, 'Unhealthy').
@@ -25082,22 +25082,22 @@ aqi('Mumbai', 8, 12, 163.77924130663857, 'Unhealthy').
 aqi('Dubai', 2, 20, 94.35757575757576, 'Moderate').
 aqi('Istanbul', 4, 28, 155.43013698630136, 'Unhealthy').
 aqi('Cairo', 12, 27, 130.1291457286432, 'Poor').
-aqi('Rio de Janeiro', 12, 20, 165.23013698630135, 'Unhealthy').
+aqi('Rio de Janeiro', 12, 20, 165.23013698630137, 'Unhealthy').
 aqi('Beijing', 9, 24, 199.55079030558483, 'Unhealthy').
-aqi('Seoul', 7, 6, 103.67767676767676, 'Poor').
+aqi('Seoul', 7, 6, 103.67767676767677, 'Poor').
 aqi('Sydney', 9, 15, 197.32023182297155, 'Unhealthy').
-aqi('Sydney', 5, 23, 198.27028451001053, 'Unhealthy').
+aqi('Sydney', 5, 23, 198.27028451001055, 'Unhealthy').
 aqi('Istanbul', 5, 19, 166.13888303477344, 'Unhealthy').
-aqi('Cairo', 4, 24, 196.2565858798736, 'Unhealthy').
+aqi('Cairo', 4, 24, 196.25658587987357, 'Unhealthy').
 aqi('Seoul', 8, 10, 182.64604847207588, 'Unhealthy').
-aqi('Mumbai', 8, 23, 106.95879396984924, 'Poor').
+aqi('Mumbai', 8, 23, 106.95879396984925, 'Poor').
 aqi('Tokyo', 8, 9, 197.8004214963119, 'Unhealthy').
 aqi('Paris', 2, 8, 152.17207586933614, 'Unhealthy').
 aqi('Tokyo', 3, 21, 177.99905163329822, 'Unhealthy').
 aqi('Sydney', 11, 21, 157.13403582718652, 'Unhealthy').
 aqi('Bangkok', 8, 28, 94.78454935622318, 'Moderate').
-aqi('Mumbai', 4, 17, 191.80063224446783, 'Unhealthy').
-aqi('New York', 9, 16, 141.9236180904523, 'Poor').
+aqi('Mumbai', 4, 17, 191.80063224446786, 'Unhealthy').
+aqi('New York', 9, 16, 141.92361809045227, 'Poor').
 aqi('Madrid', 4, 13, 153.82434141201264, 'Unhealthy').
 aqi('Johannesburg', 10, 19, 145.764824120603, 'Poor').
 aqi('Sydney', 5, 14, 157.87239199157008, 'Unhealthy').
@@ -25116,7 +25116,7 @@ aqi('New York', 9, 6, 171.98377239199158, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 25, 163.38166491043205, 'Unhealthy').
 aqi('Dubai', 10, 9, 178.8200210748156, 'Unhealthy').
 aqi('London', 9, 26, 160.66059009483666, 'Unhealthy').
-aqi('Seoul', 3, 26, 187.76807165437305, 'Unhealthy').
+aqi('Seoul', 3, 26, 187.76807165437302, 'Unhealthy').
 aqi('Tokyo', 1, 13, 139.70753768844222, 'Poor').
 aqi('Los Angeles', 11, 20, 90.5, 'Moderate').
 aqi('New York', 5, 21, 177.43108535300317, 'Unhealthy').
@@ -25126,13 +25126,13 @@ aqi('Moscow', 5, 1, 144.11507537688442, 'Poor').
 aqi('Moscow', 9, 19, 156.22528977871443, 'Unhealthy').
 aqi('Istanbul', 10, 25, 154.41296101159114, 'Unhealthy').
 aqi('London', 4, 15, 161.39894625922022, 'Unhealthy').
-aqi('Sydney', 2, 3, 198.9311907270812, 'Unhealthy').
+aqi('Sydney', 2, 3, 198.93119072708114, 'Unhealthy').
 aqi('Istanbul', 11, 4, 62.60858369098713, 'Moderate').
-aqi('Mumbai', 4, 16, 115.62613065326632, 'Poor').
+aqi('Mumbai', 4, 16, 115.62613065326633, 'Poor').
 aqi('Toronto', 7, 6, 89.506008583691, 'Moderate').
 aqi('Berlin', 6, 6, 103.62818181818182, 'Poor').
 aqi('Istanbul', 7, 28, 74.21716738197425, 'Moderate').
-aqi('Moscow', 8, 1, 181.009272918862, 'Unhealthy').
+aqi('Moscow', 8, 1, 181.00927291886197, 'Unhealthy').
 aqi('New York', 7, 12, 67.15515151515152, 'Moderate').
 aqi('Bangkok', 1, 10, 171.2763962065332, 'Unhealthy').
 aqi('Seoul', 6, 9, 164.87386722866177, 'Unhealthy').
@@ -25142,27 +25142,27 @@ aqi('Istanbul', 11, 14, 107.9929648241206, 'Poor').
 aqi('Beijing', 9, 13, 143.7211055276382, 'Poor').
 aqi('Mumbai', 7, 23, 167.33161222339305, 'Unhealthy').
 aqi('Dubai', 2, 3, 123.19848484848484, 'Poor').
-aqi('Madrid', 4, 17, 107.30351758793972, 'Poor').
+aqi('Madrid', 4, 17, 107.30351758793971, 'Poor').
 aqi('Seoul', 10, 22, 154.8621707060063, 'Unhealthy').
-aqi('Istanbul', 9, 11, 104.7418181818182, 'Poor').
+aqi('Istanbul', 9, 11, 104.74181818181819, 'Poor').
 aqi('Madrid', 1, 3, 186.80769230769232, 'Unhealthy').
 aqi('Toronto', 7, 8, 176.9405690200211, 'Unhealthy').
 aqi('Dubai', 6, 14, 181.88703898840885, 'Unhealthy').
-aqi('Mexico City', 8, 4, 117.05427135678391, 'Poor').
+aqi('Mexico City', 8, 4, 117.05427135678393, 'Poor').
 aqi('Berlin', 4, 21, 152.38893572181243, 'Unhealthy').
 aqi('Istanbul', 10, 19, 165.92202318229715, 'Unhealthy').
 aqi('Madrid', 8, 16, 165.56575342465754, 'Unhealthy').
-aqi('Cairo', 8, 24, 91.2758695652174, 'Moderate').
-aqi('Johannesburg', 10, 28, 115.94623115577888, 'Poor').
+aqi('Cairo', 8, 24, 91.27586956521739, 'Moderate').
+aqi('Johannesburg', 10, 28, 115.94623115577889, 'Poor').
 aqi('Berlin', 8, 15, 175.0559536354057, 'Unhealthy').
 aqi('Cairo', 3, 11, 141.97286432160803, 'Poor').
-aqi('Toronto', 8, 20, 107.48878787878787, 'Poor').
+aqi('Toronto', 8, 20, 107.48878787878789, 'Poor').
 aqi('Seoul', 3, 25, 171.57070600632244, 'Unhealthy').
 aqi('Tokyo', 6, 19, 188.2017913593256, 'Unhealthy').
 aqi('Berlin', 10, 9, 104.04137931034482, 'Poor').
 aqi('Johannesburg', 1, 25, 172.73761854583773, 'Unhealthy').
-aqi('Sydney', 7, 21, 190.95900948366705, 'Unhealthy').
-aqi('Berlin', 12, 10, 185.2018967334036, 'Unhealthy').
+aqi('Sydney', 7, 21, 190.95900948366702, 'Unhealthy').
+aqi('Berlin', 12, 10, 185.20189673340357, 'Unhealthy').
 aqi('Bangkok', 1, 3, 155.08935721812435, 'Unhealthy').
 aqi('Beijing', 7, 17, 113.0899497487437, 'Poor').
 aqi('Paris', 5, 10, 163.47976817702846, 'Unhealthy').
@@ -25171,29 +25171,29 @@ aqi('Moscow', 12, 16, 153.9017913593256, 'Unhealthy').
 aqi('Paris', 11, 15, 179.5377239199157, 'Unhealthy').
 aqi('Mumbai', 8, 11, 159.0341412012645, 'Unhealthy').
 aqi('Bangkok', 12, 5, 163.63983140147525, 'Unhealthy').
-aqi('Los Angeles', 12, 2, 190.9693361433088, 'Unhealthy').
+aqi('Los Angeles', 12, 2, 190.96933614330874, 'Unhealthy').
 aqi('Madrid', 7, 15, 140.29849246231157, 'Poor').
 aqi('Rio de Janeiro', 3, 20, 193.08113804004216, 'Unhealthy').
 aqi('Toronto', 11, 12, 71.27296137339056, 'Moderate').
 aqi('Moscow', 3, 3, 176.97671232876712, 'Unhealthy').
 aqi('Toronto', 5, 19, 169.78935721812434, 'Unhealthy').
-aqi('Moscow', 4, 24, 103.86575757575756, 'Poor').
+aqi('Moscow', 4, 24, 103.86575757575757, 'Poor').
 aqi('Tokyo', 2, 17, 160.28883034773446, 'Unhealthy').
 aqi('Bangkok', 3, 25, 190.2877766069547, 'Unhealthy').
 aqi('Dubai', 9, 17, 143.59798994974875, 'Poor').
 aqi('Madrid', 3, 5, 167.37808219178083, 'Unhealthy').
 aqi('Paris', 2, 8, 191.0622760800843, 'Unhealthy').
-aqi('Istanbul', 8, 23, 180.4774499473129, 'Unhealthy').
+aqi('Istanbul', 8, 23, 180.47744994731295, 'Unhealthy').
 aqi('Paris', 11, 13, 191.0054794520548, 'Unhealthy').
 aqi('Beijing', 3, 4, 181.42233930453108, 'Unhealthy').
 aqi('Istanbul', 9, 14, 167.56396206533194, 'Unhealthy').
 aqi('Mumbai', 10, 13, 187.62349841938885, 'Unhealthy').
 aqi('Tokyo', 11, 17, 138.64874371859298, 'Poor').
 aqi('London', 12, 25, 192.09494204425712, 'Unhealthy').
-aqi('Moscow', 3, 15, 94.1, 'Moderate').
+aqi('Moscow', 3, 15, 94.10000000000001, 'Moderate').
 aqi('Istanbul', 12, 17, 175.56712328767122, 'Unhealthy').
 aqi('Moscow', 7, 2, 77.77124463519314, 'Moderate').
-aqi('Madrid', 2, 2, 117.44824120603016, 'Poor').
+aqi('Madrid', 2, 2, 117.44824120603015, 'Poor').
 aqi('Johannesburg', 5, 18, 164.13551106427818, 'Unhealthy').
 aqi('Bangkok', 4, 2, 199.29262381454163, 'Unhealthy').
 aqi('Sydney', 7, 12, 87.65536480686696, 'Moderate').
@@ -25201,31 +25201,31 @@ aqi('Mexico City', 2, 4, 172.63435194942045, 'Unhealthy').
 aqi('Bangkok', 6, 27, 83.64191919191919, 'Moderate').
 aqi('Sydney', 11, 5, 169.09747102212856, 'Unhealthy').
 aqi('Dubai', 1, 20, 193.8659641728135, 'Unhealthy').
-aqi('London', 6, 25, 188.6148577449948, 'Unhealthy').
+aqi('London', 6, 25, 188.61485774499474, 'Unhealthy').
 aqi('Bangkok', 11, 12, 90.94242424242424, 'Moderate').
 aqi('Istanbul', 11, 24, 183.4463645943098, 'Unhealthy').
-aqi('Bangkok', 3, 4, 120.14464646464648, 'Poor').
+aqi('Bangkok', 3, 4, 120.14464646464647, 'Poor').
 aqi('Seoul', 6, 22, 164.96164383561643, 'Unhealthy').
 aqi('Beijing', 7, 13, 179.0213909378293, 'Unhealthy').
-aqi('New York', 8, 1, 191.81612223393049, 'Unhealthy').
-aqi('Moscow', 11, 10, 186.21390937829293, 'Unhealthy').
+aqi('New York', 8, 1, 191.81612223393046, 'Unhealthy').
+aqi('Moscow', 11, 10, 186.21390937829295, 'Unhealthy').
 aqi('Seoul', 3, 23, 115.77386934673368, 'Poor').
 aqi('Mumbai', 9, 7, 158.87407797681772, 'Unhealthy').
-aqi('Seoul', 9, 6, 109.16666666666669, 'Poor').
+aqi('Seoul', 9, 6, 109.16666666666667, 'Poor').
 aqi('Tokyo', 6, 24, 102.79171717171718, 'Poor').
 aqi('Mumbai', 12, 8, 81.33050505050505, 'Moderate').
 aqi('Tokyo', 2, 9, 162.48324552160167, 'Unhealthy').
 aqi('Cairo', 12, 25, 161.7913593256059, 'Unhealthy').
-aqi('London', 8, 5, 121.76313131313132, 'Poor').
+aqi('London', 8, 5, 121.76313131313131, 'Poor').
 aqi('Dubai', 5, 11, 105.456783919598, 'Poor').
 aqi('Berlin', 4, 15, 195.51822971549, 'Unhealthy').
-aqi('Tokyo', 3, 11, 90.51676767676769, 'Moderate').
+aqi('Tokyo', 3, 11, 90.51676767676767, 'Moderate').
 aqi('Madrid', 3, 13, 181.8095890410959, 'Unhealthy').
 aqi('Los Angeles', 12, 5, 189.50295047418336, 'Unhealthy').
-aqi('London', 10, 6, 190.2619599578504, 'Unhealthy').
+aqi('London', 10, 6, 190.26195995785037, 'Unhealthy').
 aqi('Paris', 11, 21, 169.31949420442572, 'Unhealthy').
 aqi('Sydney', 3, 16, 90.47339055793992, 'Moderate').
-aqi('Rio de Janeiro', 8, 11, 193.4219178082192, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 11, 193.42191780821918, 'Unhealthy').
 aqi('Mexico City', 9, 16, 89.3, 'Moderate').
 aqi('Mumbai', 11, 23, 99.17982832618026, 'Moderate').
 aqi('Mumbai', 10, 6, 178.95943097997892, 'Unhealthy').
@@ -25237,14 +25237,14 @@ aqi('Rio de Janeiro', 8, 1, 89.10000000000001, 'Moderate').
 aqi('Sydney', 8, 5, 198.85374077976817, 'Unhealthy').
 aqi('Sydney', 4, 20, 172.34520547945206, 'Unhealthy').
 aqi('Berlin', 7, 23, 167.07344573234985, 'Unhealthy').
-aqi('Cairo', 9, 4, 103.40545454545456, 'Poor').
+aqi('Cairo', 9, 4, 103.40545454545455, 'Poor').
 aqi('Berlin', 3, 28, 93.6, 'Moderate').
 aqi('Dubai', 10, 2, 164.5072708113804, 'Unhealthy').
 aqi('Mexico City', 6, 10, 111.63718592964824, 'Poor').
-aqi('New York', 11, 8, 117.05427135678391, 'Poor').
+aqi('New York', 11, 8, 117.05427135678393, 'Poor').
 aqi('Sydney', 10, 10, 95.2880808080808, 'Moderate').
-aqi('Istanbul', 1, 5, 193.2412012644889, 'Unhealthy').
-aqi('Beijing', 1, 6, 96.81747474747476, 'Moderate').
+aqi('Istanbul', 1, 5, 193.24120126448895, 'Unhealthy').
+aqi('Beijing', 1, 6, 96.81747474747475, 'Moderate').
 aqi('Toronto', 2, 3, 83.1469696969697, 'Moderate').
 aqi('Cairo', 4, 9, 173.32107481559535, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 19, 72.6, 'Moderate').
@@ -25253,9 +25253,9 @@ aqi('Istanbul', 11, 10, 152.15658587987355, 'Unhealthy').
 aqi('Moscow', 3, 13, 158.93087460484722, 'Unhealthy').
 aqi('Mexico City', 8, 24, 162.42128556375133, 'Unhealthy').
 aqi('Istanbul', 6, 14, 157.33540569020022, 'Unhealthy').
-aqi('Sydney', 3, 25, 127.6422110552764, 'Poor').
+aqi('Sydney', 3, 25, 127.64221105527639, 'Poor').
 aqi('Madrid', 7, 19, 179.87850368809274, 'Unhealthy').
-aqi('Mumbai', 3, 11, 114.59626262626264, 'Poor').
+aqi('Mumbai', 3, 11, 114.59626262626263, 'Poor').
 aqi('Berlin', 11, 28, 87.35586956521739, 'Moderate').
 aqi('Berlin', 6, 12, 164.5950474183351, 'Unhealthy').
 aqi('Istanbul', 5, 12, 108.80552763819097, 'Poor').
@@ -25269,8 +25269,8 @@ aqi('Beijing', 2, 8, 172.5827186512118, 'Unhealthy').
 aqi('Moscow', 6, 12, 65.13461538461539, 'Moderate').
 aqi('New York', 9, 2, 158.55395152792414, 'Unhealthy').
 aqi('Bangkok', 8, 14, 157.04109589041096, 'Unhealthy').
-aqi('Los Angeles', 2, 3, 99.41115879828324, 'Moderate').
-aqi('Rio de Janeiro', 1, 6, 181.3965226554268, 'Unhealthy').
+aqi('Los Angeles', 2, 3, 99.41115879828325, 'Moderate').
+aqi('Rio de Janeiro', 1, 6, 181.39652265542676, 'Unhealthy').
 aqi('Dubai', 9, 15, 87.33424242424243, 'Moderate').
 aqi('Moscow', 11, 7, 165.02876712328768, 'Unhealthy').
 aqi('Bangkok', 7, 8, 63.45292929292929, 'Moderate').
@@ -25282,7 +25282,7 @@ aqi('Johannesburg', 1, 22, 198.4768177028451, 'Unhealthy').
 aqi('Dubai', 10, 22, 197.43898840885143, 'Unhealthy').
 aqi('Seoul', 8, 10, 153.47839831401475, 'Unhealthy').
 aqi('Sydney', 12, 16, 176.9250790305585, 'Unhealthy').
-aqi('Bangkok', 12, 16, 195.254899894626, 'Unhealthy').
+aqi('Bangkok', 12, 16, 195.25489989462594, 'Unhealthy').
 aqi('Sydney', 9, 14, 89.6159595959596, 'Moderate').
 aqi('Johannesburg', 4, 11, 171.4054794520548, 'Unhealthy').
 aqi('Tokyo', 4, 2, 156.63835616438357, 'Unhealthy').
@@ -25291,23 +25291,23 @@ aqi('New York', 2, 2, 75.52103004291845, 'Moderate').
 aqi('Tokyo', 2, 19, 89.69999999999999, 'Moderate').
 aqi('Sydney', 12, 7, 179.63066385669126, 'Unhealthy').
 aqi('Mexico City', 6, 8, 182.19167544783983, 'Unhealthy').
-aqi('Dubai', 11, 9, 138.3778894472362, 'Poor').
+aqi('Dubai', 11, 9, 138.37788944723619, 'Poor').
 aqi('Istanbul', 1, 19, 194.3100105374078, 'Unhealthy').
 aqi('Istanbul', 10, 12, 99.0, 'Moderate').
-aqi('Rio de Janeiro', 1, 15, 193.0656480505796, 'Unhealthy').
+aqi('Rio de Janeiro', 1, 15, 193.06564805057957, 'Unhealthy').
 aqi('Cairo', 12, 21, 145.98643216080404, 'Poor').
 aqi('Los Angeles', 2, 4, 171.12149631190726, 'Unhealthy').
-aqi('Mumbai', 4, 6, 166.82560590094835, 'Unhealthy').
+aqi('Mumbai', 4, 6, 166.82560590094837, 'Unhealthy').
 aqi('Paris', 5, 11, 90.445, 'Moderate').
 aqi('Dubai', 5, 17, 182.5427818756586, 'Unhealthy').
 aqi('Seoul', 4, 1, 158.06343519494206, 'Unhealthy').
 aqi('Beijing', 10, 3, 198.177344573235, 'Unhealthy').
 aqi('Los Angeles', 11, 4, 189.50295047418336, 'Unhealthy').
 aqi('Bangkok', 2, 22, 97.11888412017169, 'Moderate').
-aqi('Mumbai', 11, 13, 113.73015075376884, 'Poor').
+aqi('Mumbai', 11, 13, 113.73015075376885, 'Poor').
 aqi('Moscow', 5, 1, 155.57471022128556, 'Unhealthy').
 aqi('Istanbul', 1, 23, 196.2359325605901, 'Unhealthy').
-aqi('Mumbai', 1, 14, 154.6608008429926, 'Unhealthy').
+aqi('Mumbai', 1, 14, 154.66080084299261, 'Unhealthy').
 aqi('Paris', 1, 9, 79.32746781115881, 'Moderate').
 aqi('Istanbul', 11, 11, 119.10525252525252, 'Poor').
 aqi('Mexico City', 4, 28, 166.7946259220232, 'Unhealthy').
@@ -25322,50 +25322,50 @@ aqi('Sydney', 4, 15, 174.56543730242362, 'Unhealthy').
 aqi('Paris', 9, 18, 175.0249736564805, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 18, 154.87249736564806, 'Unhealthy').
 aqi('Berlin', 5, 17, 142.85929648241205, 'Poor').
-aqi('Bangkok', 10, 24, 114.37035175879396, 'Poor').
+aqi('Bangkok', 10, 24, 114.37035175879397, 'Poor').
 aqi('Johannesburg', 7, 3, 167.46069546891465, 'Unhealthy').
 aqi('Berlin', 11, 15, 93.60525252525252, 'Moderate').
 aqi('Tokyo', 11, 1, 125.278391959799, 'Poor').
 aqi('Mumbai', 6, 12, 103.37575757575758, 'Poor').
 aqi('Berlin', 3, 24, 181.38619599578504, 'Unhealthy').
-aqi('Madrid', 11, 20, 185.1037934668072, 'Unhealthy').
+aqi('Madrid', 11, 20, 185.10379346680716, 'Unhealthy').
 aqi('Bangkok', 7, 5, 165.00295047418336, 'Unhealthy').
 aqi('Tokyo', 9, 22, 88.4, 'Moderate').
 aqi('Los Angeles', 4, 8, 112.43828282828284, 'Poor').
 aqi('Dubai', 11, 25, 173.95100105374078, 'Unhealthy').
 aqi('Bangkok', 12, 24, 162.79304531085353, 'Unhealthy').
 aqi('Mumbai', 9, 10, 198.49747102212856, 'Unhealthy').
-aqi('Seoul', 6, 10, 99.8, 'Moderate').
-aqi('Tokyo', 8, 21, 186.5030558482613, 'Unhealthy').
+aqi('Seoul', 6, 10, 99.80000000000001, 'Moderate').
+aqi('Tokyo', 8, 21, 186.50305584826134, 'Unhealthy').
 aqi('Berlin', 3, 27, 160.9858798735511, 'Unhealthy').
 aqi('Dubai', 9, 15, 172.91317175974712, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 28, 86.07811158798285, 'Moderate').
-aqi('Istanbul', 3, 8, 109.72101010101012, 'Poor').
+aqi('Istanbul', 3, 8, 109.72101010101011, 'Poor').
 aqi('Tokyo', 9, 2, 172.82023182297155, 'Unhealthy').
 aqi('Tokyo', 7, 20, 171.42613277133825, 'Unhealthy').
 aqi('Sydney', 11, 9, 121.43718592964824, 'Poor').
-aqi('Seoul', 1, 4, 121.25828282828284, 'Poor').
+aqi('Seoul', 1, 4, 121.25828282828283, 'Poor').
 aqi('Dubai', 3, 24, 195.1, 'Unhealthy').
 aqi('Tokyo', 3, 24, 161.93076923076924, 'Unhealthy').
-aqi('Seoul', 6, 21, 194.0053740779768, 'Unhealthy').
+aqi('Seoul', 6, 21, 194.00537407797682, 'Unhealthy').
 aqi('Bangkok', 5, 23, 118.85777777777778, 'Poor').
-aqi('Berlin', 11, 25, 103.45, 'Poor').
+aqi('Berlin', 11, 25, 103.44999999999999, 'Poor').
 aqi('Mumbai', 9, 2, 196.922655426765, 'Unhealthy').
 aqi('Berlin', 9, 15, 179.75974710221286, 'Unhealthy').
 aqi('Los Angeles', 7, 13, 165.10105374077978, 'Unhealthy').
-aqi('London', 10, 20, 189.9521601685985, 'Unhealthy').
-aqi('Seoul', 1, 11, 178.272708113804, 'Unhealthy').
+aqi('London', 10, 20, 189.95216016859854, 'Unhealthy').
+aqi('Seoul', 1, 11, 178.27270811380401, 'Unhealthy').
 aqi('Sydney', 7, 6, 154.1754478398314, 'Unhealthy').
-aqi('Moscow', 7, 21, 199.4165437302424, 'Unhealthy').
+aqi('Moscow', 7, 21, 199.41654373024238, 'Unhealthy').
 aqi('Sydney', 4, 12, 186.93161222339305, 'Unhealthy').
-aqi('Dubai', 10, 16, 195.1103266596417, 'Unhealthy').
+aqi('Dubai', 10, 16, 195.11032665964174, 'Unhealthy').
 aqi('Seoul', 12, 26, 93.77510729613734, 'Moderate').
 aqi('Tokyo', 10, 19, 45.45454545454545, 'Good').
 aqi('Berlin', 6, 18, 169.64994731296102, 'Unhealthy').
-aqi('Bangkok', 3, 25, 123.19353535353537, 'Poor').
+aqi('Bangkok', 3, 25, 123.19353535353535, 'Poor').
 aqi('Paris', 2, 17, 194.4804004214963, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 6, 197.37702845100105, 'Unhealthy').
-aqi('Mexico City', 12, 22, 180.2399367755532, 'Unhealthy').
+aqi('Mexico City', 12, 22, 180.23993677555322, 'Unhealthy').
 aqi('Tokyo', 1, 25, 76.63562231759657, 'Moderate').
 aqi('Madrid', 8, 1, 190.9177028451001, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 3, 78.66272727272727, 'Moderate').
@@ -25375,7 +25375,7 @@ aqi('Mexico City', 3, 22, 153.7159114857745, 'Unhealthy').
 aqi('Johannesburg', 9, 20, 173.15584826132772, 'Unhealthy').
 aqi('Johannesburg', 6, 26, 192.23435194942044, 'Unhealthy').
 aqi('London', 12, 21, 76.8, 'Moderate').
-aqi('Mumbai', 12, 20, 189.7766069546892, 'Unhealthy').
+aqi('Mumbai', 12, 20, 189.77660695468916, 'Unhealthy').
 aqi('Dubai', 11, 16, 197.54225500526871, 'Unhealthy').
 aqi('Beijing', 3, 27, 79.55363636363637, 'Moderate').
 aqi('Mumbai', 12, 25, 164.3781875658588, 'Unhealthy').
@@ -25384,9 +25384,9 @@ aqi('Paris', 2, 23, 157.4799789251844, 'Unhealthy').
 aqi('London', 10, 25, 133.40402010050252, 'Poor').
 aqi('Bangkok', 10, 13, 110.61191919191918, 'Poor').
 aqi('Los Angeles', 10, 13, 73.49050505050505, 'Moderate').
-aqi('Mumbai', 10, 22, 193.4219178082192, 'Unhealthy').
+aqi('Mumbai', 10, 22, 193.42191780821918, 'Unhealthy').
 aqi('Madrid', 10, 23, 134.6105527638191, 'Poor').
-aqi('Los Angeles', 10, 21, 187.73192834562693, 'Unhealthy').
+aqi('Los Angeles', 10, 21, 187.73192834562698, 'Unhealthy').
 aqi('Tokyo', 10, 7, 169.5518440463646, 'Unhealthy').
 aqi('Beijing', 6, 5, 179.62033719704954, 'Unhealthy').
 aqi('Johannesburg', 3, 22, 157.56259220231823, 'Unhealthy').
@@ -25396,7 +25396,7 @@ aqi('Sydney', 5, 25, 155.23393045310854, 'Unhealthy').
 aqi('Beijing', 8, 5, 198.64720758693363, 'Unhealthy').
 aqi('Tokyo', 11, 26, 97.4, 'Moderate').
 aqi('New York', 5, 8, 92.70257510729614, 'Moderate').
-aqi('Seoul', 8, 28, 120.73858585858584, 'Poor').
+aqi('Seoul', 8, 28, 120.73858585858585, 'Poor').
 aqi('Istanbul', 1, 10, 199.6437302423604, 'Unhealthy').
 aqi('Toronto', 3, 7, 152.25468914646996, 'Unhealthy').
 aqi('Mumbai', 3, 16, 157.40769230769232, 'Unhealthy').
@@ -25405,22 +25405,22 @@ aqi('Madrid', 6, 12, 154.53171759747102, 'Unhealthy').
 aqi('Toronto', 6, 28, 128.11005025125627, 'Poor').
 aqi('Rio de Janeiro', 8, 2, 165.91169652265543, 'Unhealthy').
 aqi('Tokyo', 5, 27, 186.7508956796628, 'Unhealthy').
-aqi('Dubai', 4, 21, 180.591043203372, 'Unhealthy').
+aqi('Dubai', 4, 21, 180.59104320337198, 'Unhealthy').
 aqi('Cairo', 6, 8, 199.48883034773445, 'Unhealthy').
 aqi('Bangkok', 10, 13, 153.52486828240254, 'Unhealthy').
 aqi('Cairo', 1, 4, 185.1709167544784, 'Unhealthy').
 aqi('Tokyo', 1, 11, 176.42939936775554, 'Unhealthy').
-aqi('Seoul', 2, 26, 102.08341708542712, 'Poor').
+aqi('Seoul', 2, 26, 102.08341708542713, 'Poor').
 aqi('Mexico City', 4, 14, 107.90454545454546, 'Poor').
 aqi('Dubai', 11, 18, 124.29346733668342, 'Poor').
 aqi('Tokyo', 4, 23, 190.5872497365648, 'Unhealthy').
-aqi('Cairo', 1, 2, 197.9811380400421, 'Unhealthy').
+aqi('Cairo', 1, 2, 197.98113804004214, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 9, 125.056783919598, 'Poor').
 aqi('Mexico City', 11, 17, 172.96480505795574, 'Unhealthy').
 aqi('Sydney', 6, 21, 132.78844221105527, 'Poor').
 aqi('Istanbul', 6, 8, 128.89798994974873, 'Poor').
 aqi('Cairo', 4, 24, 183.48250790305585, 'Unhealthy').
-aqi('Berlin', 8, 2, 105.57989949748745, 'Poor').
+aqi('Berlin', 8, 2, 105.57989949748743, 'Poor').
 aqi('New York', 10, 20, 77.4386956521739, 'Moderate').
 aqi('Moscow', 10, 6, 121.17414141414142, 'Poor').
 aqi('Sydney', 3, 24, 152.5076923076923, 'Unhealthy').
@@ -25428,22 +25428,22 @@ aqi('Madrid', 2, 26, 163.08219178082192, 'Unhealthy').
 aqi('Bangkok', 4, 5, 68.72832618025751, 'Moderate').
 aqi('Los Angeles', 4, 27, 139.85527638190956, 'Poor').
 aqi('Istanbul', 6, 14, 161.37829293993678, 'Unhealthy').
-aqi('Johannesburg', 9, 24, 198.1257112750264, 'Unhealthy').
-aqi('New York', 2, 13, 198.1979978925185, 'Unhealthy').
-aqi('Paris', 9, 12, 169.29884088514223, 'Unhealthy').
+aqi('Johannesburg', 9, 24, 198.12571127502633, 'Unhealthy').
+aqi('New York', 2, 13, 198.19799789251846, 'Unhealthy').
+aqi('Paris', 9, 12, 169.29884088514225, 'Unhealthy').
 aqi('Paris', 9, 19, 169.23171759747103, 'Unhealthy').
 aqi('Beijing', 2, 9, 159.12708113804004, 'Unhealthy').
 aqi('Moscow', 9, 28, 124.63819095477388, 'Poor').
 aqi('Seoul', 9, 6, 163.93414120126448, 'Unhealthy').
 aqi('Berlin', 10, 10, 156.3905163329821, 'Unhealthy').
-aqi('London', 11, 5, 195.7402528977872, 'Unhealthy').
+aqi('London', 11, 5, 195.74025289778714, 'Unhealthy').
 aqi('Johannesburg', 3, 7, 167.60010537407797, 'Unhealthy').
 aqi('Beijing', 11, 18, 178.92328767123288, 'Unhealthy').
 aqi('Sydney', 11, 23, 166.2163329820864, 'Unhealthy').
-aqi('Johannesburg', 2, 19, 194.2738672286617, 'Unhealthy').
-aqi('Tokyo', 11, 26, 99.74763948497856, 'Moderate').
-aqi('Sydney', 10, 18, 181.3397260273973, 'Unhealthy').
-aqi('Mexico City', 12, 10, 191.2120126448893, 'Unhealthy').
+aqi('Johannesburg', 2, 19, 194.27386722866174, 'Unhealthy').
+aqi('Tokyo', 11, 26, 99.74763948497855, 'Moderate').
+aqi('Sydney', 10, 18, 181.33972602739726, 'Unhealthy').
+aqi('Mexico City', 12, 10, 191.21201264488934, 'Unhealthy').
 aqi('Moscow', 2, 7, 168.09062170706005, 'Unhealthy').
 aqi('Mexico City', 10, 13, 153.39578503688094, 'Unhealthy').
 aqi('Sydney', 3, 24, 157.80526870389883, 'Unhealthy').
@@ -25456,17 +25456,17 @@ aqi('Mumbai', 8, 9, 169.12328767123287, 'Unhealthy').
 aqi('Paris', 8, 3, 147.8577889447236, 'Poor').
 aqi('Moscow', 3, 21, 157.38703898840885, 'Unhealthy').
 aqi('Seoul', 12, 25, 162.9840885142255, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 14, 186.0693361433088, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 14, 186.06933614330876, 'Unhealthy').
 aqi('Seoul', 8, 26, 163.69146469968388, 'Unhealthy').
 aqi('New York', 4, 24, 189.0072708113804, 'Unhealthy').
-aqi('Toronto', 11, 10, 197.6558482613277, 'Unhealthy').
+aqi('Toronto', 11, 10, 197.65584826132772, 'Unhealthy').
 aqi('Cairo', 5, 16, 83.6, 'Moderate').
 aqi('Sydney', 8, 25, 93.73304721030044, 'Moderate').
 aqi('Bangkok', 4, 11, 84.8793991416309, 'Moderate').
 aqi('Tokyo', 10, 27, 158.83277133825078, 'Unhealthy').
-aqi('Dubai', 10, 8, 93.92231759656651, 'Moderate').
-aqi('Beijing', 3, 10, 190.9073761854584, 'Unhealthy').
-aqi('Seoul', 5, 15, 108.46080402010053, 'Poor').
+aqi('Dubai', 10, 8, 93.92231759656653, 'Moderate').
+aqi('Beijing', 3, 10, 190.90737618545836, 'Unhealthy').
+aqi('Seoul', 5, 15, 108.46080402010051, 'Poor').
 aqi('Mumbai', 7, 28, 162.16828240252897, 'Unhealthy').
 aqi('Mumbai', 12, 11, 110.1105527638191, 'Poor').
 aqi('Moscow', 5, 24, 171.42613277133825, 'Unhealthy').
@@ -25476,56 +25476,56 @@ aqi('Tokyo', 4, 17, 56.76223175965666, 'Moderate').
 aqi('Cairo', 11, 11, 198.15152792413068, 'Unhealthy').
 aqi('Madrid', 4, 19, 199.23066385669125, 'Unhealthy').
 aqi('Mexico City', 8, 7, 196.78840885142256, 'Unhealthy').
-aqi('Tokyo', 9, 14, 192.1672286617492, 'Unhealthy').
+aqi('Tokyo', 9, 14, 192.16722866174922, 'Unhealthy').
 aqi('Tokyo', 1, 4, 197.69715489989463, 'Unhealthy').
 aqi('Istanbul', 5, 14, 173.904531085353, 'Unhealthy').
-aqi('Mumbai', 5, 3, 183.554794520548, 'Unhealthy').
+aqi('Mumbai', 5, 3, 183.55479452054794, 'Unhealthy').
 aqi('Cairo', 4, 25, 157.21664910432034, 'Unhealthy').
-aqi('Mumbai', 3, 13, 124.51507537688444, 'Poor').
+aqi('Mumbai', 3, 13, 124.51507537688443, 'Poor').
 aqi('Berlin', 12, 6, 198.00695468914648, 'Unhealthy').
 aqi('Moscow', 2, 6, 153.1840885142255, 'Unhealthy').
-aqi('Rio de Janeiro', 9, 24, 194.0311907270812, 'Unhealthy').
+aqi('Rio de Janeiro', 9, 24, 194.03119072708114, 'Unhealthy').
 aqi('Los Angeles', 6, 4, 140.76633165829145, 'Poor').
 aqi('London', 7, 17, 157.03593256059008, 'Unhealthy').
-aqi('Dubai', 9, 3, 99.32891304347828, 'Moderate').
+aqi('Dubai', 9, 3, 99.32891304347827, 'Moderate').
 aqi('Dubai', 6, 15, 161.91011591148578, 'Unhealthy').
 aqi('Mexico City', 11, 1, 166.71717597471022, 'Unhealthy').
 aqi('London', 2, 15, 136.03869346733669, 'Poor').
 aqi('Rio de Janeiro', 10, 27, 171.33835616438355, 'Unhealthy').
-aqi('Beijing', 7, 22, 107.75862068965516, 'Poor').
+aqi('Beijing', 7, 22, 107.75862068965517, 'Poor').
 aqi('Moscow', 7, 28, 116.53646464646464, 'Poor').
 aqi('Berlin', 7, 6, 168.6327713382508, 'Unhealthy').
 aqi('Johannesburg', 8, 27, 81.07296137339056, 'Moderate').
 aqi('Seoul', 5, 6, 183.590937829294, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 13, 79.45464646464646, 'Moderate').
-aqi('Sydney', 12, 9, 90.93605150214592, 'Moderate').
+aqi('Sydney', 12, 9, 90.93605150214593, 'Moderate').
 aqi('Tokyo', 4, 27, 173.65152792413068, 'Unhealthy').
 aqi('Sydney', 4, 5, 158.14604847207588, 'Unhealthy').
 aqi('Tokyo', 12, 4, 162.9995785036881, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 8, 155.9154899894626, 'Unhealthy').
-aqi('Istanbul', 11, 9, 194.6662802950474, 'Unhealthy').
+aqi('Istanbul', 11, 9, 194.66628029504741, 'Unhealthy').
 aqi('Beijing', 3, 22, 166.51064278187567, 'Unhealthy').
 aqi('Istanbul', 3, 8, 178.05068493150685, 'Unhealthy').
-aqi('Berlin', 11, 14, 96.19356223175969, 'Moderate').
-aqi('Dubai', 5, 2, 197.1291886195996, 'Unhealthy').
+aqi('Berlin', 11, 14, 96.19356223175967, 'Moderate').
+aqi('Dubai', 5, 2, 197.12918861959957, 'Unhealthy').
 aqi('Dubai', 3, 12, 177.51886195995786, 'Unhealthy').
 aqi('Madrid', 2, 28, 107.5896551724138, 'Poor').
 aqi('Tokyo', 1, 2, 158.33709167544782, 'Unhealthy').
 aqi('Seoul', 2, 21, 111.021608040201, 'Poor').
 aqi('Johannesburg', 6, 16, 151.2994731296101, 'Unhealthy').
-aqi('Toronto', 5, 16, 194.0311907270812, 'Unhealthy').
+aqi('Toronto', 5, 16, 194.03119072708114, 'Unhealthy').
 aqi('Sydney', 11, 17, 88.74892703862662, 'Moderate').
-aqi('Johannesburg', 7, 17, 107.43434343434345, 'Poor').
+aqi('Johannesburg', 7, 17, 107.43434343434343, 'Poor').
 aqi('Tokyo', 7, 20, 183.25015806111696, 'Unhealthy').
 aqi('Paris', 10, 8, 155.87934668071654, 'Unhealthy').
 aqi('Dubai', 8, 8, 151.3717597471022, 'Unhealthy').
-aqi('Johannesburg', 3, 8, 120.62462311557788, 'Poor').
+aqi('Johannesburg', 3, 8, 120.62462311557789, 'Poor').
 aqi('Los Angeles', 12, 23, 106.01383838383838, 'Poor').
 aqi('Madrid', 3, 4, 182.0677555321391, 'Unhealthy').
 aqi('Cairo', 1, 6, 182.96617492096945, 'Unhealthy').
 aqi('Toronto', 9, 24, 172.76859852476292, 'Unhealthy').
 aqi('Beijing', 2, 20, 157.83624868282402, 'Unhealthy').
-aqi('Los Angeles', 2, 26, 116.51256281407036, 'Poor').
+aqi('Los Angeles', 2, 26, 116.51256281407035, 'Poor').
 aqi('Paris', 12, 19, 116.0019191919192, 'Poor').
 aqi('Berlin', 6, 20, 170.1559536354057, 'Unhealthy').
 aqi('Berlin', 3, 25, 199.7418335089568, 'Unhealthy').
@@ -25535,7 +25535,7 @@ aqi('Berlin', 12, 4, 95.68884120171674, 'Moderate').
 aqi('Moscow', 4, 1, 161.89462592202318, 'Unhealthy').
 aqi('Toronto', 11, 8, 168.59662802950476, 'Unhealthy').
 aqi('Mumbai', 6, 21, 121.65879396984926, 'Poor').
-aqi('Moscow', 12, 14, 180.35353003161225, 'Unhealthy').
+aqi('Moscow', 12, 14, 180.35353003161222, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 8, 163.92897787144364, 'Unhealthy').
 aqi('Istanbul', 11, 4, 94.72145922746782, 'Moderate').
 aqi('Mexico City', 6, 21, 165.3127502634352, 'Unhealthy').
@@ -25555,17 +25555,17 @@ aqi('Tokyo', 11, 18, 180.9886195995785, 'Unhealthy').
 aqi('Istanbul', 6, 20, 160.53667017913594, 'Unhealthy').
 aqi('Sydney', 11, 4, 118.9369696969697, 'Poor').
 aqi('Moscow', 1, 4, 91.29717391304348, 'Moderate').
-aqi('Tokyo', 10, 17, 197.6558482613277, 'Unhealthy').
-aqi('Johannesburg', 10, 8, 199.67987355110645, 'Unhealthy').
+aqi('Tokyo', 10, 17, 197.65584826132772, 'Unhealthy').
+aqi('Johannesburg', 10, 8, 199.67987355110643, 'Unhealthy').
 aqi('Bangkok', 12, 24, 170.68777660695469, 'Unhealthy').
 aqi('London', 6, 12, 171.78240252897788, 'Unhealthy').
 aqi('Sydney', 8, 9, 192.4150684931507, 'Unhealthy').
-aqi('Johannesburg', 4, 6, 182.6202318229716, 'Unhealthy').
+aqi('Johannesburg', 4, 6, 182.62023182297156, 'Unhealthy').
 aqi('Berlin', 2, 20, 154.96027397260275, 'Unhealthy').
 aqi('Johannesburg', 3, 12, 188.77492096944152, 'Unhealthy').
 aqi('Sydney', 5, 8, 177.72539515279243, 'Unhealthy').
 aqi('Beijing', 8, 9, 163.82571127502635, 'Unhealthy').
-aqi('New York', 12, 2, 188.1088514225501, 'Unhealthy').
+aqi('New York', 12, 2, 188.10885142255006, 'Unhealthy').
 aqi('Istanbul', 6, 20, 191.6354056902002, 'Unhealthy').
 aqi('Bangkok', 11, 3, 168.60695468914648, 'Unhealthy').
 aqi('Cairo', 7, 9, 102.62838383838384, 'Poor').
@@ -25574,7 +25574,7 @@ aqi('Moscow', 4, 14, 193.618124341412, 'Unhealthy').
 aqi('Madrid', 5, 14, 114.48242424242424, 'Poor').
 aqi('Los Angeles', 4, 12, 156.59704952581666, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 6, 85.08969957081545, 'Moderate').
-aqi('Dubai', 10, 27, 123.33316582914571, 'Poor').
+aqi('Dubai', 10, 27, 123.33316582914573, 'Poor').
 aqi('Cairo', 11, 28, 94.2, 'Moderate').
 aqi('Berlin', 2, 24, 104.35575757575758, 'Poor').
 aqi('Tokyo', 12, 21, 171.8805057955743, 'Unhealthy').
@@ -25582,7 +25582,7 @@ aqi('Rio de Janeiro', 4, 7, 196.10168598524763, 'Unhealthy').
 aqi('Mexico City', 9, 16, 168.49852476290832, 'Unhealthy').
 aqi('Istanbul', 1, 19, 118.79343434343434, 'Poor').
 aqi('Paris', 1, 16, 162.72075869336143, 'Unhealthy').
-aqi('Beijing', 3, 17, 182.8783983140148, 'Unhealthy').
+aqi('Beijing', 3, 17, 182.87839831401476, 'Unhealthy').
 aqi('Los Angeles', 7, 23, 186.92128556375133, 'Unhealthy').
 aqi('London', 11, 14, 196.5508956796628, 'Unhealthy').
 aqi('Berlin', 3, 19, 120.37727272727273, 'Poor').
@@ -25593,7 +25593,7 @@ aqi('Seoul', 5, 24, 123.77638190954774, 'Poor').
 aqi('Toronto', 9, 25, 153.27186512118018, 'Unhealthy').
 aqi('Madrid', 11, 5, 178.90263435194942, 'Unhealthy').
 aqi('Paris', 5, 16, 183.33793466807165, 'Unhealthy').
-aqi('London', 9, 6, 159.5866174920969, 'Unhealthy').
+aqi('London', 9, 6, 159.58661749209693, 'Unhealthy').
 aqi('Paris', 2, 2, 49.50000000000001, 'Good').
 aqi('Rio de Janeiro', 1, 3, 170.99241306638567, 'Unhealthy').
 aqi('Johannesburg', 9, 26, 174.04394099051632, 'Unhealthy').
@@ -25605,7 +25605,7 @@ aqi('London', 6, 1, 153.83466807165436, 'Unhealthy').
 aqi('Bangkok', 3, 2, 168.05447839831402, 'Unhealthy').
 aqi('Dubai', 5, 8, 182.4395152792413, 'Unhealthy').
 aqi('Moscow', 11, 16, 188.19662802950475, 'Unhealthy').
-aqi('Bangkok', 9, 9, 189.2292939936776, 'Unhealthy').
+aqi('Bangkok', 9, 9, 189.22929399367754, 'Unhealthy').
 aqi('Berlin', 8, 27, 131.3356783919598, 'Poor').
 aqi('Seoul', 12, 9, 189.63203371970496, 'Unhealthy').
 aqi('Madrid', 2, 5, 170.47608008429927, 'Unhealthy').
@@ -25615,8 +25615,8 @@ aqi('Madrid', 10, 28, 102.52663316582914, 'Poor').
 aqi('London', 2, 22, 116.73417085427135, 'Poor').
 aqi('Rio de Janeiro', 7, 9, 113.49747474747474, 'Poor').
 aqi('Beijing', 4, 5, 161.09947312961012, 'Unhealthy').
-aqi('Paris', 12, 18, 185.527186512118, 'Unhealthy').
-aqi('Seoul', 8, 7, 59.84969696969696, 'Moderate').
+aqi('Paris', 12, 18, 185.52718651211802, 'Unhealthy').
+aqi('Seoul', 8, 7, 59.849696969696964, 'Moderate').
 aqi('Mumbai', 7, 23, 175.86659641728136, 'Unhealthy').
 aqi('Sydney', 9, 9, 162.59167544783983, 'Unhealthy').
 aqi('Beijing', 12, 14, 172.28324552160169, 'Unhealthy').
@@ -25628,17 +25628,17 @@ aqi('Rio de Janeiro', 9, 1, 193.59747102212856, 'Unhealthy').
 aqi('Seoul', 10, 23, 187.7267650158061, 'Unhealthy').
 aqi('Los Angeles', 12, 7, 186.84383561643835, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 23, 159.15806111696523, 'Unhealthy').
-aqi('Los Angeles', 5, 11, 184.5306638566913, 'Unhealthy').
+aqi('Los Angeles', 5, 11, 184.53066385669126, 'Unhealthy').
 aqi('Dubai', 12, 26, 171.48292939936775, 'Unhealthy').
 aqi('Mexico City', 8, 9, 174.72033719704953, 'Unhealthy').
 aqi('Mumbai', 12, 5, 104.48444444444443, 'Poor').
 aqi('Toronto', 10, 2, 172.1386722866175, 'Unhealthy').
 aqi('Tokyo', 5, 21, 144.60753768844222, 'Poor').
 aqi('Mumbai', 7, 19, 142.48994974874373, 'Poor').
-aqi('Cairo', 8, 11, 118.85175879396984, 'Poor').
-aqi('Johannesburg', 1, 5, 180.591043203372, 'Unhealthy').
+aqi('Cairo', 8, 11, 118.85175879396985, 'Poor').
+aqi('Johannesburg', 1, 5, 180.59104320337198, 'Unhealthy').
 aqi('Cairo', 9, 15, 83.51244635193133, 'Moderate').
-aqi('Dubai', 8, 3, 192.4357218124341, 'Unhealthy').
+aqi('Dubai', 8, 3, 192.43572181243414, 'Unhealthy').
 aqi('Moscow', 1, 2, 84.34969696969696, 'Moderate').
 aqi('Beijing', 11, 2, 153.47839831401475, 'Unhealthy').
 aqi('Mexico City', 11, 24, 180.56522655426767, 'Unhealthy').
@@ -25646,23 +25646,23 @@ aqi('Sydney', 5, 18, 178.8510010537408, 'Unhealthy').
 aqi('Mexico City', 4, 9, 154.2322444678609, 'Unhealthy').
 aqi('Johannesburg', 5, 25, 152.41991570073762, 'Unhealthy').
 aqi('Dubai', 7, 3, 180.79241306638568, 'Unhealthy').
-aqi('Madrid', 12, 27, 185.3619599578504, 'Unhealthy').
-aqi('Tokyo', 7, 1, 143.8934673366834, 'Poor').
+aqi('Madrid', 12, 27, 185.36195995785036, 'Unhealthy').
+aqi('Tokyo', 7, 1, 143.89346733668341, 'Poor').
 aqi('Istanbul', 4, 16, 183.60126448893573, 'Unhealthy').
 aqi('Seoul', 2, 25, 161.5899894625922, 'Unhealthy').
 aqi('Toronto', 2, 3, 165.12170706006322, 'Unhealthy').
 aqi('Toronto', 9, 1, 159.3077976817703, 'Unhealthy').
 aqi('London', 11, 12, 84.14334763948499, 'Moderate').
-aqi('Los Angeles', 8, 22, 191.03645943098, 'Unhealthy').
+aqi('Los Angeles', 8, 22, 191.03645943097996, 'Unhealthy').
 aqi('Tokyo', 5, 27, 119.36757575757576, 'Poor').
 aqi('Berlin', 1, 23, 185.9918861959958, 'Unhealthy').
-aqi('Mumbai', 4, 22, 107.0572864321608, 'Poor').
+aqi('Mumbai', 4, 22, 107.05728643216081, 'Poor').
 aqi('Bangkok', 7, 10, 82.02343434343435, 'Moderate').
 aqi('Toronto', 4, 4, 161.3628029504742, 'Unhealthy').
 aqi('Toronto', 5, 19, 191.3617492096944, 'Unhealthy').
 aqi('Los Angeles', 2, 6, 159.81896733403582, 'Unhealthy').
 aqi('New York', 3, 15, 67.3679797979798, 'Moderate').
-aqi('New York', 12, 23, 167.6930453108535, 'Unhealthy').
+aqi('New York', 12, 23, 167.69304531085353, 'Unhealthy').
 aqi('London', 7, 20, 155.08935721812435, 'Unhealthy').
 aqi('Tokyo', 7, 18, 61.17282608695652, 'Moderate').
 aqi('Istanbul', 2, 27, 61.6412017167382, 'Moderate').
@@ -25670,25 +25670,25 @@ aqi('Rio de Janeiro', 2, 3, 108.87959595959596, 'Poor').
 aqi('Cairo', 9, 9, 102.4035175879397, 'Poor').
 aqi('Mumbai', 9, 19, 175.16438356164383, 'Unhealthy').
 aqi('Madrid', 9, 19, 79.7169696969697, 'Moderate').
-aqi('Tokyo', 1, 14, 180.2347734457324, 'Unhealthy').
+aqi('Tokyo', 1, 14, 180.23477344573234, 'Unhealthy').
 aqi('New York', 4, 5, 97.60939393939393, 'Moderate').
-aqi('Istanbul', 12, 11, 122.6929648241206, 'Poor').
-aqi('Los Angeles', 3, 11, 153.80368809272915, 'Unhealthy').
+aqi('Istanbul', 12, 11, 122.69296482412061, 'Poor').
+aqi('Los Angeles', 3, 11, 153.80368809272917, 'Unhealthy').
 aqi('Bangkok', 4, 25, 144.43517587939698, 'Poor').
 aqi('Johannesburg', 6, 24, 94.42703862660944, 'Moderate').
 aqi('Cairo', 1, 14, 82.20858369098713, 'Moderate').
 aqi('Berlin', 1, 18, 175.5, 'Unhealthy').
 aqi('Seoul', 5, 9, 168.85479452054796, 'Unhealthy').
 aqi('New York', 8, 3, 164.93066385669127, 'Unhealthy').
-aqi('Johannesburg', 8, 2, 180.172813487882, 'Unhealthy').
+aqi('Johannesburg', 8, 2, 180.17281348788197, 'Unhealthy').
 aqi('Dubai', 12, 19, 133.08391959798996, 'Poor').
 aqi('Madrid', 1, 5, 174.59125395152793, 'Unhealthy').
-aqi('Mumbai', 10, 12, 180.7201264488936, 'Unhealthy').
+aqi('Mumbai', 10, 12, 180.72012644889358, 'Unhealthy').
 aqi('Toronto', 2, 26, 72.01060606060607, 'Moderate').
-aqi('Rio de Janeiro', 12, 3, 199.3236037934668, 'Unhealthy').
-aqi('Seoul', 10, 9, 184.7165437302424, 'Unhealthy').
+aqi('Rio de Janeiro', 12, 3, 199.32360379346682, 'Unhealthy').
+aqi('Seoul', 10, 9, 184.71654373024236, 'Unhealthy').
 aqi('Johannesburg', 12, 10, 188.44446786090623, 'Unhealthy').
-aqi('Berlin', 11, 26, 187.25173867228665, 'Unhealthy').
+aqi('Berlin', 11, 26, 187.25173867228662, 'Unhealthy').
 aqi('Paris', 3, 12, 163.39199157007377, 'Unhealthy').
 aqi('Mexico City', 1, 10, 160.33530031612224, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 17, 188.43414120126448, 'Unhealthy').
@@ -25719,46 +25719,46 @@ aqi('Mumbai', 4, 10, 152.11527924130664, 'Unhealthy').
 aqi('Istanbul', 1, 10, 187.71127502634351, 'Unhealthy').
 aqi('Mumbai', 3, 16, 115.05979899497488, 'Poor').
 aqi('Los Angeles', 5, 20, 121.3140703517588, 'Poor').
-aqi('Toronto', 11, 27, 183.4257112750264, 'Unhealthy').
+aqi('Toronto', 11, 27, 183.42571127502634, 'Unhealthy').
 aqi('Dubai', 12, 12, 179.54805057955744, 'Unhealthy').
 aqi('Madrid', 4, 18, 141.75125628140702, 'Poor').
 aqi('Beijing', 12, 28, 191.5786090621707, 'Unhealthy').
 aqi('Bangkok', 8, 1, 89.0, 'Moderate').
 aqi('Rio de Janeiro', 3, 11, 107.79597989949748, 'Poor').
 aqi('Toronto', 9, 16, 177.88029504741834, 'Unhealthy').
-aqi('Sydney', 6, 14, 105.04373737373736, 'Poor').
+aqi('Sydney', 6, 14, 105.04373737373737, 'Poor').
 aqi('Mexico City', 12, 23, 142.09597989949748, 'Poor').
 aqi('Los Angeles', 10, 24, 153.50937829293994, 'Unhealthy').
-aqi('Beijing', 8, 24, 122.34824120603017, 'Poor').
-aqi('Seoul', 3, 27, 187.99525816649103, 'Unhealthy').
+aqi('Beijing', 8, 24, 122.34824120603015, 'Poor').
+aqi('Seoul', 3, 27, 187.99525816649106, 'Unhealthy').
 aqi('Los Angeles', 10, 11, 98.06523605150214, 'Moderate').
 aqi('Bangkok', 7, 12, 161.0891464699684, 'Unhealthy').
-aqi('Istanbul', 8, 15, 185.67692307692303, 'Unhealthy').
+aqi('Istanbul', 8, 15, 185.67692307692306, 'Unhealthy').
 aqi('Johannesburg', 8, 25, 180.28124341412013, 'Unhealthy').
 aqi('Madrid', 5, 26, 174.8700737618546, 'Unhealthy').
 aqi('Istanbul', 8, 26, 102.5739393939394, 'Poor').
 aqi('Dubai', 6, 22, 78.27666666666667, 'Moderate').
 aqi('Toronto', 6, 9, 89.2249494949495, 'Moderate').
 aqi('Toronto', 1, 16, 152.47671232876712, 'Unhealthy').
-aqi('Toronto', 7, 17, 108.55929648241208, 'Poor').
+aqi('Toronto', 7, 17, 108.55929648241207, 'Poor').
 aqi('Dubai', 1, 7, 165.02876712328768, 'Unhealthy').
 aqi('Johannesburg', 7, 3, 172.43298208640675, 'Unhealthy').
 aqi('Moscow', 2, 22, 197.66617492096944, 'Unhealthy').
-aqi('Berlin', 12, 27, 191.5579557428873, 'Unhealthy').
+aqi('Berlin', 12, 27, 191.55795574288726, 'Unhealthy').
 aqi('Mexico City', 1, 25, 195.86417281348787, 'Unhealthy').
 aqi('Los Angeles', 11, 24, 143.17939698492464, 'Poor').
 aqi('London', 9, 25, 77.0, 'Moderate').
 aqi('Los Angeles', 2, 10, 117.7929648241206, 'Poor').
 aqi('Bangkok', 10, 10, 195.6628029504742, 'Unhealthy').
 aqi('Johannesburg', 11, 25, 169.66027397260274, 'Unhealthy').
-aqi('Madrid', 3, 15, 187.163962065332, 'Unhealthy').
+aqi('Madrid', 3, 15, 187.16396206533193, 'Unhealthy').
 aqi('Dubai', 7, 18, 178.25721812434142, 'Unhealthy').
 aqi('Seoul', 8, 6, 198.9673340358272, 'Unhealthy').
 aqi('Seoul', 10, 12, 85.2158798283262, 'Moderate').
-aqi('Madrid', 4, 10, 107.92758620689656, 'Poor').
+aqi('Madrid', 4, 10, 107.92758620689655, 'Poor').
 aqi('Sydney', 6, 2, 172.89251844046365, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 9, 151.4750263435195, 'Unhealthy').
-aqi('Dubai', 3, 28, 96.04635193133048, 'Moderate').
+aqi('Dubai', 3, 28, 96.04635193133049, 'Moderate').
 aqi('Moscow', 11, 1, 194.6404636459431, 'Unhealthy').
 aqi('Mumbai', 11, 10, 104.10333333333334, 'Poor').
 aqi('Cairo', 2, 25, 155.72444678609062, 'Unhealthy').
@@ -25772,11 +25772,11 @@ aqi('Johannesburg', 2, 10, 197.16533192834564, 'Unhealthy').
 aqi('New York', 8, 6, 161.7190727081138, 'Unhealthy').
 aqi('Paris', 10, 15, 167.827291886196, 'Unhealthy').
 aqi('Tokyo', 12, 5, 153.97924130663856, 'Unhealthy').
-aqi('Seoul', 3, 8, 92.42630434782608, 'Moderate').
+aqi('Seoul', 3, 8, 92.42630434782609, 'Moderate').
 aqi('Mexico City', 6, 16, 37.41666666666667, 'Good').
 aqi('Mexico City', 7, 12, 154.71243414120127, 'Unhealthy').
 aqi('Johannesburg', 11, 27, 67.97410256410257, 'Moderate').
-aqi('Mumbai', 6, 2, 116.11859296482412, 'Poor').
+aqi('Mumbai', 6, 2, 116.11859296482413, 'Poor').
 aqi('Mumbai', 11, 16, 170.4554267650158, 'Unhealthy').
 aqi('Berlin', 11, 16, 106.51557788944724, 'Poor').
 aqi('Berlin', 12, 27, 164.8222339304531, 'Unhealthy').
@@ -25789,10 +25789,10 @@ aqi('Beijing', 12, 28, 153.66427818756586, 'Unhealthy').
 aqi('London', 6, 14, 194.79020021074817, 'Unhealthy').
 aqi('Istanbul', 7, 25, 97.14909090909092, 'Moderate').
 aqi('Beijing', 12, 4, 164.26975763962065, 'Unhealthy').
-aqi('Bangkok', 10, 5, 196.30305584826127, 'Unhealthy').
+aqi('Bangkok', 10, 5, 196.30305584826135, 'Unhealthy').
 aqi('Sydney', 7, 21, 122.55505050505052, 'Poor').
 aqi('Rio de Janeiro', 4, 18, 183.47734457323497, 'Unhealthy').
-aqi('Mexico City', 8, 19, 99.8, 'Moderate').
+aqi('Mexico City', 8, 19, 99.80000000000001, 'Moderate').
 aqi('Paris', 4, 20, 68.9, 'Moderate').
 aqi('Beijing', 11, 24, 189.554583772392, 'Unhealthy').
 aqi('Sydney', 8, 5, 180.6323498419389, 'Unhealthy').
@@ -25803,23 +25803,23 @@ aqi('London', 6, 6, 152.4973656480506, 'Unhealthy').
 aqi('Johannesburg', 3, 4, 163.55205479452056, 'Unhealthy').
 aqi('Sydney', 4, 7, 91.16515151515152, 'Moderate').
 aqi('Mexico City', 4, 18, 157.05658587987355, 'Unhealthy').
-aqi('Toronto', 12, 5, 106.61767676767676, 'Poor').
+aqi('Toronto', 12, 5, 106.61767676767677, 'Poor').
 aqi('Cairo', 8, 24, 194.47523709167544, 'Unhealthy').
 aqi('New York', 5, 27, 195.47692307692307, 'Unhealthy').
-aqi('Sydney', 9, 15, 180.5239199157008, 'Unhealthy').
+aqi('Sydney', 9, 15, 180.52391991570073, 'Unhealthy').
 aqi('Cairo', 12, 8, 170.56902002107483, 'Unhealthy').
 aqi('Toronto', 5, 18, 99.3, 'Moderate').
 aqi('Madrid', 8, 5, 170.37281348788198, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 14, 103.71727272727271, 'Poor').
+aqi('Rio de Janeiro', 11, 14, 103.71727272727273, 'Poor').
 aqi('Dubai', 7, 14, 83.3442060085837, 'Moderate').
 aqi('Madrid', 4, 1, 164.03740779768177, 'Unhealthy').
 aqi('Bangkok', 4, 22, 80.8206008583691, 'Moderate').
 aqi('Istanbul', 6, 6, 188.8059009483667, 'Unhealthy').
-aqi('Mumbai', 7, 23, 195.39430979978928, 'Unhealthy').
+aqi('Mumbai', 7, 23, 195.39430979978926, 'Unhealthy').
 aqi('Mexico City', 6, 9, 108.33768844221105, 'Poor').
-aqi('Berlin', 8, 25, 183.5702845100105, 'Unhealthy').
-aqi('Paris', 7, 26, 199.47334035827183, 'Unhealthy').
-aqi('Mumbai', 10, 20, 91.59543478260868, 'Moderate').
+aqi('Berlin', 8, 25, 183.57028451001054, 'Unhealthy').
+aqi('Paris', 7, 26, 199.47334035827186, 'Unhealthy').
+aqi('Mumbai', 10, 20, 91.59543478260869, 'Moderate').
 aqi('London', 3, 23, 93.01217391304348, 'Moderate').
 aqi('Bangkok', 7, 12, 107.54974874371858, 'Poor').
 aqi('Cairo', 8, 16, 180.4154899894626, 'Unhealthy').
@@ -25833,24 +25833,24 @@ aqi('Moscow', 5, 11, 172.35553213909378, 'Unhealthy').
 aqi('Mexico City', 2, 24, 197.14467860906217, 'Unhealthy').
 aqi('Madrid', 5, 18, 108.51005025125627, 'Poor').
 aqi('Tokyo', 4, 19, 172.29873551106428, 'Unhealthy').
-aqi('Los Angeles', 1, 21, 181.3397260273973, 'Unhealthy').
+aqi('Los Angeles', 1, 21, 181.33972602739726, 'Unhealthy').
 aqi('Mumbai', 11, 27, 169.8668071654373, 'Unhealthy').
 aqi('Mumbai', 2, 21, 185.97123287671235, 'Unhealthy').
-aqi('Istanbul', 4, 24, 115.94623115577888, 'Poor').
+aqi('Istanbul', 4, 24, 115.94623115577889, 'Poor').
 aqi('Dubai', 3, 11, 153.2253951527924, 'Unhealthy').
 aqi('Moscow', 12, 15, 157.09789251844046, 'Unhealthy').
-aqi('Berlin', 10, 5, 186.28103266596412, 'Unhealthy').
+aqi('Berlin', 10, 5, 186.28103266596418, 'Unhealthy').
 aqi('Bangkok', 6, 20, 151.61959957850368, 'Unhealthy').
 aqi('Beijing', 4, 5, 169.64478398314014, 'Unhealthy').
 aqi('Toronto', 9, 5, 177.2400421496312, 'Unhealthy').
-aqi('Sydney', 7, 4, 96.025321888412, 'Moderate').
+aqi('Sydney', 7, 4, 96.02532188841201, 'Moderate').
 aqi('Paris', 11, 22, 164.21296101159115, 'Unhealthy').
 aqi('Los Angeles', 4, 12, 158.4558482613277, 'Unhealthy').
 aqi('Johannesburg', 4, 18, 86.92978260869566, 'Moderate').
 aqi('Sydney', 11, 28, 79.3259595959596, 'Moderate').
 aqi('Sydney', 5, 21, 159.61759747102212, 'Unhealthy').
 aqi('Tokyo', 10, 22, 52.06521739130435, 'Moderate').
-aqi('Bangkok', 12, 23, 91.4, 'Moderate').
+aqi('Bangkok', 12, 23, 91.39999999999999, 'Moderate').
 aqi('Johannesburg', 5, 4, 109.49497487437186, 'Poor').
 aqi('Madrid', 3, 7, 124.34271356783918, 'Poor').
 aqi('Mumbai', 12, 10, 171.48292939936775, 'Unhealthy').
@@ -25862,11 +25862,11 @@ aqi('Bangkok', 6, 6, 90.91502145922746, 'Moderate').
 aqi('Johannesburg', 1, 24, 161.4918861959958, 'Unhealthy').
 aqi('Sydney', 10, 28, 178.60832455216018, 'Unhealthy').
 aqi('Toronto', 6, 1, 180.12118018967334, 'Unhealthy').
-aqi('Tokyo', 7, 8, 195.0018967334036, 'Unhealthy').
+aqi('Tokyo', 7, 8, 195.00189673340358, 'Unhealthy').
 aqi('Istanbul', 10, 13, 103.36551724137932, 'Poor').
 aqi('Beijing', 12, 10, 174.76164383561644, 'Unhealthy').
 aqi('Paris', 1, 24, 76.19999999999999, 'Moderate').
-aqi('Sydney', 10, 3, 104.37931034482756, 'Poor').
+aqi('Sydney', 10, 3, 104.37931034482757, 'Poor').
 aqi('Beijing', 5, 6, 121.68341708542714, 'Poor').
 aqi('New York', 2, 2, 175.88208640674395, 'Unhealthy').
 aqi('Toronto', 7, 26, 173.80126448893571, 'Unhealthy').
@@ -25881,12 +25881,12 @@ aqi('New York', 7, 21, 166.57260273972602, 'Unhealthy').
 aqi('Johannesburg', 5, 18, 168.07513171759746, 'Unhealthy').
 aqi('London', 4, 7, 152.9517386722866, 'Unhealthy').
 aqi('Madrid', 7, 12, 116.8730303030303, 'Poor').
-aqi('Los Angeles', 2, 9, 189.95732349841936, 'Unhealthy').
+aqi('Los Angeles', 2, 9, 189.95732349841938, 'Unhealthy').
 aqi('Paris', 12, 5, 183.8800842992624, 'Unhealthy').
 aqi('Johannesburg', 8, 6, 64.8, 'Moderate').
 aqi('Bangkok', 4, 23, 108.33768844221105, 'Poor').
 aqi('London', 8, 25, 86.59676767676768, 'Moderate').
-aqi('Seoul', 1, 25, 184.7165437302424, 'Unhealthy').
+aqi('Seoul', 1, 25, 184.71654373024236, 'Unhealthy').
 aqi('Istanbul', 5, 9, 68.28363636363636, 'Moderate').
 aqi('Moscow', 3, 13, 188.3566912539515, 'Unhealthy').
 aqi('Tokyo', 6, 24, 85.17381974248927, 'Moderate').
@@ -25903,16 +25903,16 @@ aqi('Tokyo', 10, 23, 159.55563751317175, 'Unhealthy').
 aqi('Dubai', 7, 13, 178.64446786090622, 'Unhealthy').
 aqi('Los Angeles', 11, 2, 176.00600632244468, 'Unhealthy').
 aqi('Cairo', 4, 6, 118.65484848484849, 'Poor').
-aqi('Dubai', 3, 9, 183.1985247629084, 'Unhealthy').
-aqi('Mumbai', 6, 6, 189.59072708113808, 'Unhealthy').
-aqi('Istanbul', 12, 17, 119.68434343434345, 'Poor').
+aqi('Dubai', 3, 9, 183.19852476290833, 'Unhealthy').
+aqi('Mumbai', 6, 6, 189.59072708113806, 'Unhealthy').
+aqi('Istanbul', 12, 17, 119.68434343434343, 'Poor').
 aqi('Bangkok', 4, 18, 151.02065331928347, 'Unhealthy').
-aqi('Madrid', 11, 10, 99.39121212121212, 'Moderate').
+aqi('Madrid', 11, 10, 99.39121212121213, 'Moderate').
 aqi('Mumbai', 4, 16, 184.2208640674394, 'Unhealthy').
 aqi('Bangkok', 4, 9, 112.52361809045226, 'Poor').
 aqi('Seoul', 6, 8, 161.60031612223392, 'Unhealthy').
-aqi('Seoul', 6, 21, 119.17454545454544, 'Poor').
-aqi('Dubai', 5, 11, 153.87081138040045, 'Unhealthy').
+aqi('Seoul', 6, 21, 119.17454545454545, 'Poor').
+aqi('Dubai', 5, 11, 153.87081138040043, 'Unhealthy').
 aqi('London', 3, 9, 197.26343519494205, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 10, 170.0526870389884, 'Unhealthy').
 aqi('Dubai', 3, 10, 163.57787144362487, 'Unhealthy').
@@ -25920,8 +25920,8 @@ aqi('London', 3, 12, 154.45943097997892, 'Unhealthy').
 aqi('Paris', 6, 14, 164.45563751317175, 'Unhealthy').
 aqi('London', 8, 24, 178.98524762908323, 'Unhealthy').
 aqi('Berlin', 2, 21, 133.9211055276382, 'Poor').
-aqi('Istanbul', 1, 8, 102.85862068965515, 'Poor').
-aqi('Mumbai', 5, 27, 196.89167544783984, 'Unhealthy').
+aqi('Istanbul', 1, 8, 102.85862068965517, 'Poor').
+aqi('Mumbai', 5, 27, 196.89167544783982, 'Unhealthy').
 aqi('Toronto', 7, 19, 148.32562814070351, 'Poor').
 aqi('Beijing', 3, 16, 122.49597989949748, 'Poor').
 aqi('Moscow', 5, 9, 181.68566912539515, 'Unhealthy').
@@ -25936,11 +25936,11 @@ aqi('Bangkok', 9, 26, 176.51201264488935, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 28, 163.87734457323498, 'Unhealthy').
 aqi('Johannesburg', 4, 14, 161.4195995785037, 'Unhealthy').
 aqi('Johannesburg', 2, 5, 172.86670179135933, 'Unhealthy').
-aqi('Dubai', 12, 19, 183.0746048472076, 'Unhealthy').
-aqi('Toronto', 6, 5, 98.9, 'Moderate').
+aqi('Dubai', 12, 19, 183.07460484720758, 'Unhealthy').
+aqi('Toronto', 6, 5, 98.89999999999999, 'Moderate').
 aqi('Beijing', 2, 11, 196.5250790305585, 'Unhealthy').
 aqi('Los Angeles', 12, 26, 172.54141201264488, 'Unhealthy').
-aqi('London', 5, 6, 188.1346680716544, 'Unhealthy').
+aqi('London', 5, 6, 188.13466807165437, 'Unhealthy').
 aqi('Johannesburg', 3, 21, 188.67681770284509, 'Unhealthy').
 aqi('Toronto', 12, 22, 174.95268703898842, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 17, 89.84248927038627, 'Moderate').
@@ -25958,7 +25958,7 @@ aqi('New York', 7, 16, 153.53519494204426, 'Unhealthy').
 aqi('Seoul', 2, 20, 158.56944151738674, 'Unhealthy').
 aqi('Toronto', 2, 21, 136.82663316582915, 'Poor').
 aqi('Los Angeles', 12, 20, 185.40326659641727, 'Unhealthy').
-aqi('Moscow', 6, 4, 182.3517386722866, 'Unhealthy').
+aqi('Moscow', 6, 4, 182.35173867228661, 'Unhealthy').
 aqi('Los Angeles', 8, 12, 175.35026343519493, 'Unhealthy').
 aqi('Beijing', 5, 17, 188.85237091675447, 'Unhealthy').
 aqi('Beijing', 6, 14, 160.33530031612224, 'Unhealthy').
@@ -25970,9 +25970,9 @@ aqi('Istanbul', 3, 4, 161.46606954689148, 'Unhealthy').
 aqi('Los Angeles', 11, 20, 112.94313131313132, 'Poor').
 aqi('Rio de Janeiro', 12, 24, 188.31538461538463, 'Unhealthy').
 aqi('Paris', 7, 8, 97.0, 'Moderate').
-aqi('Beijing', 3, 8, 197.3615384615385, 'Unhealthy').
+aqi('Beijing', 3, 8, 197.36153846153846, 'Unhealthy').
 aqi('London', 11, 22, 185.6459430979979, 'Unhealthy').
-aqi('Moscow', 8, 12, 91.04141414141417, 'Moderate').
+aqi('Moscow', 8, 12, 91.04141414141415, 'Moderate').
 aqi('Bangkok', 6, 27, 169.44341412012645, 'Unhealthy').
 aqi('Paris', 3, 5, 193.56649104320337, 'Unhealthy').
 aqi('Seoul', 12, 11, 181.159009483667, 'Unhealthy').
@@ -25981,13 +25981,13 @@ aqi('Sydney', 4, 26, 152.06880927291886, 'Unhealthy').
 aqi('Madrid', 2, 15, 154.7485774499473, 'Unhealthy').
 aqi('Johannesburg', 3, 8, 144.8291457286432, 'Poor').
 aqi('London', 9, 12, 152.5541622760801, 'Unhealthy').
-aqi('Mumbai', 9, 26, 181.09704952581663, 'Unhealthy').
-aqi('Toronto', 4, 8, 188.5890410958904, 'Unhealthy').
+aqi('Mumbai', 9, 26, 181.09704952581666, 'Unhealthy').
+aqi('Toronto', 4, 8, 188.58904109589042, 'Unhealthy').
 aqi('Seoul', 10, 23, 162.66396206533193, 'Unhealthy').
-aqi('Bangkok', 8, 25, 101.78793969849248, 'Poor').
+aqi('Bangkok', 8, 25, 101.78793969849247, 'Poor').
 aqi('Cairo', 8, 18, 173.10937829293994, 'Unhealthy').
 aqi('London', 2, 22, 180.94214963119072, 'Unhealthy').
-aqi('Moscow', 2, 1, 97.2, 'Moderate').
+aqi('Moscow', 2, 1, 97.19999999999999, 'Moderate').
 aqi('Moscow', 9, 21, 174.25563751317176, 'Unhealthy').
 aqi('Johannesburg', 12, 22, 185.7337197049526, 'Unhealthy').
 aqi('Madrid', 2, 19, 156.0032665964173, 'Unhealthy').
@@ -25996,19 +25996,19 @@ aqi('Cairo', 6, 22, 122.37286432160803, 'Poor').
 aqi('Johannesburg', 4, 7, 192.37376185458376, 'Unhealthy').
 aqi('Moscow', 3, 7, 123.80100502512562, 'Poor').
 aqi('Beijing', 12, 26, 184.5255005268704, 'Unhealthy').
-aqi('Tokyo', 12, 17, 197.1033719704953, 'Unhealthy').
+aqi('Tokyo', 12, 17, 197.10337197049526, 'Unhealthy').
 aqi('Dubai', 9, 14, 190.3290832455216, 'Unhealthy').
 aqi('Beijing', 3, 3, 116.44737373737374, 'Poor').
 aqi('New York', 9, 28, 157.381875658588, 'Unhealthy').
 aqi('Bangkok', 9, 17, 174.47249736564805, 'Unhealthy').
-aqi('Bangkok', 12, 3, 114.49232323232324, 'Poor').
+aqi('Bangkok', 12, 3, 114.49232323232323, 'Poor').
 aqi('Istanbul', 11, 10, 167.78598524762907, 'Unhealthy').
 aqi('Cairo', 10, 1, 77.66239130434784, 'Moderate').
 aqi('Dubai', 1, 6, 122.86532663316584, 'Poor').
 aqi('Berlin', 3, 5, 196.78324552160169, 'Unhealthy').
 aqi('Berlin', 8, 13, 157.9240252897787, 'Unhealthy').
 aqi('Istanbul', 5, 6, 170.50189673340358, 'Unhealthy').
-aqi('Seoul', 6, 19, 98.45080808080807, 'Moderate').
+aqi('Seoul', 6, 19, 98.45080808080809, 'Moderate').
 aqi('Moscow', 5, 12, 154.4749209694415, 'Unhealthy').
 aqi('Moscow', 4, 13, 112.74522613065328, 'Poor').
 aqi('Johannesburg', 2, 16, 177.1109589041096, 'Unhealthy').
@@ -26024,14 +26024,14 @@ aqi('Berlin', 4, 7, 183.0281348788198, 'Unhealthy').
 aqi('Bangkok', 4, 5, 158.75532139093784, 'Unhealthy').
 aqi('Bangkok', 11, 12, 107.0878787878788, 'Poor').
 aqi('London', 5, 14, 178.03519494204426, 'Unhealthy').
-aqi('Cairo', 6, 1, 197.59905163329825, 'Unhealthy').
+aqi('Cairo', 6, 1, 197.59905163329822, 'Unhealthy').
 aqi('Sydney', 6, 11, 191.9813487881981, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 5, 151.19620653319285, 'Unhealthy').
 aqi('Mumbai', 9, 1, 168.5036880927292, 'Unhealthy').
 aqi('Paris', 3, 3, 106.1462311557789, 'Poor').
 aqi('Seoul', 11, 21, 75.89957081545066, 'Moderate').
 aqi('Dubai', 10, 21, 153.59715489989463, 'Unhealthy').
-aqi('Los Angeles', 9, 25, 119.12505050505052, 'Poor').
+aqi('Los Angeles', 9, 25, 119.12505050505051, 'Poor').
 aqi('Istanbul', 3, 16, 78.76666666666667, 'Moderate').
 aqi('Sydney', 3, 19, 189.4668071654373, 'Unhealthy').
 aqi('Mumbai', 12, 16, 164.33171759747103, 'Unhealthy').
@@ -26041,35 +26041,35 @@ aqi('Mexico City', 6, 6, 187.06069546891464, 'Unhealthy').
 aqi('Madrid', 7, 16, 160.49020021074816, 'Unhealthy').
 aqi('Sydney', 12, 7, 175.1850368809273, 'Unhealthy').
 aqi('Tokyo', 10, 27, 187.9694415173867, 'Unhealthy').
-aqi('Madrid', 3, 17, 191.67154899894624, 'Unhealthy').
+aqi('Madrid', 3, 17, 191.67154899894626, 'Unhealthy').
 aqi('London', 9, 19, 179.71844046364595, 'Unhealthy').
 aqi('Istanbul', 8, 14, 173.85806111696522, 'Unhealthy').
-aqi('London', 5, 25, 187.1691253951528, 'Unhealthy').
-aqi('Seoul', 4, 10, 189.2344573234984, 'Unhealthy').
-aqi('Paris', 7, 2, 92.41565217391305, 'Moderate').
-aqi('Johannesburg', 11, 2, 180.9266596417281, 'Unhealthy').
+aqi('London', 5, 25, 187.16912539515278, 'Unhealthy').
+aqi('Seoul', 4, 10, 189.23445732349842, 'Unhealthy').
+aqi('Paris', 7, 2, 92.41565217391303, 'Moderate').
+aqi('Johannesburg', 11, 2, 180.92665964172812, 'Unhealthy').
 aqi('New York', 2, 3, 153.20474183350896, 'Unhealthy').
 aqi('Mexico City', 6, 10, 187.2723919915701, 'Unhealthy').
 aqi('New York', 7, 20, 97.85686868686868, 'Moderate').
 aqi('Rio de Janeiro', 8, 10, 69.42826086956521, 'Moderate').
 aqi('Bangkok', 5, 21, 175.1850368809273, 'Unhealthy').
-aqi('Istanbul', 5, 22, 192.2395152792413, 'Unhealthy').
+aqi('Istanbul', 5, 22, 192.23951527924132, 'Unhealthy').
 aqi('Beijing', 6, 3, 197.4854583772392, 'Unhealthy').
-aqi('Madrid', 10, 10, 95.81502145922748, 'Moderate').
+aqi('Madrid', 10, 10, 95.81502145922747, 'Moderate').
 aqi('Rio de Janeiro', 8, 4, 155.27007376185458, 'Unhealthy').
 aqi('Istanbul', 8, 11, 189.46164383561643, 'Unhealthy').
-aqi('Beijing', 5, 26, 120.99396984924624, 'Poor').
+aqi('Beijing', 5, 26, 120.99396984924623, 'Poor').
 aqi('Toronto', 9, 1, 160.3404636459431, 'Unhealthy').
 aqi('Paris', 4, 14, 193.34963119072708, 'Unhealthy').
 aqi('Moscow', 2, 27, 109.59727272727272, 'Poor').
-aqi('Moscow', 5, 23, 192.3892518440464, 'Unhealthy').
-aqi('Dubai', 2, 19, 98.843347639485, 'Moderate').
+aqi('Moscow', 5, 23, 192.38925184404636, 'Unhealthy').
+aqi('Dubai', 2, 19, 98.84334763948499, 'Moderate').
 aqi('Seoul', 11, 27, 160.42307692307693, 'Unhealthy').
-aqi('Mexico City', 2, 2, 195.40463645943092, 'Unhealthy').
+aqi('Mexico City', 2, 2, 195.40463645943098, 'Unhealthy').
 aqi('Mumbai', 10, 22, 71.77768240343349, 'Moderate').
 aqi('Johannesburg', 6, 26, 176.66691253951527, 'Unhealthy').
 aqi('Seoul', 12, 4, 88.15478260869565, 'Moderate').
-aqi('Madrid', 10, 14, 198.92086406743945, 'Unhealthy').
+aqi('Madrid', 10, 14, 198.92086406743942, 'Unhealthy').
 aqi('Madrid', 9, 27, 182.50147523709168, 'Unhealthy').
 aqi('Berlin', 8, 14, 174.59125395152793, 'Unhealthy').
 aqi('Toronto', 5, 25, 169.32465753424657, 'Unhealthy').
@@ -26078,16 +26078,16 @@ aqi('Moscow', 8, 25, 139.36281407035176, 'Poor').
 aqi('Los Angeles', 6, 22, 149.778391959799, 'Poor').
 aqi('Istanbul', 4, 4, 120.77323232323232, 'Poor').
 aqi('Johannesburg', 5, 16, 197.01559536354057, 'Unhealthy').
-aqi('Bangkok', 8, 20, 110.44363636363636, 'Poor').
+aqi('Bangkok', 8, 20, 110.44363636363637, 'Poor').
 aqi('Rio de Janeiro', 2, 15, 173.48113804004214, 'Unhealthy').
 aqi('Mumbai', 3, 10, 138.96884422110554, 'Poor').
 aqi('Paris', 2, 2, 199.2358271865121, 'Unhealthy').
-aqi('London', 6, 16, 181.84056902002104, 'Unhealthy').
+aqi('London', 6, 16, 181.84056902002106, 'Unhealthy').
 aqi('Mumbai', 4, 27, 166.01496311907272, 'Unhealthy').
 aqi('Mexico City', 1, 26, 170.2695468914647, 'Unhealthy').
 aqi('Istanbul', 2, 22, 164.85837723919917, 'Unhealthy').
 aqi('Mumbai', 7, 5, 97.11444444444444, 'Moderate').
-aqi('Moscow', 6, 5, 105.29121212121213, 'Poor').
+aqi('Moscow', 6, 5, 105.29121212121211, 'Poor').
 aqi('Berlin', 8, 10, 111.53869346733669, 'Poor').
 aqi('Paris', 12, 3, 187.9281348788198, 'Unhealthy').
 aqi('Mexico City', 7, 25, 168.7721812434141, 'Unhealthy').
@@ -26096,15 +26096,15 @@ aqi('Dubai', 5, 16, 152.17207586933614, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 14, 177.6118018967334, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 15, 178.5618545837724, 'Unhealthy').
 aqi('Moscow', 10, 19, 94.55321888412018, 'Moderate').
-aqi('Cairo', 7, 6, 123.21005025125628, 'Poor').
+aqi('Cairo', 7, 6, 123.21005025125629, 'Poor').
 aqi('Cairo', 12, 2, 182.0987355110643, 'Unhealthy').
 aqi('New York', 3, 15, 171.98377239199158, 'Unhealthy').
 aqi('Cairo', 6, 26, 159.41106427818758, 'Unhealthy').
 aqi('New York', 2, 15, 164.34204425711275, 'Unhealthy').
-aqi('Seoul', 12, 5, 106.40689655172416, 'Poor').
+aqi('Seoul', 12, 5, 106.40689655172415, 'Poor').
 aqi('Johannesburg', 9, 10, 172.60337197049526, 'Unhealthy').
 aqi('Paris', 9, 26, 148.74422110552763, 'Poor').
-aqi('Istanbul', 12, 16, 193.2412012644889, 'Unhealthy').
+aqi('Istanbul', 12, 16, 193.24120126448895, 'Unhealthy').
 aqi('Johannesburg', 4, 15, 164.8222339304531, 'Unhealthy').
 aqi('Beijing', 3, 23, 101.0, 'Poor').
 aqi('Dubai', 12, 20, 162.13213909378294, 'Unhealthy').
@@ -26113,14 +26113,14 @@ aqi('Mumbai', 12, 3, 96.21459227467813, 'Moderate').
 aqi('Berlin', 3, 17, 80.52618025751073, 'Moderate').
 aqi('Mexico City', 4, 13, 176.54299262381454, 'Unhealthy').
 aqi('Berlin', 11, 1, 168.586301369863, 'Unhealthy').
-aqi('Rio de Janeiro', 3, 12, 91.06223175965664, 'Moderate').
-aqi('Tokyo', 3, 4, 107.28090909090908, 'Poor').
+aqi('Rio de Janeiro', 3, 12, 91.06223175965665, 'Moderate').
+aqi('Tokyo', 3, 4, 107.28090909090909, 'Poor').
 aqi('Seoul', 12, 2, 91.14040404040404, 'Moderate').
 aqi('Mumbai', 1, 9, 171.56037934668072, 'Unhealthy').
-aqi('Paris', 2, 24, 118.76373737373736, 'Poor').
-aqi('Dubai', 6, 22, 196.33919915700736, 'Unhealthy').
+aqi('Paris', 2, 24, 118.76373737373737, 'Poor').
+aqi('Dubai', 6, 22, 196.33919915700739, 'Unhealthy').
 aqi('Moscow', 9, 8, 193.2618545837724, 'Unhealthy').
-aqi('Dubai', 7, 18, 197.72813487881984, 'Unhealthy').
+aqi('Dubai', 7, 18, 197.72813487881982, 'Unhealthy').
 aqi('Madrid', 9, 14, 180.18830347734456, 'Unhealthy').
 aqi('Madrid', 7, 2, 195.02255005268705, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 28, 173.81159114857746, 'Unhealthy').
@@ -26128,22 +26128,22 @@ aqi('New York', 6, 6, 168.16807165437302, 'Unhealthy').
 aqi('London', 10, 24, 168.6740779768177, 'Unhealthy').
 aqi('Cairo', 7, 1, 184.02465753424656, 'Unhealthy').
 aqi('Mexico City', 1, 10, 99.70557939914164, 'Moderate').
-aqi('Berlin', 2, 15, 178.38113804004217, 'Unhealthy').
+aqi('Berlin', 2, 15, 178.38113804004215, 'Unhealthy').
 aqi('Beijing', 9, 17, 89.29424242424243, 'Moderate').
-aqi('Berlin', 4, 8, 199.4475237091676, 'Unhealthy').
+aqi('Berlin', 4, 8, 199.44752370916757, 'Unhealthy').
 aqi('New York', 11, 27, 83.61695652173914, 'Moderate').
 aqi('Bangkok', 9, 14, 76.6, 'Moderate').
 aqi('Dubai', 8, 3, 152.24436248682824, 'Unhealthy').
 aqi('Seoul', 7, 15, 154.70210748155955, 'Unhealthy').
 aqi('Dubai', 11, 22, 153.80885142255005, 'Unhealthy').
 aqi('Johannesburg', 10, 1, 186.82834562697576, 'Unhealthy').
-aqi('Seoul', 9, 17, 98.6258695652174, 'Moderate').
+aqi('Seoul', 9, 17, 98.62586956521739, 'Moderate').
 aqi('Dubai', 4, 2, 160.23719704952583, 'Unhealthy').
 aqi('Madrid', 7, 2, 182.66153846153847, 'Unhealthy').
 aqi('Seoul', 3, 6, 89.10000000000001, 'Moderate').
 aqi('Berlin', 10, 16, 137.78693467336683, 'Poor').
 aqi('New York', 2, 4, 107.47587939698494, 'Poor').
-aqi('Dubai', 5, 23, 187.0710221285564, 'Unhealthy').
+aqi('Dubai', 5, 23, 187.07102212855636, 'Unhealthy').
 aqi('Madrid', 3, 28, 178.95426765015807, 'Unhealthy').
 aqi('Paris', 11, 20, 174.7668071654373, 'Unhealthy').
 aqi('London', 2, 20, 67.2, 'Moderate').
@@ -26157,17 +26157,17 @@ aqi('Berlin', 4, 13, 80.69442060085836, 'Moderate').
 aqi('Mumbai', 2, 2, 157.7691253951528, 'Unhealthy').
 aqi('Moscow', 11, 25, 177.33298208640673, 'Unhealthy').
 aqi('Moscow', 8, 4, 193.09146469968388, 'Unhealthy').
-aqi('Seoul', 12, 6, 91.9665236051502, 'Moderate').
+aqi('Seoul', 12, 6, 91.96652360515021, 'Moderate').
 aqi('Seoul', 5, 1, 175.70653319283457, 'Unhealthy').
 aqi('Seoul', 3, 4, 99.3, 'Moderate').
 aqi('Tokyo', 10, 2, 119.55070707070706, 'Poor').
 aqi('Los Angeles', 11, 11, 154.7072708113804, 'Unhealthy').
 aqi('Moscow', 7, 19, 82.2, 'Moderate').
-aqi('Toronto', 7, 5, 117.39899497487436, 'Poor').
-aqi('Bangkok', 1, 4, 184.200210748156, 'Unhealthy').
+aqi('Toronto', 7, 5, 117.39899497487437, 'Poor').
+aqi('Bangkok', 1, 4, 184.20021074815594, 'Unhealthy').
 aqi('Beijing', 4, 14, 183.35858798735512, 'Unhealthy').
 aqi('Dubai', 12, 17, 109.11034482758622, 'Poor').
-aqi('Moscow', 12, 27, 199.3236037934668, 'Unhealthy').
+aqi('Moscow', 12, 27, 199.32360379346682, 'Unhealthy').
 aqi('Tokyo', 10, 14, 43.08571428571429, 'Good').
 aqi('Moscow', 2, 18, 176.21253951527925, 'Unhealthy').
 aqi('Paris', 8, 24, 193.3754478398314, 'Unhealthy').
@@ -26178,8 +26178,8 @@ aqi('Toronto', 9, 28, 174.34341412012645, 'Unhealthy').
 aqi('Tokyo', 4, 3, 97.01050505050506, 'Moderate').
 aqi('New York', 3, 1, 176.6927291886196, 'Unhealthy').
 aqi('Istanbul', 11, 1, 82.54108695652174, 'Moderate').
-aqi('Moscow', 3, 17, 179.14014752370915, 'Unhealthy').
-aqi('Tokyo', 10, 27, 190.3394099051633, 'Unhealthy').
+aqi('Moscow', 3, 17, 179.14014752370917, 'Unhealthy').
+aqi('Tokyo', 10, 27, 190.33940990516334, 'Unhealthy').
 aqi('Seoul', 11, 21, 177.35879873551107, 'Unhealthy').
 aqi('Mumbai', 3, 16, 164.6105374077977, 'Unhealthy').
 aqi('Istanbul', 7, 20, 88.49565217391304, 'Moderate').
@@ -26191,12 +26191,12 @@ aqi('Los Angeles', 8, 17, 159.204531085353, 'Unhealthy').
 aqi('London', 1, 18, 177.99905163329822, 'Unhealthy').
 aqi('Madrid', 12, 23, 121.36331658291458, 'Poor').
 aqi('Toronto', 6, 7, 190.79378292939936, 'Unhealthy').
-aqi('Berlin', 1, 11, 115.15060606060608, 'Poor').
+aqi('Berlin', 1, 11, 115.15060606060607, 'Poor').
 aqi('Paris', 10, 7, 145.764824120603, 'Poor').
 aqi('Toronto', 2, 27, 199.13256059009484, 'Unhealthy').
 aqi('Madrid', 4, 7, 82.6, 'Moderate').
 aqi('Istanbul', 7, 13, 184.122760800843, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 8, 180.782086406744, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 8, 180.78208640674396, 'Unhealthy').
 aqi('Seoul', 7, 2, 134.73366834170855, 'Poor').
 aqi('Seoul', 1, 11, 178.84067439409904, 'Unhealthy').
 aqi('New York', 1, 4, 142.90854271356784, 'Poor').
@@ -26204,8 +26204,8 @@ aqi('Mexico City', 11, 1, 94.53218884120172, 'Moderate').
 aqi('Beijing', 9, 12, 132.5175879396985, 'Poor').
 aqi('Toronto', 8, 19, 96.3618025751073, 'Moderate').
 aqi('Cairo', 9, 24, 159.2923076923077, 'Unhealthy').
-aqi('Johannesburg', 6, 17, 187.0038988408852, 'Unhealthy').
-aqi('Rio de Janeiro', 10, 26, 181.96448893572185, 'Unhealthy').
+aqi('Johannesburg', 6, 17, 187.00389884088514, 'Unhealthy').
+aqi('Rio de Janeiro', 10, 26, 181.96448893572182, 'Unhealthy').
 aqi('Los Angeles', 2, 10, 153.7881981032666, 'Unhealthy').
 aqi('Moscow', 6, 16, 196.390832455216, 'Unhealthy').
 aqi('Berlin', 3, 16, 96.09065217391304, 'Moderate').
@@ -26214,8 +26214,8 @@ aqi('Madrid', 4, 6, 157.0204425711275, 'Unhealthy').
 aqi('Istanbul', 4, 15, 182.63572181243416, 'Unhealthy').
 aqi('Madrid', 6, 25, 179.83719704952583, 'Unhealthy').
 aqi('Beijing', 3, 2, 169.31433087460485, 'Unhealthy').
-aqi('Berlin', 10, 17, 187.5925184404637, 'Unhealthy').
-aqi('Berlin', 9, 5, 186.34299262381447, 'Unhealthy').
+aqi('Berlin', 10, 17, 187.59251844046366, 'Unhealthy').
+aqi('Berlin', 9, 5, 186.34299262381455, 'Unhealthy').
 aqi('Bangkok', 1, 1, 197.8055848261328, 'Unhealthy').
 aqi('Sydney', 8, 2, 82.12565217391304, 'Moderate').
 aqi('Johannesburg', 3, 21, 73.08464646464647, 'Moderate').
@@ -26225,7 +26225,7 @@ aqi('Dubai', 2, 16, 107.00804020100502, 'Poor').
 aqi('Paris', 12, 7, 160.268177028451, 'Unhealthy').
 aqi('Moscow', 3, 21, 157.8414120126449, 'Unhealthy').
 aqi('Johannesburg', 12, 7, 135.20150753768846, 'Poor').
-aqi('Toronto', 12, 13, 111.58696969696967, 'Poor').
+aqi('Toronto', 12, 13, 111.58696969696969, 'Poor').
 aqi('Seoul', 6, 25, 160.22687038988408, 'Unhealthy').
 aqi('Paris', 8, 26, 142.46532663316583, 'Poor').
 aqi('Los Angeles', 6, 18, 92.8, 'Moderate').
@@ -26237,16 +26237,16 @@ aqi('Johannesburg', 8, 1, 153.82950474183352, 'Unhealthy').
 aqi('Moscow', 3, 5, 192.21886195995785, 'Unhealthy').
 aqi('Berlin', 12, 9, 89.30414141414141, 'Moderate').
 aqi('Dubai', 11, 19, 152.69873551106429, 'Unhealthy').
-aqi('Rio de Janeiro', 2, 24, 115.33065326633168, 'Poor').
-aqi('Bangkok', 10, 19, 188.99694415173863, 'Unhealthy').
+aqi('Rio de Janeiro', 2, 24, 115.33065326633167, 'Poor').
+aqi('Bangkok', 10, 19, 188.99694415173866, 'Unhealthy').
 aqi('Berlin', 12, 25, 179.68746048472076, 'Unhealthy').
-aqi('Berlin', 1, 13, 184.0866174920969, 'Unhealthy').
-aqi('Berlin', 5, 4, 193.5561643835616, 'Unhealthy').
+aqi('Berlin', 1, 13, 184.08661749209693, 'Unhealthy').
+aqi('Berlin', 5, 4, 193.55616438356162, 'Unhealthy').
 aqi('Seoul', 2, 1, 186.48240252897787, 'Unhealthy').
 aqi('New York', 11, 16, 182.754478398314, 'Unhealthy').
-aqi('Dubai', 9, 22, 194.2893572181244, 'Unhealthy').
+aqi('Dubai', 9, 22, 194.28935721812434, 'Unhealthy').
 aqi('Madrid', 11, 28, 101.0, 'Poor').
-aqi('Seoul', 6, 3, 195.1929399367756, 'Unhealthy').
+aqi('Seoul', 6, 3, 195.19293993677556, 'Unhealthy').
 aqi('Tokyo', 6, 20, 89.80000000000001, 'Moderate').
 aqi('Mexico City', 10, 16, 185.5013698630137, 'Unhealthy').
 aqi('Sydney', 11, 15, 153.91211801896733, 'Unhealthy').
@@ -26268,8 +26268,8 @@ aqi('Paris', 12, 18, 157.21664910432034, 'Unhealthy').
 aqi('New York', 3, 4, 169.1491043203372, 'Unhealthy').
 aqi('Beijing', 1, 5, 82.63717171717173, 'Moderate').
 aqi('Toronto', 3, 17, 194.6404636459431, 'Unhealthy').
-aqi('Beijing', 8, 19, 152.177239199157, 'Unhealthy').
-aqi('Paris', 10, 11, 120.84747474747476, 'Poor').
+aqi('Beijing', 8, 19, 152.17723919915701, 'Unhealthy').
+aqi('Paris', 10, 11, 120.84747474747475, 'Poor').
 aqi('Bangkok', 12, 26, 152.03266596417282, 'Unhealthy').
 aqi('New York', 6, 26, 178.88714436248682, 'Unhealthy').
 aqi('Tokyo', 6, 15, 181.68566912539515, 'Unhealthy').
@@ -26285,17 +26285,17 @@ aqi('Paris', 7, 9, 117.37437185929647, 'Poor').
 aqi('Mumbai', 7, 14, 155.31138040042148, 'Unhealthy').
 aqi('Madrid', 2, 16, 105.47434343434342, 'Poor').
 aqi('Moscow', 2, 21, 171.5345626975764, 'Unhealthy').
-aqi('Seoul', 4, 11, 166.8462592202318, 'Unhealthy').
+aqi('Seoul', 4, 11, 166.84625922023181, 'Unhealthy').
 aqi('New York', 1, 26, 157.14436248682824, 'Unhealthy').
-aqi('Seoul', 6, 22, 113.48391959798997, 'Poor').
+aqi('Seoul', 6, 22, 113.48391959798995, 'Poor').
 aqi('Bangkok', 10, 17, 92.35173913043478, 'Moderate').
-aqi('New York', 11, 25, 195.6886195995785, 'Unhealthy').
+aqi('New York', 11, 25, 195.68861959957852, 'Unhealthy').
 aqi('Los Angeles', 12, 24, 190.39620653319284, 'Unhealthy').
 aqi('Sydney', 1, 25, 187.6854583772392, 'Unhealthy').
-aqi('Madrid', 11, 12, 114.91303030303033, 'Poor').
+aqi('Madrid', 11, 12, 114.91303030303031, 'Poor').
 aqi('Cairo', 8, 19, 187.57702845100107, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 1, 174.9010537407798, 'Unhealthy').
-aqi('Madrid', 1, 24, 91.29356223175968, 'Moderate').
+aqi('Madrid', 1, 24, 91.29356223175967, 'Moderate').
 aqi('New York', 5, 23, 180.02307692307693, 'Unhealthy').
 aqi('New York', 2, 22, 155.95163329820863, 'Unhealthy').
 aqi('Cairo', 4, 27, 154.18577449947313, 'Unhealthy').
@@ -26304,23 +26304,23 @@ aqi('Los Angeles', 8, 15, 187.69062170706007, 'Unhealthy').
 aqi('Paris', 3, 26, 189.14668071654373, 'Unhealthy').
 aqi('Istanbul', 3, 13, 165.0700737618546, 'Unhealthy').
 aqi('Toronto', 11, 21, 154.304531085353, 'Unhealthy').
-aqi('Tokyo', 1, 25, 107.0572864321608, 'Poor').
+aqi('Tokyo', 1, 25, 107.05728643216081, 'Poor').
 aqi('Berlin', 2, 18, 188.2895679662803, 'Unhealthy').
 aqi('Moscow', 4, 22, 86.87725321888414, 'Moderate').
 aqi('Sydney', 9, 8, 98.7381974248927, 'Moderate').
 aqi('Los Angeles', 10, 7, 151.3717597471022, 'Unhealthy').
 aqi('London', 9, 10, 174.0749209694415, 'Unhealthy').
 aqi('Berlin', 12, 28, 89.0170707070707, 'Moderate').
-aqi('Bangkok', 2, 28, 186.15194942044252, 'Unhealthy').
+aqi('Bangkok', 2, 28, 186.15194942044258, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 22, 139.90452261306532, 'Poor').
-aqi('Bangkok', 2, 17, 199.4578503688093, 'Unhealthy').
+aqi('Bangkok', 2, 17, 199.45785036880926, 'Unhealthy').
 aqi('Mumbai', 3, 14, 176.66174920969442, 'Unhealthy').
 aqi('Berlin', 8, 24, 137.81155778894473, 'Poor').
 aqi('Berlin', 7, 28, 165.54510010537408, 'Unhealthy').
 aqi('Madrid', 11, 2, 195.7041095890411, 'Unhealthy').
-aqi('Beijing', 8, 28, 117.96532663316584, 'Poor').
+aqi('Beijing', 8, 28, 117.96532663316583, 'Poor').
 aqi('Mexico City', 10, 3, 193.17924130663857, 'Unhealthy').
-aqi('Beijing', 9, 25, 187.0348788198104, 'Unhealthy').
+aqi('Beijing', 9, 25, 187.03487881981033, 'Unhealthy').
 aqi('Cairo', 11, 12, 157.01011591148577, 'Unhealthy').
 aqi('Cairo', 12, 5, 141.3572864321608, 'Poor').
 aqi('Toronto', 3, 6, 142.88391959798994, 'Poor').
@@ -26341,22 +26341,22 @@ aqi('London', 1, 18, 159.08061116965226, 'Unhealthy').
 aqi('Seoul', 10, 18, 89.52703862660945, 'Moderate').
 aqi('Beijing', 11, 26, 196.4063224446786, 'Unhealthy').
 aqi('Madrid', 7, 16, 130.178391959799, 'Poor').
-aqi('London', 12, 3, 189.8230769230769, 'Unhealthy').
+aqi('London', 12, 3, 189.82307692307694, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 3, 148.17788944723617, 'Poor').
-aqi('Beijing', 3, 21, 95.9841304347826, 'Moderate').
+aqi('Beijing', 3, 21, 95.98413043478261, 'Moderate').
 aqi('Johannesburg', 1, 20, 157.29926238145416, 'Unhealthy').
 aqi('New York', 1, 22, 196.5250790305585, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 4, 80.645, 'Moderate').
 aqi('New York', 9, 6, 106.7448275862069, 'Poor').
 aqi('Toronto', 5, 6, 187.8145416227608, 'Unhealthy').
-aqi('Beijing', 8, 17, 154.6608008429926, 'Unhealthy').
-aqi('New York', 8, 7, 192.3066385669125, 'Unhealthy').
+aqi('Beijing', 8, 17, 154.66080084299261, 'Unhealthy').
+aqi('New York', 8, 7, 192.30663856691254, 'Unhealthy').
 aqi('Moscow', 5, 16, 99.55836909871245, 'Moderate').
 aqi('Moscow', 2, 1, 130.3753768844221, 'Poor').
 aqi('Mumbai', 8, 25, 78.58848484848485, 'Moderate').
 aqi('Moscow', 11, 20, 156.33888303477346, 'Unhealthy').
 aqi('Cairo', 4, 19, 80.45326086956523, 'Moderate').
-aqi('Paris', 4, 5, 101.7919191919192, 'Poor').
+aqi('Paris', 4, 5, 101.79191919191919, 'Poor').
 aqi('Berlin', 11, 3, 118.90727272727273, 'Poor').
 aqi('Sydney', 11, 14, 159.10126448893573, 'Unhealthy').
 aqi('Berlin', 7, 21, 172.68598524762908, 'Unhealthy').
@@ -26370,7 +26370,7 @@ aqi('Toronto', 3, 21, 169.16975763962066, 'Unhealthy').
 aqi('New York', 2, 11, 85.53133047210301, 'Moderate').
 aqi('Johannesburg', 2, 20, 107.00804020100502, 'Poor').
 aqi('Tokyo', 10, 26, 164.88419388830349, 'Unhealthy').
-aqi('Bangkok', 9, 13, 193.3238145416228, 'Unhealthy').
+aqi('Bangkok', 9, 13, 193.32381454162277, 'Unhealthy').
 aqi('London', 9, 10, 158.65205479452055, 'Unhealthy').
 aqi('Bangkok', 1, 6, 196.2359325605901, 'Unhealthy').
 aqi('Cairo', 4, 18, 190.89704952581667, 'Unhealthy').
@@ -26392,30 +26392,30 @@ aqi('Toronto', 6, 19, 164.25943097997893, 'Unhealthy').
 aqi('London', 11, 26, 176.66174920969442, 'Unhealthy').
 aqi('Dubai', 11, 13, 175.53614330874603, 'Unhealthy').
 aqi('Madrid', 1, 20, 193.6077976817703, 'Unhealthy').
-aqi('Moscow', 7, 5, 188.2327713382508, 'Unhealthy').
-aqi('New York', 2, 6, 192.92107481559532, 'Unhealthy').
-aqi('Toronto', 12, 8, 90.2, 'Moderate').
+aqi('Moscow', 7, 5, 188.23277133825079, 'Unhealthy').
+aqi('New York', 2, 6, 192.92107481559538, 'Unhealthy').
+aqi('Toronto', 12, 8, 90.19999999999999, 'Moderate').
 aqi('Paris', 9, 5, 197.75395152792413, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 10, 167.92023182297154, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 23, 181.3603793466807, 'Unhealthy').
 aqi('Berlin', 4, 28, 182.60474183350897, 'Unhealthy').
 aqi('Mexico City', 2, 14, 70.6, 'Moderate').
-aqi('New York', 5, 1, 185.6562697576396, 'Unhealthy').
+aqi('New York', 5, 1, 185.65626975763962, 'Unhealthy').
 aqi('Paris', 1, 6, 140.7170854271357, 'Poor').
 aqi('Mumbai', 7, 10, 153.49905163329822, 'Unhealthy').
 aqi('Seoul', 6, 21, 179.63582718651213, 'Unhealthy').
 aqi('Toronto', 6, 19, 177.26069546891466, 'Unhealthy').
-aqi('New York', 11, 12, 189.327397260274, 'Unhealthy').
+aqi('New York', 11, 12, 189.32739726027398, 'Unhealthy').
 aqi('Toronto', 12, 12, 161.44025289778713, 'Unhealthy').
 aqi('Istanbul', 6, 10, 164.19230769230768, 'Unhealthy').
 aqi('New York', 4, 23, 190.16385669125395, 'Unhealthy').
 aqi('Moscow', 6, 28, 154.45943097997892, 'Unhealthy').
 aqi('Mumbai', 6, 17, 129.78442211055275, 'Poor').
-aqi('Istanbul', 8, 14, 196.72644889357213, 'Unhealthy').
+aqi('Istanbul', 8, 14, 196.72644889357218, 'Unhealthy').
 aqi('New York', 12, 17, 185.24320337197048, 'Unhealthy').
 aqi('London', 8, 21, 152.9104320337197, 'Unhealthy').
 aqi('Berlin', 6, 9, 189.554583772392, 'Unhealthy').
-aqi('Rio de Janeiro', 8, 22, 126.46030150753772, 'Poor').
+aqi('Rio de Janeiro', 8, 22, 126.46030150753771, 'Poor').
 aqi('Toronto', 4, 11, 188.02623814541624, 'Unhealthy').
 aqi('Toronto', 3, 16, 78.6755364806867, 'Moderate').
 aqi('Madrid', 2, 27, 91.7351931330472, 'Moderate').
@@ -26423,7 +26423,7 @@ aqi('Beijing', 5, 6, 184.8404636459431, 'Unhealthy').
 aqi('Mumbai', 2, 1, 196.6799789251844, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 11, 181.3345626975764, 'Unhealthy').
 aqi('Moscow', 3, 4, 191.150052687039, 'Unhealthy').
-aqi('Madrid', 6, 22, 187.7474183350896, 'Unhealthy').
+aqi('Madrid', 6, 22, 187.74741833508958, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 11, 185.8473129610116, 'Unhealthy').
 aqi('Mumbai', 4, 18, 199.42170706006323, 'Unhealthy').
 aqi('Dubai', 7, 3, 190.36522655426765, 'Unhealthy').
@@ -26447,9 +26447,9 @@ aqi('Sydney', 11, 10, 183.63740779768176, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 25, 123.70251256281406, 'Poor').
 aqi('Johannesburg', 6, 26, 180.07987355110643, 'Unhealthy').
 aqi('Dubai', 1, 23, 170.0836670179136, 'Unhealthy').
-aqi('Madrid', 12, 20, 172.62918861959955, 'Unhealthy').
+aqi('Madrid', 12, 20, 172.62918861959957, 'Unhealthy').
 aqi('Paris', 5, 15, 167.96670179135933, 'Unhealthy').
-aqi('Dubai', 8, 24, 194.8521601685985, 'Unhealthy').
+aqi('Dubai', 8, 24, 194.85216016859852, 'Unhealthy').
 aqi('Tokyo', 6, 8, 80.18969957081546, 'Moderate').
 aqi('London', 5, 24, 71.4, 'Moderate').
 aqi('London', 1, 12, 118.03121212121212, 'Poor').
@@ -26460,18 +26460,18 @@ aqi('Berlin', 7, 5, 164.00126448893573, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 15, 101.56424242424242, 'Poor').
 aqi('Rio de Janeiro', 3, 23, 105.0551724137931, 'Poor').
 aqi('Johannesburg', 8, 25, 186.6218124341412, 'Unhealthy').
-aqi('Dubai', 4, 7, 116.11859296482412, 'Poor').
+aqi('Dubai', 4, 7, 116.11859296482413, 'Poor').
 aqi('Toronto', 11, 21, 170.93561643835616, 'Unhealthy').
-aqi('Los Angeles', 11, 8, 116.48793969849244, 'Poor').
+aqi('Los Angeles', 11, 8, 116.48793969849245, 'Poor').
 aqi('Rio de Janeiro', 3, 19, 139.58442211055277, 'Poor').
 aqi('Tokyo', 2, 12, 169.50537407797682, 'Unhealthy').
 aqi('Johannesburg', 11, 11, 148.17788944723617, 'Poor').
 aqi('Cairo', 9, 28, 73.9, 'Moderate').
 aqi('Madrid', 5, 5, 183.3017913593256, 'Unhealthy').
-aqi('Cairo', 6, 26, 108.64696969696968, 'Poor').
+aqi('Cairo', 6, 26, 108.64696969696969, 'Poor').
 aqi('Johannesburg', 3, 3, 157.87239199157008, 'Unhealthy').
 aqi('Madrid', 8, 2, 169.08198103266596, 'Unhealthy').
-aqi('Beijing', 1, 10, 192.8384615384616, 'Unhealthy').
+aqi('Beijing', 1, 10, 192.83846153846156, 'Unhealthy').
 aqi('Mumbai', 1, 6, 164.82739726027398, 'Unhealthy').
 aqi('Bangkok', 1, 27, 162.57102212855636, 'Unhealthy').
 aqi('Mumbai', 10, 5, 175.56195995785038, 'Unhealthy').
@@ -26479,7 +26479,7 @@ aqi('Mexico City', 2, 27, 187.30337197049528, 'Unhealthy').
 aqi('Mumbai', 12, 28, 187.28788198103268, 'Unhealthy').
 aqi('Sydney', 7, 7, 80.31090909090909, 'Moderate').
 aqi('Istanbul', 8, 22, 158.14604847207588, 'Unhealthy').
-aqi('Bangkok', 9, 6, 186.3016859852476, 'Unhealthy').
+aqi('Bangkok', 9, 6, 186.30168598524762, 'Unhealthy').
 aqi('Sydney', 4, 15, 90.3472103004292, 'Moderate').
 aqi('Beijing', 7, 18, 158.32160168598526, 'Unhealthy').
 aqi('Beijing', 5, 25, 155.68830347734456, 'Unhealthy').
@@ -26490,47 +26490,47 @@ aqi('Mumbai', 8, 16, 166.55194942044258, 'Unhealthy').
 aqi('Johannesburg', 9, 3, 176.54299262381454, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 12, 168.29199157007375, 'Unhealthy').
 aqi('Toronto', 10, 28, 79.1, 'Moderate').
-aqi('Seoul', 2, 10, 197.3357218124341, 'Unhealthy').
+aqi('Seoul', 2, 10, 197.33572181243414, 'Unhealthy').
 aqi('Johannesburg', 5, 6, 154.4077976817703, 'Unhealthy').
 aqi('Tokyo', 2, 13, 188.8059009483667, 'Unhealthy').
 aqi('Cairo', 10, 8, 166.4331928345627, 'Unhealthy').
 aqi('Madrid', 12, 4, 173.39336143308748, 'Unhealthy').
 aqi('Cairo', 9, 11, 180.29673340358272, 'Unhealthy').
-aqi('Toronto', 5, 7, 160.39209694415177, 'Unhealthy').
+aqi('Toronto', 5, 7, 160.39209694415175, 'Unhealthy').
 aqi('Toronto', 1, 24, 174.65321390937828, 'Unhealthy').
 aqi('Johannesburg', 7, 1, 151.06195995785038, 'Unhealthy').
-aqi('Rio de Janeiro', 6, 10, 197.9140147523709, 'Unhealthy').
+aqi('Rio de Janeiro', 6, 10, 197.91401475237092, 'Unhealthy').
 aqi('Tokyo', 1, 25, 171.94246575342467, 'Unhealthy').
 aqi('Istanbul', 12, 3, 161.58482613277133, 'Unhealthy').
-aqi('Cairo', 2, 25, 196.1378292939937, 'Unhealthy').
-aqi('Rio de Janeiro', 3, 17, 110.3075376884422, 'Poor').
+aqi('Cairo', 2, 25, 196.13782929399366, 'Unhealthy').
+aqi('Rio de Janeiro', 3, 17, 110.30753768844221, 'Poor').
 aqi('Berlin', 3, 28, 147.14371859296483, 'Poor').
 aqi('Johannesburg', 7, 15, 164.58988408851422, 'Unhealthy').
-aqi('Tokyo', 8, 25, 153.04467860906215, 'Unhealthy').
+aqi('Tokyo', 8, 25, 153.04467860906217, 'Unhealthy').
 aqi('Los Angeles', 6, 13, 167.21801896733405, 'Unhealthy').
 aqi('Seoul', 3, 5, 75.97934782608696, 'Moderate').
-aqi('Johannesburg', 5, 21, 93.1021459227468, 'Moderate').
+aqi('Johannesburg', 5, 21, 93.10214592274679, 'Moderate').
 aqi('Berlin', 12, 28, 96.76137339055794, 'Moderate').
 aqi('Dubai', 4, 11, 149.60603015075378, 'Poor').
-aqi('Madrid', 7, 9, 172.6085353003161, 'Unhealthy').
+aqi('Madrid', 7, 9, 172.60853530031613, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 19, 159.8241306638567, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 16, 171.33835616438355, 'Unhealthy').
 aqi('Beijing', 12, 15, 160.13393045310855, 'Unhealthy').
 aqi('Johannesburg', 4, 28, 160.78967334035826, 'Unhealthy').
 aqi('Seoul', 5, 5, 84.31158798283263, 'Moderate').
-aqi('Berlin', 6, 23, 191.3410958904109, 'Unhealthy').
+aqi('Berlin', 6, 23, 191.34109589041094, 'Unhealthy').
 aqi('Bangkok', 9, 26, 71.69383838383838, 'Moderate').
 aqi('Beijing', 8, 12, 180.13150684931506, 'Unhealthy').
 aqi('Tokyo', 2, 4, 127.98693467336685, 'Poor').
-aqi('Bangkok', 12, 12, 181.9593256059009, 'Unhealthy').
+aqi('Bangkok', 12, 12, 181.95932560590094, 'Unhealthy').
 aqi('Mexico City', 8, 14, 170.79620653319284, 'Unhealthy').
-aqi('New York', 2, 27, 99.79760869565216, 'Moderate').
+aqi('New York', 2, 27, 99.79760869565217, 'Moderate').
 aqi('Moscow', 7, 13, 152.7813487881981, 'Unhealthy').
 aqi('Johannesburg', 4, 19, 172.50010537407798, 'Unhealthy').
 aqi('Istanbul', 8, 3, 141.50502512562815, 'Poor').
 aqi('Madrid', 1, 12, 112.12151515151515, 'Poor').
 aqi('Paris', 6, 12, 169.59831401475236, 'Unhealthy').
-aqi('Mumbai', 12, 23, 101.83646464646463, 'Poor').
+aqi('Mumbai', 12, 23, 101.83646464646465, 'Poor').
 aqi('Istanbul', 7, 8, 106.35040404040404, 'Poor').
 aqi('Dubai', 1, 10, 169.33498419388832, 'Unhealthy').
 aqi('Dubai', 1, 10, 187.4014752370917, 'Unhealthy').
@@ -26543,27 +26543,27 @@ aqi('Los Angeles', 4, 5, 92.34506437768242, 'Moderate').
 aqi('Mexico City', 1, 14, 145.0753768844221, 'Poor').
 aqi('Los Angeles', 12, 19, 167.2076923076923, 'Unhealthy').
 aqi('Seoul', 12, 28, 82.7, 'Moderate').
-aqi('Tokyo', 8, 26, 102.89597989949748, 'Poor').
+aqi('Tokyo', 8, 26, 102.89597989949749, 'Poor').
 aqi('Mexico City', 2, 21, 162.44710221285564, 'Unhealthy').
 aqi('Toronto', 1, 22, 153.83983140147524, 'Unhealthy').
 aqi('Los Angeles', 7, 17, 66.07282608695652, 'Moderate').
-aqi('Istanbul', 4, 19, 193.9330874604848, 'Unhealthy').
+aqi('Istanbul', 4, 19, 193.93308746048473, 'Unhealthy').
 aqi('Dubai', 10, 9, 153.013698630137, 'Unhealthy').
 aqi('Madrid', 11, 13, 164.2491043203372, 'Unhealthy').
 aqi('Mumbai', 12, 18, 155.06354056902, 'Unhealthy').
-aqi('Toronto', 2, 6, 197.1291886195996, 'Unhealthy').
+aqi('Toronto', 2, 6, 197.12918861959957, 'Unhealthy').
 aqi('Istanbul', 3, 4, 185.7337197049526, 'Unhealthy').
 aqi('Tokyo', 11, 28, 197.05690200210748, 'Unhealthy').
 aqi('Mumbai', 5, 22, 199.23066385669125, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 27, 196.93298208640675, 'Unhealthy').
 aqi('Dubai', 6, 22, 81.91416309012877, 'Moderate').
 aqi('Tokyo', 8, 18, 182.39304531085352, 'Unhealthy').
-aqi('Johannesburg', 9, 12, 190.6956796628029, 'Unhealthy').
-aqi('London', 4, 23, 190.0347734457324, 'Unhealthy').
+aqi('Johannesburg', 9, 12, 190.69567966280295, 'Unhealthy').
+aqi('London', 4, 23, 190.03477344573236, 'Unhealthy').
 aqi('Johannesburg', 7, 14, 159.90158061116966, 'Unhealthy').
 aqi('New York', 3, 15, 159.3904109589041, 'Unhealthy').
 aqi('Los Angeles', 3, 8, 185.10895679662804, 'Unhealthy').
-aqi('Paris', 6, 27, 91.8191304347826, 'Moderate').
+aqi('Paris', 6, 27, 91.81913043478261, 'Moderate').
 aqi('New York', 4, 28, 172.57239199157007, 'Unhealthy').
 aqi('London', 10, 2, 166.3505795574289, 'Unhealthy').
 aqi('Johannesburg', 12, 18, 175.87692307692308, 'Unhealthy').
@@ -26571,15 +26571,15 @@ aqi('Los Angeles', 10, 9, 174.51896733403584, 'Unhealthy').
 aqi('Mexico City', 3, 12, 181.3190727081138, 'Unhealthy').
 aqi('Johannesburg', 11, 11, 160.0513171759747, 'Unhealthy').
 aqi('Moscow', 2, 1, 116.79383838383838, 'Poor').
-aqi('Tokyo', 12, 4, 185.0211801896733, 'Unhealthy').
+aqi('Tokyo', 12, 4, 185.02118018967334, 'Unhealthy').
 aqi('Johannesburg', 10, 5, 176.97154899894625, 'Unhealthy').
 aqi('Toronto', 9, 28, 99.2, 'Moderate').
-aqi('Paris', 7, 28, 176.69789251844043, 'Unhealthy').
+aqi('Paris', 7, 28, 176.69789251844045, 'Unhealthy').
 aqi('Bangkok', 1, 21, 185.0418335089568, 'Unhealthy').
 aqi('Toronto', 11, 12, 164.5072708113804, 'Unhealthy').
 aqi('Cairo', 10, 22, 160.55216016859853, 'Unhealthy').
 aqi('Istanbul', 5, 12, 160.36111696522656, 'Unhealthy').
-aqi('Rio de Janeiro', 2, 17, 182.83192834562692, 'Unhealthy').
+aqi('Rio de Janeiro', 2, 17, 182.83192834562698, 'Unhealthy').
 aqi('Johannesburg', 3, 9, 162.84467860906216, 'Unhealthy').
 aqi('Johannesburg', 10, 22, 169.57766069546892, 'Unhealthy').
 aqi('Berlin', 6, 15, 136.7035175879397, 'Poor').
@@ -26588,24 +26588,24 @@ aqi('Seoul', 6, 2, 178.18493150684932, 'Unhealthy').
 aqi('Bangkok', 1, 7, 199.72118018967336, 'Unhealthy').
 aqi('Toronto', 11, 11, 138.7472361809045, 'Poor').
 aqi('Johannesburg', 2, 24, 152.90010537407798, 'Unhealthy').
-aqi('Bangkok', 8, 4, 197.0930453108536, 'Unhealthy').
+aqi('Bangkok', 8, 4, 197.09304531085354, 'Unhealthy').
 aqi('Toronto', 10, 17, 160.04099051633298, 'Unhealthy').
 aqi('London', 8, 16, 173.19199157007375, 'Unhealthy').
 aqi('Moscow', 7, 15, 182.01612223393045, 'Unhealthy').
-aqi('Istanbul', 5, 6, 171.7617492096944, 'Unhealthy').
+aqi('Istanbul', 5, 6, 171.76174920969441, 'Unhealthy').
 aqi('Moscow', 11, 26, 187.2104320337197, 'Unhealthy').
 aqi('Cairo', 11, 26, 94.4608695652174, 'Moderate').
-aqi('Tokyo', 12, 4, 98.59098712446352, 'Moderate').
+aqi('Tokyo', 12, 4, 98.59098712446351, 'Moderate').
 aqi('Beijing', 7, 21, 193.12244467860907, 'Unhealthy').
 aqi('Moscow', 10, 17, 174.5964172813488, 'Unhealthy').
 aqi('Toronto', 5, 24, 171.48809272918862, 'Unhealthy').
 aqi('Johannesburg', 11, 15, 173.6463645943098, 'Unhealthy').
 aqi('Beijing', 9, 14, 105.72763819095478, 'Poor').
-aqi('Cairo', 7, 14, 127.12512562814072, 'Poor').
-aqi('Toronto', 4, 7, 180.2657534246576, 'Unhealthy').
-aqi('Mexico City', 10, 17, 118.53165829145728, 'Poor').
-aqi('Cairo', 9, 6, 193.4167544783984, 'Unhealthy').
-aqi('Seoul', 9, 13, 57.75111111111112, 'Moderate').
+aqi('Cairo', 7, 14, 127.12512562814071, 'Poor').
+aqi('Toronto', 4, 7, 180.26575342465753, 'Unhealthy').
+aqi('Mexico City', 10, 17, 118.53165829145729, 'Poor').
+aqi('Cairo', 9, 6, 193.41675447839833, 'Unhealthy').
+aqi('Seoul', 9, 13, 57.751111111111115, 'Moderate').
 aqi('New York', 4, 27, 158.1976817702845, 'Unhealthy').
 aqi('New York', 3, 13, 195.42528977871444, 'Unhealthy').
 aqi('New York', 6, 7, 105.75226130653266, 'Poor').
@@ -26616,7 +26616,7 @@ aqi('Paris', 9, 11, 134.19195979899496, 'Poor').
 aqi('Berlin', 5, 2, 78.04463519313305, 'Moderate').
 aqi('Cairo', 7, 27, 174.60158061116965, 'Unhealthy').
 aqi('Beijing', 9, 24, 174.0336143308746, 'Unhealthy').
-aqi('London', 12, 13, 111.84929292929291, 'Poor').
+aqi('London', 12, 13, 111.84929292929293, 'Poor').
 aqi('Mexico City', 1, 21, 188.18113804004216, 'Unhealthy').
 aqi('Tokyo', 3, 3, 177.4414120126449, 'Unhealthy').
 aqi('Bangkok', 3, 5, 172.75827186512117, 'Unhealthy').
@@ -26627,9 +26627,9 @@ aqi('Johannesburg', 10, 12, 92.86304347826086, 'Moderate').
 aqi('Mexico City', 5, 20, 115.99547738693468, 'Poor').
 aqi('London', 7, 1, 94.76351931330473, 'Moderate').
 aqi('Rio de Janeiro', 9, 10, 176.81148577449946, 'Unhealthy').
-aqi('New York', 12, 25, 152.19789251844043, 'Unhealthy').
+aqi('New York', 12, 25, 152.19789251844045, 'Unhealthy').
 aqi('Toronto', 10, 13, 188.07787144362487, 'Unhealthy').
-aqi('Toronto', 12, 11, 198.3528977871444, 'Unhealthy').
+aqi('Toronto', 12, 11, 198.35289778714437, 'Unhealthy').
 aqi('Moscow', 9, 2, 160.1081138040042, 'Unhealthy').
 aqi('London', 2, 10, 169.87713382507903, 'Unhealthy').
 aqi('New York', 8, 1, 142.71155778894473, 'Poor').
@@ -26643,49 +26643,49 @@ aqi('Sydney', 4, 17, 170.38830347734458, 'Unhealthy').
 aqi('Seoul', 4, 23, 155.25458377239198, 'Unhealthy').
 aqi('Cairo', 5, 5, 55.59808080808081, 'Moderate').
 aqi('Johannesburg', 7, 21, 169.56217070600633, 'Unhealthy').
-aqi('New York', 4, 17, 116.80804020100504, 'Poor').
+aqi('New York', 4, 17, 116.80804020100503, 'Poor').
 aqi('Rio de Janeiro', 9, 3, 70.17434343434343, 'Moderate').
 aqi('Mumbai', 11, 16, 160.83614330874605, 'Unhealthy').
 aqi('Dubai', 12, 28, 91.44077253218884, 'Moderate').
-aqi('Berlin', 1, 23, 57.91888412017168, 'Moderate').
+aqi('Berlin', 1, 23, 57.918884120171676, 'Moderate').
 aqi('Tokyo', 1, 7, 166.8514225500527, 'Unhealthy').
 aqi('Madrid', 1, 2, 158.98767123287672, 'Unhealthy').
 aqi('Istanbul', 4, 26, 180.7459430979979, 'Unhealthy').
-aqi('Cairo', 5, 12, 123.8502512562814, 'Poor').
+aqi('Cairo', 5, 12, 123.85025125628141, 'Poor').
 aqi('Moscow', 5, 4, 72.8, 'Moderate').
 aqi('Sydney', 6, 5, 90.7, 'Moderate').
 aqi('Rio de Janeiro', 11, 27, 191.33076923076925, 'Unhealthy').
-aqi('Los Angeles', 1, 17, 113.55778894472364, 'Poor').
-aqi('London', 12, 1, 101.73252525252524, 'Poor').
-aqi('Dubai', 6, 10, 199.36491043203367, 'Unhealthy').
+aqi('Los Angeles', 1, 17, 113.55778894472363, 'Poor').
+aqi('London', 12, 1, 101.73252525252525, 'Poor').
+aqi('Dubai', 6, 10, 199.36491043203372, 'Unhealthy').
 aqi('London', 11, 3, 119.88592964824122, 'Poor').
 aqi('Istanbul', 12, 14, 177.28651211801898, 'Unhealthy').
 aqi('Bangkok', 2, 3, 159.54014752370918, 'Unhealthy').
 aqi('Mumbai', 3, 5, 146.5281407035176, 'Poor').
 aqi('New York', 9, 2, 118.7040201005025, 'Poor').
 aqi('Mexico City', 5, 2, 161.3008429926238, 'Unhealthy').
-aqi('Moscow', 7, 3, 197.7384615384616, 'Unhealthy').
+aqi('Moscow', 7, 3, 197.73846153846154, 'Unhealthy').
 aqi('Moscow', 11, 5, 174.45700737618546, 'Unhealthy').
-aqi('Dubai', 7, 4, 185.2018967334036, 'Unhealthy').
+aqi('Dubai', 7, 4, 185.20189673340357, 'Unhealthy').
 aqi('Moscow', 1, 25, 121.0678391959799, 'Poor').
-aqi('Seoul', 1, 12, 185.2018967334036, 'Unhealthy').
+aqi('Seoul', 1, 12, 185.20189673340357, 'Unhealthy').
 aqi('Madrid', 7, 13, 182.300105374078, 'Unhealthy').
 aqi('Istanbul', 9, 10, 152.32697576396205, 'Unhealthy').
 aqi('Seoul', 8, 13, 179.47576396206534, 'Unhealthy').
-aqi('Berlin', 7, 28, 189.3893572181244, 'Unhealthy').
+aqi('Berlin', 7, 28, 189.38935721812433, 'Unhealthy').
 aqi('Mexico City', 2, 4, 168.59662802950476, 'Unhealthy').
 aqi('Los Angeles', 1, 28, 151.49051633298208, 'Unhealthy').
 aqi('Toronto', 11, 27, 130.00603015075376, 'Poor').
 aqi('Cairo', 5, 10, 192.33761854583773, 'Unhealthy').
 aqi('New York', 12, 2, 164.67249736564804, 'Unhealthy').
-aqi('New York', 1, 16, 196.98977871443623, 'Unhealthy').
+aqi('New York', 1, 16, 196.98977871443626, 'Unhealthy').
 aqi('Mumbai', 6, 19, 152.4405690200211, 'Unhealthy').
 aqi('Istanbul', 4, 16, 158.89473129610116, 'Unhealthy').
 aqi('Moscow', 6, 2, 193.74204425711275, 'Unhealthy').
 aqi('Cairo', 6, 11, 137.34371859296482, 'Poor').
 aqi('Dubai', 1, 8, 91.5, 'Moderate').
 aqi('Johannesburg', 8, 8, 137.22060301507537, 'Poor').
-aqi('Bangkok', 12, 17, 157.83108535300315, 'Unhealthy').
+aqi('Bangkok', 12, 17, 157.83108535300317, 'Unhealthy').
 aqi('Los Angeles', 3, 27, 166.2886195995785, 'Unhealthy').
 aqi('Madrid', 11, 18, 107.22964824120604, 'Poor').
 aqi('Mexico City', 4, 17, 177.43624868282404, 'Unhealthy').
@@ -26713,19 +26713,19 @@ aqi('London', 10, 3, 173.90969441517387, 'Unhealthy').
 aqi('New York', 5, 24, 192.97787144362488, 'Unhealthy').
 aqi('Paris', 6, 7, 171.00790305584826, 'Unhealthy').
 aqi('Mexico City', 4, 5, 59.56262626262626, 'Moderate').
-aqi('Toronto', 5, 1, 160.4127502634352, 'Unhealthy').
+aqi('Toronto', 5, 1, 160.41275026343519, 'Unhealthy').
 aqi('Berlin', 11, 27, 155.57987355110643, 'Unhealthy').
 aqi('Mexico City', 12, 20, 175.43804004214962, 'Unhealthy').
-aqi('Mumbai', 1, 25, 193.42708113804, 'Unhealthy').
+aqi('Mumbai', 1, 25, 193.42708113804002, 'Unhealthy').
 aqi('Toronto', 1, 14, 121.33747474747474, 'Poor').
-aqi('London', 10, 10, 119.713567839196, 'Poor').
+aqi('London', 10, 10, 119.71356783919599, 'Poor').
 aqi('Seoul', 12, 3, 163.92381454162276, 'Unhealthy').
 aqi('Beijing', 1, 23, 167.8427818756586, 'Unhealthy').
-aqi('Moscow', 4, 15, 101.0492462311558, 'Poor').
+aqi('Moscow', 4, 15, 101.04924623115579, 'Poor').
 aqi('Toronto', 4, 12, 171.890832455216, 'Unhealthy').
 aqi('Tokyo', 6, 2, 176.15574288724974, 'Unhealthy').
 aqi('Bangkok', 9, 28, 115.08626262626262, 'Poor').
-aqi('London', 1, 19, 199.65922023182296, 'Unhealthy').
+aqi('London', 1, 19, 199.65922023182299, 'Unhealthy').
 aqi('Dubai', 5, 7, 121.6690909090909, 'Poor').
 aqi('Seoul', 2, 23, 158.0427818756586, 'Unhealthy').
 aqi('Mumbai', 1, 15, 180.09020021074815, 'Unhealthy').
@@ -26742,23 +26742,23 @@ aqi('Berlin', 7, 26, 168.83930453108536, 'Unhealthy').
 aqi('London', 6, 12, 98.52789699570816, 'Moderate').
 aqi('Sydney', 3, 4, 192.99336143308747, 'Unhealthy').
 aqi('Seoul', 11, 1, 180.8905163329821, 'Unhealthy').
-aqi('Seoul', 11, 10, 106.23793103448276, 'Poor').
-aqi('Istanbul', 8, 26, 98.0021459227468, 'Moderate').
+aqi('Seoul', 11, 10, 106.23793103448277, 'Poor').
+aqi('Istanbul', 8, 26, 98.00214592274679, 'Moderate').
 aqi('Madrid', 6, 6, 160.82581664910433, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 22, 155.8845100105374, 'Unhealthy').
 aqi('Johannesburg', 1, 28, 174.80811380400422, 'Unhealthy').
-aqi('Dubai', 9, 1, 198.1721812434141, 'Unhealthy').
+aqi('Dubai', 9, 1, 198.17218124341412, 'Unhealthy').
 aqi('Tokyo', 12, 8, 168.42107481559538, 'Unhealthy').
 aqi('Johannesburg', 10, 10, 172.3503688092729, 'Unhealthy').
-aqi('Tokyo', 3, 12, 182.96101159114852, 'Unhealthy').
+aqi('Tokyo', 3, 12, 182.96101159114858, 'Unhealthy').
 aqi('Berlin', 2, 20, 130.4246231155779, 'Poor').
 aqi('Sydney', 5, 1, 84.45879828326181, 'Moderate').
-aqi('Beijing', 4, 1, 183.4618545837724, 'Unhealthy').
+aqi('Beijing', 4, 1, 183.46185458377238, 'Unhealthy').
 aqi('Sydney', 7, 17, 174.3640674394099, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 21, 180.7304531085353, 'Unhealthy').
 aqi('Istanbul', 3, 11, 160.40758693361434, 'Unhealthy').
 aqi('Toronto', 10, 1, 156.22012644889358, 'Unhealthy').
-aqi('Rio de Janeiro', 10, 20, 183.818124341412, 'Unhealthy').
+aqi('Rio de Janeiro', 10, 20, 183.81812434141202, 'Unhealthy').
 aqi('Berlin', 4, 7, 188.54257112750264, 'Unhealthy').
 aqi('Johannesburg', 6, 18, 156.74162276080085, 'Unhealthy').
 aqi('Sydney', 11, 9, 181.73213909378293, 'Unhealthy').
@@ -26775,19 +26775,19 @@ aqi('Beijing', 12, 26, 184.83530031612224, 'Unhealthy').
 aqi('Sydney', 9, 14, 158.46101159114858, 'Unhealthy').
 aqi('Berlin', 4, 24, 154.29936775553213, 'Unhealthy').
 aqi('Seoul', 6, 22, 178.76838777660697, 'Unhealthy').
-aqi('Mumbai', 6, 22, 95.1, 'Moderate').
-aqi('Seoul', 1, 9, 90.59957081545063, 'Moderate').
+aqi('Mumbai', 6, 22, 95.10000000000001, 'Moderate').
+aqi('Seoul', 1, 9, 90.59957081545065, 'Moderate').
 aqi('Cairo', 4, 1, 177.21938883034773, 'Unhealthy').
-aqi('Bangkok', 8, 1, 198.21348788198105, 'Unhealthy').
-aqi('Cairo', 6, 19, 197.4906217070601, 'Unhealthy').
+aqi('Bangkok', 8, 1, 198.21348788198102, 'Unhealthy').
+aqi('Cairo', 6, 19, 197.49062170706006, 'Unhealthy').
 aqi('Moscow', 8, 8, 157.25795574288725, 'Unhealthy').
 aqi('Toronto', 9, 23, 169.96491043203372, 'Unhealthy').
 aqi('Bangkok', 6, 5, 174.71517386722866, 'Unhealthy').
-aqi('Cairo', 10, 16, 186.518545837724, 'Unhealthy').
+aqi('Cairo', 10, 16, 186.51854583772393, 'Unhealthy').
 aqi('London', 6, 6, 198.1153846153846, 'Unhealthy').
 aqi('Beijing', 8, 18, 164.85837723919917, 'Unhealthy').
 aqi('Sydney', 4, 14, 182.0522655426765, 'Unhealthy').
-aqi('Bangkok', 9, 1, 184.0711275026344, 'Unhealthy').
+aqi('Bangkok', 9, 1, 184.07112750263434, 'Unhealthy').
 aqi('Paris', 4, 2, 93.6832608695652, 'Moderate').
 aqi('Johannesburg', 7, 27, 96.63391304347826, 'Moderate').
 aqi('Bangkok', 9, 14, 156.91717597471023, 'Unhealthy').
@@ -26801,7 +26801,7 @@ aqi('Dubai', 10, 9, 179.39831401475237, 'Unhealthy').
 aqi('Johannesburg', 8, 20, 75.45793991416309, 'Moderate').
 aqi('Cairo', 8, 17, 88.03390557939915, 'Moderate').
 aqi('Toronto', 5, 9, 114.88743718592966, 'Poor').
-aqi('Cairo', 2, 11, 121.486432160804, 'Poor').
+aqi('Cairo', 2, 11, 121.48643216080401, 'Poor').
 aqi('Mexico City', 1, 18, 198.9828240252898, 'Unhealthy').
 aqi('Mumbai', 12, 28, 193.92792413066385, 'Unhealthy').
 aqi('Cairo', 3, 18, 191.3204425711275, 'Unhealthy').
@@ -26810,40 +26810,40 @@ aqi('Mumbai', 4, 26, 199.26680716543729, 'Unhealthy').
 aqi('Mexico City', 8, 19, 184.86628029504743, 'Unhealthy').
 aqi('London', 5, 6, 155.66248682824025, 'Unhealthy').
 aqi('Moscow', 4, 7, 172.0199157007376, 'Unhealthy').
-aqi('Moscow', 6, 13, 183.02297154899887, 'Unhealthy').
+aqi('Moscow', 6, 13, 183.02297154899895, 'Unhealthy').
 aqi('Bangkok', 1, 20, 161.977239199157, 'Unhealthy').
 aqi('Dubai', 10, 17, 118.67939698492462, 'Poor').
 aqi('Bangkok', 6, 6, 191.84710221285565, 'Unhealthy').
-aqi('Toronto', 9, 25, 184.76817702845105, 'Unhealthy').
+aqi('Toronto', 9, 25, 184.76817702845102, 'Unhealthy').
 aqi('Paris', 7, 25, 168.66375131717598, 'Unhealthy').
-aqi('Cairo', 9, 9, 104.15175879396983, 'Poor').
+aqi('Cairo', 9, 9, 104.15175879396985, 'Poor').
 aqi('Dubai', 1, 5, 193.9124341412013, 'Unhealthy').
 aqi('Seoul', 5, 15, 151.13940990516332, 'Unhealthy').
-aqi('Madrid', 7, 21, 191.2997892518441, 'Unhealthy').
+aqi('Madrid', 7, 21, 191.29978925184406, 'Unhealthy').
 aqi('Sydney', 4, 6, 154.98609062170706, 'Unhealthy').
 aqi('Moscow', 4, 12, 176.53266596417282, 'Unhealthy').
 aqi('New York', 5, 16, 140.05226130653267, 'Poor').
 aqi('Bangkok', 12, 3, 97.30747474747474, 'Moderate').
-aqi('Tokyo', 1, 25, 115.92767676767676, 'Poor').
+aqi('Tokyo', 1, 25, 115.92767676767677, 'Poor').
 aqi('Cairo', 4, 11, 91.52489270386268, 'Moderate').
 aqi('Tokyo', 1, 9, 97.51845493562232, 'Moderate').
-aqi('Paris', 8, 3, 197.5938883034773, 'Unhealthy').
+aqi('Paris', 8, 3, 197.59388830347734, 'Unhealthy').
 aqi('Mumbai', 5, 10, 105.70301507537688, 'Poor').
 aqi('Bangkok', 9, 23, 197.18598524762908, 'Unhealthy').
 aqi('Moscow', 7, 8, 169.38145416227607, 'Unhealthy').
 aqi('Tokyo', 10, 21, 110.74555555555555, 'Poor').
 aqi('Mumbai', 11, 24, 184.04014752370915, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 8, 97.0, 'Moderate').
-aqi('Dubai', 6, 6, 195.37881981032663, 'Unhealthy').
+aqi('Dubai', 6, 6, 195.37881981032666, 'Unhealthy').
 aqi('Toronto', 11, 7, 192.440885142255, 'Unhealthy').
 aqi('Los Angeles', 6, 19, 162.24573234984194, 'Unhealthy').
 aqi('Dubai', 8, 23, 125.4753768844221, 'Poor').
-aqi('Los Angeles', 12, 2, 195.01738672286612, 'Unhealthy').
+aqi('Los Angeles', 12, 2, 195.01738672286618, 'Unhealthy').
 aqi('New York', 8, 17, 199.0964172813488, 'Unhealthy').
 aqi('Paris', 12, 5, 177.29167544783982, 'Unhealthy').
 aqi('Berlin', 8, 14, 92.13476394849786, 'Moderate').
 aqi('Toronto', 10, 12, 165.34889357218125, 'Unhealthy').
-aqi('Mumbai', 12, 6, 123.3577889447236, 'Poor').
+aqi('Mumbai', 12, 6, 123.35778894472361, 'Poor').
 aqi('Mumbai', 9, 22, 189.1208640674394, 'Unhealthy').
 aqi('Madrid', 9, 3, 157.66069546891464, 'Unhealthy').
 aqi('New York', 3, 6, 158.18735511064278, 'Unhealthy').
@@ -26853,16 +26853,16 @@ aqi('Mumbai', 9, 25, 109.75070707070708, 'Poor').
 aqi('Seoul', 6, 14, 56.11304347826086, 'Moderate').
 aqi('New York', 8, 18, 161.7913593256059, 'Unhealthy').
 aqi('Los Angeles', 8, 16, 183.9781875658588, 'Unhealthy').
-aqi('Seoul', 10, 23, 93.7, 'Moderate').
+aqi('Seoul', 10, 23, 93.69999999999999, 'Moderate').
 aqi('Istanbul', 9, 10, 72.5137339055794, 'Moderate').
 aqi('Beijing', 6, 13, 66.45630434782609, 'Moderate').
-aqi('Madrid', 10, 28, 94.00643776824036, 'Moderate').
-aqi('Sydney', 7, 14, 162.0185458377239, 'Unhealthy').
+aqi('Madrid', 10, 28, 94.00643776824035, 'Moderate').
+aqi('Sydney', 7, 14, 162.01854583772393, 'Unhealthy').
 aqi('Seoul', 2, 16, 166.2473129610116, 'Unhealthy').
-aqi('Los Angeles', 3, 13, 105.9, 'Poor').
+aqi('Los Angeles', 3, 13, 105.89999999999999, 'Poor').
 aqi('London', 12, 1, 104.44723618090453, 'Poor').
 aqi('Moscow', 12, 17, 184.60295047418336, 'Unhealthy').
-aqi('Toronto', 12, 15, 181.1073761854584, 'Unhealthy').
+aqi('Toronto', 12, 15, 181.10737618545838, 'Unhealthy').
 aqi('Toronto', 9, 24, 158.2441517386723, 'Unhealthy').
 aqi('Beijing', 3, 8, 178.6496311907271, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 14, 98.5, 'Moderate').
@@ -26871,17 +26871,17 @@ aqi('Sydney', 12, 13, 162.56585879873552, 'Unhealthy').
 aqi('Cairo', 10, 28, 72.3, 'Moderate').
 aqi('Seoul', 10, 27, 114.48242424242424, 'Poor').
 aqi('New York', 9, 27, 198.4458377239199, 'Unhealthy').
-aqi('Johannesburg', 12, 4, 194.40811380400424, 'Unhealthy').
+aqi('Johannesburg', 12, 4, 194.40811380400422, 'Unhealthy').
 aqi('Beijing', 11, 25, 83.17596566523605, 'Moderate').
 aqi('Beijing', 2, 3, 199.7831401475237, 'Unhealthy').
-aqi('Madrid', 1, 16, 192.6474183350896, 'Unhealthy').
+aqi('Madrid', 1, 16, 192.64741833508958, 'Unhealthy').
 aqi('London', 6, 27, 159.95837723919917, 'Unhealthy').
 aqi('Cairo', 12, 9, 177.34330874604848, 'Unhealthy').
 aqi('Dubai', 6, 6, 59.6, 'Moderate').
 aqi('Beijing', 9, 19, 192.8178082191781, 'Unhealthy').
 aqi('Tokyo', 1, 17, 163.23192834562698, 'Unhealthy').
 aqi('Bangkok', 11, 22, 136.87587939698494, 'Poor').
-aqi('Paris', 2, 12, 122.87676767676768, 'Poor').
+aqi('Paris', 2, 12, 122.87676767676767, 'Poor').
 aqi('London', 12, 7, 135.22613065326632, 'Poor').
 aqi('Istanbul', 6, 10, 119.95161616161616, 'Poor').
 aqi('Sydney', 2, 28, 79.83543478260869, 'Moderate').
@@ -26897,7 +26897,7 @@ aqi('Toronto', 4, 27, 179.43962065331928, 'Unhealthy').
 aqi('Tokyo', 9, 7, 165.10105374077978, 'Unhealthy').
 aqi('Dubai', 8, 8, 63.744206008583696, 'Moderate').
 aqi('Sydney', 2, 24, 196.0190727081138, 'Unhealthy').
-aqi('Bangkok', 10, 22, 95.16309012875536, 'Moderate').
+aqi('Bangkok', 10, 22, 95.16309012875537, 'Moderate').
 aqi('Toronto', 6, 14, 112.9175879396985, 'Poor').
 aqi('Los Angeles', 8, 1, 139.978391959799, 'Poor').
 aqi('Bangkok', 9, 19, 96.64424242424244, 'Moderate').
@@ -26909,16 +26909,16 @@ aqi('Los Angeles', 5, 15, 178.62381454162275, 'Unhealthy').
 aqi('Istanbul', 6, 3, 199.50432033719704, 'Unhealthy').
 aqi('Berlin', 6, 12, 88.58068669527897, 'Moderate').
 aqi('London', 9, 24, 195.52339304531085, 'Unhealthy').
-aqi('Bangkok', 10, 3, 195.4201264488936, 'Unhealthy').
-aqi('Madrid', 1, 17, 187.30853530031607, 'Unhealthy').
-aqi('Paris', 9, 13, 197.454478398314, 'Unhealthy').
+aqi('Bangkok', 10, 3, 195.42012644889357, 'Unhealthy').
+aqi('Madrid', 1, 17, 187.30853530031612, 'Unhealthy').
+aqi('Paris', 9, 13, 197.45447839831402, 'Unhealthy').
 aqi('Paris', 11, 15, 189.7972602739726, 'Unhealthy').
 aqi('Johannesburg', 7, 9, 165.89104320337196, 'Unhealthy').
 aqi('Istanbul', 10, 14, 173.81159114857746, 'Unhealthy').
-aqi('Beijing', 7, 22, 191.56828240252892, 'Unhealthy').
+aqi('Beijing', 7, 22, 191.56828240252898, 'Unhealthy').
 aqi('Istanbul', 8, 13, 75.2336956521739, 'Moderate').
 aqi('Mumbai', 1, 24, 118.48241206030151, 'Poor').
-aqi('Rio de Janeiro', 4, 20, 118.01141414141416, 'Poor').
+aqi('Rio de Janeiro', 4, 20, 118.01141414141415, 'Poor').
 aqi('Dubai', 1, 7, 69.65464646464646, 'Moderate').
 aqi('Mexico City', 4, 16, 160.75353003161223, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 14, 189.18798735511064, 'Unhealthy').
@@ -26933,43 +26933,43 @@ aqi('Tokyo', 7, 22, 176.7082191780822, 'Unhealthy').
 aqi('Mumbai', 6, 14, 159.3232876712329, 'Unhealthy').
 aqi('Mumbai', 3, 10, 153.93793466807165, 'Unhealthy').
 aqi('Berlin', 5, 19, 187.2259220231823, 'Unhealthy').
-aqi('Cairo', 1, 23, 182.96101159114852, 'Unhealthy').
+aqi('Cairo', 1, 23, 182.96101159114858, 'Unhealthy').
 aqi('Los Angeles', 5, 19, 192.36343519494204, 'Unhealthy').
 aqi('Seoul', 7, 24, 152.40442571127502, 'Unhealthy').
-aqi('Los Angeles', 4, 24, 122.42211055276384, 'Poor').
+aqi('Los Angeles', 4, 24, 122.42211055276383, 'Poor').
 aqi('Dubai', 1, 20, 167.32644889357218, 'Unhealthy').
 aqi('Paris', 10, 8, 187.78872497365649, 'Unhealthy').
 aqi('Madrid', 11, 12, 49.66981132075472, 'Good').
 aqi('Sydney', 4, 6, 151.66606954689146, 'Unhealthy').
-aqi('London', 1, 5, 118.97161616161615, 'Poor').
-aqi('Toronto', 9, 22, 121.26323232323232, 'Poor').
+aqi('London', 1, 5, 118.97161616161617, 'Poor').
+aqi('Toronto', 9, 22, 121.26323232323233, 'Poor').
 aqi('Dubai', 8, 9, 197.92434141201264, 'Unhealthy').
-aqi('Berlin', 10, 17, 185.76469968387772, 'Unhealthy').
+aqi('Berlin', 10, 17, 185.76469968387778, 'Unhealthy').
 aqi('Johannesburg', 8, 11, 155.9, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 2, 157.5419388830348, 'Unhealthy').
-aqi('Beijing', 3, 3, 122.7381818181818, 'Poor').
+aqi('Beijing', 3, 3, 122.73818181818181, 'Poor').
 aqi('Rio de Janeiro', 7, 17, 108.65778894472362, 'Poor').
 aqi('Cairo', 10, 25, 135.52160804020102, 'Poor').
 aqi('Rio de Janeiro', 6, 21, 103.5608040201005, 'Poor').
-aqi('Mumbai', 8, 28, 98.9, 'Moderate').
+aqi('Mumbai', 8, 28, 98.89999999999999, 'Moderate').
 aqi('New York', 7, 6, 69.44334763948498, 'Moderate').
 aqi('Dubai', 10, 15, 192.6887249736565, 'Unhealthy').
 aqi('New York', 11, 6, 166.4331928345627, 'Unhealthy').
 aqi('Bangkok', 10, 15, 182.5995785036881, 'Unhealthy').
 aqi('Toronto', 2, 23, 135.32462311557788, 'Poor').
-aqi('Madrid', 10, 26, 120.2881818181818, 'Poor').
+aqi('Madrid', 10, 26, 120.28818181818181, 'Poor').
 aqi('Los Angeles', 9, 25, 153.48356164383563, 'Unhealthy').
 aqi('Istanbul', 5, 20, 85.32103004291847, 'Moderate').
 aqi('Mexico City', 12, 28, 108.63316582914574, 'Poor').
 aqi('Beijing', 1, 11, 153.8449947312961, 'Unhealthy').
-aqi('London', 5, 16, 188.3670179135933, 'Unhealthy').
+aqi('London', 5, 16, 188.36701791359326, 'Unhealthy').
 aqi('Moscow', 8, 16, 166.62939936775552, 'Unhealthy').
 aqi('Madrid', 6, 18, 158.3577449947313, 'Unhealthy').
 aqi('Berlin', 10, 6, 173.48113804004214, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 4, 187.88166491043205, 'Unhealthy').
 aqi('Beijing', 6, 15, 167.63108535300316, 'Unhealthy').
 aqi('Toronto', 12, 13, 160.14425711275027, 'Unhealthy').
-aqi('Cairo', 10, 12, 197.95015806111692, 'Unhealthy').
+aqi('Cairo', 10, 12, 197.95015806111698, 'Unhealthy').
 aqi('Mexico City', 9, 28, 114.02562814070352, 'Poor').
 aqi('New York', 3, 2, 181.02476290832456, 'Unhealthy').
 aqi('Mumbai', 9, 26, 180.12118018967334, 'Unhealthy').
@@ -26977,7 +26977,7 @@ aqi('Istanbul', 7, 28, 173.00094836670178, 'Unhealthy').
 aqi('Tokyo', 7, 20, 186.80252897787145, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 12, 162.0082191780822, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 2, 195.41496311907272, 'Unhealthy').
-aqi('Dubai', 4, 12, 194.2893572181244, 'Unhealthy').
+aqi('Dubai', 4, 12, 194.28935721812434, 'Unhealthy').
 aqi('New York', 6, 26, 176.9095890410959, 'Unhealthy').
 aqi('Moscow', 2, 22, 160.77418335089567, 'Unhealthy').
 aqi('Johannesburg', 12, 5, 197.0259220231823, 'Unhealthy').
@@ -26987,10 +26987,10 @@ aqi('London', 7, 18, 90.94737373737374, 'Moderate').
 aqi('Cairo', 11, 4, 185.9350895679663, 'Unhealthy').
 aqi('Mumbai', 6, 16, 167.1922023182297, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 19, 155.6986301369863, 'Unhealthy').
-aqi('Toronto', 5, 23, 194.5475237091676, 'Unhealthy').
+aqi('Toronto', 5, 23, 194.54752370916754, 'Unhealthy').
 aqi('Mumbai', 4, 14, 169.61380400421496, 'Unhealthy').
 aqi('Mumbai', 4, 12, 191.83161222339305, 'Unhealthy').
-aqi('Beijing', 1, 22, 95.87811158798284, 'Moderate').
+aqi('Beijing', 1, 22, 95.87811158798283, 'Moderate').
 aqi('Cairo', 4, 25, 178.7477344573235, 'Unhealthy').
 aqi('Sydney', 9, 27, 154.722760800843, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 23, 199.6437302423604, 'Unhealthy').
@@ -26999,14 +26999,14 @@ aqi('Istanbul', 3, 28, 186.28619599578505, 'Unhealthy').
 aqi('Istanbul', 4, 1, 194.7540569020021, 'Unhealthy').
 aqi('Bangkok', 2, 17, 190.8041095890411, 'Unhealthy').
 aqi('Seoul', 3, 28, 153.54552160168598, 'Unhealthy').
-aqi('Johannesburg', 7, 25, 183.98851422550047, 'Unhealthy').
+aqi('Johannesburg', 7, 25, 183.98851422550052, 'Unhealthy').
 aqi('Los Angeles', 8, 17, 173.15584826132772, 'Unhealthy').
 aqi('Johannesburg', 11, 17, 190.7214963119073, 'Unhealthy').
 aqi('Mumbai', 6, 19, 103.68757575757576, 'Poor').
 aqi('Seoul', 6, 14, 185.34646996838777, 'Unhealthy').
 aqi('Beijing', 2, 1, 174.3640674394099, 'Unhealthy').
-aqi('Toronto', 9, 25, 122.28282828282828, 'Poor').
-aqi('Los Angeles', 12, 11, 98.84676767676768, 'Moderate').
+aqi('Toronto', 9, 25, 122.28282828282829, 'Poor').
+aqi('Los Angeles', 12, 11, 98.84676767676767, 'Moderate').
 aqi('Sydney', 1, 10, 122.8569696969697, 'Poor').
 aqi('Seoul', 4, 7, 167.8995785036881, 'Unhealthy').
 aqi('Madrid', 4, 4, 170.95110642781876, 'Unhealthy').
@@ -27018,18 +27018,18 @@ aqi('London', 3, 10, 193.74204425711275, 'Unhealthy').
 aqi('Mumbai', 11, 18, 188.0881981032666, 'Unhealthy').
 aqi('Sydney', 2, 18, 160.07197049525817, 'Unhealthy').
 aqi('Seoul', 10, 24, 84.59222222222223, 'Moderate').
-aqi('Paris', 6, 27, 140.15075376884425, 'Poor').
-aqi('Toronto', 5, 7, 106.78643216080404, 'Poor').
+aqi('Paris', 6, 27, 140.15075376884423, 'Poor').
+aqi('Toronto', 5, 7, 106.78643216080403, 'Poor').
 aqi('Dubai', 2, 20, 165.23530031612222, 'Unhealthy').
 aqi('Beijing', 11, 13, 88.3358695652174, 'Moderate').
 aqi('Berlin', 6, 11, 188.31022128556376, 'Unhealthy').
-aqi('Los Angeles', 1, 2, 112.4497487437186, 'Poor').
-aqi('Beijing', 2, 19, 105.45454545454544, 'Poor').
+aqi('Los Angeles', 1, 2, 112.44974874371859, 'Poor').
+aqi('Beijing', 2, 19, 105.45454545454545, 'Poor').
 aqi('Berlin', 3, 24, 182.7441517386723, 'Unhealthy').
-aqi('Mumbai', 10, 17, 198.7401475237092, 'Unhealthy').
+aqi('Mumbai', 10, 17, 198.74014752370917, 'Unhealthy').
 aqi('Dubai', 6, 17, 176.0163329820864, 'Unhealthy').
 aqi('Istanbul', 8, 6, 151.531822971549, 'Unhealthy').
-aqi('Madrid', 8, 21, 94.49282608695653, 'Moderate').
+aqi('Madrid', 8, 21, 94.49282608695651, 'Moderate').
 aqi('Madrid', 8, 27, 169.954583772392, 'Unhealthy').
 aqi('Paris', 3, 11, 53.63846153846154, 'Moderate').
 aqi('Moscow', 4, 28, 177.5085353003161, 'Unhealthy').
@@ -27038,19 +27038,19 @@ aqi('Mumbai', 2, 8, 188.72328767123287, 'Unhealthy').
 aqi('Bangkok', 1, 1, 176.3777660695469, 'Unhealthy').
 aqi('Beijing', 2, 3, 84.5, 'Moderate').
 aqi('Beijing', 3, 9, 98.02317596566525, 'Moderate').
-aqi('Berlin', 2, 16, 199.3494204425712, 'Unhealthy').
-aqi('Berlin', 5, 18, 180.60653319283452, 'Unhealthy').
-aqi('Cairo', 4, 5, 97.0137339055794, 'Moderate').
+aqi('Berlin', 2, 16, 199.34942044257113, 'Unhealthy').
+aqi('Berlin', 5, 18, 180.60653319283458, 'Unhealthy').
+aqi('Cairo', 4, 5, 97.01373390557939, 'Moderate').
 aqi('Toronto', 11, 9, 176.86828240252896, 'Unhealthy').
 aqi('Toronto', 10, 22, 167.65690200210747, 'Unhealthy').
 aqi('Bangkok', 2, 2, 172.24193888303478, 'Unhealthy').
 aqi('Tokyo', 7, 3, 137.1959798994975, 'Poor').
 aqi('Johannesburg', 10, 12, 171.61201264488935, 'Unhealthy').
-aqi('Los Angeles', 11, 4, 101.480101010101, 'Poor').
+aqi('Los Angeles', 11, 4, 101.48010101010101, 'Poor').
 aqi('Seoul', 8, 18, 131.26180904522613, 'Poor').
 aqi('Madrid', 7, 14, 197.1963119072708, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 3, 162.04952581664912, 'Unhealthy').
-aqi('Cairo', 3, 2, 96.04635193133048, 'Moderate').
+aqi('Cairo', 3, 2, 96.04635193133049, 'Moderate').
 aqi('Paris', 12, 22, 182.6150684931507, 'Unhealthy').
 aqi('Johannesburg', 1, 2, 104.85070707070707, 'Poor').
 aqi('Istanbul', 7, 7, 152.83298208640673, 'Unhealthy').
@@ -27059,15 +27059,15 @@ aqi('London', 12, 24, 157.74847207586933, 'Unhealthy').
 aqi('Berlin', 7, 11, 111.9819095477387, 'Poor').
 aqi('Moscow', 3, 22, 177.7976817702845, 'Unhealthy').
 aqi('Seoul', 4, 6, 86.50767676767677, 'Moderate').
-aqi('London', 3, 28, 187.60800842992623, 'Unhealthy').
+aqi('London', 3, 28, 187.60800842992626, 'Unhealthy').
 aqi('Berlin', 4, 26, 174.15753424657535, 'Unhealthy').
 aqi('Seoul', 1, 17, 167.29030558482614, 'Unhealthy').
-aqi('Rio de Janeiro', 1, 3, 186.781875658588, 'Unhealthy').
+aqi('Rio de Janeiro', 1, 3, 186.78187565858798, 'Unhealthy').
 aqi('Seoul', 11, 17, 175.7581664910432, 'Unhealthy').
 aqi('Toronto', 5, 2, 184.87144362486828, 'Unhealthy').
 aqi('Istanbul', 7, 25, 104.9643216080402, 'Poor').
 aqi('Cairo', 10, 14, 67.78197424892704, 'Moderate').
-aqi('Mexico City', 3, 18, 109.320101010101, 'Poor').
+aqi('Mexico City', 3, 18, 109.32010101010101, 'Poor').
 aqi('Dubai', 1, 6, 112.74522613065328, 'Poor').
 aqi('London', 12, 1, 187.88166491043205, 'Unhealthy').
 aqi('Bangkok', 1, 6, 183.6477344573235, 'Unhealthy').
@@ -27079,7 +27079,7 @@ aqi('Rio de Janeiro', 2, 12, 192.13624868282403, 'Unhealthy').
 aqi('Los Angeles', 8, 19, 193.7781875658588, 'Unhealthy').
 aqi('Toronto', 1, 18, 186.2035827186512, 'Unhealthy').
 aqi('Mumbai', 9, 2, 157.9240252897787, 'Unhealthy').
-aqi('Johannesburg', 3, 13, 93.3, 'Moderate').
+aqi('Johannesburg', 3, 13, 93.30000000000001, 'Moderate').
 aqi('Beijing', 2, 4, 170.70842992623815, 'Unhealthy').
 aqi('Johannesburg', 6, 1, 73.83862660944206, 'Moderate').
 aqi('Bangkok', 8, 12, 160.94973656480505, 'Unhealthy').
@@ -27088,59 +27088,59 @@ aqi('Toronto', 10, 1, 158.49199157007376, 'Unhealthy').
 aqi('Bangkok', 2, 7, 188.83171759747103, 'Unhealthy').
 aqi('Beijing', 12, 24, 138.42713567839198, 'Poor').
 aqi('Los Angeles', 4, 5, 179.2072708113804, 'Unhealthy').
-aqi('London', 8, 18, 194.0983140147524, 'Unhealthy').
+aqi('London', 8, 18, 194.09831401475236, 'Unhealthy').
 aqi('Toronto', 3, 16, 161.445416227608, 'Unhealthy').
 aqi('Beijing', 1, 10, 167.53298208640675, 'Unhealthy').
-aqi('London', 6, 23, 187.76807165437305, 'Unhealthy').
+aqi('London', 6, 23, 187.76807165437302, 'Unhealthy').
 aqi('Mexico City', 4, 23, 191.3927291886196, 'Unhealthy').
 aqi('Beijing', 1, 3, 191.91422550052687, 'Unhealthy').
 aqi('Mexico City', 9, 4, 164.35237091675447, 'Unhealthy').
-aqi('New York', 10, 18, 195.60084299262385, 'Unhealthy').
+aqi('New York', 10, 18, 195.60084299262383, 'Unhealthy').
 aqi('Istanbul', 10, 18, 82.13727272727273, 'Moderate').
 aqi('Berlin', 4, 27, 198.3735511064278, 'Unhealthy').
 aqi('Dubai', 1, 20, 163.1596417281349, 'Unhealthy').
-aqi('Mumbai', 8, 5, 189.96248682824023, 'Unhealthy').
+aqi('Mumbai', 8, 5, 189.96248682824026, 'Unhealthy').
 aqi('Beijing', 1, 2, 128.67638190954776, 'Poor').
-aqi('Mumbai', 5, 25, 122.43131313131316, 'Poor').
-aqi('Mexico City', 11, 20, 105.39310344827584, 'Poor').
-aqi('Berlin', 4, 24, 188.3670179135933, 'Unhealthy').
+aqi('Mumbai', 5, 25, 122.43131313131315, 'Poor').
+aqi('Mexico City', 11, 20, 105.39310344827585, 'Poor').
+aqi('Berlin', 4, 24, 188.36701791359326, 'Unhealthy').
 aqi('Beijing', 2, 28, 159.30263435194942, 'Unhealthy').
-aqi('Toronto', 8, 11, 198.063751317176, 'Unhealthy').
+aqi('Toronto', 8, 11, 198.06375131717598, 'Unhealthy').
 aqi('Tokyo', 4, 2, 109.66161616161617, 'Poor').
 aqi('Los Angeles', 6, 9, 166.4331928345627, 'Unhealthy').
 aqi('Los Angeles', 1, 27, 159.11675447839832, 'Unhealthy').
 aqi('Toronto', 2, 1, 188.46512118018967, 'Unhealthy').
-aqi('Toronto', 12, 17, 192.66290832455212, 'Unhealthy').
+aqi('Toronto', 12, 17, 192.66290832455218, 'Unhealthy').
 aqi('Cairo', 9, 11, 97.1, 'Moderate').
 aqi('Berlin', 9, 27, 185.53234984193887, 'Unhealthy').
 aqi('Berlin', 8, 14, 172.37618545837725, 'Unhealthy').
 aqi('Seoul', 7, 3, 142.36683417085428, 'Poor').
 aqi('Sydney', 4, 16, 98.26767676767676, 'Moderate').
-aqi('Cairo', 7, 6, 110.28291457286431, 'Poor').
+aqi('Cairo', 7, 6, 110.28291457286433, 'Poor').
 aqi('Madrid', 8, 21, 158.38872497365648, 'Unhealthy').
-aqi('Cairo', 3, 6, 193.1379346680717, 'Unhealthy').
+aqi('Cairo', 3, 6, 193.13793466807167, 'Unhealthy').
 aqi('Mumbai', 5, 3, 141.3326633165829, 'Poor').
-aqi('Los Angeles', 3, 5, 190.37038988408847, 'Unhealthy').
+aqi('Los Angeles', 3, 5, 190.37038988408852, 'Unhealthy').
 aqi('Dubai', 2, 24, 70.30557939914164, 'Moderate').
 aqi('Dubai', 9, 6, 182.60474183350897, 'Unhealthy').
-aqi('Cairo', 12, 12, 198.481981032666, 'Unhealthy').
-aqi('Mexico City', 11, 25, 171.7617492096944, 'Unhealthy').
+aqi('Cairo', 12, 12, 198.48198103266597, 'Unhealthy').
+aqi('Mexico City', 11, 25, 171.76174920969441, 'Unhealthy').
 aqi('Sydney', 9, 14, 199.53530031612223, 'Unhealthy').
 aqi('Sydney', 10, 11, 79.4, 'Moderate').
 aqi('Berlin', 6, 19, 186.1622760800843, 'Unhealthy').
 aqi('New York', 4, 17, 156.25110642781877, 'Unhealthy').
 aqi('Cairo', 3, 28, 163.68113804004216, 'Unhealthy').
-aqi('Beijing', 12, 26, 188.873024236038, 'Unhealthy').
+aqi('Beijing', 12, 26, 188.87302423603793, 'Unhealthy').
 aqi('Bangkok', 3, 18, 177.69441517386724, 'Unhealthy').
 aqi('Berlin', 12, 5, 188.32571127502635, 'Unhealthy').
 aqi('Cairo', 3, 27, 178.14362486828242, 'Unhealthy').
-aqi('Madrid', 4, 3, 154.7279241306639, 'Unhealthy').
+aqi('Madrid', 4, 3, 154.72792413066387, 'Unhealthy').
 aqi('Berlin', 10, 12, 111.61666666666666, 'Poor').
 aqi('Tokyo', 5, 9, 190.76280295047417, 'Unhealthy').
 aqi('Mexico City', 6, 6, 177.89578503688094, 'Unhealthy').
 aqi('Sydney', 12, 14, 70.81304347826087, 'Moderate').
 aqi('Tokyo', 7, 5, 118.40854271356784, 'Poor').
-aqi('Cairo', 8, 13, 194.0776606954689, 'Unhealthy').
+aqi('Cairo', 8, 13, 194.07766069546892, 'Unhealthy').
 aqi('Cairo', 12, 6, 104.4718592964824, 'Poor').
 aqi('Mumbai', 11, 25, 171.94762908324552, 'Unhealthy').
 aqi('Moscow', 10, 2, 80.4, 'Moderate').
@@ -27167,19 +27167,19 @@ aqi('Dubai', 1, 8, 89.40085836909871, 'Moderate').
 aqi('Dubai', 11, 14, 175.79430979978926, 'Unhealthy').
 aqi('Mumbai', 10, 27, 180.55489989462592, 'Unhealthy').
 aqi('Seoul', 1, 6, 178.8613277133825, 'Unhealthy').
-aqi('Bangkok', 3, 10, 186.02802950474185, 'Unhealthy').
-aqi('Bangkok', 1, 23, 109.1502512562814, 'Poor').
+aqi('Bangkok', 3, 10, 186.02802950474182, 'Unhealthy').
+aqi('Bangkok', 1, 23, 109.15025125628141, 'Poor').
 aqi('London', 1, 12, 153.23572181243415, 'Unhealthy').
 aqi('Mexico City', 4, 5, 156.3440463645943, 'Unhealthy').
 aqi('Cairo', 4, 12, 166.1027397260274, 'Unhealthy').
 aqi('Johannesburg', 10, 14, 169.16975763962066, 'Unhealthy').
 aqi('Mumbai', 8, 13, 186.46691253951528, 'Unhealthy').
-aqi('Moscow', 4, 10, 111.12666666666668, 'Poor').
+aqi('Moscow', 4, 10, 111.12666666666667, 'Poor').
 aqi('Sydney', 4, 17, 163.7017913593256, 'Unhealthy').
 aqi('London', 3, 26, 158.0427818756586, 'Unhealthy').
 aqi('Toronto', 12, 27, 156.05489989462592, 'Unhealthy').
 aqi('Toronto', 11, 2, 181.0299262381454, 'Unhealthy').
-aqi('Los Angeles', 3, 4, 190.7576396206533, 'Unhealthy').
+aqi('Los Angeles', 3, 4, 190.75763962065332, 'Unhealthy').
 aqi('Tokyo', 1, 28, 146.9713567839196, 'Poor').
 aqi('Seoul', 12, 17, 169.12845100105375, 'Unhealthy').
 aqi('Istanbul', 3, 20, 198.41485774499475, 'Unhealthy').
@@ -27189,23 +27189,23 @@ aqi('Mumbai', 2, 27, 156.77260273972604, 'Unhealthy').
 aqi('Dubai', 5, 13, 42.25000000000001, 'Good').
 aqi('Beijing', 3, 24, 170.0991570073762, 'Unhealthy').
 aqi('Cairo', 7, 15, 61.74230769230769, 'Moderate').
-aqi('Berlin', 3, 12, 187.0193888303477, 'Unhealthy').
-aqi('Berlin', 3, 6, 181.6030558482613, 'Unhealthy').
+aqi('Berlin', 3, 12, 187.01938883034774, 'Unhealthy').
+aqi('Berlin', 3, 6, 181.60305584826133, 'Unhealthy').
 aqi('Mumbai', 10, 4, 198.63688092729188, 'Unhealthy').
 aqi('Mumbai', 11, 14, 175.6600632244468, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 27, 103.3391959798995, 'Poor').
 aqi('Mexico City', 8, 7, 181.27260273972604, 'Unhealthy').
 aqi('Madrid', 10, 5, 93.81716738197426, 'Moderate').
-aqi('Rio de Janeiro', 5, 23, 105.24666666666668, 'Poor').
+aqi('Rio de Janeiro', 5, 23, 105.24666666666667, 'Poor').
 aqi('Bangkok', 3, 26, 178.9749209694415, 'Unhealthy').
 aqi('Los Angeles', 12, 11, 175.3451001053741, 'Unhealthy').
 aqi('Istanbul', 12, 4, 101.0, 'Poor').
 aqi('Bangkok', 12, 21, 63.53760869565217, 'Moderate').
 aqi('Moscow', 9, 3, 192.4873551106428, 'Unhealthy').
 aqi('New York', 3, 16, 184.59262381454164, 'Unhealthy').
-aqi('Istanbul', 9, 3, 106.00888888888888, 'Poor').
+aqi('Istanbul', 9, 3, 106.00888888888889, 'Poor').
 aqi('Rio de Janeiro', 8, 12, 135.12763819095477, 'Poor').
-aqi('Moscow', 10, 5, 187.4944151738672, 'Unhealthy').
+aqi('Moscow', 10, 5, 187.49441517386722, 'Unhealthy').
 aqi('Beijing', 4, 18, 167.68788198103266, 'Unhealthy').
 aqi('London', 4, 26, 87.8, 'Moderate').
 aqi('New York', 4, 5, 122.29272727272728, 'Poor').
@@ -27215,40 +27215,40 @@ aqi('Toronto', 1, 6, 174.47249736564805, 'Unhealthy').
 aqi('Berlin', 7, 7, 185.6872497365648, 'Unhealthy').
 aqi('Madrid', 6, 8, 177.4982086406744, 'Unhealthy').
 aqi('London', 8, 9, 83.39444444444445, 'Moderate').
-aqi('Dubai', 8, 17, 102.05879396984923, 'Poor').
-aqi('Sydney', 3, 24, 197.59905163329825, 'Unhealthy').
+aqi('Dubai', 8, 17, 102.05879396984925, 'Poor').
+aqi('Sydney', 3, 24, 197.59905163329822, 'Unhealthy').
 aqi('Berlin', 5, 17, 151.10326659641728, 'Unhealthy').
 aqi('Los Angeles', 8, 16, 162.93245521601685, 'Unhealthy').
-aqi('Seoul', 12, 7, 91.4, 'Moderate').
+aqi('Seoul', 12, 7, 91.39999999999999, 'Moderate').
 aqi('Tokyo', 7, 27, 153.61780821917807, 'Unhealthy').
 aqi('Paris', 4, 8, 87.29785407725322, 'Moderate').
-aqi('Johannesburg', 3, 10, 176.78566912539517, 'Unhealthy').
-aqi('Tokyo', 5, 25, 109.1221212121212, 'Poor').
-aqi('New York', 9, 4, 183.4566912539516, 'Unhealthy').
+aqi('Johannesburg', 3, 10, 176.78566912539515, 'Unhealthy').
+aqi('Tokyo', 5, 25, 109.12212121212121, 'Poor').
+aqi('New York', 9, 4, 183.45669125395153, 'Unhealthy').
 aqi('London', 7, 9, 177.95774499473129, 'Unhealthy').
 aqi('New York', 8, 1, 163.75342465753425, 'Unhealthy').
 aqi('Mexico City', 8, 16, 164.23877766069546, 'Unhealthy').
 aqi('Los Angeles', 2, 6, 67.64515151515151, 'Moderate').
-aqi('Paris', 7, 24, 189.47197049525812, 'Unhealthy').
+aqi('Paris', 7, 24, 189.47197049525818, 'Unhealthy').
 aqi('Sydney', 7, 14, 155.96712328767123, 'Unhealthy').
 aqi('Istanbul', 7, 10, 176.66691253951527, 'Unhealthy').
-aqi('Tokyo', 5, 9, 97.2, 'Moderate').
+aqi('Tokyo', 5, 9, 97.19999999999999, 'Moderate').
 aqi('Beijing', 3, 22, 74.47739130434783, 'Moderate').
 aqi('Los Angeles', 10, 11, 175.2108535300316, 'Unhealthy').
 aqi('Toronto', 2, 1, 140.76633165829145, 'Poor').
-aqi('Dubai', 1, 14, 193.2670179135933, 'Unhealthy').
+aqi('Dubai', 1, 14, 193.26701791359326, 'Unhealthy').
 aqi('Beijing', 1, 21, 147.9316582914573, 'Poor').
 aqi('Paris', 8, 12, 158.00663856691253, 'Unhealthy').
-aqi('Bangkok', 8, 10, 113.48262626262628, 'Poor').
+aqi('Bangkok', 8, 10, 113.48262626262627, 'Poor').
 aqi('New York', 6, 2, 130.07989949748745, 'Poor').
 aqi('Johannesburg', 1, 16, 80.17630434782609, 'Moderate').
 aqi('Beijing', 1, 24, 81.40944206008584, 'Moderate').
 aqi('Istanbul', 7, 17, 152.80716543730242, 'Unhealthy').
-aqi('Mexico City', 3, 25, 193.5303477344573, 'Unhealthy').
+aqi('Mexico City', 3, 25, 193.53034773445734, 'Unhealthy').
 aqi('Moscow', 2, 6, 115.7890909090909, 'Poor').
-aqi('Cairo', 12, 15, 190.61822971549, 'Unhealthy').
+aqi('Cairo', 12, 15, 190.61822971548997, 'Unhealthy').
 aqi('Dubai', 4, 2, 118.85282828282828, 'Poor').
-aqi('Toronto', 3, 15, 140.3477386934673, 'Poor').
+aqi('Toronto', 3, 15, 140.34773869346733, 'Poor').
 aqi('Mexico City', 6, 5, 181.38103266596417, 'Unhealthy').
 aqi('Istanbul', 3, 26, 169.08198103266596, 'Unhealthy').
 aqi('Berlin', 6, 7, 65.27434343434344, 'Moderate').
@@ -27262,7 +27262,7 @@ aqi('Beijing', 4, 9, 175.63940990516332, 'Unhealthy').
 aqi('Toronto', 2, 4, 176.48103266596416, 'Unhealthy').
 aqi('Mexico City', 10, 8, 179.99209694415174, 'Unhealthy').
 aqi('Berlin', 3, 13, 116.14050505050506, 'Poor').
-aqi('London', 8, 7, 192.2291886195996, 'Unhealthy').
+aqi('London', 8, 7, 192.22918861959957, 'Unhealthy').
 aqi('Dubai', 10, 6, 81.36738197424893, 'Moderate').
 aqi('Paris', 9, 8, 154.92929399367756, 'Unhealthy').
 aqi('Toronto', 5, 16, 154.0308746048472, 'Unhealthy').
@@ -27271,9 +27271,9 @@ aqi('Bangkok', 12, 15, 82.4, 'Moderate').
 aqi('Toronto', 1, 18, 168.699894625922, 'Unhealthy').
 aqi('Seoul', 6, 17, 173.5327713382508, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 16, 155.38883034773446, 'Unhealthy').
-aqi('Moscow', 12, 25, 56.70676767676768, 'Moderate').
+aqi('Moscow', 12, 25, 56.706767676767676, 'Moderate').
 aqi('Cairo', 9, 5, 170.3108535300316, 'Unhealthy').
-aqi('Tokyo', 11, 21, 185.0831401475237, 'Unhealthy').
+aqi('Tokyo', 11, 21, 185.08314014752372, 'Unhealthy').
 aqi('Dubai', 6, 8, 67.06948717948718, 'Moderate').
 aqi('Mumbai', 11, 24, 164.09936775553214, 'Unhealthy').
 aqi('Istanbul', 11, 3, 198.0017913593256, 'Unhealthy').
@@ -27284,7 +27284,7 @@ aqi('Mumbai', 7, 11, 178.13846153846154, 'Unhealthy').
 aqi('Cairo', 8, 4, 171.14731296101158, 'Unhealthy').
 aqi('Cairo', 6, 17, 87.19565656565656, 'Moderate').
 aqi('Mexico City', 2, 1, 196.53024236037936, 'Unhealthy').
-aqi('Berlin', 8, 24, 104.93969849246233, 'Poor').
+aqi('Berlin', 8, 24, 104.93969849246231, 'Poor').
 aqi('Sydney', 4, 19, 161.62613277133826, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 8, 185.07797681770285, 'Unhealthy').
 aqi('London', 1, 15, 99.93690987124464, 'Moderate').
@@ -27295,18 +27295,18 @@ aqi('Tokyo', 7, 27, 117.58080808080808, 'Poor').
 aqi('Mumbai', 6, 13, 153.2563751317176, 'Unhealthy').
 aqi('Beijing', 8, 15, 137.07286432160805, 'Poor').
 aqi('Beijing', 4, 11, 163.0253951527924, 'Unhealthy').
-aqi('Sydney', 2, 27, 104.91507537688445, 'Poor').
+aqi('Sydney', 2, 27, 104.91507537688443, 'Poor').
 aqi('Tokyo', 12, 10, 118.7040201005025, 'Poor').
 aqi('Toronto', 3, 25, 176.12992623814543, 'Unhealthy').
-aqi('Berlin', 3, 9, 189.9211801896733, 'Unhealthy').
+aqi('Berlin', 3, 9, 189.92118018967335, 'Unhealthy').
 aqi('Mexico City', 4, 9, 193.08113804004216, 'Unhealthy').
 aqi('Madrid', 1, 11, 170.41928345626977, 'Unhealthy').
 aqi('Istanbul', 7, 19, 155.79157007376185, 'Unhealthy').
-aqi('Rio de Janeiro', 1, 20, 99.35656565656564, 'Moderate').
+aqi('Rio de Janeiro', 1, 20, 99.35656565656565, 'Moderate').
 aqi('Berlin', 12, 25, 172.536248682824, 'Unhealthy').
-aqi('Istanbul', 9, 9, 191.4030558482613, 'Unhealthy').
+aqi('Istanbul', 9, 9, 191.40305584826132, 'Unhealthy').
 aqi('Tokyo', 12, 13, 118.33313131313132, 'Poor').
-aqi('Mumbai', 4, 19, 196.9020021074816, 'Unhealthy').
+aqi('Mumbai', 4, 19, 196.90200210748156, 'Unhealthy').
 aqi('Paris', 2, 28, 159.9790305584826, 'Unhealthy').
 aqi('Tokyo', 5, 21, 168.09062170706005, 'Unhealthy').
 aqi('Berlin', 8, 1, 170.65163329820865, 'Unhealthy').
@@ -27323,7 +27323,7 @@ aqi('Tokyo', 6, 24, 136.23567839195982, 'Poor').
 aqi('Tokyo', 2, 12, 67.95696969696971, 'Moderate').
 aqi('Seoul', 9, 6, 169.9390937829294, 'Unhealthy').
 aqi('Madrid', 2, 18, 125.7708542713568, 'Poor').
-aqi('Bangkok', 8, 4, 198.063751317176, 'Unhealthy').
+aqi('Bangkok', 8, 4, 198.06375131717598, 'Unhealthy').
 aqi('Seoul', 3, 8, 169.8977871443625, 'Unhealthy').
 aqi('Johannesburg', 2, 9, 176.37260273972603, 'Unhealthy').
 aqi('Bangkok', 11, 6, 119.6889447236181, 'Poor').
@@ -27338,7 +27338,7 @@ aqi('Berlin', 1, 15, 196.10168598524763, 'Unhealthy').
 aqi('Toronto', 5, 13, 152.44573234984193, 'Unhealthy').
 aqi('Berlin', 11, 28, 84.43717391304348, 'Moderate').
 aqi('Paris', 6, 14, 178.82518440463645, 'Unhealthy').
-aqi('Los Angeles', 6, 27, 110.92311557788943, 'Poor').
+aqi('Los Angeles', 6, 27, 110.92311557788945, 'Poor').
 aqi('Moscow', 1, 21, 181.55658587987355, 'Unhealthy').
 aqi('Moscow', 9, 14, 74.2, 'Moderate').
 aqi('Berlin', 6, 10, 170.21791359325607, 'Unhealthy').
@@ -27347,29 +27347,29 @@ aqi('Cairo', 3, 19, 156.31822971549, 'Unhealthy').
 aqi('Bangkok', 6, 20, 186.28619599578505, 'Unhealthy').
 aqi('Moscow', 9, 5, 184.22602739726028, 'Unhealthy').
 aqi('Berlin', 2, 26, 81.55665236051502, 'Moderate').
-aqi('Toronto', 9, 12, 183.31728134878816, 'Unhealthy').
+aqi('Toronto', 9, 12, 183.31728134878819, 'Unhealthy').
 aqi('Istanbul', 3, 8, 168.6895679662803, 'Unhealthy').
 aqi('Sydney', 12, 1, 70.89442060085837, 'Moderate').
-aqi('Tokyo', 4, 5, 113.73015075376884, 'Poor').
+aqi('Tokyo', 4, 5, 113.73015075376885, 'Poor').
 aqi('Johannesburg', 5, 16, 172.081875658588, 'Unhealthy').
 aqi('Paris', 5, 19, 153.2976817702845, 'Unhealthy').
 aqi('Mumbai', 11, 27, 166.89789251844047, 'Unhealthy').
 aqi('Paris', 12, 6, 169.72739726027396, 'Unhealthy').
-aqi('New York', 4, 11, 193.1947312961012, 'Unhealthy').
+aqi('New York', 4, 11, 193.19473129610117, 'Unhealthy').
 aqi('New York', 5, 6, 91.86173913043478, 'Moderate').
 aqi('Bangkok', 1, 19, 134.3396984924623, 'Poor').
 aqi('Berlin', 3, 16, 127.3713567839196, 'Poor').
 aqi('Mumbai', 5, 16, 151.19620653319285, 'Unhealthy').
-aqi('Moscow', 11, 1, 95.30292929292928, 'Moderate').
-aqi('Istanbul', 4, 23, 184.8146469968388, 'Unhealthy').
+aqi('Moscow', 11, 1, 95.30292929292929, 'Moderate').
+aqi('Istanbul', 4, 23, 184.81464699683877, 'Unhealthy').
 aqi('Dubai', 4, 17, 190.53561643835616, 'Unhealthy').
-aqi('Beijing', 2, 27, 106.91379310344828, 'Poor').
+aqi('Beijing', 2, 27, 106.91379310344827, 'Poor').
 aqi('Tokyo', 9, 21, 138.5010050251256, 'Poor').
 aqi('Moscow', 2, 25, 182.26396206533192, 'Unhealthy').
 aqi('Los Angeles', 3, 25, 175.29346680716543, 'Unhealthy').
 aqi('Paris', 5, 1, 173.30558482613276, 'Unhealthy').
 aqi('Madrid', 12, 21, 95.1745652173913, 'Moderate').
-aqi('Paris', 6, 5, 107.47888888888887, 'Poor').
+aqi('Paris', 6, 5, 107.47888888888889, 'Poor').
 aqi('New York', 9, 23, 55.72676767676768, 'Moderate').
 aqi('Mexico City', 7, 9, 161.5331928345627, 'Unhealthy').
 aqi('Cairo', 9, 10, 164.41433087460484, 'Unhealthy').
@@ -27389,35 +27389,35 @@ aqi('Mexico City', 7, 27, 155.70895679662803, 'Unhealthy').
 aqi('Mumbai', 6, 17, 176.31580611169653, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 6, 177.49304531085352, 'Unhealthy').
 aqi('Moscow', 5, 2, 188.33603793466807, 'Unhealthy').
-aqi('Bangkok', 7, 26, 187.3291886195996, 'Unhealthy').
+aqi('Bangkok', 7, 26, 187.32918861959956, 'Unhealthy').
 aqi('Madrid', 12, 17, 81.98383838383839, 'Moderate').
-aqi('Cairo', 6, 5, 196.2617492096944, 'Unhealthy').
+aqi('Cairo', 6, 5, 196.26174920969441, 'Unhealthy').
 aqi('Madrid', 2, 26, 173.73930453108537, 'Unhealthy').
-aqi('Cairo', 7, 12, 60.04291845493562, 'Moderate').
+aqi('Cairo', 7, 12, 60.042918454935624, 'Moderate').
 aqi('Rio de Janeiro', 11, 19, 162.33867228661748, 'Unhealthy').
 aqi('Berlin', 12, 5, 114.96130653266331, 'Poor').
 aqi('Tokyo', 9, 20, 164.104531085353, 'Unhealthy').
-aqi('Rio de Janeiro', 3, 28, 95.8, 'Moderate').
+aqi('Rio de Janeiro', 3, 28, 95.80000000000001, 'Moderate').
 aqi('Madrid', 9, 5, 199.39072708113804, 'Unhealthy').
 aqi('Seoul', 6, 12, 153.1685985247629, 'Unhealthy').
 aqi('Madrid', 6, 13, 156.59188619599578, 'Unhealthy').
-aqi('Tokyo', 12, 24, 196.5922023182297, 'Unhealthy').
+aqi('Tokyo', 12, 24, 196.59220231822974, 'Unhealthy').
 aqi('Los Angeles', 4, 8, 153.80885142255005, 'Unhealthy').
 aqi('Madrid', 6, 25, 170.37797681770286, 'Unhealthy').
-aqi('Toronto', 3, 22, 195.0328767123288, 'Unhealthy').
-aqi('Paris', 4, 5, 185.4239199157008, 'Unhealthy').
+aqi('Toronto', 3, 22, 195.03287671232877, 'Unhealthy').
+aqi('Paris', 4, 5, 185.42391991570074, 'Unhealthy').
 aqi('Seoul', 4, 5, 177.3949420442571, 'Unhealthy').
 aqi('Beijing', 4, 19, 198.7040042149631, 'Unhealthy').
-aqi('Johannesburg', 2, 16, 127.93768844221104, 'Poor').
+aqi('Johannesburg', 2, 16, 127.93768844221105, 'Poor').
 aqi('Rio de Janeiro', 10, 3, 106.26934673366834, 'Poor').
 aqi('New York', 10, 25, 160.43340358271865, 'Unhealthy').
 aqi('Madrid', 12, 13, 166.45384615384614, 'Unhealthy').
-aqi('Johannesburg', 8, 21, 197.50094836670172, 'Unhealthy').
+aqi('Johannesburg', 8, 21, 197.50094836670178, 'Unhealthy').
 aqi('Bangkok', 3, 25, 164.49694415173866, 'Unhealthy').
 aqi('Toronto', 12, 18, 142.83467336683418, 'Poor').
-aqi('Rio de Janeiro', 6, 21, 123.60402010050252, 'Poor').
+aqi('Rio de Janeiro', 6, 21, 123.60402010050251, 'Poor').
 aqi('Mumbai', 8, 28, 179.0472075869336, 'Unhealthy').
-aqi('Cairo', 6, 11, 186.5030558482613, 'Unhealthy').
+aqi('Cairo', 6, 11, 186.50305584826134, 'Unhealthy').
 aqi('New York', 9, 20, 182.1245521601686, 'Unhealthy').
 aqi('New York', 1, 26, 107.87484848484848, 'Poor').
 aqi('Paris', 2, 10, 163.39715489989462, 'Unhealthy').
@@ -27431,12 +27431,12 @@ aqi('Mexico City', 1, 13, 186.7508956796628, 'Unhealthy').
 aqi('Seoul', 1, 5, 159.8654373024236, 'Unhealthy').
 aqi('Beijing', 5, 13, 181.03508956796628, 'Unhealthy').
 aqi('Sydney', 8, 13, 196.42697576396205, 'Unhealthy').
-aqi('Los Angeles', 7, 13, 196.2256059009484, 'Unhealthy').
+aqi('Los Angeles', 7, 13, 196.22560590094838, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 3, 170.64646996838778, 'Unhealthy').
 aqi('Bangkok', 1, 13, 156.46796628029506, 'Unhealthy').
 aqi('Istanbul', 5, 26, 159.33877766069548, 'Unhealthy').
 aqi('Cairo', 12, 2, 188.79557428872496, 'Unhealthy').
-aqi('London', 2, 8, 102.7521212121212, 'Poor').
+aqi('London', 2, 8, 102.75212121212121, 'Poor').
 aqi('Mumbai', 8, 15, 191.86775553213909, 'Unhealthy').
 aqi('Beijing', 6, 17, 195.39947312961013, 'Unhealthy').
 aqi('New York', 2, 18, 48.24285714285715, 'Good').
@@ -27458,19 +27458,19 @@ aqi('Los Angeles', 6, 6, 134.46281407035178, 'Poor').
 aqi('Toronto', 9, 7, 163.55205479452056, 'Unhealthy').
 aqi('Seoul', 12, 17, 45.708333333333336, 'Good').
 aqi('Bangkok', 9, 5, 95.3, 'Moderate').
-aqi('Mexico City', 6, 25, 127.69145728643215, 'Poor').
+aqi('Mexico City', 6, 25, 127.69145728643217, 'Poor').
 aqi('Dubai', 4, 15, 154.5626975763962, 'Unhealthy').
 aqi('London', 2, 14, 168.3900948366702, 'Unhealthy').
-aqi('Tokyo', 4, 19, 105.1278787878788, 'Poor').
-aqi('Sydney', 8, 25, 181.4584826132772, 'Unhealthy').
+aqi('Tokyo', 4, 19, 105.12787878787879, 'Poor').
+aqi('Sydney', 8, 25, 181.45848261327714, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 18, 152.87428872497367, 'Unhealthy').
 aqi('Tokyo', 3, 10, 152.38893572181243, 'Unhealthy').
 aqi('Johannesburg', 1, 22, 189.4513171759747, 'Unhealthy').
 aqi('New York', 8, 25, 172.195468914647, 'Unhealthy').
 aqi('Los Angeles', 7, 28, 167.11475237091676, 'Unhealthy').
-aqi('Moscow', 5, 20, 181.0815595363541, 'Unhealthy').
+aqi('Moscow', 5, 20, 181.08155953635406, 'Unhealthy').
 aqi('Tokyo', 7, 2, 68.99152173913043, 'Moderate').
-aqi('Berlin', 10, 13, 186.51338250790303, 'Unhealthy').
+aqi('Berlin', 10, 13, 186.51338250790306, 'Unhealthy').
 aqi('New York', 8, 3, 182.0522655426765, 'Unhealthy').
 aqi('Johannesburg', 9, 1, 106.1462311557789, 'Poor').
 aqi('Tokyo', 12, 6, 157.36122233930453, 'Unhealthy').
@@ -27482,9 +27482,9 @@ aqi('Beijing', 3, 19, 170.59483667017915, 'Unhealthy').
 aqi('Dubai', 8, 23, 160.0513171759747, 'Unhealthy').
 aqi('London', 9, 10, 198.8485774499473, 'Unhealthy').
 aqi('Mumbai', 6, 9, 189.668177028451, 'Unhealthy').
-aqi('Berlin', 7, 4, 192.4976817702845, 'Unhealthy').
+aqi('Berlin', 7, 4, 192.49768177028452, 'Unhealthy').
 aqi('Mumbai', 10, 8, 157.78977871443624, 'Unhealthy').
-aqi('Rio de Janeiro', 7, 2, 91.70195652173912, 'Moderate').
+aqi('Rio de Janeiro', 7, 2, 91.70195652173913, 'Moderate').
 aqi('Moscow', 1, 14, 176.64109589041095, 'Unhealthy').
 aqi('Cairo', 4, 17, 196.5663856691254, 'Unhealthy').
 aqi('Johannesburg', 11, 19, 151.62476290832456, 'Unhealthy').
@@ -27504,19 +27504,19 @@ aqi('New York', 11, 19, 186.3791359325606, 'Unhealthy').
 aqi('Bangkok', 6, 25, 168.2713382507903, 'Unhealthy').
 aqi('Moscow', 5, 19, 196.08619599578503, 'Unhealthy').
 aqi('Moscow', 12, 8, 128.0608040201005, 'Poor').
-aqi('Toronto', 7, 14, 193.5251844046365, 'Unhealthy').
+aqi('Toronto', 7, 14, 193.52518440463646, 'Unhealthy').
 aqi('Madrid', 9, 7, 178.07650158061116, 'Unhealthy').
 aqi('Paris', 8, 16, 112.38383838383838, 'Poor').
 aqi('Mumbai', 2, 24, 168.2868282402529, 'Unhealthy').
 aqi('Istanbul', 4, 21, 95.66781115879829, 'Moderate').
-aqi('Mumbai', 6, 21, 105.65252525252524, 'Poor').
+aqi('Mumbai', 6, 21, 105.65252525252525, 'Poor').
 aqi('Mumbai', 12, 10, 188.19146469968388, 'Unhealthy').
 aqi('Berlin', 10, 3, 164.02708113804005, 'Unhealthy').
 aqi('Istanbul', 2, 24, 166.6603793466807, 'Unhealthy').
 aqi('Berlin', 11, 17, 160.9032665964173, 'Unhealthy').
 aqi('Beijing', 7, 2, 166.29894625922023, 'Unhealthy').
 aqi('Bangkok', 2, 13, 177.24520547945207, 'Unhealthy').
-aqi('Rio de Janeiro', 11, 11, 186.518545837724, 'Unhealthy').
+aqi('Rio de Janeiro', 11, 11, 186.51854583772393, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 27, 187.4582718651212, 'Unhealthy').
 aqi('London', 11, 4, 173.72381454162277, 'Unhealthy').
 aqi('Tokyo', 4, 10, 175.5567966280295, 'Unhealthy').
@@ -27524,12 +27524,12 @@ aqi('Beijing', 4, 5, 158.4248682824025, 'Unhealthy').
 aqi('Cairo', 1, 14, 114.1310101010101, 'Poor').
 aqi('Cairo', 7, 27, 169.97523709167544, 'Unhealthy').
 aqi('Moscow', 4, 28, 161.92560590094837, 'Unhealthy').
-aqi('Seoul', 9, 26, 124.1211055276382, 'Poor').
+aqi('Seoul', 9, 26, 124.12110552763819, 'Poor').
 aqi('Cairo', 2, 2, 196.8245521601686, 'Unhealthy').
 aqi('Seoul', 3, 2, 79.8, 'Moderate').
 aqi('Madrid', 11, 23, 171.67397260273972, 'Unhealthy').
-aqi('Johannesburg', 1, 7, 108.87939698492464, 'Poor').
-aqi('Dubai', 9, 11, 112.92333333333332, 'Poor').
+aqi('Johannesburg', 1, 7, 108.87939698492463, 'Poor').
+aqi('Dubai', 9, 11, 112.92333333333333, 'Poor').
 aqi('London', 5, 5, 173.0577449947313, 'Unhealthy').
 aqi('Istanbul', 8, 12, 109.2409090909091, 'Poor').
 aqi('Paris', 9, 20, 160.7586933614331, 'Unhealthy').
@@ -27538,29 +27538,29 @@ aqi('Moscow', 1, 12, 185.10895679662804, 'Unhealthy').
 aqi('Toronto', 2, 14, 102.42814070351758, 'Poor').
 aqi('Moscow', 7, 15, 192.49251844046364, 'Unhealthy').
 aqi('Dubai', 3, 9, 110.15656565656566, 'Poor').
-aqi('London', 6, 3, 189.8179135932561, 'Unhealthy').
+aqi('London', 6, 3, 189.81791359325607, 'Unhealthy').
 aqi('Paris', 1, 10, 68.13948497854078, 'Moderate').
 aqi('Paris', 9, 18, 177.04383561643834, 'Unhealthy').
-aqi('Tokyo', 4, 16, 174.22465753424655, 'Unhealthy').
-aqi('Cairo', 3, 4, 190.5665964172813, 'Unhealthy').
+aqi('Tokyo', 4, 16, 174.22465753424657, 'Unhealthy').
+aqi('Cairo', 3, 4, 190.56659641728135, 'Unhealthy').
 aqi('Moscow', 1, 16, 165.44699683877766, 'Unhealthy').
 aqi('Cairo', 1, 1, 181.80442571127503, 'Unhealthy').
 aqi('Istanbul', 4, 4, 170.01654373024235, 'Unhealthy').
 aqi('Tokyo', 10, 19, 168.40558482613278, 'Unhealthy').
 aqi('Johannesburg', 10, 23, 156.29241306638568, 'Unhealthy').
 aqi('Moscow', 8, 8, 189.05890410958904, 'Unhealthy').
-aqi('Madrid', 4, 23, 107.0572864321608, 'Poor').
-aqi('Mexico City', 4, 9, 186.27070600632248, 'Unhealthy').
+aqi('Madrid', 4, 23, 107.05728643216081, 'Poor').
+aqi('Mexico City', 4, 9, 186.27070600632246, 'Unhealthy').
 aqi('Los Angeles', 5, 23, 184.75785036880927, 'Unhealthy').
 aqi('Bangkok', 10, 19, 177.59631190727083, 'Unhealthy').
-aqi('Los Angeles', 10, 25, 195.20842992623813, 'Unhealthy').
-aqi('Tokyo', 3, 3, 180.73561643835612, 'Unhealthy').
+aqi('Los Angeles', 10, 25, 195.20842992623815, 'Unhealthy').
+aqi('Tokyo', 3, 3, 180.73561643835617, 'Unhealthy').
 aqi('Mumbai', 3, 5, 144.60753768844222, 'Poor').
 aqi('London', 10, 13, 138.91959798994975, 'Poor').
 aqi('New York', 5, 12, 197.33055848261327, 'Unhealthy').
-aqi('Berlin', 8, 9, 59.78804347826088, 'Moderate').
+aqi('Berlin', 8, 9, 59.788043478260875, 'Moderate').
 aqi('Istanbul', 12, 25, 199.13256059009484, 'Unhealthy').
-aqi('Los Angeles', 2, 23, 195.0070600632245, 'Unhealthy').
+aqi('Los Angeles', 2, 23, 195.00706006322446, 'Unhealthy').
 aqi('Tokyo', 7, 1, 185.33614330874605, 'Unhealthy').
 aqi('Dubai', 4, 7, 187.06069546891464, 'Unhealthy').
 aqi('Dubai', 1, 3, 51.5, 'Moderate').
@@ -27585,26 +27585,26 @@ aqi('Paris', 2, 16, 175.50516332982087, 'Unhealthy').
 aqi('Bangkok', 1, 22, 183.8232876712329, 'Unhealthy').
 aqi('Bangkok', 12, 19, 84.66909871244636, 'Moderate').
 aqi('New York', 9, 11, 172.50010537407798, 'Unhealthy').
-aqi('Madrid', 3, 1, 131.4834170854271, 'Poor').
+aqi('Madrid', 3, 1, 131.48341708542713, 'Poor').
 aqi('Berlin', 5, 1, 117.86683417085428, 'Poor').
 aqi('Johannesburg', 3, 15, 154.609167544784, 'Unhealthy').
-aqi('Rio de Janeiro', 7, 26, 105.80150753768844, 'Poor').
+aqi('Rio de Janeiro', 7, 26, 105.80150753768845, 'Poor').
 aqi('Sydney', 10, 24, 168.72571127502636, 'Unhealthy').
 aqi('Paris', 10, 24, 184.0659641728135, 'Unhealthy').
-aqi('Johannesburg', 6, 12, 116.43869346733668, 'Poor').
+aqi('Johannesburg', 6, 12, 116.43869346733669, 'Poor').
 aqi('Sydney', 5, 17, 198.5491043203372, 'Unhealthy').
-aqi('Sydney', 3, 6, 116.32363636363635, 'Poor').
+aqi('Sydney', 3, 6, 116.32363636363637, 'Poor').
 aqi('Tokyo', 3, 1, 162.23540569020022, 'Unhealthy').
-aqi('Johannesburg', 3, 23, 181.3139093782929, 'Unhealthy').
+aqi('Johannesburg', 3, 23, 181.31390937829295, 'Unhealthy').
 aqi('Bangkok', 5, 16, 192.11559536354056, 'Unhealthy').
-aqi('Cairo', 1, 28, 99.537339055794, 'Moderate').
+aqi('Cairo', 1, 28, 99.53733905579399, 'Moderate').
 aqi('Berlin', 7, 13, 75.13373737373738, 'Moderate').
 aqi('Dubai', 10, 26, 166.29894625922023, 'Unhealthy').
 aqi('London', 1, 19, 196.03972602739725, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 7, 173.56375131717598, 'Unhealthy').
 aqi('New York', 5, 10, 199.63340358271864, 'Unhealthy').
 aqi('Mexico City', 4, 3, 191.39789251844047, 'Unhealthy').
-aqi('Seoul', 9, 7, 186.51338250790303, 'Unhealthy').
+aqi('Seoul', 9, 7, 186.51338250790306, 'Unhealthy').
 aqi('Madrid', 7, 7, 91.63535353535354, 'Moderate').
 aqi('Istanbul', 10, 4, 139.4859296482412, 'Poor').
 aqi('Los Angeles', 12, 21, 155.77608008429925, 'Unhealthy').
@@ -27614,14 +27614,14 @@ aqi('Tokyo', 7, 22, 167.1354056902002, 'Unhealthy').
 aqi('Istanbul', 8, 18, 84.5, 'Moderate').
 aqi('Beijing', 8, 27, 110.2159595959596, 'Poor').
 aqi('Cairo', 10, 19, 99.70557939914164, 'Moderate').
-aqi('Madrid', 8, 21, 183.3327713382508, 'Unhealthy').
+aqi('Madrid', 8, 21, 183.33277133825078, 'Unhealthy').
 aqi('Mumbai', 8, 26, 172.44330874604847, 'Unhealthy').
 aqi('Cairo', 3, 17, 196.1946259220232, 'Unhealthy').
 aqi('Cairo', 1, 8, 154.03603793466806, 'Unhealthy').
 aqi('Dubai', 5, 22, 104.9150505050505, 'Poor').
 aqi('Beijing', 11, 14, 175.60326659641728, 'Unhealthy').
 aqi('Cairo', 12, 3, 185.8886195995785, 'Unhealthy').
-aqi('Beijing', 9, 28, 105.29121212121213, 'Poor').
+aqi('Beijing', 9, 28, 105.29121212121211, 'Poor').
 aqi('Johannesburg', 7, 26, 174.69968387776606, 'Unhealthy').
 aqi('Istanbul', 7, 25, 137.93467336683418, 'Poor').
 aqi('London', 5, 3, 168.41074815595363, 'Unhealthy').
@@ -27633,7 +27633,7 @@ aqi('London', 11, 1, 77.97969696969697, 'Moderate').
 aqi('Madrid', 2, 11, 163.4023182297155, 'Unhealthy').
 aqi('Dubai', 7, 18, 180.3277133825079, 'Unhealthy').
 aqi('Dubai', 3, 16, 198.5336143308746, 'Unhealthy').
-aqi('Bangkok', 7, 14, 115.82373737373736, 'Poor').
+aqi('Bangkok', 7, 14, 115.82373737373737, 'Poor').
 aqi('Tokyo', 9, 14, 170.88398314014754, 'Unhealthy').
 aqi('Berlin', 11, 16, 154.71243414120127, 'Unhealthy').
 aqi('Madrid', 1, 19, 190.37555321390937, 'Unhealthy').
@@ -27642,7 +27642,7 @@ aqi('Dubai', 6, 19, 114.7889447236181, 'Poor').
 aqi('Berlin', 10, 23, 169.62929399367755, 'Unhealthy').
 aqi('Los Angeles', 2, 21, 152.64193888303478, 'Unhealthy').
 aqi('Johannesburg', 6, 2, 113.11457286432162, 'Poor').
-aqi('Mumbai', 12, 2, 186.3946259220232, 'Unhealthy').
+aqi('Mumbai', 12, 2, 186.39462592202318, 'Unhealthy').
 aqi('Moscow', 12, 11, 180.05405690200212, 'Unhealthy').
 aqi('Dubai', 4, 15, 168.53466807165438, 'Unhealthy').
 aqi('Moscow', 2, 2, 161.4299262381454, 'Unhealthy').
@@ -27660,7 +27660,7 @@ aqi('Bangkok', 1, 7, 139.55979899497487, 'Poor').
 aqi('Rio de Janeiro', 12, 23, 78.5, 'Moderate').
 aqi('Istanbul', 2, 19, 164.68798735511064, 'Unhealthy').
 aqi('Los Angeles', 4, 20, 170.88398314014754, 'Unhealthy').
-aqi('Mexico City', 11, 28, 119.98442211055276, 'Poor').
+aqi('Mexico City', 11, 28, 119.98442211055277, 'Poor').
 aqi('Madrid', 10, 8, 107.8649494949495, 'Poor').
 aqi('Mexico City', 9, 10, 196.6799789251844, 'Unhealthy').
 aqi('Mexico City', 9, 27, 104.66757575757576, 'Poor').
@@ -27674,11 +27674,11 @@ aqi('Rio de Janeiro', 10, 12, 70.5, 'Moderate').
 aqi('Tokyo', 11, 15, 61.230606060606064, 'Moderate').
 aqi('Berlin', 3, 9, 194.5268703898841, 'Unhealthy').
 aqi('Los Angeles', 1, 15, 130.27688442211056, 'Poor').
-aqi('Madrid', 1, 27, 196.98977871443623, 'Unhealthy').
+aqi('Madrid', 1, 27, 196.98977871443626, 'Unhealthy').
 aqi('Johannesburg', 6, 25, 132.68994974874371, 'Poor').
-aqi('Beijing', 4, 23, 181.8767123287672, 'Unhealthy').
+aqi('Beijing', 4, 23, 181.87671232876713, 'Unhealthy').
 aqi('Seoul', 7, 18, 142.9824120603015, 'Poor').
-aqi('Berlin', 4, 15, 193.2566912539516, 'Unhealthy').
+aqi('Berlin', 4, 15, 193.25669125395154, 'Unhealthy').
 aqi('Sydney', 4, 15, 179.01622760800842, 'Unhealthy').
 aqi('Seoul', 11, 3, 167.40906217070602, 'Unhealthy').
 aqi('Los Angeles', 8, 20, 159.30263435194942, 'Unhealthy').
@@ -27688,7 +27688,7 @@ aqi('Moscow', 12, 8, 89.40085836909871, 'Moderate').
 aqi('Madrid', 10, 16, 185.14510010537407, 'Unhealthy').
 aqi('Bangkok', 3, 26, 182.7389884088514, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 25, 196.4218124341412, 'Unhealthy').
-aqi('Seoul', 4, 28, 126.01708542713568, 'Poor').
+aqi('Seoul', 4, 28, 126.01708542713567, 'Poor').
 aqi('Sydney', 8, 2, 160.08746048472076, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 21, 115.37989949748744, 'Poor').
 aqi('Toronto', 5, 24, 167.55879873551106, 'Unhealthy').
@@ -27699,10 +27699,10 @@ aqi('Johannesburg', 2, 14, 85.92858585858585, 'Moderate').
 aqi('Moscow', 9, 9, 193.3289778714436, 'Unhealthy').
 aqi('Seoul', 6, 6, 89.61115879828327, 'Moderate').
 aqi('Paris', 4, 6, 184.60295047418336, 'Unhealthy').
-aqi('Cairo', 9, 4, 191.8109589041096, 'Unhealthy').
+aqi('Cairo', 9, 4, 191.81095890410958, 'Unhealthy').
 aqi('Los Angeles', 8, 14, 177.54984193888305, 'Unhealthy').
 aqi('Madrid', 12, 27, 160.84646996838777, 'Unhealthy').
-aqi('Toronto', 3, 18, 194.88830347734452, 'Unhealthy').
+aqi('Toronto', 3, 18, 194.88830347734458, 'Unhealthy').
 aqi('Seoul', 4, 20, 70.17939914163091, 'Moderate').
 aqi('Sydney', 4, 22, 87.54212121212123, 'Moderate').
 aqi('Mumbai', 12, 2, 190.63371970495257, 'Unhealthy').
@@ -27711,14 +27711,14 @@ aqi('Cairo', 7, 8, 171.8650158061117, 'Unhealthy').
 aqi('Seoul', 2, 8, 76.61459227467812, 'Moderate').
 aqi('Mumbai', 8, 1, 114.56733668341708, 'Poor').
 aqi('Beijing', 7, 10, 195.36332982086407, 'Unhealthy').
-aqi('Johannesburg', 9, 21, 196.7212855637513, 'Unhealthy').
+aqi('Johannesburg', 9, 21, 196.72128556375134, 'Unhealthy').
 aqi('Tokyo', 2, 20, 168.96838777660696, 'Unhealthy').
 aqi('Seoul', 6, 10, 193.4890410958904, 'Unhealthy').
 aqi('Cairo', 11, 21, 170.98208640674395, 'Unhealthy').
 aqi('Mexico City', 7, 18, 161.40927291886197, 'Unhealthy').
 aqi('New York', 2, 28, 85.2158798283262, 'Moderate').
-aqi('Johannesburg', 6, 8, 193.4993677555321, 'Unhealthy').
-aqi('Toronto', 12, 11, 102.85862068965515, 'Poor').
+aqi('Johannesburg', 6, 8, 193.49936775553215, 'Unhealthy').
+aqi('Toronto', 12, 11, 102.85862068965517, 'Poor').
 aqi('Beijing', 7, 21, 192.5699683877766, 'Unhealthy').
 aqi('Berlin', 9, 7, 156.58155953635406, 'Unhealthy').
 aqi('New York', 1, 3, 155.00158061116966, 'Unhealthy').
@@ -27728,7 +27728,7 @@ aqi('Berlin', 2, 8, 145.49396984924624, 'Poor').
 aqi('London', 5, 23, 154.9809272918862, 'Unhealthy').
 aqi('Johannesburg', 11, 3, 194.97608008429927, 'Unhealthy').
 aqi('Moscow', 10, 19, 179.81138040042148, 'Unhealthy').
-aqi('Madrid', 2, 17, 101.02969696969696, 'Poor').
+aqi('Madrid', 2, 17, 101.02969696969697, 'Poor').
 aqi('London', 5, 20, 94.84434782608696, 'Moderate').
 aqi('Cairo', 3, 2, 166.20084299262382, 'Unhealthy').
 aqi('Moscow', 6, 5, 174.48282402528977, 'Unhealthy').
@@ -27743,7 +27743,7 @@ aqi('Paris', 7, 26, 177.96807165437303, 'Unhealthy').
 aqi('Mexico City', 1, 19, 199.39072708113804, 'Unhealthy').
 aqi('Madrid', 12, 1, 176.9973656480506, 'Unhealthy').
 aqi('New York', 6, 4, 155.0222339304531, 'Unhealthy').
-aqi('Paris', 2, 3, 182.5944151738672, 'Unhealthy').
+aqi('Paris', 2, 3, 182.59441517386722, 'Unhealthy').
 aqi('Madrid', 7, 25, 161.2750263435195, 'Unhealthy').
 aqi('Paris', 8, 15, 89.13090909090909, 'Moderate').
 aqi('Moscow', 5, 22, 157.28893572181244, 'Unhealthy').
@@ -27756,15 +27756,15 @@ aqi('Beijing', 10, 11, 176.20221285563753, 'Unhealthy').
 aqi('Bangkok', 8, 2, 172.41232876712328, 'Unhealthy').
 aqi('Paris', 11, 4, 198.1876712328767, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 2, 182.24330874604848, 'Unhealthy').
-aqi('Cairo', 7, 1, 186.76638566912536, 'Unhealthy').
+aqi('Cairo', 7, 1, 186.76638566912538, 'Unhealthy').
 aqi('Cairo', 3, 11, 145.98643216080404, 'Poor').
 aqi('Seoul', 8, 14, 175.57744994731297, 'Unhealthy').
 aqi('Bangkok', 2, 12, 77.43525252525252, 'Moderate').
 aqi('Seoul', 3, 24, 155.1513171759747, 'Unhealthy').
 aqi('Tokyo', 5, 17, 181.88703898840885, 'Unhealthy').
-aqi('Toronto', 4, 13, 181.4688092729189, 'Unhealthy').
+aqi('Toronto', 4, 13, 181.46880927291886, 'Unhealthy').
 aqi('Seoul', 6, 25, 128.72562814070352, 'Poor').
-aqi('Cairo', 8, 17, 194.99157007376184, 'Unhealthy').
+aqi('Cairo', 8, 17, 194.99157007376186, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 1, 183.89557428872496, 'Unhealthy').
 aqi('London', 12, 9, 179.19694415173868, 'Unhealthy').
 aqi('Istanbul', 12, 28, 164.01159114857745, 'Unhealthy').
@@ -27774,13 +27774,13 @@ aqi('Bangkok', 7, 27, 199.39589041095888, 'Unhealthy').
 aqi('Tokyo', 3, 10, 184.51517386722867, 'Unhealthy').
 aqi('Beijing', 1, 7, 85.17217391304348, 'Moderate').
 aqi('Seoul', 4, 19, 77.47484848484848, 'Moderate').
-aqi('Istanbul', 1, 14, 173.45532139093785, 'Unhealthy').
+aqi('Istanbul', 1, 14, 173.45532139093783, 'Unhealthy').
 aqi('Toronto', 9, 13, 135.27537688442212, 'Poor').
 aqi('New York', 6, 15, 98.0, 'Moderate').
-aqi('Johannesburg', 6, 9, 187.63898840885145, 'Unhealthy').
+aqi('Johannesburg', 6, 9, 187.63898840885142, 'Unhealthy').
 aqi('Cairo', 5, 21, 147.51306532663318, 'Poor').
 aqi('Mexico City', 2, 16, 176.77017913593255, 'Unhealthy').
-aqi('Johannesburg', 12, 10, 116.06626262626264, 'Poor').
+aqi('Johannesburg', 12, 10, 116.06626262626263, 'Poor').
 aqi('Los Angeles', 3, 19, 173.09388830347734, 'Unhealthy').
 aqi('Berlin', 11, 19, 165.1939936775553, 'Unhealthy').
 aqi('Tokyo', 4, 18, 198.9673340358272, 'Unhealthy').
@@ -27795,28 +27795,28 @@ aqi('Los Angeles', 12, 24, 167.67755532139094, 'Unhealthy').
 aqi('Sydney', 7, 17, 81.1, 'Moderate').
 aqi('Toronto', 8, 7, 194.9244467860906, 'Unhealthy').
 aqi('Moscow', 5, 14, 64.45922746781116, 'Moderate').
-aqi('Tokyo', 11, 12, 192.9675447839832, 'Unhealthy').
+aqi('Tokyo', 11, 12, 192.96754478398316, 'Unhealthy').
 aqi('New York', 8, 19, 171.06986301369864, 'Unhealthy').
-aqi('Mumbai', 10, 25, 108.18994974874371, 'Poor').
+aqi('Mumbai', 10, 25, 108.18994974874373, 'Poor').
 aqi('Mumbai', 10, 15, 113.01608040201006, 'Poor').
 aqi('Dubai', 4, 16, 26.75, 'Good').
-aqi('Bangkok', 12, 11, 191.80063224446783, 'Unhealthy').
-aqi('Sydney', 6, 16, 193.8866174920969, 'Unhealthy').
+aqi('Bangkok', 12, 11, 191.80063224446786, 'Unhealthy').
+aqi('Sydney', 6, 16, 193.88661749209695, 'Unhealthy').
 aqi('London', 6, 20, 147.9070351758794, 'Poor').
 aqi('Sydney', 5, 21, 196.67481559536355, 'Unhealthy').
 aqi('London', 9, 3, 115.72462311557788, 'Poor').
 aqi('Madrid', 10, 17, 144.1643216080402, 'Poor').
-aqi('Toronto', 7, 9, 117.89262626262628, 'Poor').
-aqi('Tokyo', 4, 26, 197.0310853530032, 'Unhealthy').
+aqi('Toronto', 7, 9, 117.89262626262627, 'Poor').
+aqi('Tokyo', 4, 26, 197.03108535300316, 'Unhealthy').
 aqi('Dubai', 5, 15, 158.6881981032666, 'Unhealthy').
 aqi('London', 12, 17, 107.03266331658293, 'Poor').
 aqi('Johannesburg', 6, 27, 95.7519313304721, 'Moderate').
 aqi('Johannesburg', 4, 27, 177.24520547945207, 'Unhealthy').
 aqi('Sydney', 7, 6, 158.32160168598526, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 27, 181.0763962065332, 'Unhealthy').
-aqi('Beijing', 8, 18, 198.481981032666, 'Unhealthy').
+aqi('Beijing', 8, 18, 198.48198103266597, 'Unhealthy').
 aqi('Beijing', 3, 14, 171.58619599578503, 'Unhealthy').
-aqi('Beijing', 7, 7, 135.1522613065327, 'Poor').
+aqi('Beijing', 7, 7, 135.15226130653267, 'Poor').
 aqi('Madrid', 1, 10, 154.3458377239199, 'Unhealthy').
 aqi('Johannesburg', 10, 25, 178.40695468914646, 'Unhealthy').
 aqi('Bangkok', 11, 13, 196.390832455216, 'Unhealthy').
@@ -27829,7 +27829,7 @@ aqi('Cairo', 5, 25, 158.62107481559536, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 5, 133.55175879396984, 'Poor').
 aqi('Bangkok', 11, 16, 89.3239393939394, 'Moderate').
 aqi('Istanbul', 4, 23, 86.1, 'Moderate').
-aqi('London', 11, 24, 193.9330874604848, 'Unhealthy').
+aqi('London', 11, 24, 193.93308746048473, 'Unhealthy').
 aqi('Mumbai', 8, 7, 157.61422550052689, 'Unhealthy').
 aqi('Johannesburg', 1, 22, 155.21844046364595, 'Unhealthy').
 aqi('London', 10, 17, 120.79698492462312, 'Poor').
@@ -27850,12 +27850,12 @@ aqi('Johannesburg', 10, 4, 139.60904522613066, 'Poor').
 aqi('Los Angeles', 9, 22, 90.15793991416308, 'Moderate').
 aqi('Toronto', 5, 22, 164.94615384615386, 'Unhealthy').
 aqi('Sydney', 5, 17, 112.44818181818182, 'Poor').
-aqi('Los Angeles', 5, 19, 94.61630901287556, 'Moderate').
+aqi('Los Angeles', 5, 19, 94.61630901287555, 'Moderate').
 aqi('London', 11, 26, 196.2101159114858, 'Unhealthy').
 aqi('Mexico City', 12, 8, 160.72255005268704, 'Unhealthy').
 aqi('Paris', 7, 13, 108.06683417085426, 'Poor').
 aqi('London', 12, 4, 175.59293993677557, 'Unhealthy').
-aqi('Mumbai', 3, 25, 184.2466807165437, 'Unhealthy').
+aqi('Mumbai', 3, 25, 184.24668071654372, 'Unhealthy').
 aqi('Bangkok', 12, 13, 195.95711275026343, 'Unhealthy').
 aqi('Moscow', 2, 15, 92.05064377682405, 'Moderate').
 aqi('Dubai', 9, 17, 189.3790305584826, 'Unhealthy').
@@ -27867,7 +27867,7 @@ aqi('Los Angeles', 7, 8, 119.0260606060606, 'Poor').
 aqi('Cairo', 2, 5, 152.84847207586932, 'Unhealthy').
 aqi('Bangkok', 7, 6, 65.02703862660944, 'Moderate').
 aqi('Istanbul', 6, 21, 151.0722866174921, 'Unhealthy').
-aqi('Paris', 10, 16, 183.363751317176, 'Unhealthy').
+aqi('Paris', 10, 16, 183.36375131717597, 'Unhealthy').
 aqi('Paris', 4, 23, 174.85974710221285, 'Unhealthy').
 aqi('Istanbul', 2, 13, 196.21527924130663, 'Unhealthy').
 aqi('New York', 8, 27, 197.36670179135933, 'Unhealthy').
@@ -27875,7 +27875,7 @@ aqi('Paris', 3, 15, 138.72261306532664, 'Poor').
 aqi('Seoul', 8, 19, 155.9722866174921, 'Unhealthy').
 aqi('London', 10, 16, 172.2935721812434, 'Unhealthy').
 aqi('Toronto', 10, 9, 90.24206008583693, 'Moderate').
-aqi('London', 2, 10, 111.44020100502512, 'Poor').
+aqi('London', 2, 10, 111.44020100502513, 'Poor').
 aqi('Dubai', 2, 13, 151.6609062170706, 'Unhealthy').
 aqi('Istanbul', 6, 7, 168.99420442571127, 'Unhealthy').
 aqi('Mumbai', 1, 26, 157.7123287671233, 'Unhealthy').
@@ -27895,41 +27895,41 @@ aqi('London', 5, 17, 177.2658587987355, 'Unhealthy').
 aqi('Dubai', 12, 18, 182.9300316122234, 'Unhealthy').
 aqi('Dubai', 2, 26, 164.67249736564804, 'Unhealthy').
 aqi('London', 1, 3, 152.5696522655427, 'Unhealthy').
-aqi('Los Angeles', 2, 28, 194.6507903055848, 'Unhealthy').
+aqi('Los Angeles', 2, 28, 194.65079030558482, 'Unhealthy').
 aqi('Johannesburg', 2, 2, 104.40030303030304, 'Poor').
 aqi('Seoul', 2, 22, 118.11306532663318, 'Poor').
-aqi('Johannesburg', 12, 15, 194.6507903055848, 'Unhealthy').
+aqi('Johannesburg', 12, 15, 194.65079030558482, 'Unhealthy').
 aqi('Johannesburg', 4, 23, 172.0250790305585, 'Unhealthy').
 aqi('Seoul', 11, 24, 190.8195995785037, 'Unhealthy').
 aqi('Paris', 7, 21, 172.40200210748156, 'Unhealthy').
 aqi('Paris', 1, 24, 165.63287671232877, 'Unhealthy').
 aqi('Mumbai', 2, 10, 146.94673366834172, 'Poor').
-aqi('Dubai', 7, 10, 191.21717597471024, 'Unhealthy').
-aqi('Sydney', 5, 17, 185.036670179136, 'Unhealthy').
+aqi('Dubai', 7, 10, 191.21717597471022, 'Unhealthy').
+aqi('Sydney', 5, 17, 185.03667017913594, 'Unhealthy').
 aqi('Madrid', 1, 19, 176.07829293993677, 'Unhealthy').
 aqi('Paris', 6, 16, 152.03266596417282, 'Unhealthy').
 aqi('Berlin', 2, 14, 171.44162276080084, 'Unhealthy').
 aqi('Toronto', 10, 10, 153.27702845100106, 'Unhealthy').
-aqi('New York', 6, 9, 99.05464646464648, 'Moderate').
+aqi('New York', 6, 9, 99.05464646464647, 'Moderate').
 aqi('Dubai', 12, 23, 165.4108535300316, 'Unhealthy').
 aqi('London', 9, 1, 183.6787144362487, 'Unhealthy').
 aqi('Sydney', 9, 23, 153.76754478398314, 'Unhealthy').
 aqi('Moscow', 10, 4, 188.17081138040044, 'Unhealthy').
-aqi('Mumbai', 12, 22, 197.1033719704953, 'Unhealthy').
-aqi('Toronto', 8, 28, 113.21306532663316, 'Poor').
+aqi('Mumbai', 12, 22, 197.10337197049526, 'Unhealthy').
+aqi('Toronto', 8, 28, 113.21306532663317, 'Poor').
 aqi('Paris', 11, 15, 170.3418335089568, 'Unhealthy').
 aqi('Dubai', 12, 27, 169.76354056902002, 'Unhealthy').
 aqi('Tokyo', 8, 24, 172.081875658588, 'Unhealthy').
-aqi('Istanbul', 6, 12, 182.67702845100104, 'Unhealthy').
+aqi('Istanbul', 6, 12, 182.67702845100106, 'Unhealthy').
 aqi('London', 8, 19, 188.83688092729187, 'Unhealthy').
 aqi('New York', 3, 1, 137.44221105527637, 'Poor').
 aqi('Tokyo', 6, 3, 152.60579557428872, 'Unhealthy').
 aqi('Cairo', 11, 4, 95.96223175965665, 'Moderate').
 aqi('Tokyo', 10, 12, 192.96238145416228, 'Unhealthy').
-aqi('Johannesburg', 9, 18, 111.243216080402, 'Poor').
+aqi('Johannesburg', 9, 18, 111.24321608040201, 'Poor').
 aqi('Mexico City', 10, 24, 198.8640674394099, 'Unhealthy').
 aqi('Mumbai', 5, 26, 166.1905163329821, 'Unhealthy').
-aqi('London', 9, 2, 106.33060606060609, 'Poor').
+aqi('London', 9, 2, 106.33060606060607, 'Poor').
 aqi('Dubai', 4, 12, 161.3473129610116, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 15, 184.86111696522656, 'Unhealthy').
 aqi('Moscow', 2, 7, 170.70326659641728, 'Unhealthy').
@@ -27940,7 +27940,7 @@ aqi('Cairo', 12, 20, 152.40442571127502, 'Unhealthy').
 aqi('Madrid', 3, 2, 114.24723618090454, 'Poor').
 aqi('Los Angeles', 5, 3, 68.6449494949495, 'Moderate').
 aqi('Dubai', 10, 22, 173.89936775553213, 'Unhealthy').
-aqi('London', 3, 26, 120.27828282828284, 'Poor').
+aqi('London', 3, 26, 120.27828282828283, 'Poor').
 aqi('Madrid', 6, 1, 170.73424657534247, 'Unhealthy').
 aqi('Cairo', 5, 24, 151.7331928345627, 'Unhealthy').
 aqi('Los Angeles', 11, 17, 155.7296101159115, 'Unhealthy').
@@ -27952,20 +27952,20 @@ aqi('Cairo', 1, 18, 159.12191780821917, 'Unhealthy').
 aqi('Mexico City', 7, 7, 153.99473129610115, 'Unhealthy').
 aqi('Mexico City', 12, 22, 82.81845493562233, 'Moderate').
 aqi('Bangkok', 10, 8, 153.47839831401475, 'Unhealthy').
-aqi('Beijing', 9, 12, 184.54099051633293, 'Unhealthy').
+aqi('Beijing', 9, 12, 184.54099051633298, 'Unhealthy').
 aqi('New York', 9, 16, 151.58345626975765, 'Unhealthy').
-aqi('Mumbai', 8, 12, 191.54246575342464, 'Unhealthy').
+aqi('Mumbai', 8, 12, 191.54246575342466, 'Unhealthy').
 aqi('Toronto', 9, 2, 120.74773869346734, 'Poor').
 aqi('Johannesburg', 4, 6, 173.2900948366702, 'Unhealthy').
 aqi('Mexico City', 11, 11, 175.6858798735511, 'Unhealthy').
 aqi('Paris', 6, 7, 170.2385669125395, 'Unhealthy').
-aqi('Mexico City', 1, 20, 122.36696969696968, 'Poor').
+aqi('Mexico City', 1, 20, 122.36696969696969, 'Poor').
 aqi('Los Angeles', 6, 7, 66.85818181818182, 'Moderate').
 aqi('Madrid', 9, 8, 187.5150684931507, 'Unhealthy').
 aqi('Toronto', 6, 11, 174.74615384615385, 'Unhealthy').
 aqi('Seoul', 7, 5, 113.7350505050505, 'Poor').
 aqi('Tokyo', 7, 16, 157.4799789251844, 'Unhealthy').
-aqi('Tokyo', 11, 21, 191.4237091675448, 'Unhealthy').
+aqi('Tokyo', 11, 21, 191.42370916754479, 'Unhealthy').
 aqi('Bangkok', 6, 14, 80.1, 'Moderate').
 aqi('Dubai', 5, 19, 174.95268703898842, 'Unhealthy').
 aqi('London', 2, 2, 131.72964824120604, 'Poor').
@@ -27974,7 +27974,7 @@ aqi('Cairo', 4, 7, 114.27185929648242, 'Poor').
 aqi('Paris', 6, 8, 116.55131313131312, 'Poor').
 aqi('Tokyo', 2, 2, 106.0689655172414, 'Poor').
 aqi('New York', 12, 28, 152.77102212855638, 'Unhealthy').
-aqi('Johannesburg', 7, 16, 185.03150684931504, 'Unhealthy').
+aqi('Johannesburg', 7, 16, 185.03150684931506, 'Unhealthy').
 aqi('Istanbul', 2, 20, 192.97787144362488, 'Unhealthy').
 aqi('Los Angeles', 9, 25, 154.0205479452055, 'Unhealthy').
 aqi('Madrid', 11, 18, 167.58977871443625, 'Unhealthy').
@@ -27993,14 +27993,14 @@ aqi('Los Angeles', 4, 26, 184.95922023182297, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 1, 142.68693467336684, 'Poor').
 aqi('Mexico City', 6, 7, 83.72274678111589, 'Moderate').
 aqi('Sydney', 2, 1, 173.72897787144362, 'Unhealthy').
-aqi('Bangkok', 1, 25, 185.02634351949425, 'Unhealthy').
+aqi('Bangkok', 1, 25, 185.02634351949422, 'Unhealthy').
 aqi('Los Angeles', 6, 14, 67.73991416309013, 'Moderate').
 aqi('Bangkok', 3, 3, 143.17939698492464, 'Poor').
 aqi('Los Angeles', 10, 4, 140.98793969849248, 'Poor').
 aqi('Toronto', 8, 27, 177.52918861959958, 'Unhealthy').
 aqi('Toronto', 11, 9, 115.78414141414142, 'Poor').
 aqi('Moscow', 6, 8, 91.94549356223176, 'Moderate').
-aqi('Paris', 9, 24, 110.94773869346731, 'Poor').
+aqi('Paris', 9, 24, 110.94773869346733, 'Poor').
 aqi('Johannesburg', 7, 6, 138.27939698492463, 'Poor').
 aqi('Tokyo', 12, 6, 179.18145416227608, 'Unhealthy').
 aqi('Berlin', 8, 25, 175.76332982086407, 'Unhealthy').
@@ -28008,15 +28008,15 @@ aqi('Istanbul', 11, 7, 90.12575757575758, 'Moderate').
 aqi('Toronto', 12, 9, 142.5638190954774, 'Poor').
 aqi('New York', 8, 23, 174.08008429926238, 'Unhealthy').
 aqi('Istanbul', 5, 19, 87.46239130434783, 'Moderate').
-aqi('Johannesburg', 8, 19, 123.87487437185928, 'Poor').
-aqi('Johannesburg', 4, 17, 60.90515021459228, 'Moderate').
+aqi('Johannesburg', 8, 19, 123.87487437185929, 'Poor').
+aqi('Johannesburg', 4, 17, 60.905150214592275, 'Moderate').
 aqi('Mumbai', 7, 21, 98.4, 'Moderate').
-aqi('Sydney', 7, 7, 109.34723618090452, 'Poor').
-aqi('Toronto', 3, 28, 121.07020202020205, 'Poor').
+aqi('Sydney', 7, 7, 109.34723618090453, 'Poor').
+aqi('Toronto', 3, 28, 121.07020202020203, 'Poor').
 aqi('Sydney', 5, 16, 154.55237091675448, 'Unhealthy').
 aqi('Los Angeles', 7, 13, 174.42086406743942, 'Unhealthy').
 aqi('Johannesburg', 4, 7, 153.24604847207587, 'Unhealthy').
-aqi('Paris', 6, 10, 118.7286432160804, 'Poor').
+aqi('Paris', 6, 10, 118.72864321608041, 'Poor').
 aqi('Tokyo', 9, 25, 75.79442060085837, 'Moderate').
 aqi('Toronto', 9, 21, 163.10800842992623, 'Unhealthy').
 aqi('Paris', 12, 13, 192.00716543730243, 'Unhealthy').
@@ -28041,20 +28041,20 @@ aqi('Rio de Janeiro', 5, 21, 178.6599578503688, 'Unhealthy').
 aqi('Sydney', 9, 27, 189.249947312961, 'Unhealthy').
 aqi('Bangkok', 8, 2, 189.41517386722867, 'Unhealthy').
 aqi('Istanbul', 1, 19, 98.12832618025752, 'Moderate').
-aqi('Johannesburg', 2, 4, 110.95343434343437, 'Poor').
+aqi('Johannesburg', 2, 4, 110.95343434343435, 'Poor').
 aqi('Moscow', 7, 20, 196.07070600632244, 'Unhealthy').
 aqi('Istanbul', 8, 22, 152.5386722866175, 'Unhealthy').
-aqi('New York', 2, 10, 166.0975763962065, 'Unhealthy').
+aqi('New York', 2, 10, 166.09757639620653, 'Unhealthy').
 aqi('Beijing', 12, 4, 179.24341412012646, 'Unhealthy').
-aqi('Toronto', 5, 8, 112.4497487437186, 'Poor').
+aqi('Toronto', 5, 8, 112.44974874371859, 'Poor').
 aqi('Rio de Janeiro', 10, 28, 175.6600632244468, 'Unhealthy').
-aqi('Cairo', 10, 20, 192.07428872497368, 'Unhealthy').
+aqi('Cairo', 10, 20, 192.07428872497366, 'Unhealthy').
 aqi('Istanbul', 11, 14, 168.80832455216017, 'Unhealthy').
 aqi('Seoul', 9, 21, 186.8386722866175, 'Unhealthy').
 aqi('Seoul', 2, 11, 188.2895679662803, 'Unhealthy').
 aqi('Mexico City', 6, 24, 190.28261327713383, 'Unhealthy').
 aqi('Istanbul', 3, 11, 189.1828240252898, 'Unhealthy').
-aqi('Seoul', 3, 1, 105.90494949494948, 'Poor').
+aqi('Seoul', 3, 1, 105.90494949494949, 'Poor').
 aqi('Mumbai', 4, 23, 144.43517587939698, 'Poor').
 aqi('Seoul', 12, 19, 170.46575342465752, 'Unhealthy').
 aqi('Moscow', 3, 11, 198.7194942044257, 'Unhealthy').
@@ -28066,15 +28066,15 @@ aqi('Rio de Janeiro', 4, 16, 174.61190727081137, 'Unhealthy').
 aqi('Johannesburg', 9, 17, 163.04604847207588, 'Unhealthy').
 aqi('Moscow', 2, 17, 164.12518440463646, 'Unhealthy').
 aqi('Beijing', 6, 24, 179.3518440463646, 'Unhealthy').
-aqi('Paris', 6, 15, 187.1329820864068, 'Unhealthy').
+aqi('Paris', 6, 15, 187.13298208640674, 'Unhealthy').
 aqi('Mexico City', 6, 19, 193.23603793466808, 'Unhealthy').
 aqi('Beijing', 11, 6, 174.7977871443625, 'Unhealthy').
-aqi('New York', 9, 9, 189.47713382507905, 'Unhealthy').
+aqi('New York', 9, 9, 189.47713382507902, 'Unhealthy').
 aqi('Mumbai', 5, 18, 152.44573234984193, 'Unhealthy').
 aqi('Mumbai', 12, 28, 110.89849246231157, 'Poor').
 aqi('Bangkok', 6, 27, 198.02760800842992, 'Unhealthy').
 aqi('Los Angeles', 6, 23, 93.6, 'Moderate').
-aqi('Toronto', 12, 7, 181.92834562697576, 'Unhealthy').
+aqi('Toronto', 12, 7, 181.92834562697578, 'Unhealthy').
 aqi('Mexico City', 8, 22, 157.16501580611168, 'Unhealthy').
 aqi('Los Angeles', 2, 10, 181.64436248682824, 'Unhealthy').
 aqi('Los Angeles', 5, 7, 169.39178082191782, 'Unhealthy').
@@ -28088,10 +28088,10 @@ aqi('Madrid', 9, 10, 151.02065331928347, 'Unhealthy').
 aqi('Paris', 10, 3, 76.1, 'Moderate').
 aqi('Seoul', 1, 11, 163.08219178082192, 'Unhealthy').
 aqi('Sydney', 1, 2, 160.0822971548999, 'Unhealthy').
-aqi('Sydney', 1, 16, 190.3394099051633, 'Unhealthy').
+aqi('Sydney', 1, 16, 190.33940990516334, 'Unhealthy').
 aqi('Dubai', 6, 4, 158.0840885142255, 'Unhealthy').
 aqi('Tokyo', 6, 21, 172.28840885142256, 'Unhealthy').
-aqi('Los Angeles', 10, 21, 192.5648050579557, 'Unhealthy').
+aqi('Los Angeles', 10, 21, 192.56480505795574, 'Unhealthy').
 aqi('London', 3, 15, 183.72518440463645, 'Unhealthy').
 aqi('Berlin', 2, 21, 153.62297154899895, 'Unhealthy').
 aqi('Los Angeles', 4, 27, 159.84478398314013, 'Unhealthy').
@@ -28105,40 +28105,40 @@ aqi('Los Angeles', 12, 20, 196.49926238145417, 'Unhealthy').
 aqi('Bangkok', 7, 6, 88.50630434782607, 'Moderate').
 aqi('Cairo', 3, 19, 171.5190727081138, 'Unhealthy').
 aqi('Tokyo', 5, 1, 157.68651211801898, 'Unhealthy').
-aqi('Madrid', 11, 14, 111.19396984924624, 'Poor').
+aqi('Madrid', 11, 14, 111.19396984924623, 'Poor').
 aqi('Beijing', 5, 22, 91.67210300429186, 'Moderate').
-aqi('Berlin', 3, 17, 108.4440404040404, 'Poor').
+aqi('Berlin', 3, 17, 108.44404040404041, 'Poor').
 aqi('Moscow', 6, 25, 134.75829145728645, 'Poor').
-aqi('Los Angeles', 5, 1, 96.33565217391303, 'Moderate').
+aqi('Los Angeles', 5, 1, 96.33565217391305, 'Moderate').
 aqi('Sydney', 6, 18, 66.65030303030304, 'Moderate').
 aqi('Bangkok', 5, 12, 148.47336683417086, 'Poor').
 aqi('Mexico City', 2, 17, 86.45665236051502, 'Moderate').
 aqi('Tokyo', 12, 14, 54.90020202020202, 'Moderate').
-aqi('Moscow', 4, 20, 102.9206030150754, 'Poor').
+aqi('Moscow', 4, 20, 102.92060301507539, 'Poor').
 aqi('Istanbul', 12, 11, 116.1678391959799, 'Poor').
-aqi('Madrid', 8, 12, 117.32512562814073, 'Poor').
-aqi('Moscow', 12, 25, 97.4763948497854, 'Moderate').
+aqi('Madrid', 8, 12, 117.32512562814071, 'Poor').
+aqi('Moscow', 12, 25, 97.47639484978541, 'Moderate').
 aqi('Istanbul', 4, 10, 193.1017913593256, 'Unhealthy').
 aqi('Seoul', 4, 11, 152.04815595363542, 'Unhealthy').
 aqi('Berlin', 4, 25, 160.29915700737618, 'Unhealthy').
-aqi('Mexico City', 12, 26, 99.1, 'Moderate').
+aqi('Mexico City', 12, 26, 99.10000000000001, 'Moderate').
 aqi('Paris', 9, 1, 102.52939393939394, 'Poor').
 aqi('Rio de Janeiro', 5, 9, 110.75545454545455, 'Poor').
 aqi('Cairo', 2, 20, 87.52918454935622, 'Moderate').
-aqi('Mexico City', 9, 9, 162.7672286617492, 'Unhealthy').
+aqi('Mexico City', 9, 9, 162.76722866174921, 'Unhealthy').
 aqi('Sydney', 8, 27, 189.249947312961, 'Unhealthy').
 aqi('Mumbai', 5, 8, 175.59293993677557, 'Unhealthy').
 aqi('Madrid', 3, 15, 187.06585879873552, 'Unhealthy').
 aqi('Seoul', 1, 13, 111.62161616161616, 'Poor').
 aqi('New York', 12, 15, 174.69452054794522, 'Unhealthy').
 aqi('Beijing', 10, 18, 181.78893572181244, 'Unhealthy').
-aqi('Cairo', 11, 6, 193.40642781875653, 'Unhealthy').
+aqi('Cairo', 11, 6, 193.40642781875658, 'Unhealthy').
 aqi('Beijing', 2, 21, 121.86212121212122, 'Poor').
 aqi('Johannesburg', 5, 14, 61.0, 'Moderate').
 aqi('Madrid', 9, 22, 143.13015075376885, 'Poor').
 aqi('Los Angeles', 4, 1, 155.61601685985246, 'Unhealthy').
 aqi('Tokyo', 9, 19, 140.864824120603, 'Poor').
-aqi('Johannesburg', 11, 3, 112.0621212121212, 'Poor').
+aqi('Johannesburg', 11, 3, 112.06212121212121, 'Poor').
 aqi('Toronto', 11, 25, 137.46683417085427, 'Poor').
 aqi('Madrid', 10, 16, 84.99108695652174, 'Moderate').
 aqi('Sydney', 4, 17, 183.6064278187566, 'Unhealthy').
@@ -28160,23 +28160,23 @@ aqi('Tokyo', 7, 19, 183.12623814541624, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 13, 161.87397260273974, 'Unhealthy').
 aqi('Beijing', 4, 24, 173.19199157007375, 'Unhealthy').
 aqi('Mumbai', 11, 11, 194.20158061116965, 'Unhealthy').
-aqi('Los Angeles', 9, 4, 119.3180808080808, 'Poor').
+aqi('Los Angeles', 9, 4, 119.31808080808081, 'Poor').
 aqi('London', 9, 16, 173.78061116965227, 'Unhealthy').
 aqi('Bangkok', 5, 24, 175.31928345626974, 'Unhealthy').
-aqi('Mumbai', 3, 23, 182.0884088514225, 'Unhealthy').
-aqi('Istanbul', 9, 17, 140.3477386934673, 'Poor').
+aqi('Mumbai', 3, 23, 182.08840885142254, 'Unhealthy').
+aqi('Istanbul', 9, 17, 140.34773869346733, 'Poor').
 aqi('New York', 7, 21, 188.63034773445733, 'Unhealthy').
 aqi('Toronto', 9, 5, 188.76975763962065, 'Unhealthy').
 aqi('Beijing', 4, 27, 172.05605900948368, 'Unhealthy').
 aqi('Mumbai', 7, 5, 114.5427135678392, 'Poor').
-aqi('Tokyo', 9, 16, 166.0975763962065, 'Unhealthy').
+aqi('Tokyo', 9, 16, 166.09757639620653, 'Unhealthy').
 aqi('New York', 5, 20, 191.0622760800843, 'Unhealthy').
 aqi('Johannesburg', 2, 4, 177.27102212855638, 'Unhealthy').
-aqi('Mumbai', 3, 7, 124.09648241206033, 'Poor').
+aqi('Mumbai', 3, 7, 124.09648241206031, 'Poor').
 aqi('Seoul', 11, 24, 184.94889357218125, 'Unhealthy').
 aqi('London', 4, 27, 157.13919915700737, 'Unhealthy').
 aqi('Madrid', 5, 15, 180.513593256059, 'Unhealthy').
-aqi('Dubai', 12, 16, 110.65226130653268, 'Poor').
+aqi('Dubai', 12, 16, 110.65226130653267, 'Poor').
 aqi('Moscow', 8, 3, 120.68414141414142, 'Poor').
 aqi('Seoul', 1, 22, 186.44109589041096, 'Unhealthy').
 aqi('Sydney', 12, 24, 89.23484848484848, 'Moderate').
@@ -28185,8 +28185,8 @@ aqi('Dubai', 2, 12, 168.30748155953634, 'Unhealthy').
 aqi('Dubai', 9, 19, 162.61749209694415, 'Unhealthy').
 aqi('Beijing', 11, 26, 160.23719704952583, 'Unhealthy').
 aqi('Mumbai', 9, 7, 152.70389884088513, 'Unhealthy').
-aqi('Istanbul', 3, 12, 98.63304721030045, 'Moderate').
-aqi('Mumbai', 8, 4, 111.71565656565656, 'Poor').
+aqi('Istanbul', 3, 12, 98.63304721030043, 'Moderate').
+aqi('Mumbai', 8, 4, 111.71565656565657, 'Poor').
 aqi('Mexico City', 6, 22, 173.59473129610117, 'Unhealthy').
 aqi('Mexico City', 11, 5, 146.84824120603014, 'Poor').
 aqi('Bangkok', 6, 25, 176.031822971549, 'Unhealthy').
@@ -28200,13 +28200,13 @@ aqi('Dubai', 11, 3, 194.73340358271864, 'Unhealthy').
 aqi('Seoul', 10, 25, 173.51211801896733, 'Unhealthy').
 aqi('Beijing', 6, 16, 170.82718651211803, 'Unhealthy').
 aqi('Sydney', 1, 23, 85.1, 'Moderate').
-aqi('Madrid', 3, 6, 192.14657534246567, 'Unhealthy').
+aqi('Madrid', 3, 6, 192.14657534246575, 'Unhealthy').
 aqi('Paris', 6, 4, 173.04741833508956, 'Unhealthy').
 aqi('Sydney', 6, 26, 85.40515021459228, 'Moderate').
 aqi('Bangkok', 11, 23, 176.11443624868284, 'Unhealthy').
 aqi('Dubai', 7, 6, 99.38131313131314, 'Moderate').
 aqi('Berlin', 2, 1, 179.48609062170706, 'Unhealthy').
-aqi('Bangkok', 9, 20, 181.09188619599576, 'Unhealthy').
+aqi('Bangkok', 9, 20, 181.09188619599578, 'Unhealthy').
 aqi('Tokyo', 5, 20, 80.79957081545065, 'Moderate').
 aqi('Beijing', 6, 13, 96.8665236051502, 'Moderate').
 aqi('Bangkok', 8, 18, 175.1850368809273, 'Unhealthy').
@@ -28214,23 +28214,23 @@ aqi('Toronto', 4, 21, 187.427291886196, 'Unhealthy').
 aqi('Sydney', 10, 12, 147.7100502512563, 'Poor').
 aqi('Tokyo', 12, 4, 95.3, 'Moderate').
 aqi('Cairo', 4, 14, 158.4713382507903, 'Unhealthy').
-aqi('Tokyo', 1, 13, 190.22065331928343, 'Unhealthy').
+aqi('Tokyo', 1, 13, 190.22065331928346, 'Unhealthy').
 aqi('Paris', 12, 18, 187.20526870389884, 'Unhealthy').
-aqi('London', 1, 10, 180.79757639620647, 'Unhealthy').
+aqi('London', 1, 10, 180.79757639620652, 'Unhealthy').
 aqi('Madrid', 4, 4, 176.46554267650157, 'Unhealthy').
 aqi('Cairo', 8, 28, 172.73761854583773, 'Unhealthy').
-aqi('Moscow', 7, 22, 199.4785036880928, 'Unhealthy').
+aqi('Moscow', 7, 22, 199.47850368809273, 'Unhealthy').
 aqi('Mumbai', 7, 17, 183.7355110642782, 'Unhealthy').
 aqi('Bangkok', 12, 26, 180.51875658587988, 'Unhealthy').
 aqi('Los Angeles', 3, 3, 159.1477344573235, 'Unhealthy').
 aqi('Bangkok', 2, 15, 178.0145416227608, 'Unhealthy').
 aqi('Sydney', 7, 10, 95.92017167381974, 'Moderate').
-aqi('Berlin', 6, 23, 122.54020202020205, 'Poor').
+aqi('Berlin', 6, 23, 122.54020202020203, 'Poor').
 aqi('Madrid', 4, 7, 180.286406743941, 'Unhealthy').
 aqi('Moscow', 11, 13, 166.1905163329821, 'Unhealthy').
 aqi('Seoul', 1, 4, 169.7687038988409, 'Unhealthy').
-aqi('Los Angeles', 4, 23, 184.5564805057956, 'Unhealthy').
-aqi('Dubai', 9, 17, 188.4961011591149, 'Unhealthy').
+aqi('Los Angeles', 4, 23, 184.55648050579558, 'Unhealthy').
+aqi('Dubai', 9, 17, 188.49610115911486, 'Unhealthy').
 aqi('Istanbul', 10, 24, 99.93690987124464, 'Moderate').
 aqi('Istanbul', 4, 9, 177.3691253951528, 'Unhealthy').
 aqi('Madrid', 11, 10, 181.58240252897787, 'Unhealthy').
@@ -28248,7 +28248,7 @@ aqi('Moscow', 3, 25, 113.65628140703518, 'Poor').
 aqi('Berlin', 4, 21, 172.0199157007376, 'Unhealthy').
 aqi('Sydney', 10, 18, 187.94878819810327, 'Unhealthy').
 aqi('Seoul', 2, 27, 192.8023182297155, 'Unhealthy').
-aqi('Bangkok', 5, 16, 187.2930453108536, 'Unhealthy').
+aqi('Bangkok', 5, 16, 187.29304531085353, 'Unhealthy').
 aqi('Berlin', 2, 24, 75.0, 'Moderate').
 aqi('Beijing', 8, 18, 85.96323232323232, 'Moderate').
 aqi('Bangkok', 8, 26, 183.04878819810327, 'Unhealthy').
@@ -28263,32 +28263,32 @@ aqi('Bangkok', 6, 14, 181.15384615384616, 'Unhealthy').
 aqi('Cairo', 6, 11, 54.78636363636364, 'Moderate').
 aqi('Bangkok', 7, 13, 124.95829145728644, 'Poor').
 aqi('Johannesburg', 1, 4, 138.870351758794, 'Poor').
-aqi('Mumbai', 7, 10, 107.62361809045224, 'Poor').
+aqi('Mumbai', 7, 10, 107.62361809045225, 'Poor').
 aqi('Istanbul', 4, 11, 82.54506437768241, 'Moderate').
 aqi('Los Angeles', 11, 11, 86.9, 'Moderate').
 aqi('New York', 2, 1, 173.08356164383562, 'Unhealthy').
 aqi('Berlin', 8, 18, 111.53869346733669, 'Poor').
 aqi('London', 10, 13, 132.0497487437186, 'Poor').
-aqi('Beijing', 3, 9, 161.26986301369865, 'Unhealthy').
+aqi('Beijing', 3, 9, 161.26986301369863, 'Unhealthy').
 aqi('Seoul', 8, 17, 188.17597471022128, 'Unhealthy').
 aqi('Madrid', 3, 4, 123.27272727272728, 'Poor').
 aqi('Seoul', 12, 10, 177.36396206533192, 'Unhealthy').
 aqi('Johannesburg', 1, 1, 159.05995785036882, 'Unhealthy').
 aqi('Cairo', 8, 17, 79.4, 'Moderate').
-aqi('Mumbai', 8, 18, 195.7505795574289, 'Unhealthy').
+aqi('Mumbai', 8, 18, 195.75057955742886, 'Unhealthy').
 aqi('Berlin', 7, 8, 148.27638190954775, 'Poor').
 aqi('Sydney', 12, 24, 179.84752370916755, 'Unhealthy').
 aqi('Tokyo', 4, 24, 155.76059009483666, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 17, 168.6017913593256, 'Unhealthy').
 aqi('Tokyo', 12, 26, 192.3582718651212, 'Unhealthy').
-aqi('Istanbul', 8, 4, 197.3976817702845, 'Unhealthy').
-aqi('Istanbul', 11, 13, 195.1929399367756, 'Unhealthy').
+aqi('Istanbul', 8, 4, 197.39768177028452, 'Unhealthy').
+aqi('Istanbul', 11, 13, 195.19293993677556, 'Unhealthy').
 aqi('Sydney', 5, 23, 178.72708113804003, 'Unhealthy').
 aqi('Sydney', 2, 10, 155.04805057955744, 'Unhealthy').
 aqi('Mexico City', 2, 1, 99.0, 'Moderate').
-aqi('Seoul', 2, 3, 108.08767676767675, 'Poor').
+aqi('Seoul', 2, 3, 108.08767676767677, 'Poor').
 aqi('London', 4, 16, 183.4463645943098, 'Unhealthy').
-aqi('Seoul', 11, 13, 103.8070351758794, 'Poor').
+aqi('Seoul', 11, 13, 103.80703517587939, 'Poor').
 aqi('Istanbul', 7, 3, 169.71707060063224, 'Unhealthy').
 aqi('Sydney', 12, 27, 187.92297154899896, 'Unhealthy').
 aqi('New York', 9, 14, 168.46754478398313, 'Unhealthy').
@@ -28317,23 +28317,23 @@ aqi('Sydney', 5, 2, 105.66242424242424, 'Poor').
 aqi('Sydney', 6, 18, 99.6980808080808, 'Moderate').
 aqi('Istanbul', 10, 27, 84.8, 'Moderate').
 aqi('Mumbai', 7, 19, 187.8713382507903, 'Unhealthy').
-aqi('Mexico City', 4, 21, 115.709898989899, 'Poor').
+aqi('Mexico City', 4, 21, 115.70989898989899, 'Poor').
 aqi('Madrid', 10, 20, 184.85595363540568, 'Unhealthy').
 aqi('Madrid', 7, 10, 149.06432160804022, 'Poor').
-aqi('Istanbul', 6, 26, 183.9265542676501, 'Unhealthy').
+aqi('Istanbul', 6, 26, 183.92655426765015, 'Unhealthy').
 aqi('Johannesburg', 4, 10, 94.55321888412018, 'Moderate').
 aqi('Paris', 11, 6, 171.22992623814542, 'Unhealthy').
 aqi('Moscow', 9, 16, 152.3527924130664, 'Unhealthy').
 aqi('Toronto', 4, 11, 172.99062170706006, 'Unhealthy').
 aqi('Dubai', 3, 25, 164.93066385669127, 'Unhealthy').
-aqi('Istanbul', 3, 12, 194.0621707060064, 'Unhealthy').
+aqi('Istanbul', 3, 12, 194.06217070600633, 'Unhealthy').
 aqi('Paris', 1, 11, 97.40151515151516, 'Moderate').
 aqi('Los Angeles', 7, 22, 182.51696522655428, 'Unhealthy').
 aqi('Cairo', 3, 4, 104.9643216080402, 'Poor').
 aqi('Moscow', 12, 1, 95.01587982832618, 'Moderate').
 aqi('Istanbul', 4, 10, 90.13608695652174, 'Moderate').
 aqi('Madrid', 10, 16, 174.48798735511065, 'Unhealthy').
-aqi('Sydney', 12, 5, 96.88956521739132, 'Moderate').
+aqi('Sydney', 12, 5, 96.88956521739131, 'Moderate').
 aqi('Mexico City', 9, 14, 163.16480505795573, 'Unhealthy').
 aqi('Istanbul', 10, 17, 169.87197049525815, 'Unhealthy').
 aqi('Tokyo', 12, 6, 166.13371970495257, 'Unhealthy').
@@ -28344,7 +28344,7 @@ aqi('Los Angeles', 1, 8, 101.46525252525252, 'Poor').
 aqi('Bangkok', 9, 9, 116.57111111111112, 'Poor').
 aqi('Mumbai', 5, 14, 90.55636363636364, 'Moderate').
 aqi('Bangkok', 10, 25, 191.20168598524765, 'Unhealthy').
-aqi('Sydney', 6, 13, 96.92961373390555, 'Moderate').
+aqi('Sydney', 6, 13, 96.92961373390557, 'Moderate').
 aqi('Los Angeles', 6, 4, 175.98018967334036, 'Unhealthy').
 aqi('Dubai', 1, 3, 185.23804004214963, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 19, 165.12170706006322, 'Unhealthy').
@@ -28356,15 +28356,15 @@ aqi('Mexico City', 6, 27, 166.57260273972602, 'Unhealthy').
 aqi('Los Angeles', 3, 9, 112.73030303030302, 'Poor').
 aqi('Johannesburg', 9, 19, 175.0972602739726, 'Unhealthy').
 aqi('Istanbul', 10, 17, 175.4277133825079, 'Unhealthy').
-aqi('Paris', 8, 17, 99.074678111588, 'Moderate').
+aqi('Paris', 8, 17, 99.07467811158799, 'Moderate').
 aqi('Bangkok', 4, 4, 156.01875658587988, 'Unhealthy').
 aqi('Dubai', 10, 22, 134.5366834170854, 'Poor').
-aqi('London', 8, 16, 106.98341708542712, 'Poor').
+aqi('London', 8, 16, 106.98341708542713, 'Poor').
 aqi('Johannesburg', 6, 7, 87.7, 'Moderate').
 aqi('Moscow', 3, 6, 172.27291886195997, 'Unhealthy').
 aqi('Tokyo', 2, 7, 72.28240343347639, 'Moderate').
 aqi('Sydney', 12, 28, 181.24162276080085, 'Unhealthy').
-aqi('Rio de Janeiro', 6, 2, 111.60181818181816, 'Poor').
+aqi('Rio de Janeiro', 6, 2, 111.60181818181817, 'Poor').
 aqi('Rio de Janeiro', 1, 9, 195.2445732349842, 'Unhealthy').
 aqi('Sydney', 1, 7, 196.65932560590096, 'Unhealthy').
 aqi('Tokyo', 1, 10, 195.43561643835616, 'Unhealthy').
@@ -28377,16 +28377,16 @@ aqi('Cairo', 3, 25, 192.9881981032666, 'Unhealthy').
 aqi('Los Angeles', 6, 6, 196.4527924130664, 'Unhealthy').
 aqi('Cairo', 4, 6, 138.3040201005025, 'Poor').
 aqi('Cairo', 10, 14, 161.445416227608, 'Unhealthy').
-aqi('Dubai', 4, 19, 92.2, 'Moderate').
+aqi('Dubai', 4, 19, 92.19999999999999, 'Moderate').
 aqi('Seoul', 7, 22, 184.2518440463646, 'Unhealthy').
-aqi('Mexico City', 4, 27, 124.98291457286432, 'Poor').
+aqi('Mexico City', 4, 27, 124.98291457286433, 'Poor').
 aqi('Berlin', 5, 13, 182.8835616438356, 'Unhealthy').
 aqi('Seoul', 11, 10, 153.50937829293994, 'Unhealthy').
 aqi('Toronto', 1, 24, 177.5550052687039, 'Unhealthy').
 aqi('Beijing', 9, 8, 142.85929648241205, 'Poor').
 aqi('Madrid', 12, 20, 159.02381454162276, 'Unhealthy').
 aqi('Toronto', 2, 23, 76.39090909090909, 'Moderate').
-aqi('Mumbai', 11, 27, 101.33793103448276, 'Poor').
+aqi('Mumbai', 11, 27, 101.33793103448275, 'Poor').
 aqi('Moscow', 10, 12, 89.37978260869565, 'Moderate').
 aqi('Johannesburg', 3, 2, 176.15574288724974, 'Unhealthy').
 aqi('Seoul', 12, 21, 107.13737373737374, 'Poor').
@@ -28397,34 +28397,34 @@ aqi('Sydney', 3, 12, 72.1, 'Moderate').
 aqi('Madrid', 10, 1, 155.04805057955744, 'Unhealthy').
 aqi('New York', 4, 28, 143.49949748743717, 'Poor').
 aqi('Tokyo', 1, 19, 174.44668071654374, 'Unhealthy').
-aqi('Mexico City', 5, 24, 178.29336143308743, 'Unhealthy').
+aqi('Mexico City', 5, 24, 178.29336143308745, 'Unhealthy').
 aqi('London', 4, 14, 67.22326086956522, 'Moderate').
 aqi('Mumbai', 2, 2, 90.23959595959596, 'Moderate').
 aqi('Bangkok', 3, 27, 186.18292939936777, 'Unhealthy').
 aqi('Tokyo', 10, 8, 154.190937829294, 'Unhealthy').
-aqi('Dubai', 3, 4, 111.39888888888888, 'Poor').
+aqi('Dubai', 3, 4, 111.39888888888889, 'Poor').
 aqi('Tokyo', 3, 28, 174.55511064278187, 'Unhealthy').
 aqi('Tokyo', 6, 6, 116.59585858585858, 'Poor').
-aqi('London', 10, 18, 192.98303477344567, 'Unhealthy').
+aqi('London', 10, 18, 192.98303477344575, 'Unhealthy').
 aqi('London', 2, 12, 86.62489270386266, 'Moderate').
 aqi('Istanbul', 7, 15, 83.95407725321888, 'Moderate').
 aqi('Johannesburg', 7, 3, 167.7291886195996, 'Unhealthy').
-aqi('Tokyo', 2, 22, 188.9711275026344, 'Unhealthy').
+aqi('Tokyo', 2, 22, 188.97112750263435, 'Unhealthy').
 aqi('Berlin', 5, 27, 177.01801896733403, 'Unhealthy').
 aqi('Berlin', 4, 8, 104.49929292929292, 'Poor').
-aqi('Rio de Janeiro', 9, 10, 194.0053740779768, 'Unhealthy').
+aqi('Rio de Janeiro', 9, 10, 194.00537407797682, 'Unhealthy').
 aqi('Dubai', 11, 25, 92.54347826086956, 'Moderate').
 aqi('Berlin', 8, 10, 157.05658587987355, 'Unhealthy').
 aqi('Los Angeles', 8, 10, 59.933076923076925, 'Moderate').
-aqi('Rio de Janeiro', 3, 12, 194.18092729188612, 'Unhealthy').
+aqi('Rio de Janeiro', 3, 12, 194.18092729188618, 'Unhealthy').
 aqi('Mexico City', 3, 21, 196.79873551106428, 'Unhealthy').
 aqi('Madrid', 9, 25, 157.12887249736565, 'Unhealthy').
 aqi('New York', 11, 5, 122.98844221105529, 'Poor').
-aqi('Rio de Janeiro', 8, 22, 198.8175974710221, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 22, 198.81759747102214, 'Unhealthy').
 aqi('Sydney', 9, 7, 152.5696522655427, 'Unhealthy').
-aqi('Mumbai', 5, 24, 103.87241379310343, 'Poor').
-aqi('Moscow', 11, 2, 181.4894625922024, 'Unhealthy').
-aqi('Tokyo', 2, 28, 106.40689655172416, 'Poor').
+aqi('Mumbai', 5, 24, 103.87241379310345, 'Poor').
+aqi('Moscow', 11, 2, 181.48946259220233, 'Unhealthy').
+aqi('Tokyo', 2, 28, 106.40689655172415, 'Poor').
 aqi('Paris', 7, 23, 81.75121212121212, 'Moderate').
 aqi('Tokyo', 3, 12, 176.35194942044257, 'Unhealthy').
 aqi('Seoul', 10, 15, 194.795363540569, 'Unhealthy').
@@ -28438,12 +28438,12 @@ aqi('Madrid', 11, 2, 169.08714436248684, 'Unhealthy').
 aqi('Dubai', 6, 1, 185.9763962065332, 'Unhealthy').
 aqi('Dubai', 3, 1, 189.02792413066385, 'Unhealthy').
 aqi('Rio de Janeiro', 12, 2, 102.6896551724138, 'Poor').
-aqi('Mexico City', 11, 23, 190.8247629083245, 'Unhealthy').
+aqi('Mexico City', 11, 23, 190.82476290832454, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 15, 112.84371859296483, 'Poor').
 aqi('Beijing', 10, 13, 179.75458377239198, 'Unhealthy').
 aqi('Tokyo', 7, 25, 154.96027397260275, 'Unhealthy').
 aqi('Madrid', 2, 20, 129.0211055276382, 'Poor').
-aqi('Dubai', 2, 28, 91.4, 'Moderate').
+aqi('Dubai', 2, 28, 91.39999999999999, 'Moderate').
 aqi('Sydney', 12, 19, 106.9839393939394, 'Poor').
 aqi('Toronto', 6, 4, 175.63940990516332, 'Unhealthy').
 aqi('Moscow', 12, 21, 184.4377239199157, 'Unhealthy').
@@ -28452,19 +28452,19 @@ aqi('Berlin', 6, 21, 158.86375131717597, 'Unhealthy').
 aqi('Cairo', 2, 7, 132.9854271356784, 'Poor').
 aqi('Madrid', 10, 9, 159.08577449947313, 'Unhealthy').
 aqi('Mumbai', 10, 26, 197.79525816649104, 'Unhealthy').
-aqi('Beijing', 5, 21, 126.53417085427137, 'Poor').
+aqi('Beijing', 5, 21, 126.53417085427135, 'Poor').
 aqi('Johannesburg', 1, 19, 180.6891464699684, 'Unhealthy').
 aqi('Dubai', 9, 16, 177.5240252897787, 'Unhealthy').
 aqi('New York', 8, 10, 82.86051502145924, 'Moderate').
 aqi('Seoul', 5, 1, 192.7610115911486, 'Unhealthy').
 aqi('Seoul', 9, 17, 93.52347826086957, 'Moderate').
 aqi('Seoul', 9, 17, 162.27154899894626, 'Unhealthy').
-aqi('New York', 2, 19, 167.70337197049523, 'Unhealthy').
+aqi('New York', 2, 19, 167.70337197049525, 'Unhealthy').
 aqi('Berlin', 1, 3, 189.30158061116964, 'Unhealthy').
-aqi('Seoul', 12, 14, 193.6542676501581, 'Unhealthy').
-aqi('London', 9, 16, 125.13065326633163, 'Poor').
+aqi('Seoul', 12, 14, 193.65426765015806, 'Unhealthy').
+aqi('London', 9, 16, 125.13065326633165, 'Poor').
 aqi('Rio de Janeiro', 6, 1, 104.99424242424242, 'Poor').
-aqi('Cairo', 2, 3, 196.50442571127505, 'Unhealthy').
+aqi('Cairo', 2, 3, 196.50442571127502, 'Unhealthy').
 aqi('Johannesburg', 6, 19, 147.61155778894474, 'Poor').
 aqi('Cairo', 6, 11, 196.10168598524763, 'Unhealthy').
 aqi('Moscow', 2, 18, 191.8522655426765, 'Unhealthy').
@@ -28474,12 +28474,12 @@ aqi('Madrid', 8, 17, 79.8, 'Moderate').
 aqi('Istanbul', 3, 3, 78.86070707070708, 'Moderate').
 aqi('Sydney', 6, 10, 179.2950474183351, 'Unhealthy').
 aqi('Tokyo', 6, 7, 178.16427818756586, 'Unhealthy').
-aqi('London', 3, 1, 195.254899894626, 'Unhealthy').
+aqi('London', 3, 1, 195.25489989462594, 'Unhealthy').
 aqi('Cairo', 7, 3, 161.96691253951528, 'Unhealthy').
 aqi('Johannesburg', 6, 26, 153.60231822971548, 'Unhealthy').
 aqi('Seoul', 4, 22, 188.15532139093784, 'Unhealthy').
 aqi('Berlin', 12, 1, 118.19454545454546, 'Poor').
-aqi('Paris', 3, 2, 98.95565656565655, 'Moderate').
+aqi('Paris', 3, 2, 98.95565656565657, 'Moderate').
 aqi('New York', 9, 26, 183.89557428872496, 'Unhealthy').
 aqi('New York', 3, 23, 163.96512118018967, 'Unhealthy').
 aqi('London', 2, 16, 152.3527924130664, 'Unhealthy').
@@ -28493,8 +28493,8 @@ aqi('New York', 9, 9, 173.17650158061116, 'Unhealthy').
 aqi('Toronto', 5, 2, 102.63333333333334, 'Poor').
 aqi('Johannesburg', 11, 22, 175.39673340358272, 'Unhealthy').
 aqi('Bangkok', 6, 3, 89.68030303030304, 'Moderate').
-aqi('Berlin', 8, 16, 56.3648717948718, 'Moderate').
-aqi('Mexico City', 5, 22, 183.4308746048472, 'Unhealthy').
+aqi('Berlin', 8, 16, 56.364871794871796, 'Moderate').
+aqi('Mexico City', 5, 22, 183.43087460484722, 'Unhealthy').
 aqi('Paris', 8, 10, 174.58609062170706, 'Unhealthy').
 aqi('Johannesburg', 1, 26, 188.42897787144364, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 11, 153.54035827186513, 'Unhealthy').
@@ -28504,32 +28504,32 @@ aqi('Paris', 12, 18, 184.34478398314013, 'Unhealthy').
 aqi('Los Angeles', 6, 17, 171.98377239199158, 'Unhealthy').
 aqi('New York', 7, 24, 154.1341412012645, 'Unhealthy').
 aqi('Bangkok', 9, 14, 78.96959595959596, 'Moderate').
-aqi('Seoul', 2, 16, 93.02121212121212, 'Moderate').
+aqi('Seoul', 2, 16, 93.02121212121213, 'Moderate').
 aqi('Dubai', 1, 14, 157.913698630137, 'Unhealthy').
 aqi('Bangkok', 1, 21, 167.8427818756586, 'Unhealthy').
-aqi('Beijing', 9, 6, 191.5579557428873, 'Unhealthy').
+aqi('Beijing', 9, 6, 191.55795574288726, 'Unhealthy').
 aqi('Los Angeles', 4, 9, 178.01970495258166, 'Unhealthy').
 aqi('Dubai', 1, 16, 193.46838777660696, 'Unhealthy').
 aqi('Tokyo', 2, 22, 172.60337197049526, 'Unhealthy').
-aqi('Tokyo', 5, 18, 184.0556375131717, 'Unhealthy').
+aqi('Tokyo', 5, 18, 184.05563751317175, 'Unhealthy').
 aqi('Berlin', 7, 21, 179.66164383561645, 'Unhealthy').
-aqi('Toronto', 9, 14, 184.92824025289772, 'Unhealthy').
+aqi('Toronto', 9, 14, 184.92824025289778, 'Unhealthy').
 aqi('Dubai', 8, 3, 189.8695468914647, 'Unhealthy').
-aqi('Seoul', 7, 14, 193.6542676501581, 'Unhealthy').
+aqi('Seoul', 7, 14, 193.65426765015806, 'Unhealthy').
 aqi('Seoul', 3, 21, 194.11380400421496, 'Unhealthy').
 aqi('Istanbul', 6, 18, 187.2414120126449, 'Unhealthy').
 aqi('Mumbai', 5, 19, 91.8, 'Moderate').
-aqi('Cairo', 7, 15, 194.2738672286617, 'Unhealthy').
+aqi('Cairo', 7, 15, 194.27386722866174, 'Unhealthy').
 aqi('Dubai', 11, 9, 171.4209694415174, 'Unhealthy').
 aqi('Cairo', 11, 1, 195.65763962065333, 'Unhealthy').
-aqi('Seoul', 11, 15, 122.92626262626264, 'Poor').
+aqi('Seoul', 11, 15, 122.92626262626263, 'Poor').
 aqi('Moscow', 6, 10, 172.3968387776607, 'Unhealthy').
 aqi('Berlin', 4, 26, 110.97236180904522, 'Poor').
 aqi('Berlin', 2, 24, 164.9100105374078, 'Unhealthy').
 aqi('Dubai', 3, 28, 179.96628029504743, 'Unhealthy').
 aqi('Mumbai', 11, 10, 178.4017913593256, 'Unhealthy').
 aqi('Sydney', 11, 22, 194.61981032665963, 'Unhealthy').
-aqi('Beijing', 9, 21, 182.96101159114852, 'Unhealthy').
+aqi('Beijing', 9, 21, 182.96101159114858, 'Unhealthy').
 aqi('Seoul', 10, 21, 101.44050505050504, 'Poor').
 aqi('Toronto', 6, 25, 181.90252897787144, 'Unhealthy').
 aqi('Moscow', 11, 8, 135.47236180904522, 'Poor').
@@ -28550,7 +28550,7 @@ aqi('Madrid', 4, 14, 177.1935721812434, 'Unhealthy').
 aqi('Johannesburg', 9, 8, 164.18198103266596, 'Unhealthy').
 aqi('Paris', 5, 16, 194.47523709167544, 'Unhealthy').
 aqi('Berlin', 1, 24, 162.51938883034774, 'Unhealthy').
-aqi('Bangkok', 5, 26, 113.73015075376884, 'Poor').
+aqi('Bangkok', 5, 26, 113.73015075376885, 'Poor').
 aqi('Tokyo', 1, 18, 177.48788198103267, 'Unhealthy').
 aqi('Berlin', 6, 21, 168.34878819810325, 'Unhealthy').
 aqi('Sydney', 6, 5, 163.78440463645944, 'Unhealthy').
@@ -28558,19 +28558,19 @@ aqi('Cairo', 6, 13, 152.25468914646996, 'Unhealthy').
 aqi('Toronto', 10, 13, 167.48651211801896, 'Unhealthy').
 aqi('Mumbai', 12, 21, 63.091616161616166, 'Moderate').
 aqi('Madrid', 4, 8, 155.81222339304531, 'Unhealthy').
-aqi('Istanbul', 6, 12, 190.6130663856692, 'Unhealthy').
+aqi('Istanbul', 6, 12, 190.61306638566913, 'Unhealthy').
 aqi('London', 8, 14, 182.4704952581665, 'Unhealthy').
 aqi('Cairo', 2, 10, 184.6804004214963, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 13, 172.90800842992624, 'Unhealthy').
 aqi('Cairo', 3, 24, 162.20958904109588, 'Unhealthy').
 aqi('New York', 12, 15, 173.67218124341412, 'Unhealthy').
 aqi('Sydney', 6, 15, 156.62286617492097, 'Unhealthy').
-aqi('Johannesburg', 11, 18, 95.18412017167384, 'Moderate').
+aqi('Johannesburg', 11, 18, 95.18412017167383, 'Moderate').
 aqi('Tokyo', 7, 16, 72.04030303030304, 'Moderate').
-aqi('Bangkok', 7, 8, 101.480101010101, 'Poor').
+aqi('Bangkok', 7, 8, 101.48010101010101, 'Poor').
 aqi('Seoul', 12, 6, 181.2467860906217, 'Unhealthy').
 aqi('Cairo', 3, 28, 180.55489989462592, 'Unhealthy').
-aqi('Tokyo', 2, 5, 190.8247629083245, 'Unhealthy').
+aqi('Tokyo', 2, 5, 190.82476290832454, 'Unhealthy').
 aqi('Istanbul', 8, 6, 152.5541622760801, 'Unhealthy').
 aqi('Cairo', 2, 7, 171.52423603793466, 'Unhealthy').
 aqi('Bangkok', 6, 21, 175.83561643835617, 'Unhealthy').
@@ -28579,14 +28579,14 @@ aqi('Madrid', 7, 5, 155.51275026343518, 'Unhealthy').
 aqi('Mumbai', 6, 18, 193.34963119072708, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 5, 194.9399367755532, 'Unhealthy').
 aqi('Toronto', 7, 26, 114.2349494949495, 'Poor').
-aqi('Johannesburg', 2, 6, 187.163962065332, 'Unhealthy').
+aqi('Johannesburg', 2, 6, 187.16396206533193, 'Unhealthy').
 aqi('Cairo', 8, 8, 113.0569696969697, 'Poor').
 aqi('Mexico City', 11, 24, 153.51970495258166, 'Unhealthy').
 aqi('Cairo', 6, 8, 197.01559536354057, 'Unhealthy').
 aqi('Dubai', 7, 7, 159.98419388830348, 'Unhealthy').
 aqi('Toronto', 2, 4, 71.9, 'Moderate').
 aqi('Tokyo', 4, 1, 161.62613277133826, 'Unhealthy').
-aqi('Dubai', 5, 6, 183.8284510010537, 'Unhealthy').
+aqi('Dubai', 5, 6, 183.82845100105374, 'Unhealthy').
 aqi('Mumbai', 10, 11, 149.11356783919598, 'Poor').
 aqi('Los Angeles', 5, 4, 181.8973656480506, 'Unhealthy').
 aqi('Los Angeles', 4, 16, 79.76909871244635, 'Moderate').
@@ -28595,19 +28595,19 @@ aqi('Cairo', 3, 6, 77.6530303030303, 'Moderate').
 aqi('Johannesburg', 10, 20, 187.10716543730243, 'Unhealthy').
 aqi('Moscow', 4, 4, 81.30000000000001, 'Moderate').
 aqi('London', 2, 26, 107.3650505050505, 'Poor').
-aqi('Toronto', 12, 9, 188.7284510010537, 'Unhealthy').
+aqi('Toronto', 12, 9, 188.72845100105374, 'Unhealthy').
 aqi('Tokyo', 10, 10, 158.18735511064278, 'Unhealthy').
-aqi('Dubai', 2, 24, 93.90695652173912, 'Moderate').
+aqi('Dubai', 2, 24, 93.90695652173913, 'Moderate').
 aqi('Beijing', 7, 26, 177.43108535300317, 'Unhealthy').
-aqi('Istanbul', 6, 19, 185.15542676501585, 'Unhealthy').
-aqi('Moscow', 5, 27, 125.86934673366837, 'Poor').
+aqi('Istanbul', 6, 19, 185.15542676501582, 'Unhealthy').
+aqi('Moscow', 5, 27, 125.86934673366835, 'Poor').
 aqi('Johannesburg', 6, 4, 179.94562697576396, 'Unhealthy').
-aqi('Dubai', 12, 16, 183.136564805058, 'Unhealthy').
+aqi('Dubai', 12, 16, 183.13656480505796, 'Unhealthy').
 aqi('London', 6, 6, 130.91708542713567, 'Poor').
 aqi('Tokyo', 1, 23, 71.51608695652175, 'Moderate').
-aqi('Los Angeles', 12, 22, 124.98291457286432, 'Poor').
+aqi('Los Angeles', 12, 22, 124.98291457286433, 'Poor').
 aqi('Moscow', 2, 15, 97.8420202020202, 'Moderate').
-aqi('Mumbai', 4, 19, 193.8040042149632, 'Unhealthy').
+aqi('Mumbai', 4, 19, 193.80400421496313, 'Unhealthy').
 aqi('Paris', 11, 5, 173.2746048472076, 'Unhealthy').
 aqi('Johannesburg', 5, 19, 89.69934782608695, 'Moderate').
 aqi('Dubai', 7, 6, 108.50343434343434, 'Poor').
@@ -28626,7 +28626,7 @@ aqi('Mumbai', 7, 7, 157.7949420442571, 'Unhealthy').
 aqi('London', 10, 18, 106.04773869346732, 'Poor').
 aqi('Johannesburg', 3, 19, 78.46523605150215, 'Moderate').
 aqi('Los Angeles', 5, 4, 69.76848484848485, 'Moderate').
-aqi('Berlin', 9, 3, 91.4, 'Moderate').
+aqi('Berlin', 9, 3, 91.39999999999999, 'Moderate').
 aqi('Toronto', 3, 7, 187.18977871443624, 'Unhealthy').
 aqi('Cairo', 6, 26, 99.24369565217393, 'Moderate').
 aqi('Cairo', 1, 23, 167.1354056902002, 'Unhealthy').
@@ -28641,17 +28641,17 @@ aqi('Sydney', 6, 28, 190.2722866174921, 'Unhealthy').
 aqi('Cairo', 9, 9, 126.31256281407036, 'Poor').
 aqi('Tokyo', 4, 19, 183.590937829294, 'Unhealthy').
 aqi('London', 2, 7, 87.02565217391304, 'Moderate').
-aqi('Paris', 5, 4, 184.1175974710221, 'Unhealthy').
+aqi('Paris', 5, 4, 184.11759747102212, 'Unhealthy').
 aqi('New York', 2, 2, 164.09420442571127, 'Unhealthy').
-aqi('Istanbul', 11, 17, 194.9347734457324, 'Unhealthy').
+aqi('Istanbul', 11, 17, 194.93477344573236, 'Unhealthy').
 aqi('Madrid', 7, 25, 174.72033719704953, 'Unhealthy').
 aqi('Paris', 4, 6, 184.0349841938883, 'Unhealthy').
-aqi('Sydney', 3, 14, 193.1121180189673, 'Unhealthy').
+aqi('Sydney', 3, 14, 193.11211801896735, 'Unhealthy').
 aqi('Toronto', 9, 25, 161.42476290832454, 'Unhealthy').
 aqi('Sydney', 1, 2, 67.66, 'Moderate').
-aqi('Tokyo', 5, 14, 152.19789251844043, 'Unhealthy').
+aqi('Tokyo', 5, 14, 152.19789251844045, 'Unhealthy').
 aqi('Toronto', 1, 25, 159.41622760800843, 'Unhealthy').
-aqi('Los Angeles', 7, 17, 193.2928345626976, 'Unhealthy').
+aqi('Los Angeles', 7, 17, 193.29283456269758, 'Unhealthy').
 aqi('Mexico City', 8, 26, 149.90150753768845, 'Poor').
 aqi('Rio de Janeiro', 1, 26, 172.50526870389885, 'Unhealthy').
 aqi('Madrid', 8, 7, 155.7709167544784, 'Unhealthy').
@@ -28660,7 +28660,7 @@ aqi('Sydney', 4, 1, 151.06712328767122, 'Unhealthy').
 aqi('Dubai', 10, 2, 181.38619599578504, 'Unhealthy').
 aqi('Los Angeles', 10, 3, 179.24341412012646, 'Unhealthy').
 aqi('Mexico City', 4, 23, 85.53757575757575, 'Moderate').
-aqi('Los Angeles', 4, 23, 195.07934668071653, 'Unhealthy').
+aqi('Los Angeles', 4, 23, 195.07934668071655, 'Unhealthy').
 aqi('Dubai', 1, 4, 109.32261306532664, 'Poor').
 aqi('Cairo', 3, 2, 163.2577449947313, 'Unhealthy').
 aqi('Beijing', 12, 15, 176.15574288724974, 'Unhealthy').
@@ -28671,24 +28671,24 @@ aqi('Istanbul', 8, 24, 170.24889357218126, 'Unhealthy').
 aqi('Los Angeles', 8, 7, 64.61948717948718, 'Moderate').
 aqi('Sydney', 1, 25, 86.81416309012877, 'Moderate').
 aqi('Cairo', 10, 14, 181.77344573234984, 'Unhealthy').
-aqi('Dubai', 12, 21, 194.1344573234984, 'Unhealthy').
+aqi('Dubai', 12, 21, 194.13445732349842, 'Unhealthy').
 aqi('Moscow', 11, 24, 156.5299262381454, 'Unhealthy').
 aqi('Dubai', 6, 19, 140.52010050251255, 'Poor').
 aqi('Madrid', 6, 26, 170.27471022128557, 'Unhealthy').
-aqi('New York', 6, 4, 191.08809272918865, 'Unhealthy').
+aqi('New York', 6, 4, 191.08809272918862, 'Unhealthy').
 aqi('Berlin', 5, 11, 161.7448893572181, 'Unhealthy').
 aqi('Mexico City', 9, 28, 182.90937829293995, 'Unhealthy').
 aqi('Bangkok', 1, 28, 177.21422550052688, 'Unhealthy').
 aqi('Madrid', 10, 15, 74.06995708154507, 'Moderate').
 aqi('Beijing', 2, 4, 193.43224446786093, 'Unhealthy').
 aqi('Seoul', 6, 2, 178.49473129610115, 'Unhealthy').
-aqi('Toronto', 3, 22, 99.06949494949497, 'Moderate').
+aqi('Toronto', 3, 22, 99.06949494949495, 'Moderate').
 aqi('Rio de Janeiro', 8, 14, 164.9822971548999, 'Unhealthy').
-aqi('Cairo', 12, 9, 166.9237091675448, 'Unhealthy').
+aqi('Cairo', 12, 9, 166.92370916754479, 'Unhealthy').
 aqi('Seoul', 7, 22, 166.62939936775552, 'Unhealthy').
 aqi('Dubai', 10, 25, 171.41580611169653, 'Unhealthy').
-aqi('Mexico City', 2, 11, 113.85326633165828, 'Poor').
-aqi('Berlin', 3, 4, 106.40689655172416, 'Poor').
+aqi('Mexico City', 2, 11, 113.85326633165829, 'Poor').
+aqi('Berlin', 3, 4, 106.40689655172415, 'Poor').
 aqi('Berlin', 4, 8, 163.19578503688092, 'Unhealthy').
 aqi('Cairo', 4, 17, 167.74467860906216, 'Unhealthy').
 aqi('Seoul', 4, 4, 77.2, 'Moderate').
@@ -28698,32 +28698,32 @@ aqi('Madrid', 10, 4, 173.4295047418335, 'Unhealthy').
 aqi('Istanbul', 1, 1, 184.75268703898843, 'Unhealthy').
 aqi('Paris', 7, 16, 166.6345626975764, 'Unhealthy').
 aqi('Los Angeles', 3, 6, 193.086301369863, 'Unhealthy').
-aqi('Bangkok', 5, 5, 189.59072708113808, 'Unhealthy').
+aqi('Bangkok', 5, 5, 189.59072708113806, 'Unhealthy').
 aqi('Bangkok', 7, 5, 119.15474747474748, 'Poor').
 aqi('Moscow', 11, 8, 176.1041095890411, 'Unhealthy').
-aqi('Mexico City', 8, 24, 181.9489989462592, 'Unhealthy').
+aqi('Mexico City', 8, 24, 181.94899894625922, 'Unhealthy').
 aqi('Istanbul', 5, 13, 175.26765015806112, 'Unhealthy').
 aqi('Paris', 3, 2, 158.87407797681772, 'Unhealthy').
 aqi('Istanbul', 2, 10, 182.54794520547944, 'Unhealthy').
 aqi('Beijing', 6, 13, 187.18977871443624, 'Unhealthy').
 aqi('Los Angeles', 1, 16, 153.82950474183352, 'Unhealthy').
-aqi('Madrid', 2, 20, 99.29695652173912, 'Moderate').
+aqi('Madrid', 2, 20, 99.29695652173913, 'Moderate').
 aqi('Berlin', 12, 23, 183.99884088514227, 'Unhealthy').
 aqi('Mumbai', 1, 19, 196.1791359325606, 'Unhealthy').
 aqi('Paris', 11, 11, 197.88303477344573, 'Unhealthy').
 aqi('Madrid', 6, 6, 167.49683877766068, 'Unhealthy').
 aqi('Madrid', 1, 12, 177.67892518440465, 'Unhealthy').
-aqi('Bangkok', 6, 23, 153.87081138040045, 'Unhealthy').
-aqi('Madrid', 11, 8, 115.75939393939392, 'Poor').
+aqi('Bangkok', 6, 23, 153.87081138040043, 'Unhealthy').
+aqi('Madrid', 11, 8, 115.75939393939393, 'Poor').
 aqi('Seoul', 2, 17, 170.50706006322446, 'Unhealthy').
-aqi('Bangkok', 5, 7, 101.66482412060304, 'Poor').
+aqi('Bangkok', 5, 7, 101.66482412060303, 'Poor').
 aqi('Johannesburg', 11, 27, 141.77587939698492, 'Poor').
 aqi('Sydney', 3, 11, 189.84889357218125, 'Unhealthy').
 aqi('Berlin', 11, 23, 181.63919915700737, 'Unhealthy').
 aqi('London', 10, 24, 153.2976817702845, 'Unhealthy').
 aqi('Beijing', 8, 20, 95.62575107296138, 'Moderate').
 aqi('Cairo', 8, 12, 169.55700737618545, 'Unhealthy').
-aqi('Toronto', 1, 9, 180.4774499473129, 'Unhealthy').
+aqi('Toronto', 1, 9, 180.47744994731295, 'Unhealthy').
 aqi('London', 3, 12, 96.65414141414142, 'Moderate').
 aqi('Tokyo', 2, 1, 92.6, 'Moderate').
 aqi('Toronto', 6, 18, 156.13751317175974, 'Unhealthy').
@@ -28733,7 +28733,7 @@ aqi('Paris', 5, 16, 106.29396984924622, 'Poor').
 aqi('London', 7, 6, 184.73203371970496, 'Unhealthy').
 aqi('Madrid', 2, 5, 161.68292939936777, 'Unhealthy').
 aqi('New York', 8, 2, 78.23760869565217, 'Moderate').
-aqi('Dubai', 3, 4, 192.1827186512118, 'Unhealthy').
+aqi('Dubai', 3, 4, 192.18271865121181, 'Unhealthy').
 aqi('Mumbai', 11, 7, 179.14531085353002, 'Unhealthy').
 aqi('Sydney', 5, 20, 89.35847826086957, 'Moderate').
 aqi('Mumbai', 12, 13, 176.48103266596416, 'Unhealthy').
@@ -28750,15 +28750,15 @@ aqi('Madrid', 7, 4, 171.10600632244467, 'Unhealthy').
 aqi('New York', 2, 12, 159.06512118018966, 'Unhealthy').
 aqi('Moscow', 4, 22, 183.72518440463645, 'Unhealthy').
 aqi('Johannesburg', 11, 20, 89.45262626262627, 'Moderate').
-aqi('London', 1, 28, 92.31343434343437, 'Moderate').
+aqi('London', 1, 28, 92.31343434343435, 'Moderate').
 aqi('Johannesburg', 1, 9, 120.07040404040404, 'Poor').
 aqi('Paris', 12, 7, 103.1175879396985, 'Poor').
-aqi('Cairo', 5, 13, 157.2114857744995, 'Unhealthy').
-aqi('Seoul', 4, 17, 140.3477386934673, 'Poor').
+aqi('Cairo', 5, 13, 157.21148577449947, 'Unhealthy').
+aqi('Seoul', 4, 17, 140.34773869346733, 'Poor').
 aqi('Tokyo', 2, 21, 140.37236180904523, 'Poor').
 aqi('Berlin', 9, 10, 98.57260869565218, 'Moderate').
 aqi('Sydney', 6, 18, 102.55125628140703, 'Poor').
-aqi('Madrid', 8, 2, 107.35276381909549, 'Poor').
+aqi('Madrid', 8, 2, 107.35276381909547, 'Poor').
 aqi('Seoul', 1, 12, 144.55829145728643, 'Poor').
 aqi('Sydney', 1, 27, 172.11285563751318, 'Unhealthy').
 aqi('Dubai', 12, 21, 156.46796628029506, 'Unhealthy').
@@ -28771,21 +28771,21 @@ aqi('Berlin', 11, 11, 160.7586933614331, 'Unhealthy').
 aqi('Berlin', 11, 12, 95.92656565656566, 'Moderate').
 aqi('Cairo', 2, 16, 167.65173867228663, 'Unhealthy').
 aqi('Mumbai', 11, 25, 177.96290832455216, 'Unhealthy').
-aqi('Sydney', 7, 6, 185.2018967334036, 'Unhealthy').
+aqi('Sydney', 7, 6, 185.20189673340357, 'Unhealthy').
 aqi('Johannesburg', 7, 17, 194.57334035827185, 'Unhealthy').
 aqi('London', 2, 19, 140.02763819095478, 'Poor').
 aqi('Sydney', 1, 3, 178.09715489989463, 'Unhealthy').
-aqi('Mexico City', 10, 14, 191.75932560590093, 'Unhealthy').
+aqi('Mexico City', 10, 14, 191.75932560590095, 'Unhealthy').
 aqi('Mexico City', 10, 14, 162.45742887249736, 'Unhealthy').
 aqi('Toronto', 2, 7, 133.15778894472362, 'Poor').
 aqi('New York', 7, 11, 108.16532663316582, 'Poor').
 aqi('Moscow', 9, 12, 181.25194942044257, 'Unhealthy').
-aqi('Bangkok', 2, 1, 180.3948366701792, 'Unhealthy').
+aqi('Bangkok', 2, 1, 180.39483667017913, 'Unhealthy').
 aqi('Mumbai', 12, 2, 195.36332982086407, 'Unhealthy').
 aqi('Seoul', 5, 9, 158.6572181243414, 'Unhealthy').
 aqi('Mexico City', 5, 23, 185.0418335089568, 'Unhealthy').
-aqi('Mexico City', 9, 12, 114.19798994974876, 'Poor').
-aqi('Los Angeles', 9, 12, 191.6870389884089, 'Unhealthy').
+aqi('Mexico City', 9, 12, 114.19798994974875, 'Poor').
+aqi('Los Angeles', 9, 12, 191.68703898840886, 'Unhealthy').
 aqi('Tokyo', 10, 3, 179.6926238145416, 'Unhealthy').
 aqi('Mumbai', 1, 13, 198.7504741833509, 'Unhealthy').
 aqi('Madrid', 6, 24, 76.53326086956523, 'Moderate').
@@ -28794,7 +28794,7 @@ aqi('Johannesburg', 2, 12, 123.80100502512562, 'Poor').
 aqi('Johannesburg', 4, 8, 158.35258166491042, 'Unhealthy').
 aqi('Mexico City', 9, 25, 154.3458377239199, 'Unhealthy').
 aqi('Berlin', 10, 18, 161.28535300316122, 'Unhealthy').
-aqi('Cairo', 2, 8, 97.8549356223176, 'Moderate').
+aqi('Cairo', 2, 8, 97.85493562231761, 'Moderate').
 aqi('Madrid', 7, 19, 177.6118018967334, 'Unhealthy').
 aqi('Istanbul', 11, 2, 146.23266331658292, 'Poor').
 aqi('Bangkok', 7, 16, 182.0987355110643, 'Unhealthy').
@@ -28804,10 +28804,10 @@ aqi('London', 7, 4, 162.05468914646997, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 27, 151.83129610115913, 'Unhealthy').
 aqi('Toronto', 1, 18, 162.70526870389884, 'Unhealthy').
 aqi('Cairo', 6, 22, 187.9436248682824, 'Unhealthy').
-aqi('Seoul', 1, 19, 192.21369863013692, 'Unhealthy').
-aqi('Cairo', 3, 24, 124.76130653266333, 'Poor').
+aqi('Seoul', 1, 19, 192.21369863013697, 'Unhealthy').
+aqi('Cairo', 3, 24, 124.76130653266331, 'Poor').
 aqi('Rio de Janeiro', 2, 14, 180.5703898840885, 'Unhealthy').
-aqi('Seoul', 2, 20, 191.18619599578503, 'Unhealthy').
+aqi('Seoul', 2, 20, 191.18619599578506, 'Unhealthy').
 aqi('Berlin', 6, 26, 186.92128556375133, 'Unhealthy').
 aqi('Los Angeles', 12, 11, 189.6991570073762, 'Unhealthy').
 aqi('London', 9, 18, 88.00565217391303, 'Moderate').
@@ -28816,12 +28816,12 @@ aqi('Madrid', 7, 6, 178.17460484720758, 'Unhealthy').
 aqi('Madrid', 5, 7, 196.7109589041096, 'Unhealthy').
 aqi('Berlin', 9, 12, 182.5531085353003, 'Unhealthy').
 aqi('Sydney', 9, 24, 164.3781875658588, 'Unhealthy').
-aqi('Sydney', 5, 7, 194.4029504741833, 'Unhealthy').
+aqi('Sydney', 5, 7, 194.40295047418334, 'Unhealthy').
 aqi('Sydney', 4, 20, 185.20706006322445, 'Unhealthy').
 aqi('Dubai', 6, 22, 114.61658291457287, 'Poor').
 aqi('Rio de Janeiro', 11, 2, 153.71074815595364, 'Unhealthy').
 aqi('Mexico City', 9, 3, 194.5268703898841, 'Unhealthy').
-aqi('Berlin', 12, 1, 114.239898989899, 'Poor').
+aqi('Berlin', 12, 1, 114.23989898989899, 'Poor').
 aqi('Seoul', 6, 7, 151.3717597471022, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 4, 156.20979978925186, 'Unhealthy').
 aqi('Seoul', 10, 9, 165.49346680716545, 'Unhealthy').
@@ -28830,26 +28830,26 @@ aqi('Moscow', 7, 3, 151.11875658587988, 'Unhealthy').
 aqi('Seoul', 10, 21, 120.82767676767676, 'Poor').
 aqi('Johannesburg', 11, 27, 192.745521601686, 'Unhealthy').
 aqi('Seoul', 4, 10, 125.82010050251256, 'Poor').
-aqi('Moscow', 4, 13, 181.5256059009484, 'Unhealthy').
-aqi('Mexico City', 3, 21, 118.45778894472365, 'Poor').
+aqi('Moscow', 4, 13, 181.52560590094836, 'Unhealthy').
+aqi('Mexico City', 3, 21, 118.45778894472363, 'Poor').
 aqi('Cairo', 4, 19, 165.74646996838777, 'Unhealthy').
-aqi('Bangkok', 4, 2, 199.56111696522652, 'Unhealthy').
-aqi('Sydney', 1, 16, 110.356783919598, 'Poor').
-aqi('Paris', 11, 6, 188.73361433087464, 'Unhealthy').
-aqi('Seoul', 11, 24, 180.70979978925183, 'Unhealthy').
+aqi('Bangkok', 4, 2, 199.56111696522657, 'Unhealthy').
+aqi('Sydney', 1, 16, 110.35678391959799, 'Poor').
+aqi('Paris', 11, 6, 188.73361433087462, 'Unhealthy').
+aqi('Seoul', 11, 24, 180.70979978925186, 'Unhealthy').
 aqi('Johannesburg', 9, 25, 170.66712328767125, 'Unhealthy').
 aqi('Moscow', 5, 10, 193.34963119072708, 'Unhealthy').
 aqi('New York', 10, 23, 98.01869565217392, 'Moderate').
-aqi('Beijing', 12, 24, 189.3738672286617, 'Unhealthy').
+aqi('Beijing', 12, 24, 189.37386722866174, 'Unhealthy').
 aqi('Beijing', 3, 11, 176.19188619599578, 'Unhealthy').
 aqi('Cairo', 6, 24, 181.07123287671232, 'Unhealthy').
-aqi('Tokyo', 11, 18, 180.6375131717597, 'Unhealthy').
+aqi('Tokyo', 11, 18, 180.63751317175974, 'Unhealthy').
 aqi('London', 6, 13, 152.33213909378293, 'Unhealthy').
 aqi('New York', 4, 6, 187.56153846153848, 'Unhealthy').
 aqi('Johannesburg', 8, 9, 180.2296101159115, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 18, 97.61434343434344, 'Moderate').
 aqi('Johannesburg', 3, 3, 179.08335089567967, 'Unhealthy').
-aqi('New York', 4, 24, 101.63353535353536, 'Poor').
+aqi('New York', 4, 24, 101.63353535353535, 'Poor').
 aqi('London', 11, 24, 197.0672286617492, 'Unhealthy').
 aqi('Cairo', 12, 17, 173.904531085353, 'Unhealthy').
 aqi('Toronto', 2, 6, 180.3277133825079, 'Unhealthy').
@@ -28866,10 +28866,10 @@ aqi('Seoul', 2, 7, 96.76137339055794, 'Moderate').
 aqi('Mexico City', 4, 21, 170.3986301369863, 'Unhealthy').
 aqi('Moscow', 3, 21, 158.26480505795573, 'Unhealthy').
 aqi('Mexico City', 10, 3, 143.86884422110552, 'Poor').
-aqi('Paris', 6, 4, 189.9211801896733, 'Unhealthy').
-aqi('Dubai', 10, 5, 98.85666666666668, 'Moderate').
+aqi('Paris', 6, 4, 189.92118018967335, 'Unhealthy').
+aqi('Dubai', 10, 5, 98.85666666666667, 'Moderate').
 aqi('Seoul', 5, 3, 179.1349841938883, 'Unhealthy').
-aqi('Toronto', 3, 17, 180.3690200210748, 'Unhealthy').
+aqi('Toronto', 3, 17, 180.36902002107482, 'Unhealthy').
 aqi('Tokyo', 6, 18, 179.9559536354057, 'Unhealthy').
 aqi('Moscow', 4, 23, 180.69430979978927, 'Unhealthy').
 aqi('Berlin', 8, 21, 180.2605900948367, 'Unhealthy').
@@ -28882,28 +28882,28 @@ aqi('New York', 1, 3, 87.52727272727273, 'Moderate').
 aqi('Sydney', 8, 4, 190.52528977871444, 'Unhealthy').
 aqi('Sydney', 6, 18, 106.1870707070707, 'Poor').
 aqi('Moscow', 7, 24, 183.172708113804, 'Unhealthy').
-aqi('Cairo', 3, 19, 181.5978925184405, 'Unhealthy').
+aqi('Cairo', 3, 19, 181.59789251844046, 'Unhealthy').
 aqi('Beijing', 8, 4, 171.47260273972603, 'Unhealthy').
 aqi('Istanbul', 11, 19, 159.2200210748156, 'Unhealthy').
 aqi('Istanbul', 3, 24, 173.25395152792413, 'Unhealthy').
-aqi('Mumbai', 8, 4, 190.8144362486828, 'Unhealthy').
+aqi('Mumbai', 8, 4, 190.81443624868282, 'Unhealthy').
 aqi('Bangkok', 1, 2, 185.58398314014752, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 9, 154.34067439409904, 'Unhealthy').
 aqi('Los Angeles', 10, 5, 182.27428872497364, 'Unhealthy').
-aqi('Berlin', 12, 4, 96.99270386266096, 'Moderate').
-aqi('New York', 3, 9, 162.7672286617492, 'Unhealthy').
+aqi('Berlin', 12, 4, 96.99270386266095, 'Moderate').
+aqi('New York', 3, 9, 162.76722866174921, 'Unhealthy').
 aqi('Cairo', 3, 12, 123.01306532663315, 'Poor').
 aqi('Los Angeles', 6, 12, 93.12934782608696, 'Moderate').
 aqi('Toronto', 10, 11, 165.3385669125395, 'Unhealthy').
 aqi('Tokyo', 8, 10, 114.83819095477386, 'Poor').
-aqi('Madrid', 11, 9, 108.0480808080808, 'Poor').
+aqi('Madrid', 11, 9, 108.04808080808081, 'Poor').
 aqi('Rio de Janeiro', 4, 17, 175.16438356164383, 'Unhealthy').
 aqi('Beijing', 7, 17, 176.11959957850368, 'Unhealthy').
 aqi('Tokyo', 9, 26, 160.00484720758692, 'Unhealthy').
 aqi('Mumbai', 4, 3, 114.5220202020202, 'Poor').
 aqi('Tokyo', 3, 16, 184.0814541622761, 'Unhealthy').
 aqi('Mexico City', 1, 5, 152.65742887249738, 'Unhealthy').
-aqi('New York', 7, 11, 110.92311557788943, 'Poor').
+aqi('New York', 7, 11, 110.92311557788945, 'Poor').
 aqi('Mumbai', 4, 13, 148.67035175879397, 'Poor').
 aqi('Seoul', 2, 18, 169.43825079030557, 'Unhealthy').
 aqi('Tokyo', 11, 17, 175.92855637513173, 'Unhealthy').
@@ -28911,15 +28911,15 @@ aqi('Moscow', 8, 14, 157.06691253951527, 'Unhealthy').
 aqi('Tokyo', 10, 19, 174.45700737618546, 'Unhealthy').
 aqi('Los Angeles', 4, 11, 182.0109589041096, 'Unhealthy').
 aqi('Madrid', 12, 1, 183.76649104320336, 'Unhealthy').
-aqi('Cairo', 5, 1, 151.32012644889355, 'Unhealthy').
+aqi('Cairo', 5, 1, 151.32012644889357, 'Unhealthy').
 aqi('Los Angeles', 7, 7, 141.48040201005026, 'Poor').
 aqi('Seoul', 4, 27, 153.47323498419388, 'Unhealthy').
 aqi('Mexico City', 12, 2, 80.9858695652174, 'Moderate').
 aqi('Istanbul', 10, 8, 169.06649104320337, 'Unhealthy').
 aqi('Beijing', 1, 2, 162.74657534246575, 'Unhealthy').
-aqi('Cairo', 10, 24, 196.35985247629085, 'Unhealthy').
+aqi('Cairo', 10, 24, 196.35985247629083, 'Unhealthy').
 aqi('Johannesburg', 10, 3, 165.58640674394098, 'Unhealthy').
-aqi('Madrid', 1, 15, 198.65753424657527, 'Unhealthy').
+aqi('Madrid', 1, 15, 198.65753424657535, 'Unhealthy').
 aqi('Beijing', 11, 27, 79.50414141414142, 'Moderate').
 aqi('Dubai', 10, 6, 157.41285563751316, 'Unhealthy').
 aqi('Moscow', 7, 27, 152.97755532139092, 'Unhealthy').
@@ -28937,11 +28937,11 @@ aqi('Seoul', 5, 8, 75.88606060606061, 'Moderate').
 aqi('Los Angeles', 4, 28, 173.85289778714437, 'Unhealthy').
 aqi('Cairo', 4, 7, 130.79396984924625, 'Poor').
 aqi('Tokyo', 3, 10, 167.0940990516333, 'Unhealthy').
-aqi('New York', 3, 16, 99.265, 'Moderate').
+aqi('New York', 3, 16, 99.26500000000001, 'Moderate').
 aqi('Bangkok', 3, 3, 158.24931506849316, 'Unhealthy').
 aqi('Los Angeles', 11, 11, 84.94248927038628, 'Moderate').
 aqi('Beijing', 10, 14, 155.2236037934668, 'Unhealthy').
-aqi('New York', 9, 18, 90.4, 'Moderate').
+aqi('New York', 9, 18, 90.39999999999999, 'Moderate').
 aqi('Tokyo', 9, 26, 198.177344573235, 'Unhealthy').
 aqi('Sydney', 7, 24, 155.47660695468915, 'Unhealthy').
 aqi('New York', 11, 23, 193.70590094836672, 'Unhealthy').
@@ -28951,11 +28951,11 @@ aqi('Dubai', 6, 19, 185.98155953635404, 'Unhealthy').
 aqi('Tokyo', 6, 3, 174.25563751317176, 'Unhealthy').
 aqi('Moscow', 5, 24, 93.4369696969697, 'Moderate').
 aqi('Paris', 4, 6, 135.3492462311558, 'Poor').
-aqi('London', 1, 21, 176.6875658587987, 'Unhealthy').
+aqi('London', 1, 21, 176.68756585879873, 'Unhealthy').
 aqi('Toronto', 7, 3, 132.83768844221106, 'Poor').
-aqi('Moscow', 6, 2, 195.76606954689143, 'Unhealthy').
+aqi('Moscow', 6, 2, 195.76606954689146, 'Unhealthy').
 aqi('Madrid', 1, 10, 187.959114857745, 'Unhealthy').
-aqi('Sydney', 5, 2, 198.7401475237092, 'Unhealthy').
+aqi('Sydney', 5, 2, 198.74014752370917, 'Unhealthy').
 aqi('Los Angeles', 9, 26, 161.82750263435196, 'Unhealthy').
 aqi('Beijing', 7, 19, 119.25373737373738, 'Poor').
 aqi('Paris', 4, 18, 177.93709167544785, 'Unhealthy').
@@ -28965,7 +28965,7 @@ aqi('Seoul', 4, 6, 195.9777660695469, 'Unhealthy').
 aqi('Istanbul', 12, 1, 184.81981032665965, 'Unhealthy').
 aqi('Mumbai', 4, 5, 179.84752370916755, 'Unhealthy').
 aqi('Tokyo', 2, 17, 81.15708154506439, 'Moderate').
-aqi('London', 9, 4, 199.2874604847208, 'Unhealthy').
+aqi('London', 9, 4, 199.28746048472078, 'Unhealthy').
 aqi('Mexico City', 9, 3, 172.45879873551107, 'Unhealthy').
 aqi('Seoul', 5, 11, 82.03333333333333, 'Moderate').
 aqi('Cairo', 8, 18, 176.53266596417282, 'Unhealthy').
@@ -28973,13 +28973,13 @@ aqi('Cairo', 9, 16, 194.71791359325607, 'Unhealthy').
 aqi('Los Angeles', 1, 21, 166.49515279241308, 'Unhealthy').
 aqi('Madrid', 2, 28, 191.85742887249737, 'Unhealthy').
 aqi('Berlin', 12, 17, 69.43686868686869, 'Moderate').
-aqi('Seoul', 5, 15, 108.18994974874371, 'Poor').
+aqi('Seoul', 5, 15, 108.18994974874373, 'Poor').
 aqi('Los Angeles', 12, 14, 167.24383561643836, 'Unhealthy').
 aqi('Cairo', 12, 1, 180.03856691253952, 'Unhealthy').
 aqi('Toronto', 5, 4, 170.00621707060063, 'Unhealthy').
 aqi('London', 7, 24, 178.89747102212857, 'Unhealthy').
 aqi('Los Angeles', 3, 22, 110.1070707070707, 'Poor').
-aqi('Dubai', 12, 20, 109.57747474747477, 'Poor').
+aqi('Dubai', 12, 20, 109.57747474747475, 'Poor').
 aqi('London', 12, 12, 179.65648050579557, 'Unhealthy').
 aqi('Berlin', 7, 24, 164.6931506849315, 'Unhealthy').
 aqi('Moscow', 11, 20, 180.42065331928347, 'Unhealthy').
@@ -28990,17 +28990,17 @@ aqi('Tokyo', 12, 12, 128.7748743718593, 'Poor').
 aqi('Sydney', 3, 18, 192.9572181243414, 'Unhealthy').
 aqi('Madrid', 2, 15, 185.7440463645943, 'Unhealthy').
 aqi('Dubai', 3, 19, 141.77587939698492, 'Poor').
-aqi('Berlin', 2, 28, 112.47437185929648, 'Poor').
-aqi('Beijing', 5, 25, 190.7163329820864, 'Unhealthy').
-aqi('London', 11, 27, 91.06282608695652, 'Moderate').
+aqi('Berlin', 2, 28, 112.47437185929647, 'Poor').
+aqi('Beijing', 5, 25, 190.71633298208639, 'Unhealthy').
+aqi('London', 11, 27, 91.06282608695653, 'Moderate').
 aqi('Berlin', 6, 2, 174.78746048472075, 'Unhealthy').
-aqi('Johannesburg', 9, 10, 111.18111111111112, 'Poor').
-aqi('Beijing', 7, 7, 189.7146469968388, 'Unhealthy').
+aqi('Johannesburg', 9, 10, 111.18111111111111, 'Poor').
+aqi('Beijing', 7, 7, 189.71464699683878, 'Unhealthy').
 aqi('Beijing', 5, 22, 134.70904522613066, 'Poor').
-aqi('Toronto', 1, 11, 192.4202318229716, 'Unhealthy').
+aqi('Toronto', 1, 11, 192.42023182297154, 'Unhealthy').
 aqi('Mumbai', 4, 28, 152.4663856691254, 'Unhealthy').
 aqi('Cairo', 5, 12, 88.6, 'Moderate').
-aqi('Johannesburg', 8, 5, 93.77353535353537, 'Moderate').
+aqi('Johannesburg', 8, 5, 93.77353535353535, 'Moderate').
 aqi('Berlin', 12, 24, 152.70389884088513, 'Unhealthy').
 aqi('New York', 7, 2, 141.80050251256282, 'Poor').
 aqi('Mumbai', 4, 18, 192.6887249736565, 'Unhealthy').
@@ -29009,15 +29009,15 @@ aqi('Berlin', 7, 24, 182.50147523709168, 'Unhealthy').
 aqi('Beijing', 3, 22, 151.98103266596416, 'Unhealthy').
 aqi('Cairo', 11, 25, 145.44472361809045, 'Poor').
 aqi('New York', 5, 28, 188.2172813487882, 'Unhealthy').
-aqi('Istanbul', 9, 22, 108.75628140703516, 'Poor').
+aqi('Istanbul', 9, 22, 108.75628140703517, 'Poor').
 aqi('Sydney', 9, 28, 154.56786090621708, 'Unhealthy').
-aqi('Cairo', 7, 26, 197.11369863013692, 'Unhealthy').
+aqi('Cairo', 7, 26, 197.11369863013698, 'Unhealthy').
 aqi('New York', 4, 24, 170.77555321390938, 'Unhealthy').
 aqi('Los Angeles', 8, 14, 179.92497365648052, 'Unhealthy').
 aqi('Moscow', 8, 3, 163.69146469968388, 'Unhealthy').
 aqi('Madrid', 6, 13, 152.84330874604848, 'Unhealthy').
 aqi('Istanbul', 9, 8, 99.6, 'Moderate').
-aqi('Mexico City', 3, 16, 185.76469968387772, 'Unhealthy').
+aqi('Mexico City', 3, 16, 185.76469968387778, 'Unhealthy').
 aqi('Johannesburg', 7, 3, 168.472708113804, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 18, 89.36848484848485, 'Moderate').
 aqi('Toronto', 6, 13, 185.71822971549, 'Unhealthy').
@@ -29026,14 +29026,14 @@ aqi('Sydney', 7, 17, 73.08959595959595, 'Moderate').
 aqi('Los Angeles', 3, 24, 158.95152792413066, 'Unhealthy').
 aqi('Berlin', 12, 22, 181.68050579557428, 'Unhealthy').
 aqi('Berlin', 9, 14, 156.70031612223394, 'Unhealthy').
-aqi('Mumbai', 2, 14, 186.99357218124345, 'Unhealthy').
+aqi('Mumbai', 2, 14, 186.99357218124342, 'Unhealthy').
 aqi('Moscow', 7, 9, 155.74510010537406, 'Unhealthy').
 aqi('Mumbai', 4, 7, 173.16617492096944, 'Unhealthy').
 aqi('Seoul', 1, 2, 85.44721030042919, 'Moderate').
 aqi('Madrid', 1, 5, 198.66269757639623, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 28, 147.26683417085428, 'Poor').
 aqi('Rio de Janeiro', 1, 13, 136.85125628140705, 'Poor').
-aqi('London', 7, 3, 107.74121212121211, 'Poor').
+aqi('London', 7, 3, 107.74121212121213, 'Poor').
 aqi('Tokyo', 1, 14, 195.53371970495257, 'Unhealthy').
 aqi('Moscow', 1, 21, 108.6824120603015, 'Poor').
 aqi('Berlin', 10, 14, 151.49051633298208, 'Unhealthy').
@@ -29042,7 +29042,7 @@ aqi('New York', 9, 4, 179.67197049525817, 'Unhealthy').
 aqi('Los Angeles', 4, 28, 128.60251256281407, 'Poor').
 aqi('Mexico City', 2, 27, 178.41211801896733, 'Unhealthy').
 aqi('Bangkok', 7, 12, 157.5987355110643, 'Unhealthy').
-aqi('Beijing', 7, 16, 105.1859296482412, 'Poor').
+aqi('Beijing', 7, 16, 105.18592964824121, 'Poor').
 aqi('Johannesburg', 9, 15, 179.7081138040042, 'Unhealthy').
 aqi('Tokyo', 5, 10, 138.40251256281408, 'Poor').
 aqi('Berlin', 9, 8, 168.81348788198102, 'Unhealthy').
@@ -29050,24 +29050,24 @@ aqi('Cairo', 3, 23, 161.8171759747102, 'Unhealthy').
 aqi('Sydney', 5, 15, 167.43487881981034, 'Unhealthy').
 aqi('Madrid', 12, 12, 164.28524762908324, 'Unhealthy').
 aqi('Seoul', 12, 2, 156.67966280295047, 'Unhealthy').
-aqi('Rio de Janeiro', 1, 24, 192.9675447839832, 'Unhealthy').
+aqi('Rio de Janeiro', 1, 24, 192.96754478398316, 'Unhealthy').
 aqi('Tokyo', 2, 2, 181.65985247629084, 'Unhealthy').
 aqi('Mexico City', 12, 11, 159.7931506849315, 'Unhealthy').
 aqi('Berlin', 10, 20, 185.38777660695467, 'Unhealthy').
 aqi('Los Angeles', 3, 2, 178.94394099051632, 'Unhealthy').
 aqi('Bangkok', 10, 27, 141.308040201005, 'Poor').
 aqi('Rio de Janeiro', 11, 25, 174.52413066385668, 'Unhealthy').
-aqi('Cairo', 10, 28, 93.01802575107295, 'Moderate').
+aqi('Cairo', 10, 28, 93.01802575107297, 'Moderate').
 aqi('Dubai', 7, 3, 155.01707060063225, 'Unhealthy').
 aqi('Johannesburg', 10, 24, 161.2337197049526, 'Unhealthy').
-aqi('Bangkok', 6, 21, 123.53015075376884, 'Poor').
+aqi('Bangkok', 6, 21, 123.53015075376885, 'Poor').
 aqi('New York', 12, 26, 187.79388830347733, 'Unhealthy').
 aqi('Dubai', 5, 9, 154.1651211801897, 'Unhealthy').
-aqi('Seoul', 2, 1, 117.23929292929292, 'Poor').
+aqi('Seoul', 2, 1, 117.23929292929293, 'Poor').
 aqi('Los Angeles', 6, 21, 160.64510010537407, 'Unhealthy').
 aqi('Beijing', 3, 16, 159.2768177028451, 'Unhealthy').
 aqi('Sydney', 10, 25, 165.98914646996838, 'Unhealthy').
-aqi('London', 9, 7, 184.41707060063223, 'Unhealthy').
+aqi('London', 9, 7, 184.41707060063226, 'Unhealthy').
 aqi('Bangkok', 11, 6, 179.7236037934668, 'Unhealthy').
 aqi('Seoul', 6, 5, 163.5004214963119, 'Unhealthy').
 aqi('London', 5, 19, 163.10800842992623, 'Unhealthy').
@@ -29076,10 +29076,10 @@ aqi('Johannesburg', 10, 14, 180.4464699683878, 'Unhealthy').
 aqi('Seoul', 12, 15, 171.79789251844048, 'Unhealthy').
 aqi('Mexico City', 2, 7, 146.0849246231156, 'Poor').
 aqi('Toronto', 7, 14, 173.7444678609062, 'Unhealthy').
-aqi('Toronto', 2, 15, 190.0037934668072, 'Unhealthy').
+aqi('Toronto', 2, 15, 190.00379346680717, 'Unhealthy').
 aqi('Berlin', 3, 28, 134.70904522613066, 'Poor').
 aqi('Paris', 5, 21, 136.11256281407034, 'Poor').
-aqi('Madrid', 2, 3, 108.0480808080808, 'Poor').
+aqi('Madrid', 2, 3, 108.04808080808081, 'Poor').
 aqi('Toronto', 4, 24, 125.9678391959799, 'Poor').
 aqi('Seoul', 1, 6, 187.88166491043205, 'Unhealthy').
 aqi('Dubai', 1, 12, 154.41296101159114, 'Unhealthy').
@@ -29089,16 +29089,16 @@ aqi('Dubai', 10, 21, 89.80000000000001, 'Moderate').
 aqi('Johannesburg', 12, 8, 182.51696522655428, 'Unhealthy').
 aqi('Toronto', 8, 22, 153.34931506849315, 'Unhealthy').
 aqi('Berlin', 7, 24, 163.86185458377238, 'Unhealthy').
-aqi('Mumbai', 7, 2, 94.7, 'Moderate').
+aqi('Mumbai', 7, 2, 94.69999999999999, 'Moderate').
 aqi('London', 12, 19, 142.14522613065327, 'Poor').
 aqi('Johannesburg', 4, 19, 180.06438356164384, 'Unhealthy').
 aqi('London', 6, 19, 174.54994731296102, 'Unhealthy').
-aqi('Madrid', 4, 9, 190.3084299262381, 'Unhealthy').
+aqi('Madrid', 4, 9, 190.30842992623815, 'Unhealthy').
 aqi('Mumbai', 9, 13, 191.33076923076925, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 9, 161.2337197049526, 'Unhealthy').
 aqi('Madrid', 12, 18, 169.10779768177028, 'Unhealthy').
 aqi('Mexico City', 1, 9, 89.67040404040404, 'Moderate').
-aqi('Sydney', 4, 10, 194.53719704952584, 'Unhealthy').
+aqi('Sydney', 4, 10, 194.53719704952582, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 23, 182.65121180189672, 'Unhealthy').
 aqi('London', 2, 5, 174.81327713382507, 'Unhealthy').
 aqi('Seoul', 8, 18, 102.5206896551724, 'Poor').
@@ -29107,14 +29107,14 @@ aqi('Sydney', 1, 16, 89.3167381974249, 'Moderate').
 aqi('Madrid', 5, 2, 146.2819095477387, 'Poor').
 aqi('Berlin', 5, 20, 174.82876712328766, 'Unhealthy').
 aqi('Johannesburg', 5, 28, 183.91622760800843, 'Unhealthy').
-aqi('Seoul', 2, 22, 186.08482613277133, 'Unhealthy').
+aqi('Seoul', 2, 22, 186.08482613277135, 'Unhealthy').
 aqi('Bangkok', 9, 6, 78.82606060606061, 'Moderate').
 aqi('Dubai', 5, 3, 162.7569020021075, 'Unhealthy').
-aqi('Tokyo', 3, 3, 194.76438356164385, 'Unhealthy').
-aqi('Mexico City', 8, 18, 186.02802950474185, 'Unhealthy').
+aqi('Tokyo', 3, 3, 194.76438356164383, 'Unhealthy').
+aqi('Mexico City', 8, 18, 186.02802950474182, 'Unhealthy').
 aqi('Madrid', 6, 11, 140.79095477386934, 'Poor').
 aqi('Johannesburg', 7, 16, 166.7946259220232, 'Unhealthy').
-aqi('Tokyo', 10, 27, 99.37152173913044, 'Moderate').
+aqi('Tokyo', 10, 27, 99.37152173913043, 'Moderate').
 aqi('Toronto', 9, 6, 116.35828282828282, 'Poor').
 aqi('Berlin', 4, 17, 158.20800842992622, 'Unhealthy').
 aqi('Seoul', 12, 7, 190.9899894625922, 'Unhealthy').
@@ -29132,7 +29132,7 @@ aqi('New York', 7, 20, 175.48967334035828, 'Unhealthy').
 aqi('Toronto', 9, 10, 157.65036880927292, 'Unhealthy').
 aqi('Beijing', 4, 22, 105.0551724137931, 'Poor').
 aqi('Istanbul', 6, 10, 119.68929292929292, 'Poor').
-aqi('Johannesburg', 1, 21, 93.26782608695652, 'Moderate').
+aqi('Johannesburg', 1, 21, 93.26782608695653, 'Moderate').
 aqi('Berlin', 4, 7, 197.57323498419387, 'Unhealthy').
 aqi('Paris', 8, 26, 107.84522613065327, 'Poor').
 aqi('Madrid', 1, 8, 163.3403582718651, 'Unhealthy').
@@ -29140,11 +29140,11 @@ aqi('Tokyo', 8, 3, 173.1300316122234, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 22, 154.1031612223393, 'Unhealthy').
 aqi('Paris', 9, 18, 102.5640404040404, 'Poor').
 aqi('Rio de Janeiro', 5, 17, 191.75416227608008, 'Unhealthy').
-aqi('Mexico City', 3, 4, 111.65626262626265, 'Poor').
+aqi('Mexico City', 3, 4, 111.65626262626263, 'Poor').
 aqi('Toronto', 3, 2, 81.12434782608696, 'Moderate').
 aqi('Berlin', 6, 25, 173.09388830347734, 'Unhealthy').
 aqi('Beijing', 1, 23, 155.7709167544784, 'Unhealthy').
-aqi('Tokyo', 1, 13, 119.49195979899496, 'Poor').
+aqi('Tokyo', 1, 13, 119.49195979899497, 'Poor').
 aqi('Mumbai', 3, 9, 66.0, 'Moderate').
 aqi('Johannesburg', 3, 9, 186.2758693361433, 'Unhealthy').
 aqi('Madrid', 7, 11, 145.91256281407036, 'Poor').
@@ -29155,19 +29155,19 @@ aqi('Berlin', 12, 10, 168.30748155953634, 'Unhealthy').
 aqi('Tokyo', 1, 3, 154.75374077976818, 'Unhealthy').
 aqi('New York', 4, 17, 163.6140147523709, 'Unhealthy').
 aqi('Toronto', 9, 25, 92.8, 'Moderate').
-aqi('Berlin', 11, 8, 195.5801896733404, 'Unhealthy').
+aqi('Berlin', 11, 8, 195.58018967334036, 'Unhealthy').
 aqi('Berlin', 8, 27, 114.17555555555556, 'Poor').
-aqi('Los Angeles', 2, 28, 189.8179135932561, 'Unhealthy').
+aqi('Los Angeles', 2, 28, 189.81791359325607, 'Unhealthy').
 aqi('Toronto', 7, 15, 129.7105527638191, 'Poor').
-aqi('Paris', 4, 15, 60.28869565217392, 'Moderate').
+aqi('Paris', 4, 15, 60.288695652173914, 'Moderate').
 aqi('Beijing', 9, 27, 147.4638190954774, 'Poor').
 aqi('Madrid', 12, 14, 172.1541622760801, 'Unhealthy').
 aqi('Dubai', 6, 24, 173.5482613277134, 'Unhealthy').
 aqi('Istanbul', 9, 23, 167.9873551106428, 'Unhealthy').
 aqi('Madrid', 6, 6, 78.30000000000001, 'Moderate').
 aqi('Sydney', 10, 18, 128.97185929648242, 'Poor').
-aqi('Rio de Janeiro', 7, 21, 108.60344827586204, 'Poor').
-aqi('Cairo', 9, 18, 189.3893572181244, 'Unhealthy').
+aqi('Rio de Janeiro', 7, 21, 108.60344827586205, 'Poor').
+aqi('Cairo', 9, 18, 189.38935721812433, 'Unhealthy').
 aqi('Madrid', 6, 12, 163.14931506849314, 'Unhealthy').
 aqi('Los Angeles', 12, 6, 152.11527924130664, 'Unhealthy').
 aqi('Madrid', 4, 28, 92.52626262626262, 'Moderate').
@@ -29179,24 +29179,24 @@ aqi('Los Angeles', 3, 24, 174.54994731296102, 'Unhealthy').
 aqi('Sydney', 9, 1, 173.99747102212856, 'Unhealthy').
 aqi('Cairo', 3, 24, 166.05110642781875, 'Unhealthy').
 aqi('New York', 5, 14, 160.96522655426764, 'Unhealthy').
-aqi('Bangkok', 3, 21, 162.0185458377239, 'Unhealthy').
+aqi('Bangkok', 3, 21, 162.01854583772393, 'Unhealthy').
 aqi('Mumbai', 4, 23, 94.7591304347826, 'Moderate').
 aqi('Beijing', 2, 19, 153.40611169652266, 'Unhealthy').
-aqi('Dubai', 12, 19, 196.2256059009484, 'Unhealthy').
+aqi('Dubai', 12, 19, 196.22560590094838, 'Unhealthy').
 aqi('Cairo', 7, 19, 152.16691253951527, 'Unhealthy').
-aqi('Beijing', 9, 25, 99.074678111588, 'Moderate').
-aqi('Mumbai', 2, 11, 119.8278787878788, 'Poor').
+aqi('Beijing', 9, 25, 99.07467811158799, 'Moderate').
+aqi('Mumbai', 2, 11, 119.82787878787879, 'Poor').
 aqi('Cairo', 8, 13, 180.5600632244468, 'Unhealthy').
 aqi('London', 1, 17, 90.2, 'Moderate').
 aqi('Madrid', 5, 14, 174.03877766069547, 'Unhealthy').
 aqi('Mumbai', 12, 13, 184.8249736564805, 'Unhealthy').
 aqi('Toronto', 1, 14, 61.62923076923077, 'Moderate').
-aqi('Rio de Janeiro', 6, 8, 186.5237091675448, 'Unhealthy').
+aqi('Rio de Janeiro', 6, 8, 186.52370916754478, 'Unhealthy').
 aqi('Dubai', 5, 2, 162.17860906217072, 'Unhealthy').
 aqi('Johannesburg', 4, 20, 153.44741833508957, 'Unhealthy').
 aqi('Moscow', 5, 9, 162.24573234984194, 'Unhealthy').
 aqi('Dubai', 7, 27, 198.06891464699683, 'Unhealthy').
-aqi('Seoul', 4, 20, 195.46659641728127, 'Unhealthy').
+aqi('Seoul', 4, 20, 195.46659641728135, 'Unhealthy').
 aqi('Toronto', 9, 20, 194.33066385669125, 'Unhealthy').
 aqi('Mumbai', 3, 5, 170.9149631190727, 'Unhealthy').
 aqi('New York', 2, 17, 165.6690200210748, 'Unhealthy').
@@ -29205,14 +29205,14 @@ aqi('Toronto', 9, 11, 121.60954773869346, 'Poor').
 aqi('Bangkok', 8, 19, 165.24562697576397, 'Unhealthy').
 aqi('Paris', 2, 25, 177.2503688092729, 'Unhealthy').
 aqi('Madrid', 3, 27, 148.81809045226132, 'Poor').
-aqi('Tokyo', 2, 6, 95.60065217391303, 'Moderate').
+aqi('Tokyo', 2, 6, 95.60065217391305, 'Moderate').
 aqi('Mumbai', 6, 26, 173.89420442571128, 'Unhealthy').
 aqi('Dubai', 6, 26, 184.6804004214963, 'Unhealthy').
-aqi('Seoul', 5, 20, 196.8503688092729, 'Unhealthy').
-aqi('Berlin', 6, 17, 181.48429926238143, 'Unhealthy').
-aqi('Moscow', 10, 17, 194.8779768177029, 'Unhealthy').
+aqi('Seoul', 5, 20, 196.85036880927294, 'Unhealthy').
+aqi('Berlin', 6, 17, 181.48429926238146, 'Unhealthy').
+aqi('Moscow', 10, 17, 194.87797681770286, 'Unhealthy').
 aqi('Johannesburg', 7, 15, 130.91708542713567, 'Poor').
-aqi('Istanbul', 2, 18, 90.8, 'Moderate').
+aqi('Istanbul', 2, 18, 90.80000000000001, 'Moderate').
 aqi('Mexico City', 11, 28, 116.6356783919598, 'Poor').
 aqi('Tokyo', 1, 6, 175.10242360379348, 'Unhealthy').
 aqi('Berlin', 9, 13, 178.52054794520546, 'Unhealthy').
@@ -29230,7 +29230,7 @@ aqi('Johannesburg', 8, 27, 172.6395152792413, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 16, 152.14109589041095, 'Unhealthy').
 aqi('Istanbul', 8, 16, 134.5613065326633, 'Poor').
 aqi('Moscow', 5, 16, 152.00168598524763, 'Unhealthy').
-aqi('Johannesburg', 11, 9, 185.072813487882, 'Unhealthy').
+aqi('Johannesburg', 11, 9, 185.07281348788197, 'Unhealthy').
 aqi('Dubai', 5, 18, 153.75721812434142, 'Unhealthy').
 aqi('Istanbul', 5, 22, 153.79852476290833, 'Unhealthy').
 aqi('Johannesburg', 10, 12, 171.14731296101158, 'Unhealthy').
@@ -29244,51 +29244,51 @@ aqi('Mumbai', 7, 26, 95.54050505050506, 'Moderate').
 aqi('Rio de Janeiro', 11, 12, 153.58682824025288, 'Unhealthy').
 aqi('Seoul', 10, 27, 199.24615384615385, 'Unhealthy').
 aqi('Moscow', 7, 15, 197.8623814541623, 'Unhealthy').
-aqi('Dubai', 1, 15, 105.9, 'Poor').
+aqi('Dubai', 1, 15, 105.89999999999999, 'Poor').
 aqi('Tokyo', 7, 27, 91.7, 'Moderate').
 aqi('Moscow', 1, 27, 168.7050579557429, 'Unhealthy').
 aqi('Beijing', 6, 18, 199.15321390937828, 'Unhealthy').
 aqi('Mexico City', 6, 22, 152.0068493150685, 'Unhealthy').
-aqi('New York', 10, 5, 188.62518440463649, 'Unhealthy').
+aqi('New York', 10, 5, 188.62518440463646, 'Unhealthy').
 aqi('Moscow', 2, 12, 137.68844221105527, 'Poor').
 aqi('Seoul', 5, 17, 181.37070600632245, 'Unhealthy').
-aqi('Sydney', 7, 15, 124.19497487437188, 'Poor').
+aqi('Sydney', 7, 15, 124.19497487437187, 'Poor').
 aqi('Rio de Janeiro', 5, 5, 110.43065326633166, 'Poor').
 aqi('New York', 5, 18, 121.73266331658292, 'Poor').
 aqi('Los Angeles', 1, 12, 162.01338250790306, 'Unhealthy').
 aqi('Paris', 8, 4, 86.29979797979797, 'Moderate').
 aqi('Johannesburg', 3, 19, 171.777239199157, 'Unhealthy').
 aqi('Paris', 6, 26, 175.4018967334036, 'Unhealthy').
-aqi('New York', 8, 1, 188.2947312961012, 'Unhealthy').
+aqi('New York', 8, 1, 188.29473129610116, 'Unhealthy').
 aqi('Moscow', 8, 20, 197.872708113804, 'Unhealthy').
 aqi('Seoul', 12, 12, 119.54120603015076, 'Poor').
-aqi('Paris', 5, 21, 121.7572864321608, 'Poor').
-aqi('Madrid', 1, 24, 195.89515279241303, 'Unhealthy').
+aqi('Paris', 5, 21, 121.75728643216081, 'Poor').
+aqi('Madrid', 1, 24, 195.89515279241306, 'Unhealthy').
 aqi('Sydney', 5, 26, 186.8799789251844, 'Unhealthy').
 aqi('New York', 1, 11, 153.68493150684932, 'Unhealthy').
 aqi('Rio de Janeiro', 8, 3, 173.61022128556377, 'Unhealthy').
 aqi('Istanbul', 1, 25, 157.08756585879874, 'Unhealthy').
-aqi('Mumbai', 6, 13, 122.63424242424244, 'Poor').
+aqi('Mumbai', 6, 13, 122.63424242424243, 'Poor').
 aqi('Sydney', 7, 21, 170.32118018967333, 'Unhealthy').
-aqi('Moscow', 1, 20, 120.94472361809044, 'Poor').
+aqi('Moscow', 1, 20, 120.94472361809045, 'Poor').
 aqi('Bangkok', 4, 13, 155.9309799789252, 'Unhealthy').
 aqi('Tokyo', 6, 20, 177.21938883034773, 'Unhealthy').
-aqi('Beijing', 2, 27, 174.22465753424655, 'Unhealthy').
-aqi('Sydney', 9, 16, 194.1447839831401, 'Unhealthy').
+aqi('Beijing', 2, 27, 174.22465753424657, 'Unhealthy').
+aqi('Sydney', 9, 16, 194.14478398314014, 'Unhealthy').
 aqi('Bangkok', 9, 6, 163.67597471022128, 'Unhealthy').
 aqi('Mexico City', 8, 28, 160.0513171759747, 'Unhealthy').
 aqi('Cairo', 12, 15, 168.95289778714437, 'Unhealthy').
 aqi('Moscow', 2, 2, 137.98391959798997, 'Poor').
-aqi('Mexico City', 9, 7, 104.00434343434344, 'Poor').
+aqi('Mexico City', 9, 7, 104.00434343434343, 'Poor').
 aqi('Johannesburg', 4, 2, 92.0716738197425, 'Moderate').
 aqi('Madrid', 2, 3, 193.6491043203372, 'Unhealthy').
-aqi('Seoul', 5, 9, 127.88844221105528, 'Poor').
+aqi('Seoul', 5, 9, 127.88844221105529, 'Poor').
 aqi('Rio de Janeiro', 7, 23, 122.52060301507538, 'Poor').
 aqi('Johannesburg', 3, 25, 97.92616161616162, 'Moderate').
 aqi('Mexico City', 10, 24, 190.23614330874605, 'Unhealthy').
 aqi('Berlin', 10, 25, 164.99262381454162, 'Unhealthy').
 aqi('Toronto', 5, 10, 74.31212121212121, 'Moderate').
-aqi('Tokyo', 3, 27, 90.30888888888887, 'Moderate').
+aqi('Tokyo', 3, 27, 90.30888888888889, 'Moderate').
 aqi('Paris', 10, 28, 175.55163329820863, 'Unhealthy').
 aqi('Sydney', 5, 11, 82.23217391304347, 'Moderate').
 aqi('Dubai', 3, 23, 110.16646464646465, 'Poor').
@@ -29302,14 +29302,14 @@ aqi('Tokyo', 9, 13, 121.41256281407036, 'Poor').
 aqi('Moscow', 5, 9, 187.1433087460485, 'Unhealthy').
 aqi('Istanbul', 6, 12, 157.50579557428873, 'Unhealthy').
 aqi('Istanbul', 6, 2, 196.3805057955743, 'Unhealthy').
-aqi('Mexico City', 2, 23, 110.23575757575756, 'Poor').
-aqi('Sydney', 5, 15, 180.4619599578504, 'Unhealthy').
+aqi('Mexico City', 2, 23, 110.23575757575757, 'Poor').
+aqi('Sydney', 5, 15, 180.46195995785038, 'Unhealthy').
 aqi('Istanbul', 11, 12, 156.93782929399367, 'Unhealthy').
 aqi('Mexico City', 11, 11, 153.96375131717596, 'Unhealthy').
 aqi('Seoul', 8, 26, 86.88717391304348, 'Moderate').
-aqi('Mexico City', 1, 16, 96.84549356223177, 'Moderate').
+aqi('Mexico City', 1, 16, 96.84549356223175, 'Moderate').
 aqi('Mexico City', 11, 17, 88.3358695652174, 'Moderate').
-aqi('Cairo', 2, 14, 97.09785407725325, 'Moderate').
+aqi('Cairo', 2, 14, 97.09785407725323, 'Moderate').
 aqi('Rio de Janeiro', 9, 17, 151.95005268703898, 'Unhealthy').
 aqi('Beijing', 5, 26, 98.7381974248927, 'Moderate').
 aqi('Dubai', 9, 16, 176.87344573234984, 'Unhealthy').
@@ -29321,31 +29321,31 @@ aqi('Cairo', 10, 13, 92.7539393939394, 'Moderate').
 aqi('Madrid', 5, 18, 164.409167544784, 'Unhealthy').
 aqi('Seoul', 9, 2, 158.46101159114858, 'Unhealthy').
 aqi('Los Angeles', 4, 20, 98.9274678111588, 'Moderate').
-aqi('Los Angeles', 11, 28, 199.67987355110645, 'Unhealthy').
+aqi('Los Angeles', 11, 28, 199.67987355110643, 'Unhealthy').
 aqi('Mexico City', 7, 9, 92.00858369098714, 'Moderate').
 aqi('Tokyo', 9, 7, 174.0749209694415, 'Unhealthy').
 aqi('Paris', 12, 3, 169.43308746048473, 'Unhealthy').
 aqi('Bangkok', 5, 1, 197.66617492096944, 'Unhealthy').
-aqi('New York', 1, 12, 199.4475237091676, 'Unhealthy').
-aqi('Moscow', 8, 4, 193.0346680716544, 'Unhealthy').
+aqi('New York', 1, 12, 199.44752370916757, 'Unhealthy').
+aqi('Moscow', 8, 4, 193.03466807165438, 'Unhealthy').
 aqi('Johannesburg', 8, 21, 159.1064278187566, 'Unhealthy').
 aqi('Seoul', 12, 19, 153.33382507903056, 'Unhealthy').
 aqi('Moscow', 7, 16, 114.29434343434345, 'Poor').
 aqi('Johannesburg', 8, 13, 71.7, 'Moderate').
 aqi('Sydney', 10, 19, 166.650052687039, 'Unhealthy').
-aqi('Sydney', 3, 11, 182.7957850368809, 'Unhealthy').
+aqi('Sydney', 3, 11, 182.79578503688094, 'Unhealthy').
 aqi('Cairo', 1, 22, 182.51696522655428, 'Unhealthy').
 aqi('Los Angeles', 3, 18, 94.80557939914164, 'Moderate').
 aqi('Paris', 12, 14, 165.13203371970496, 'Unhealthy').
 aqi('New York', 6, 28, 84.7, 'Moderate').
-aqi('Rio de Janeiro', 5, 1, 115.23216080402013, 'Poor').
+aqi('Rio de Janeiro', 5, 1, 115.23216080402011, 'Poor').
 aqi('Los Angeles', 6, 7, 168.74120126448895, 'Unhealthy').
 aqi('Toronto', 6, 3, 199.46301369863016, 'Unhealthy').
 aqi('Moscow', 12, 27, 165.46248682824026, 'Unhealthy').
 aqi('Los Angeles', 4, 14, 128.18391959798996, 'Poor').
-aqi('Dubai', 1, 13, 187.5047418335089, 'Unhealthy').
+aqi('Dubai', 1, 13, 187.50474183350894, 'Unhealthy').
 aqi('Paris', 9, 15, 166.55194942044258, 'Unhealthy').
-aqi('Paris', 7, 14, 117.43232323232324, 'Poor').
+aqi('Paris', 7, 14, 117.43232323232323, 'Poor').
 aqi('Los Angeles', 3, 18, 71.1, 'Moderate').
 aqi('Moscow', 3, 5, 161.6054794520548, 'Unhealthy').
 aqi('Madrid', 1, 4, 156.11169652265542, 'Unhealthy').
@@ -29357,44 +29357,44 @@ aqi('Rio de Janeiro', 11, 27, 183.16754478398315, 'Unhealthy').
 aqi('Bangkok', 7, 22, 107.9639393939394, 'Poor').
 aqi('New York', 3, 21, 103.61005025125628, 'Poor').
 aqi('Seoul', 5, 7, 162.97892518440463, 'Unhealthy').
-aqi('Berlin', 7, 19, 117.69447236180903, 'Poor').
+aqi('Berlin', 7, 19, 117.69447236180905, 'Poor').
 aqi('Mexico City', 5, 7, 164.50210748155953, 'Unhealthy').
 aqi('Los Angeles', 7, 13, 190.00895679662804, 'Unhealthy').
 aqi('Bangkok', 12, 14, 154.9654373024236, 'Unhealthy').
 aqi('New York', 6, 12, 188.65616438356165, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 14, 53.1, 'Moderate').
-aqi('Rio de Janeiro', 8, 27, 166.8462592202318, 'Unhealthy').
+aqi('Rio de Janeiro', 8, 27, 166.84625922023181, 'Unhealthy').
 aqi('Tokyo', 5, 5, 155.7141201264489, 'Unhealthy').
 aqi('Johannesburg', 3, 27, 85.69999999999999, 'Moderate').
 aqi('Mumbai', 10, 1, 158.65205479452055, 'Unhealthy').
-aqi('Paris', 2, 1, 109.98743718592964, 'Poor').
-aqi('Mumbai', 1, 1, 196.1326659641728, 'Unhealthy').
+aqi('Paris', 2, 1, 109.98743718592965, 'Poor').
+aqi('Mumbai', 1, 1, 196.13266596417282, 'Unhealthy').
 aqi('Madrid', 12, 10, 120.4119191919192, 'Poor').
 aqi('Los Angeles', 1, 21, 197.55258166491043, 'Unhealthy').
 aqi('Toronto', 10, 22, 176.99220231822972, 'Unhealthy').
-aqi('Cairo', 4, 16, 187.5512118018968, 'Unhealthy').
+aqi('Cairo', 4, 16, 187.55121180189673, 'Unhealthy').
 aqi('Mexico City', 1, 23, 176.55331928345626, 'Unhealthy').
 aqi('London', 3, 22, 168.8444678609062, 'Unhealthy').
 aqi('Tokyo', 1, 6, 177.4414120126449, 'Unhealthy').
 aqi('Moscow', 12, 2, 143.45025125628143, 'Poor').
 aqi('New York', 8, 19, 167.1922023182297, 'Unhealthy').
 aqi('Bangkok', 11, 17, 154.38198103266598, 'Unhealthy').
-aqi('Mumbai', 11, 25, 198.4303477344573, 'Unhealthy').
+aqi('Mumbai', 11, 25, 198.43034773445734, 'Unhealthy').
 aqi('Seoul', 8, 7, 175.2108535300316, 'Unhealthy').
 aqi('London', 12, 18, 155.99810326659642, 'Unhealthy').
-aqi('London', 2, 3, 105.678391959799, 'Poor').
+aqi('London', 2, 3, 105.67839195979899, 'Poor').
 aqi('Mexico City', 2, 6, 155.9722866174921, 'Unhealthy').
 aqi('Johannesburg', 11, 7, 156.9894625922023, 'Unhealthy').
 aqi('Dubai', 5, 24, 195.7041095890411, 'Unhealthy').
 aqi('Mexico City', 1, 18, 171.79789251844048, 'Unhealthy').
 aqi('Istanbul', 3, 8, 152.41991570073762, 'Unhealthy').
 aqi('Mexico City', 2, 4, 109.08252525252526, 'Poor').
-aqi('New York', 2, 16, 126.75577889447236, 'Poor').
+aqi('New York', 2, 16, 126.75577889447237, 'Poor').
 aqi('Mexico City', 6, 5, 123.21828282828282, 'Poor').
 aqi('New York', 2, 19, 163.93930453108536, 'Unhealthy').
-aqi('Mumbai', 10, 19, 191.18103266596412, 'Unhealthy').
+aqi('Mumbai', 10, 19, 191.18103266596418, 'Unhealthy').
 aqi('Istanbul', 10, 9, 83.02875536480687, 'Moderate').
-aqi('London', 9, 7, 161.28018967334037, 'Unhealthy').
+aqi('London', 9, 7, 161.28018967334035, 'Unhealthy').
 aqi('Seoul', 7, 23, 153.90695468914646, 'Unhealthy').
 aqi('Johannesburg', 9, 25, 161.73972602739727, 'Unhealthy').
 aqi('Berlin', 7, 10, 164.31106427818756, 'Unhealthy').
@@ -29409,12 +29409,12 @@ aqi('Tokyo', 1, 6, 114.01717171717172, 'Poor').
 aqi('Dubai', 3, 23, 51.826565656565656, 'Moderate').
 aqi('Istanbul', 1, 13, 191.23782929399368, 'Unhealthy').
 aqi('Istanbul', 9, 12, 174.29694415173867, 'Unhealthy').
-aqi('Tokyo', 7, 2, 195.3684931506849, 'Unhealthy').
+aqi('Tokyo', 7, 2, 195.36849315068494, 'Unhealthy').
 aqi('Seoul', 4, 27, 185.8060063224447, 'Unhealthy').
 aqi('Mexico City', 9, 23, 159.17355110642782, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 27, 87.8236051502146, 'Moderate').
 aqi('Bangkok', 5, 7, 161.83782929399368, 'Unhealthy').
-aqi('Moscow', 8, 19, 187.4376185458377, 'Unhealthy').
+aqi('Moscow', 8, 19, 187.43761854583772, 'Unhealthy').
 aqi('Tokyo', 8, 9, 195.1, 'Unhealthy').
 aqi('Bangkok', 5, 21, 165.1939936775553, 'Unhealthy').
 aqi('Paris', 11, 6, 103.0540404040404, 'Poor').
@@ -29427,20 +29427,20 @@ aqi('Moscow', 4, 21, 163.4126448893572, 'Unhealthy').
 aqi('London', 10, 17, 128.15929648241206, 'Poor').
 aqi('Beijing', 2, 25, 153.93793466807165, 'Unhealthy').
 aqi('Cairo', 11, 10, 159.2510010537408, 'Unhealthy').
-aqi('Sydney', 11, 14, 119.36884422110552, 'Poor').
+aqi('Sydney', 11, 14, 119.36884422110553, 'Poor').
 aqi('Mexico City', 5, 28, 178.8923076923077, 'Unhealthy').
-aqi('Toronto', 8, 26, 176.78566912539517, 'Unhealthy').
+aqi('Toronto', 8, 26, 176.78566912539515, 'Unhealthy').
 aqi('London', 3, 2, 165.34889357218125, 'Unhealthy').
 aqi('Madrid', 12, 11, 60.67435897435898, 'Moderate').
-aqi('Beijing', 10, 21, 151.340779768177, 'Unhealthy').
-aqi('Seoul', 7, 25, 185.7285563751317, 'Unhealthy').
+aqi('Beijing', 10, 21, 151.34077976817701, 'Unhealthy').
+aqi('Seoul', 7, 25, 185.72855637513172, 'Unhealthy').
 aqi('Toronto', 6, 22, 74.91115879828327, 'Moderate').
 aqi('Johannesburg', 12, 15, 146.0356783919598, 'Poor').
 aqi('Istanbul', 6, 23, 160.83614330874605, 'Unhealthy').
 aqi('Cairo', 2, 21, 172.37618545837725, 'Unhealthy').
 aqi('Paris', 2, 25, 178.35532139093783, 'Unhealthy').
 aqi('Beijing', 3, 3, 175.92339304531086, 'Unhealthy').
-aqi('London', 7, 13, 162.0185458377239, 'Unhealthy').
+aqi('London', 7, 13, 162.01854583772393, 'Unhealthy').
 aqi('Los Angeles', 10, 28, 172.53108535300316, 'Unhealthy').
 aqi('Tokyo', 12, 26, 164.24394099051634, 'Unhealthy').
 aqi('Berlin', 6, 1, 172.85121180189674, 'Unhealthy').
@@ -29454,11 +29454,11 @@ aqi('Berlin', 8, 6, 151.68672286617493, 'Unhealthy').
 aqi('Johannesburg', 4, 24, 179.5377239199157, 'Unhealthy').
 aqi('Tokyo', 9, 8, 142.34221105527638, 'Poor').
 aqi('Mexico City', 7, 27, 173.09388830347734, 'Unhealthy').
-aqi('Moscow', 1, 14, 192.40990516332985, 'Unhealthy').
+aqi('Moscow', 1, 14, 192.40990516332982, 'Unhealthy').
 aqi('Cairo', 4, 11, 168.55532139093782, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 6, 190.36522655426765, 'Unhealthy').
 aqi('Dubai', 4, 19, 80.94678111587983, 'Moderate').
-aqi('Mumbai', 7, 16, 102.0839393939394, 'Poor').
+aqi('Mumbai', 7, 16, 102.08393939393939, 'Poor').
 aqi('Johannesburg', 11, 22, 190.845416227608, 'Unhealthy').
 aqi('Paris', 11, 6, 167.1199157007376, 'Unhealthy').
 aqi('Rio de Janeiro', 9, 28, 188.0159114857745, 'Unhealthy').
@@ -29469,11 +29469,11 @@ aqi('Dubai', 12, 7, 126.36180904522612, 'Poor').
 aqi('Los Angeles', 4, 5, 128.38090452261306, 'Poor').
 aqi('London', 7, 9, 187.9281348788198, 'Unhealthy').
 aqi('Seoul', 12, 5, 152.51285563751318, 'Unhealthy').
-aqi('Sydney', 4, 18, 119.56555555555556, 'Poor').
+aqi('Sydney', 4, 18, 119.56555555555555, 'Poor').
 aqi('Bangkok', 11, 20, 165.99430979978925, 'Unhealthy').
 aqi('Mexico City', 6, 4, 166.05626975763963, 'Unhealthy').
 aqi('London', 8, 2, 78.50434343434344, 'Moderate').
-aqi('Los Angeles', 3, 9, 196.77291886196, 'Unhealthy').
+aqi('Los Angeles', 3, 9, 196.77291886195997, 'Unhealthy').
 aqi('Istanbul', 11, 27, 144.31206030150756, 'Poor').
 aqi('Moscow', 9, 25, 195.69378292939936, 'Unhealthy').
 aqi('Dubai', 9, 5, 184.73203371970496, 'Unhealthy').
@@ -29497,14 +29497,14 @@ aqi('Moscow', 9, 3, 157.87755532139093, 'Unhealthy').
 aqi('Cairo', 4, 7, 166.6655426765016, 'Unhealthy').
 aqi('Tokyo', 9, 14, 167.92023182297154, 'Unhealthy').
 aqi('Madrid', 8, 23, 120.69849246231156, 'Poor').
-aqi('Dubai', 3, 28, 94.21673819742487, 'Moderate').
+aqi('Dubai', 3, 28, 94.21673819742489, 'Moderate').
 aqi('Dubai', 10, 22, 108.67171717171718, 'Poor').
 aqi('London', 8, 22, 155.51791359325605, 'Unhealthy').
 aqi('Bangkok', 6, 24, 147.9070351758794, 'Poor').
 aqi('Paris', 1, 28, 71.46282608695651, 'Moderate').
 aqi('Los Angeles', 12, 21, 161.53835616438357, 'Unhealthy').
 aqi('Madrid', 6, 13, 93.38500000000002, 'Moderate').
-aqi('Los Angeles', 2, 4, 113.06686868686867, 'Poor').
+aqi('Los Angeles', 2, 4, 113.06686868686869, 'Poor').
 aqi('Tokyo', 6, 23, 69.4220202020202, 'Moderate').
 aqi('Johannesburg', 3, 17, 131.72964824120604, 'Poor').
 aqi('Bangkok', 2, 9, 156.49378292939937, 'Unhealthy').
@@ -29515,9 +29515,9 @@ aqi('Seoul', 1, 11, 99.55836909871245, 'Moderate').
 aqi('Tokyo', 4, 23, 108.37474747474748, 'Poor').
 aqi('Paris', 8, 5, 155.0222339304531, 'Unhealthy').
 aqi('New York', 12, 20, 88.91716738197425, 'Moderate').
-aqi('Berlin', 7, 14, 91.4, 'Moderate').
+aqi('Berlin', 7, 14, 91.39999999999999, 'Moderate').
 aqi('Mumbai', 11, 13, 75.87854077253219, 'Moderate').
-aqi('Seoul', 5, 24, 162.02887249736563, 'Unhealthy').
+aqi('Seoul', 5, 24, 162.02887249736565, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 6, 179.18145416227608, 'Unhealthy').
 aqi('Toronto', 5, 3, 187.78872497365649, 'Unhealthy').
 aqi('Cairo', 3, 17, 197.29441517386724, 'Unhealthy').
@@ -29534,8 +29534,8 @@ aqi('New York', 1, 5, 195.32718651211803, 'Unhealthy').
 aqi('Mexico City', 1, 10, 117.72434343434344, 'Poor').
 aqi('Cairo', 12, 26, 198.02244467860908, 'Unhealthy').
 aqi('Mumbai', 3, 22, 168.36944151738672, 'Unhealthy').
-aqi('Berlin', 8, 28, 190.21548998946253, 'Unhealthy').
-aqi('Paris', 9, 9, 183.8129610115912, 'Unhealthy').
+aqi('Berlin', 8, 28, 190.21548998946258, 'Unhealthy').
+aqi('Paris', 9, 9, 183.81296101159114, 'Unhealthy').
 aqi('Seoul', 12, 12, 167.8118018967334, 'Unhealthy').
 aqi('Dubai', 11, 19, 105.0551724137931, 'Poor').
 aqi('New York', 12, 8, 65.09012875536482, 'Moderate').
@@ -29544,14 +29544,14 @@ aqi('London', 11, 4, 199.02413066385668, 'Unhealthy').
 aqi('Johannesburg', 10, 26, 165.5554267650158, 'Unhealthy').
 aqi('Los Angeles', 12, 2, 154.5626975763962, 'Unhealthy').
 aqi('New York', 7, 13, 151.46986301369864, 'Unhealthy').
-aqi('Johannesburg', 5, 11, 112.30201005025128, 'Poor').
+aqi('Johannesburg', 5, 11, 112.30201005025127, 'Poor').
 aqi('Istanbul', 9, 12, 156.6744994731296, 'Unhealthy').
 aqi('Los Angeles', 3, 12, 183.4463645943098, 'Unhealthy').
 aqi('London', 8, 20, 155.05837723919916, 'Unhealthy').
-aqi('Mexico City', 7, 15, 175.08177028451, 'Unhealthy').
+aqi('Mexico City', 7, 15, 175.08177028451001, 'Unhealthy').
 aqi('Sydney', 3, 10, 115.34858585858586, 'Poor').
 aqi('Toronto', 2, 1, 171.01306638566913, 'Unhealthy').
-aqi('Madrid', 5, 1, 188.1656480505796, 'Unhealthy').
+aqi('Madrid', 5, 1, 188.16564805057956, 'Unhealthy').
 aqi('Beijing', 1, 8, 170.5845100105374, 'Unhealthy').
 aqi('Istanbul', 12, 8, 76.27760869565218, 'Moderate').
 aqi('Johannesburg', 10, 20, 116.01676767676769, 'Poor').
@@ -29559,19 +29559,19 @@ aqi('Berlin', 7, 17, 170.14562697576395, 'Unhealthy').
 aqi('Los Angeles', 1, 2, 191.3359325605901, 'Unhealthy').
 aqi('Los Angeles', 12, 11, 170.79620653319284, 'Unhealthy').
 aqi('Mexico City', 9, 20, 121.92964824120602, 'Poor').
-aqi('New York', 9, 7, 191.03645943098, 'Unhealthy').
+aqi('New York', 9, 7, 191.03645943097996, 'Unhealthy').
 aqi('Berlin', 11, 17, 180.2141201264489, 'Unhealthy').
 aqi('Mexico City', 5, 22, 189.3222339304531, 'Unhealthy').
-aqi('Beijing', 12, 9, 181.6237091675448, 'Unhealthy').
+aqi('Beijing', 12, 9, 181.62370916754477, 'Unhealthy').
 aqi('Johannesburg', 9, 4, 146.92211055276383, 'Poor').
 aqi('Los Angeles', 6, 4, 94.10020202020203, 'Moderate').
 aqi('London', 3, 26, 190.4581664910432, 'Unhealthy').
 aqi('Mumbai', 9, 15, 94.10020202020203, 'Moderate').
 aqi('Sydney', 1, 23, 141.45577889447236, 'Poor').
 aqi('New York', 10, 24, 161.60031612223392, 'Unhealthy').
-aqi('Berlin', 11, 6, 191.05194942044253, 'Unhealthy').
+aqi('Berlin', 11, 6, 191.05194942044255, 'Unhealthy').
 aqi('Madrid', 6, 28, 177.095468914647, 'Unhealthy').
-aqi('Moscow', 2, 3, 107.08190954773868, 'Poor').
+aqi('Moscow', 2, 3, 107.08190954773869, 'Poor').
 aqi('Seoul', 6, 12, 174.52929399367756, 'Unhealthy').
 aqi('Mexico City', 8, 8, 197.19114857744995, 'Unhealthy').
 aqi('Toronto', 10, 25, 188.51159114857745, 'Unhealthy').
@@ -29579,15 +29579,15 @@ aqi('Cairo', 12, 27, 154.3458377239199, 'Unhealthy').
 aqi('Madrid', 6, 10, 166.32476290832454, 'Unhealthy').
 aqi('Bangkok', 6, 20, 83.0, 'Moderate').
 aqi('New York', 1, 21, 97.52869565217392, 'Moderate').
-aqi('Madrid', 7, 9, 195.12065331928343, 'Unhealthy').
+aqi('Madrid', 7, 9, 195.12065331928346, 'Unhealthy').
 aqi('Istanbul', 1, 24, 67.52961373390559, 'Moderate').
 aqi('Mexico City', 3, 13, 120.82272727272728, 'Poor').
-aqi('Cairo', 5, 9, 191.56828240252892, 'Unhealthy').
+aqi('Cairo', 5, 9, 191.56828240252898, 'Unhealthy').
 aqi('Mumbai', 1, 23, 153.70558482613276, 'Unhealthy').
-aqi('Paris', 8, 20, 95.7391304347826, 'Moderate').
+aqi('Paris', 8, 20, 95.73913043478261, 'Moderate').
 aqi('Madrid', 4, 9, 165.4108535300316, 'Unhealthy').
 aqi('Seoul', 12, 21, 70.4107296137339, 'Moderate').
-aqi('Cairo', 10, 11, 190.3600632244468, 'Unhealthy').
+aqi('Cairo', 10, 11, 190.36006322444678, 'Unhealthy').
 aqi('London', 9, 23, 155.88967334035829, 'Unhealthy').
 aqi('Istanbul', 9, 8, 155.69346680716544, 'Unhealthy').
 aqi('Toronto', 2, 24, 145.5185929648241, 'Poor').
@@ -29595,35 +29595,35 @@ aqi('Mexico City', 4, 5, 156.77776606954689, 'Unhealthy').
 aqi('Tokyo', 1, 12, 161.2027397260274, 'Unhealthy').
 aqi('Dubai', 8, 17, 118.08844221105528, 'Poor').
 aqi('Toronto', 2, 16, 172.44847207586935, 'Unhealthy').
-aqi('Mumbai', 3, 11, 98.0932608695652, 'Moderate').
+aqi('Mumbai', 3, 11, 98.09326086956521, 'Moderate').
 aqi('Mumbai', 4, 12, 72.72403433476396, 'Moderate').
 aqi('Beijing', 5, 10, 71.8, 'Moderate').
 aqi('Moscow', 10, 27, 153.9017913593256, 'Unhealthy').
 aqi('Toronto', 3, 16, 184.99020021074816, 'Unhealthy').
-aqi('Bangkok', 4, 1, 115.60150753768843, 'Poor').
+aqi('Bangkok', 4, 1, 115.60150753768845, 'Poor').
 aqi('Paris', 2, 18, 116.6356783919598, 'Poor').
 aqi('Mumbai', 7, 19, 176.031822971549, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 12, 191.24299262381453, 'Unhealthy').
 aqi('Moscow', 10, 3, 158.5436248682824, 'Unhealthy').
 aqi('Beijing', 2, 7, 133.94572864321609, 'Poor').
-aqi('Bangkok', 12, 5, 99.84021739130436, 'Moderate').
+aqi('Bangkok', 12, 5, 99.84021739130435, 'Moderate').
 aqi('Mumbai', 2, 24, 90.74326086956522, 'Moderate').
 aqi('Cairo', 9, 24, 158.95152792413066, 'Unhealthy').
-aqi('Sydney', 12, 17, 118.47171717171716, 'Poor').
-aqi('Cairo', 5, 8, 153.7830347734457, 'Unhealthy').
-aqi('Rio de Janeiro', 7, 13, 96.80434782608695, 'Moderate').
+aqi('Sydney', 12, 17, 118.47171717171717, 'Poor').
+aqi('Cairo', 5, 8, 153.78303477344573, 'Unhealthy').
+aqi('Rio de Janeiro', 7, 13, 96.80434782608697, 'Moderate').
 aqi('Bangkok', 4, 9, 177.56533192834564, 'Unhealthy').
 aqi('New York', 1, 13, 163.8463645943098, 'Unhealthy').
-aqi('Beijing', 1, 24, 104.15175879396983, 'Poor').
+aqi('Beijing', 1, 24, 104.15175879396985, 'Poor').
 aqi('New York', 11, 28, 145.5924623115578, 'Poor').
 aqi('Tokyo', 8, 12, 194.3668071654373, 'Unhealthy').
 aqi('Bangkok', 6, 27, 62.2574358974359, 'Moderate').
 aqi('Mexico City', 10, 11, 118.2854271356784, 'Poor').
 aqi('New York', 6, 17, 156.72613277133826, 'Unhealthy').
-aqi('Seoul', 10, 26, 190.5975763962065, 'Unhealthy').
+aqi('Seoul', 10, 26, 190.59757639620653, 'Unhealthy').
 aqi('Madrid', 11, 27, 184.96438356164384, 'Unhealthy').
-aqi('Berlin', 11, 4, 190.3239199157008, 'Unhealthy').
-aqi('Los Angeles', 5, 1, 104.929898989899, 'Poor').
+aqi('Berlin', 11, 4, 190.32391991570074, 'Unhealthy').
+aqi('Los Angeles', 5, 1, 104.92989898989899, 'Poor').
 aqi('Madrid', 2, 11, 191.4650158061117, 'Unhealthy').
 aqi('Madrid', 4, 14, 184.3086406743941, 'Unhealthy').
 aqi('Johannesburg', 2, 13, 83.12695652173913, 'Moderate').
@@ -29631,7 +29631,7 @@ aqi('Tokyo', 12, 7, 169.93393045310853, 'Unhealthy').
 aqi('Rio de Janeiro', 10, 2, 190.88155953635408, 'Unhealthy').
 aqi('Beijing', 11, 5, 169.71190727081137, 'Unhealthy').
 aqi('Seoul', 9, 21, 191.58893572181245, 'Unhealthy').
-aqi('New York', 10, 3, 197.5474183350896, 'Unhealthy').
+aqi('New York', 10, 3, 197.54741833508956, 'Unhealthy').
 aqi('Toronto', 6, 24, 170.95626975763963, 'Unhealthy').
 aqi('Paris', 4, 25, 160.53150684931506, 'Unhealthy').
 aqi('Sydney', 10, 3, 166.08208640674394, 'Unhealthy').
@@ -29643,13 +29643,13 @@ aqi('New York', 9, 6, 119.15969696969697, 'Poor').
 aqi('Sydney', 5, 21, 151.52149631190727, 'Unhealthy').
 aqi('Berlin', 2, 22, 160.63993677555322, 'Unhealthy').
 aqi('Los Angeles', 1, 24, 193.7213909378293, 'Unhealthy').
-aqi('Paris', 12, 18, 97.07979797979796, 'Moderate').
+aqi('Paris', 12, 18, 97.07979797979797, 'Moderate').
 aqi('Cairo', 7, 22, 177.47239199157008, 'Unhealthy').
 aqi('Johannesburg', 7, 3, 59.2, 'Moderate').
 aqi('Madrid', 3, 3, 192.21886195995785, 'Unhealthy').
 aqi('Bangkok', 4, 2, 195.7609062170706, 'Unhealthy').
 aqi('Berlin', 10, 18, 162.16311907270813, 'Unhealthy').
-aqi('Berlin', 6, 16, 57.98782608695653, 'Moderate').
+aqi('Berlin', 6, 16, 57.987826086956524, 'Moderate').
 aqi('Mexico City', 7, 19, 159.12191780821917, 'Unhealthy').
 aqi('Paris', 10, 25, 160.51601685985247, 'Unhealthy').
 aqi('Seoul', 10, 7, 155.9, 'Unhealthy').
@@ -29661,12 +29661,12 @@ aqi('Sydney', 5, 27, 188.83171759747103, 'Unhealthy').
 aqi('Mumbai', 7, 13, 151.2994731296101, 'Unhealthy').
 aqi('Tokyo', 3, 28, 60.400000000000006, 'Moderate').
 aqi('Paris', 10, 2, 167.99251844046364, 'Unhealthy').
-aqi('Beijing', 8, 21, 198.78661749209687, 'Unhealthy').
-aqi('Johannesburg', 3, 1, 183.1985247629084, 'Unhealthy').
-aqi('Berlin', 1, 17, 190.49947312961007, 'Unhealthy').
+aqi('Beijing', 8, 21, 198.78661749209695, 'Unhealthy').
+aqi('Johannesburg', 3, 1, 183.19852476290833, 'Unhealthy').
+aqi('Berlin', 1, 17, 190.49947312961012, 'Unhealthy').
 aqi('Johannesburg', 6, 11, 159.50400421496312, 'Unhealthy').
 aqi('Seoul', 10, 12, 199.6437302423604, 'Unhealthy').
-aqi('Los Angeles', 2, 28, 184.7939936775553, 'Unhealthy').
+aqi('Los Angeles', 2, 28, 184.79399367755533, 'Unhealthy').
 aqi('Paris', 8, 23, 152.03266596417282, 'Unhealthy').
 aqi('Beijing', 11, 9, 155.25974710221286, 'Unhealthy').
 aqi('Berlin', 1, 23, 98.61521739130436, 'Moderate').
@@ -29674,7 +29674,7 @@ aqi('Los Angeles', 10, 13, 152.20305584826133, 'Unhealthy').
 aqi('Mexico City', 6, 1, 157.26828240252897, 'Unhealthy').
 aqi('Moscow', 3, 20, 149.48291457286433, 'Poor').
 aqi('Sydney', 12, 21, 109.19949748743718, 'Poor').
-aqi('Bangkok', 8, 16, 108.29060606060604, 'Poor').
+aqi('Bangkok', 8, 16, 108.29060606060605, 'Poor').
 aqi('Rio de Janeiro', 11, 6, 98.40217391304348, 'Moderate').
 aqi('Dubai', 11, 10, 163.52107481559537, 'Unhealthy').
 aqi('Seoul', 5, 26, 193.6491043203372, 'Unhealthy').
@@ -29682,18 +29682,18 @@ aqi('Toronto', 2, 19, 87.50815450643776, 'Moderate').
 aqi('Bangkok', 4, 15, 129.2427135678392, 'Poor').
 aqi('Cairo', 6, 27, 100.0, 'Moderate').
 aqi('Dubai', 2, 1, 154.45943097997892, 'Unhealthy').
-aqi('Cairo', 11, 21, 116.24170854271355, 'Poor').
+aqi('Cairo', 11, 21, 116.24170854271357, 'Poor').
 aqi('Beijing', 6, 1, 151.01032665964172, 'Unhealthy').
 aqi('Dubai', 3, 4, 167.40906217070602, 'Unhealthy').
 aqi('Paris', 9, 18, 198.3064278187566, 'Unhealthy').
 aqi('Madrid', 7, 1, 170.97692307692307, 'Unhealthy').
-aqi('Toronto', 7, 18, 197.24278187565852, 'Unhealthy').
+aqi('Toronto', 7, 18, 197.24278187565858, 'Unhealthy').
 aqi('Los Angeles', 1, 24, 194.30484720758693, 'Unhealthy').
 aqi('Bangkok', 5, 25, 196.0345626975764, 'Unhealthy').
 aqi('Beijing', 5, 20, 89.06161616161617, 'Moderate').
 aqi('Istanbul', 10, 26, 162.51422550052686, 'Unhealthy').
 aqi('Johannesburg', 7, 21, 176.29515279241306, 'Unhealthy').
-aqi('Mumbai', 1, 4, 198.59557428872492, 'Unhealthy').
+aqi('Mumbai', 1, 4, 198.59557428872498, 'Unhealthy').
 aqi('Cairo', 3, 22, 188.42897787144364, 'Unhealthy').
 aqi('New York', 7, 27, 160.67608008429926, 'Unhealthy').
 aqi('Sydney', 9, 7, 176.31580611169653, 'Unhealthy').
@@ -29702,11 +29702,11 @@ aqi('Los Angeles', 5, 12, 71.23913043478261, 'Moderate').
 aqi('Sydney', 9, 26, 178.29852476290833, 'Unhealthy').
 aqi('Paris', 11, 22, 174.13688092729188, 'Unhealthy').
 aqi('Los Angeles', 3, 15, 198.2754478398314, 'Unhealthy').
-aqi('Dubai', 8, 1, 115.9708542713568, 'Poor').
+aqi('Dubai', 8, 1, 115.97085427135679, 'Poor').
 aqi('Sydney', 5, 26, 166.3609062170706, 'Unhealthy').
 aqi('Paris', 1, 25, 194.9967334035827, 'Unhealthy').
 aqi('Beijing', 3, 24, 170.81685985247628, 'Unhealthy').
-aqi('Madrid', 11, 12, 171.85985247629085, 'Unhealthy').
+aqi('Madrid', 11, 12, 171.85985247629083, 'Unhealthy').
 aqi('Bangkok', 2, 1, 71.8618025751073, 'Moderate').
 aqi('Mumbai', 9, 26, 84.6, 'Moderate').
 aqi('Berlin', 11, 26, 177.18840885142254, 'Unhealthy').
@@ -29717,17 +29717,17 @@ aqi('Mumbai', 2, 19, 131.75427135678393, 'Poor').
 aqi('Tokyo', 11, 18, 151.26849315068495, 'Unhealthy').
 aqi('Seoul', 3, 16, 147.16834170854273, 'Poor').
 aqi('Seoul', 1, 16, 152.43024236037934, 'Unhealthy').
-aqi('Moscow', 4, 28, 191.43919915700732, 'Unhealthy').
+aqi('Moscow', 4, 28, 191.43919915700738, 'Unhealthy').
 aqi('Bangkok', 11, 18, 173.33656480505795, 'Unhealthy').
 aqi('Cairo', 10, 14, 121.04321608040202, 'Poor').
 aqi('Toronto', 11, 12, 171.48809272918862, 'Unhealthy').
-aqi('Mumbai', 3, 27, 184.67007376185452, 'Unhealthy').
+aqi('Mumbai', 3, 27, 184.67007376185458, 'Unhealthy').
 aqi('New York', 4, 14, 167.16122233930452, 'Unhealthy').
 aqi('Mumbai', 2, 10, 175.5722866174921, 'Unhealthy').
 aqi('Johannesburg', 11, 23, 151.54214963119074, 'Unhealthy').
 aqi('Paris', 11, 9, 172.84604847207586, 'Unhealthy').
-aqi('Mumbai', 11, 5, 110.87386934673368, 'Poor').
-aqi('Paris', 3, 1, 138.69798994974877, 'Poor').
+aqi('Mumbai', 11, 5, 110.87386934673367, 'Poor').
+aqi('Paris', 3, 1, 138.69798994974875, 'Poor').
 aqi('Rio de Janeiro', 8, 9, 128.60251256281407, 'Poor').
 aqi('Beijing', 3, 19, 181.28292939936776, 'Unhealthy').
 aqi('Sydney', 8, 2, 59.61707070707071, 'Moderate').
@@ -29739,8 +29739,8 @@ aqi('New York', 12, 1, 155.39399367755533, 'Unhealthy').
 aqi('Berlin', 6, 14, 179.02655426765017, 'Unhealthy').
 aqi('Tokyo', 5, 27, 167.295468914647, 'Unhealthy').
 aqi('Paris', 2, 4, 179.74425711275026, 'Unhealthy').
-aqi('Paris', 9, 4, 187.76807165437305, 'Unhealthy').
-aqi('Berlin', 5, 6, 182.8474183350896, 'Unhealthy').
+aqi('Paris', 9, 4, 187.76807165437302, 'Unhealthy').
+aqi('Berlin', 5, 6, 182.84741833508957, 'Unhealthy').
 aqi('Moscow', 10, 3, 90.5118181818182, 'Moderate').
 aqi('Berlin', 7, 7, 158.97734457323497, 'Unhealthy').
 aqi('Bangkok', 9, 24, 178.86649104320338, 'Unhealthy').
@@ -29754,7 +29754,7 @@ aqi('Toronto', 5, 8, 95.56266094420602, 'Moderate').
 aqi('Bangkok', 11, 15, 108.94137931034484, 'Poor').
 aqi('London', 7, 17, 156.67966280295047, 'Unhealthy').
 aqi('Paris', 6, 12, 191.63024236037936, 'Unhealthy').
-aqi('Istanbul', 12, 17, 94.1, 'Moderate').
+aqi('Istanbul', 12, 17, 94.10000000000001, 'Moderate').
 aqi('London', 9, 27, 167.940885142255, 'Unhealthy').
 aqi('Mexico City', 11, 8, 79.44474747474747, 'Moderate').
 aqi('Los Angeles', 4, 7, 108.80552763819097, 'Poor').
@@ -29764,43 +29764,43 @@ aqi('Sydney', 8, 24, 170.5845100105374, 'Unhealthy').
 aqi('Berlin', 5, 13, 156.29757639620652, 'Unhealthy').
 aqi('Madrid', 3, 12, 162.84467860906216, 'Unhealthy').
 aqi('Sydney', 11, 8, 89.58217391304348, 'Moderate').
-aqi('Paris', 11, 3, 110.28291457286431, 'Poor').
+aqi('Paris', 11, 3, 110.28291457286433, 'Poor').
 aqi('Johannesburg', 8, 5, 165.24562697576397, 'Unhealthy').
 aqi('Johannesburg', 9, 12, 164.7654373024236, 'Unhealthy').
 aqi('Dubai', 3, 19, 156.78292939936776, 'Unhealthy').
-aqi('Los Angeles', 4, 27, 191.18619599578503, 'Unhealthy').
+aqi('Los Angeles', 4, 27, 191.18619599578506, 'Unhealthy').
 aqi('Cairo', 2, 8, 86.09914163090129, 'Moderate').
 aqi('Moscow', 1, 15, 141.3819095477387, 'Poor').
-aqi('Madrid', 2, 8, 95.19898989898992, 'Moderate').
+aqi('Madrid', 2, 8, 95.19898989898991, 'Moderate').
 aqi('Sydney', 8, 12, 143.62261306532665, 'Poor').
 aqi('Bangkok', 7, 20, 118.99141414141414, 'Poor').
 aqi('Mexico City', 12, 20, 163.2835616438356, 'Unhealthy').
 aqi('Johannesburg', 2, 5, 137.56532663316585, 'Poor').
 aqi('Johannesburg', 10, 21, 187.8145416227608, 'Unhealthy').
 aqi('Toronto', 5, 26, 163.69662802950475, 'Unhealthy').
-aqi('Los Angeles', 3, 4, 120.64924623115576, 'Poor').
+aqi('Los Angeles', 3, 4, 120.64924623115577, 'Poor').
 aqi('Sydney', 10, 1, 191.5476290832455, 'Unhealthy').
 aqi('Mexico City', 7, 14, 161.29567966280294, 'Unhealthy').
-aqi('Bangkok', 9, 8, 198.8072708113804, 'Unhealthy').
+aqi('Bangkok', 9, 8, 198.80727081138042, 'Unhealthy').
 aqi('New York', 2, 13, 178.3036880927292, 'Unhealthy').
 aqi('Dubai', 5, 11, 194.57334035827185, 'Unhealthy').
-aqi('Beijing', 9, 26, 94.1, 'Moderate').
+aqi('Beijing', 9, 26, 94.10000000000001, 'Moderate').
 aqi('Dubai', 11, 12, 155.9413066385669, 'Unhealthy').
 aqi('Sydney', 10, 20, 157.8827186512118, 'Unhealthy').
 aqi('Paris', 3, 25, 79.54782608695652, 'Moderate').
-aqi('Bangkok', 9, 3, 97.26609442060088, 'Moderate').
+aqi('Bangkok', 9, 3, 97.26609442060087, 'Moderate').
 aqi('Sydney', 11, 6, 102.99447236180904, 'Poor').
 aqi('Sydney', 10, 9, 64.10171673819742, 'Moderate').
 aqi('Beijing', 2, 25, 121.5849494949495, 'Poor').
 aqi('Sydney', 4, 5, 169.37112750263435, 'Unhealthy').
 aqi('Los Angeles', 4, 21, 134.9060301507538, 'Poor').
 aqi('Tokyo', 5, 16, 149.45829145728644, 'Poor').
-aqi('Bangkok', 4, 3, 110.29020202020205, 'Poor').
-aqi('Rio de Janeiro', 2, 7, 112.4497487437186, 'Poor').
+aqi('Bangkok', 4, 3, 110.29020202020203, 'Poor').
+aqi('Rio de Janeiro', 2, 7, 112.44974874371859, 'Poor').
 aqi('Beijing', 3, 4, 77.43476394849786, 'Moderate').
-aqi('Madrid', 7, 2, 106.23793103448276, 'Poor').
+aqi('Madrid', 7, 2, 106.23793103448277, 'Poor').
 aqi('New York', 10, 6, 169.06132771338252, 'Unhealthy').
-aqi('Sydney', 11, 7, 151.39757639620657, 'Unhealthy').
+aqi('Sydney', 11, 7, 151.39757639620655, 'Unhealthy').
 aqi('Mexico City', 10, 3, 167.7550052687039, 'Unhealthy').
 aqi('Toronto', 6, 16, 155.40948366701792, 'Unhealthy').
 aqi('London', 11, 20, 190.28261327713383, 'Unhealthy').
@@ -29817,7 +29817,7 @@ aqi('Rio de Janeiro', 11, 23, 180.46712328767123, 'Unhealthy').
 aqi('Paris', 10, 6, 94.3, 'Moderate').
 aqi('Bangkok', 3, 25, 161.32665964172813, 'Unhealthy').
 aqi('Sydney', 7, 8, 170.14562697576395, 'Unhealthy').
-aqi('Johannesburg', 6, 2, 195.0328767123288, 'Unhealthy').
+aqi('Johannesburg', 6, 2, 195.03287671232877, 'Unhealthy').
 aqi('Sydney', 8, 28, 131.68040201005024, 'Poor').
 aqi('Tokyo', 2, 24, 170.66712328767125, 'Unhealthy').
 aqi('Madrid', 2, 18, 137.6391959798995, 'Poor').
@@ -29834,24 +29834,24 @@ aqi('Dubai', 2, 25, 108.57272727272728, 'Poor').
 aqi('Los Angeles', 11, 14, 176.20221285563753, 'Unhealthy').
 aqi('Paris', 12, 5, 171.47260273972603, 'Unhealthy').
 aqi('Mexico City', 8, 9, 109.37949494949495, 'Poor').
-aqi('Beijing', 10, 14, 124.73668341708544, 'Poor').
+aqi('Beijing', 10, 14, 124.73668341708543, 'Poor').
 aqi('Seoul', 12, 27, 182.9713382507903, 'Unhealthy').
 aqi('Istanbul', 6, 20, 154.3923076923077, 'Unhealthy').
 aqi('Bangkok', 1, 16, 92.1, 'Moderate').
-aqi('Rio de Janeiro', 3, 26, 198.3528977871444, 'Unhealthy').
-aqi('Toronto', 1, 17, 185.67692307692303, 'Unhealthy').
+aqi('Rio de Janeiro', 3, 26, 198.35289778714437, 'Unhealthy').
+aqi('Toronto', 1, 17, 185.67692307692306, 'Unhealthy').
 aqi('Seoul', 8, 20, 158.0995785036881, 'Unhealthy').
 aqi('Tokyo', 5, 4, 168.68440463645942, 'Unhealthy').
-aqi('Mexico City', 9, 22, 90.6, 'Moderate').
+aqi('Mexico City', 9, 22, 90.60000000000001, 'Moderate').
 aqi('Bangkok', 10, 28, 169.87713382507903, 'Unhealthy').
 aqi('Seoul', 12, 2, 176.7650158061117, 'Unhealthy').
 aqi('Moscow', 1, 28, 95.42666666666666, 'Moderate').
-aqi('Toronto', 11, 5, 111.14472361809044, 'Poor').
+aqi('Toronto', 11, 5, 111.14472361809045, 'Poor').
 aqi('Beijing', 11, 24, 166.56743940990518, 'Unhealthy').
 aqi('Istanbul', 6, 17, 79.72703862660944, 'Moderate').
 aqi('Paris', 8, 24, 134.48743718592965, 'Poor').
 aqi('Mexico City', 4, 18, 130.1537688442211, 'Poor').
-aqi('Mumbai', 4, 18, 196.59736564805056, 'Unhealthy').
+aqi('Mumbai', 4, 18, 196.59736564805058, 'Unhealthy').
 aqi('Moscow', 4, 1, 188.15532139093784, 'Unhealthy').
 aqi('Los Angeles', 4, 6, 173.04741833508956, 'Unhealthy').
 aqi('Los Angeles', 2, 1, 99.91587982832618, 'Moderate').
@@ -29860,41 +29860,41 @@ aqi('Paris', 10, 12, 109.77545454545454, 'Poor').
 aqi('Berlin', 7, 11, 115.05979899497488, 'Poor').
 aqi('Bangkok', 7, 15, 192.37376185458376, 'Unhealthy').
 aqi('Paris', 9, 4, 155.81738672286616, 'Unhealthy').
-aqi('Toronto', 1, 2, 198.8021074815596, 'Unhealthy').
+aqi('Toronto', 1, 2, 198.80210748155955, 'Unhealthy').
 aqi('Dubai', 5, 3, 182.0419388830348, 'Unhealthy').
 aqi('Dubai', 7, 10, 117.57585858585858, 'Poor').
-aqi('Sydney', 10, 22, 123.82562814070351, 'Poor').
-aqi('Tokyo', 10, 8, 184.54615384615383, 'Unhealthy').
+aqi('Sydney', 10, 22, 123.82562814070353, 'Poor').
+aqi('Tokyo', 10, 8, 184.54615384615386, 'Unhealthy').
 aqi('Mexico City', 4, 4, 196.32887249736564, 'Unhealthy').
 aqi('Paris', 4, 15, 156.4731296101159, 'Unhealthy').
-aqi('Toronto', 7, 24, 186.28103266596412, 'Unhealthy').
+aqi('Toronto', 7, 24, 186.28103266596418, 'Unhealthy').
 aqi('Seoul', 1, 16, 163.56238145416228, 'Unhealthy').
 aqi('Tokyo', 2, 22, 164.13551106427818, 'Unhealthy').
 aqi('Los Angeles', 5, 23, 145.3708542713568, 'Poor').
 aqi('Bangkok', 9, 22, 169.1491043203372, 'Unhealthy').
-aqi('Moscow', 1, 7, 103.67272727272729, 'Poor').
-aqi('Cairo', 8, 8, 186.21390937829293, 'Unhealthy').
-aqi('London', 4, 5, 118.83303030303033, 'Poor').
+aqi('Moscow', 1, 7, 103.67272727272727, 'Poor').
+aqi('Cairo', 8, 8, 186.21390937829295, 'Unhealthy').
+aqi('London', 4, 5, 118.83303030303031, 'Poor').
 aqi('New York', 1, 5, 194.0105374077977, 'Unhealthy').
 aqi('Beijing', 4, 6, 174.12655426765016, 'Unhealthy').
 aqi('Madrid', 4, 1, 107.14232323232324, 'Poor').
-aqi('Los Angeles', 3, 17, 124.17035175879396, 'Poor').
-aqi('Beijing', 8, 7, 95.6, 'Moderate').
+aqi('Los Angeles', 3, 17, 124.17035175879397, 'Poor').
+aqi('Beijing', 8, 7, 95.60000000000001, 'Moderate').
 aqi('New York', 11, 26, 176.6927291886196, 'Unhealthy').
 aqi('Mexico City', 8, 13, 84.1, 'Moderate').
-aqi('Istanbul', 1, 28, 196.35468914647, 'Unhealthy').
-aqi('Istanbul', 6, 21, 199.2203371970496, 'Unhealthy').
+aqi('Istanbul', 1, 28, 196.35468914646998, 'Unhealthy').
+aqi('Istanbul', 6, 21, 199.22033719704953, 'Unhealthy').
 aqi('Istanbul', 8, 6, 162.19409905163332, 'Unhealthy').
 aqi('Rio de Janeiro', 1, 3, 89.9, 'Moderate').
-aqi('Mexico City', 9, 16, 185.036670179136, 'Unhealthy').
+aqi('Mexico City', 9, 16, 185.03667017913594, 'Unhealthy').
 aqi('London', 10, 3, 111.85879396984924, 'Poor').
-aqi('London', 9, 25, 92.0296137339056, 'Moderate').
+aqi('London', 9, 25, 92.02961373390559, 'Moderate').
 aqi('New York', 3, 23, 78.02360515021459, 'Moderate').
 aqi('New York', 6, 13, 152.59030558482613, 'Unhealthy').
 aqi('Toronto', 6, 7, 157.68651211801898, 'Unhealthy').
 aqi('Toronto', 8, 23, 176.65658587987355, 'Unhealthy').
 aqi('Sydney', 3, 14, 180.67881981032667, 'Unhealthy').
-aqi('Madrid', 2, 26, 115.01055276381908, 'Poor').
+aqi('Madrid', 2, 26, 115.01055276381909, 'Poor').
 aqi('Paris', 4, 5, 106.51557788944724, 'Poor').
 aqi('Rio de Janeiro', 7, 20, 77.8, 'Moderate').
 aqi('Mexico City', 1, 7, 70.11, 'Moderate').
@@ -29910,16 +29910,16 @@ aqi('Cairo', 1, 24, 106.37020202020202, 'Poor').
 aqi('Madrid', 7, 20, 66.3, 'Moderate').
 aqi('Dubai', 5, 24, 191.06743940990515, 'Unhealthy').
 aqi('Sydney', 10, 19, 86.60000000000001, 'Moderate').
-aqi('Moscow', 10, 18, 117.189797979798, 'Poor').
+aqi('Moscow', 10, 18, 117.18979797979799, 'Poor').
 aqi('Tokyo', 9, 16, 176.25900948366703, 'Unhealthy').
 aqi('New York', 1, 6, 185.6304531085353, 'Unhealthy').
-aqi('Berlin', 10, 18, 95.24353535353536, 'Moderate').
+aqi('Berlin', 10, 18, 95.24353535353535, 'Moderate').
 aqi('Bangkok', 12, 26, 155.38883034773446, 'Unhealthy').
 aqi('Moscow', 5, 14, 175.74783983140148, 'Unhealthy').
 aqi('Toronto', 11, 4, 151.99652265542676, 'Unhealthy').
 aqi('London', 3, 16, 89.71000000000001, 'Moderate').
-aqi('London', 3, 19, 184.7939936775553, 'Unhealthy').
-aqi('Beijing', 4, 9, 196.33919915700736, 'Unhealthy').
+aqi('London', 3, 19, 184.79399367755533, 'Unhealthy').
+aqi('Beijing', 4, 9, 196.33919915700739, 'Unhealthy').
 aqi('Beijing', 9, 1, 173.73930453108537, 'Unhealthy').
 aqi('Beijing', 1, 17, 88.4, 'Moderate').
 aqi('Moscow', 4, 19, 175.0972602739726, 'Unhealthy').
@@ -29934,10 +29934,10 @@ aqi('Beijing', 5, 10, 156.82423603793467, 'Unhealthy').
 aqi('Berlin', 7, 18, 49.55714285714286, 'Good').
 aqi('Seoul', 3, 7, 172.0199157007376, 'Unhealthy').
 aqi('Moscow', 9, 7, 96.7, 'Moderate').
-aqi('Rio de Janeiro', 12, 3, 192.936564805058, 'Unhealthy').
+aqi('Rio de Janeiro', 12, 3, 192.93656480505797, 'Unhealthy').
 aqi('Seoul', 11, 7, 157.87239199157008, 'Unhealthy').
 aqi('Bangkok', 1, 23, 155.68314014752372, 'Unhealthy').
-aqi('Beijing', 1, 2, 167.6827186512118, 'Unhealthy').
+aqi('Beijing', 1, 2, 167.68271865121181, 'Unhealthy').
 aqi('Madrid', 4, 24, 182.63055848261328, 'Unhealthy').
 aqi('Moscow', 12, 16, 168.82381454162277, 'Unhealthy').
 aqi('Cairo', 5, 1, 148.3502512562814, 'Poor').
@@ -29951,7 +29951,7 @@ aqi('Madrid', 2, 28, 87.14616161616162, 'Moderate').
 aqi('Dubai', 11, 12, 197.66617492096944, 'Unhealthy').
 aqi('Dubai', 11, 4, 183.33793466807165, 'Unhealthy').
 aqi('Cairo', 1, 28, 170.59483667017915, 'Unhealthy').
-aqi('Mumbai', 4, 7, 93.2241414141414, 'Moderate').
+aqi('Mumbai', 4, 7, 93.22414141414141, 'Moderate').
 aqi('Los Angeles', 3, 11, 193.48387776606955, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 23, 70.32660944206009, 'Moderate').
 aqi('Bangkok', 2, 18, 153.53003161222338, 'Unhealthy').
@@ -29959,7 +29959,7 @@ aqi('London', 7, 23, 153.75205479452055, 'Unhealthy').
 aqi('Mumbai', 11, 4, 61.99871244635193, 'Moderate').
 aqi('Cairo', 3, 5, 184.4377239199157, 'Unhealthy').
 aqi('Toronto', 10, 13, 178.84067439409904, 'Unhealthy').
-aqi('New York', 3, 20, 184.6855637513172, 'Unhealthy').
+aqi('New York', 3, 20, 184.68556375131718, 'Unhealthy').
 aqi('Los Angeles', 1, 4, 152.02233930453107, 'Unhealthy').
 aqi('Paris', 3, 25, 155.84836670179135, 'Unhealthy').
 aqi('Madrid', 9, 2, 172.58788198103267, 'Unhealthy').
@@ -29969,7 +29969,7 @@ aqi('Mumbai', 3, 5, 129.46432160804022, 'Poor').
 aqi('Beijing', 12, 4, 194.986406743941, 'Unhealthy').
 aqi('Madrid', 12, 3, 142.36683417085428, 'Poor').
 aqi('New York', 7, 9, 62.370512820512815, 'Moderate').
-aqi('Bangkok', 10, 1, 92.0296137339056, 'Moderate').
+aqi('Bangkok', 10, 1, 92.02961373390559, 'Moderate').
 aqi('Beijing', 10, 15, 179.109167544784, 'Unhealthy').
 aqi('Johannesburg', 7, 23, 177.2400421496312, 'Unhealthy').
 aqi('Madrid', 8, 8, 162.75173867228662, 'Unhealthy').
@@ -29977,7 +29977,7 @@ aqi('Rio de Janeiro', 4, 15, 153.68493150684932, 'Unhealthy').
 aqi('Paris', 10, 25, 192.46153846153845, 'Unhealthy').
 aqi('Los Angeles', 12, 26, 59.90794871794872, 'Moderate').
 aqi('Bangkok', 11, 16, 185.43940990516333, 'Unhealthy').
-aqi('Madrid', 2, 11, 151.340779768177, 'Unhealthy').
+aqi('Madrid', 2, 11, 151.34077976817701, 'Unhealthy').
 aqi('Mexico City', 9, 2, 145.22311557788944, 'Poor').
 aqi('Johannesburg', 11, 4, 136.53115577889446, 'Poor').
 aqi('Moscow', 2, 23, 110.40603015075376, 'Poor').
@@ -29987,7 +29987,7 @@ aqi('Johannesburg', 12, 11, 163.76375131717597, 'Unhealthy').
 aqi('Seoul', 8, 28, 140.27386934673368, 'Poor').
 aqi('Seoul', 10, 8, 136.9005025125628, 'Poor').
 aqi('Istanbul', 12, 17, 192.61127502634352, 'Unhealthy').
-aqi('Toronto', 5, 20, 99.7, 'Moderate').
+aqi('Toronto', 5, 20, 99.69999999999999, 'Moderate').
 aqi('Paris', 8, 16, 186.84899894625923, 'Unhealthy').
 aqi('Beijing', 10, 4, 182.28977871443624, 'Unhealthy').
 aqi('New York', 9, 5, 82.0824034334764, 'Moderate').
@@ -30012,19 +30012,19 @@ aqi('Paris', 9, 27, 73.88068669527897, 'Moderate').
 aqi('Toronto', 9, 28, 152.12560590094836, 'Unhealthy').
 aqi('Paris', 1, 23, 76.74077253218884, 'Moderate').
 aqi('Berlin', 10, 5, 180.704636459431, 'Unhealthy').
-aqi('London', 1, 6, 95.87811158798284, 'Moderate').
+aqi('London', 1, 6, 95.87811158798283, 'Moderate').
 aqi('London', 6, 6, 174.15753424657535, 'Unhealthy').
 aqi('Johannesburg', 8, 10, 77.3, 'Moderate').
 aqi('London', 4, 2, 171.21443624868283, 'Unhealthy').
 aqi('Johannesburg', 11, 14, 157.61422550052689, 'Unhealthy').
-aqi('Beijing', 8, 26, 190.7834562697577, 'Unhealthy').
+aqi('Beijing', 8, 26, 190.78345626975766, 'Unhealthy').
 aqi('Sydney', 10, 27, 89.66545454545455, 'Moderate').
 aqi('Mumbai', 1, 12, 181.53076923076924, 'Unhealthy').
 aqi('Berlin', 2, 20, 162.90663856691253, 'Unhealthy').
-aqi('Rio de Janeiro', 5, 3, 185.2122233930453, 'Unhealthy').
+aqi('Rio de Janeiro', 5, 3, 185.21222339304532, 'Unhealthy').
 aqi('Moscow', 3, 8, 178.05068493150685, 'Unhealthy').
 aqi('Rio de Janeiro', 5, 6, 160.52118018967334, 'Unhealthy').
-aqi('Istanbul', 1, 1, 166.9133825079031, 'Unhealthy').
+aqi('Istanbul', 1, 1, 166.91338250790307, 'Unhealthy').
 aqi('Johannesburg', 6, 15, 128.43015075376886, 'Poor').
 aqi('Cairo', 12, 15, 164.9822971548999, 'Unhealthy').
 aqi('Beijing', 11, 8, 120.48121212121212, 'Poor').
@@ -30036,13 +30036,13 @@ aqi('Mexico City', 5, 1, 189.41517386722867, 'Unhealthy').
 aqi('New York', 10, 10, 120.17434343434344, 'Poor').
 aqi('Seoul', 9, 15, 87.98434782608696, 'Moderate').
 aqi('Los Angeles', 12, 18, 170.22307692307692, 'Unhealthy').
-aqi('Rio de Janeiro', 10, 10, 115.65075376884424, 'Poor').
+aqi('Rio de Janeiro', 10, 10, 115.65075376884423, 'Poor').
 aqi('New York', 5, 4, 158.68303477344574, 'Unhealthy').
 aqi('Mumbai', 12, 20, 170.70326659641728, 'Unhealthy').
 aqi('Toronto', 4, 3, 176.26933614330875, 'Unhealthy').
 aqi('Rio de Janeiro', 11, 8, 154.9086406743941, 'Unhealthy').
 aqi('Tokyo', 2, 5, 119.29497487437186, 'Poor').
-aqi('Mumbai', 8, 20, 114.0419191919192, 'Poor').
+aqi('Mumbai', 8, 20, 114.04191919191919, 'Poor').
 aqi('Cairo', 8, 13, 164.20779768177027, 'Unhealthy').
 aqi('Tokyo', 10, 16, 179.80621707060064, 'Unhealthy').
 aqi('Cairo', 12, 18, 174.61190727081137, 'Unhealthy').
@@ -30066,20 +30066,20 @@ aqi('Madrid', 11, 15, 80.18695652173913, 'Moderate').
 aqi('Rio de Janeiro', 12, 12, 153.43709167544785, 'Unhealthy').
 aqi('Moscow', 4, 16, 84.73080808080809, 'Moderate').
 aqi('Paris', 3, 16, 140.6678391959799, 'Poor').
-aqi('New York', 11, 25, 172.7169652265543, 'Unhealthy').
+aqi('New York', 11, 25, 172.71696522655427, 'Unhealthy').
 aqi('New York', 9, 9, 85.30000000000001, 'Moderate').
 aqi('Cairo', 3, 4, 161.65194942044258, 'Unhealthy').
 aqi('Johannesburg', 11, 13, 82.68171717171717, 'Moderate').
 aqi('Dubai', 9, 16, 85.2579399141631, 'Moderate').
-aqi('Paris', 5, 18, 98.63304721030045, 'Moderate').
+aqi('Paris', 5, 18, 98.63304721030043, 'Moderate').
 aqi('Sydney', 3, 14, 190.86606954689148, 'Unhealthy').
 aqi('Mumbai', 8, 9, 185.4290832455216, 'Unhealthy').
 aqi('Istanbul', 10, 23, 160.45405690200212, 'Unhealthy').
-aqi('Mumbai', 12, 13, 197.5267650158061, 'Unhealthy').
+aqi('Mumbai', 12, 13, 197.52676501580612, 'Unhealthy').
 aqi('Johannesburg', 5, 28, 166.32476290832454, 'Unhealthy').
-aqi('New York', 5, 10, 196.9020021074816, 'Unhealthy').
+aqi('New York', 5, 10, 196.90200210748156, 'Unhealthy').
 aqi('Rio de Janeiro', 2, 19, 153.48872497365647, 'Unhealthy').
-aqi('London', 1, 16, 114.46884422110551, 'Poor').
+aqi('London', 1, 16, 114.46884422110553, 'Poor').
 aqi('Istanbul', 3, 12, 103.6479797979798, 'Poor').
 aqi('Berlin', 5, 10, 154.6194942044257, 'Unhealthy').
 aqi('Toronto', 2, 6, 126.55879396984926, 'Poor').
@@ -30092,10 +30092,10 @@ aqi('Madrid', 6, 1, 119.14979797979797, 'Poor').
 aqi('Beijing', 9, 20, 96.09979797979798, 'Moderate').
 aqi('Toronto', 9, 14, 189.05374077976816, 'Unhealthy').
 aqi('Mexico City', 11, 14, 99.3, 'Moderate').
-aqi('Sydney', 6, 6, 185.54783983140143, 'Unhealthy').
+aqi('Sydney', 6, 6, 185.54783983140146, 'Unhealthy').
 aqi('New York', 10, 19, 189.77144362486828, 'Unhealthy').
 aqi('Madrid', 6, 22, 133.03467336683417, 'Poor').
-aqi('Istanbul', 7, 5, 125.64773869346732, 'Poor').
+aqi('Istanbul', 7, 5, 125.64773869346733, 'Poor').
 aqi('Toronto', 2, 27, 124.34271356783918, 'Poor').
 aqi('Paris', 2, 8, 81.8, 'Moderate').
 aqi('New York', 3, 17, 130.8678391959799, 'Poor').
@@ -30106,68 +30106,68 @@ aqi('Madrid', 4, 25, 70.9, 'Moderate').
 aqi('Sydney', 10, 2, 180.1005268703899, 'Unhealthy').
 aqi('Dubai', 8, 23, 121.65879396984926, 'Poor').
 aqi('Bangkok', 2, 4, 151.76933614330875, 'Unhealthy').
-aqi('Tokyo', 8, 14, 194.9812434141201, 'Unhealthy').
+aqi('Tokyo', 8, 14, 194.98124341412012, 'Unhealthy').
 aqi('Johannesburg', 4, 21, 153.0808219178082, 'Unhealthy').
 aqi('Los Angeles', 7, 20, 198.63171759747104, 'Unhealthy').
 aqi('Los Angeles', 5, 23, 163.95479452054795, 'Unhealthy').
-aqi('London', 3, 25, 101.33793103448276, 'Poor').
+aqi('London', 3, 25, 101.33793103448275, 'Poor').
 aqi('Tokyo', 5, 9, 169.07165437302424, 'Unhealthy').
 aqi('Paris', 12, 4, 112.6713567839196, 'Poor').
-aqi('Berlin', 3, 6, 95.12103004291843, 'Moderate').
+aqi('Berlin', 3, 6, 95.12103004291845, 'Moderate').
 aqi('New York', 4, 24, 167.3522655426765, 'Unhealthy').
 aqi('Dubai', 4, 27, 151.1445732349842, 'Unhealthy').
-aqi('Cairo', 2, 28, 189.8385669125396, 'Unhealthy').
+aqi('Cairo', 2, 28, 189.83856691253953, 'Unhealthy').
 aqi('Rio de Janeiro', 7, 3, 168.21970495258165, 'Unhealthy').
-aqi('Mumbai', 9, 5, 101.470202020202, 'Poor').
+aqi('Mumbai', 9, 5, 101.47020202020201, 'Poor').
 aqi('Mexico City', 11, 19, 175.99051633298208, 'Unhealthy').
 aqi('London', 7, 18, 105.72763819095478, 'Poor').
 aqi('Beijing', 11, 19, 156.78292939936776, 'Unhealthy').
 aqi('Mexico City', 12, 7, 143.6718592964824, 'Poor').
 aqi('London', 6, 4, 191.86259220231824, 'Unhealthy').
 aqi('Tokyo', 1, 6, 172.29873551106428, 'Unhealthy').
-aqi('Los Angeles', 11, 11, 190.73182297154892, 'Unhealthy').
+aqi('Los Angeles', 11, 11, 190.73182297154898, 'Unhealthy').
 aqi('Mexico City', 5, 12, 156.41116965226556, 'Unhealthy').
 aqi('Beijing', 8, 20, 112.43828282828284, 'Poor').
 aqi('London', 7, 13, 174.48798735511065, 'Unhealthy').
 aqi('Mumbai', 8, 21, 194.83150684931508, 'Unhealthy').
 aqi('New York', 3, 1, 151.9913593256059, 'Unhealthy').
-aqi('Mexico City', 9, 17, 187.200105374078, 'Unhealthy').
+aqi('Mexico City', 9, 17, 187.20010537407796, 'Unhealthy').
 aqi('Mumbai', 3, 5, 162.22507903055848, 'Unhealthy').
-aqi('Beijing', 11, 22, 196.85553213909373, 'Unhealthy').
+aqi('Beijing', 11, 22, 196.85553213909378, 'Unhealthy').
 aqi('Los Angeles', 5, 8, 166.68619599578503, 'Unhealthy').
 aqi('Dubai', 9, 25, 175.01981032665964, 'Unhealthy').
 aqi('Seoul', 6, 11, 185.37228661749208, 'Unhealthy').
-aqi('Berlin', 8, 20, 104.52898989898988, 'Poor').
+aqi('Berlin', 8, 20, 104.52898989898989, 'Poor').
 aqi('New York', 2, 10, 163.2422550052687, 'Unhealthy').
 aqi('London', 6, 16, 185.99704952581664, 'Unhealthy').
 aqi('Beijing', 1, 24, 154.51622760800842, 'Unhealthy').
-aqi('Mumbai', 1, 6, 199.43203371970492, 'Unhealthy').
+aqi('Mumbai', 1, 6, 199.43203371970498, 'Unhealthy').
 aqi('Bangkok', 12, 22, 151.39241306638567, 'Unhealthy').
 aqi('Toronto', 9, 4, 169.2213909378293, 'Unhealthy').
-aqi('Berlin', 12, 5, 126.11557788944724, 'Poor').
-aqi('Cairo', 9, 22, 105.8507537688442, 'Poor').
+aqi('Berlin', 12, 5, 126.11557788944725, 'Poor').
+aqi('Cairo', 9, 22, 105.85075376884421, 'Poor').
 aqi('New York', 3, 17, 185.82149631190725, 'Unhealthy').
 aqi('Bangkok', 3, 21, 188.84204425711275, 'Unhealthy').
 aqi('Mexico City', 2, 3, 177.76670179135934, 'Unhealthy').
-aqi('Cairo', 1, 9, 122.66834170854273, 'Poor').
-aqi('Sydney', 1, 9, 102.05879396984923, 'Poor').
+aqi('Cairo', 1, 9, 122.66834170854271, 'Poor').
+aqi('Sydney', 1, 9, 102.05879396984925, 'Poor').
 aqi('Los Angeles', 2, 18, 179.24341412012646, 'Unhealthy').
-aqi('Dubai', 2, 19, 122.39748743718592, 'Poor').
+aqi('Dubai', 2, 19, 122.39748743718593, 'Poor').
 aqi('Madrid', 12, 25, 155.73477344573234, 'Unhealthy').
-aqi('Mexico City', 11, 24, 178.29336143308743, 'Unhealthy').
+aqi('Mexico City', 11, 24, 178.29336143308745, 'Unhealthy').
 aqi('Paris', 2, 12, 170.38830347734458, 'Unhealthy').
-aqi('Dubai', 5, 3, 199.0654373024236, 'Unhealthy').
+aqi('Dubai', 5, 3, 199.06543730242362, 'Unhealthy').
 aqi('Sydney', 3, 8, 197.76944151738672, 'Unhealthy').
-aqi('Rio de Janeiro', 6, 20, 187.7474183350896, 'Unhealthy').
+aqi('Rio de Janeiro', 6, 20, 187.74741833508958, 'Unhealthy').
 aqi('Los Angeles', 8, 15, 198.8330874604847, 'Unhealthy').
-aqi('Berlin', 9, 8, 118.52121212121212, 'Poor').
+aqi('Berlin', 9, 8, 118.52121212121213, 'Poor').
 aqi('Seoul', 7, 24, 179.98177028451002, 'Unhealthy').
 aqi('London', 11, 12, 158.62107481559536, 'Unhealthy').
 aqi('Johannesburg', 3, 2, 58.10815450643777, 'Moderate').
 aqi('Berlin', 6, 8, 186.5650158061117, 'Unhealthy').
 aqi('Bangkok', 7, 15, 78.80000000000001, 'Moderate').
-aqi('Bangkok', 10, 8, 94.1, 'Moderate').
-aqi('Cairo', 7, 25, 112.4497487437186, 'Poor').
+aqi('Bangkok', 10, 8, 94.10000000000001, 'Moderate').
+aqi('Cairo', 7, 25, 112.44974874371859, 'Poor').
 aqi('Madrid', 11, 20, 182.79062170706007, 'Unhealthy').
 aqi('Beijing', 2, 1, 86.5, 'Moderate').
 aqi('Beijing', 1, 10, 73.22875536480687, 'Moderate').
@@ -30183,7 +30183,7 @@ aqi('Moscow', 5, 19, 159.5504741833509, 'Unhealthy').
 aqi('New York', 2, 3, 139.83065326633167, 'Poor').
 aqi('Berlin', 12, 13, 86.62151515151515, 'Moderate').
 aqi('Berlin', 3, 3, 92.92222222222222, 'Moderate').
-aqi('Toronto', 11, 28, 194.14994731296105, 'Unhealthy').
+aqi('Toronto', 11, 28, 194.14994731296102, 'Unhealthy').
 aqi('Johannesburg', 7, 10, 199.0912539515279, 'Unhealthy').
 aqi('Dubai', 7, 11, 187.540885142255, 'Unhealthy').
 aqi('Beijing', 2, 3, 171.58619599578503, 'Unhealthy').
@@ -30191,14 +30191,14 @@ aqi('Sydney', 4, 16, 79.89527896995709, 'Moderate').
 aqi('Johannesburg', 5, 4, 171.5190727081138, 'Unhealthy').
 aqi('Los Angeles', 10, 11, 148.448743718593, 'Poor').
 aqi('Johannesburg', 8, 19, 191.97618545837724, 'Unhealthy').
-aqi('Moscow', 6, 7, 107.97878787878788, 'Poor').
+aqi('Moscow', 6, 7, 107.97878787878787, 'Poor').
 aqi('Istanbul', 8, 12, 164.65700737618545, 'Unhealthy').
 aqi('Berlin', 10, 20, 108.37474747474748, 'Poor').
-aqi('Dubai', 11, 2, 197.4648050579557, 'Unhealthy').
+aqi('Dubai', 11, 2, 197.46480505795574, 'Unhealthy').
 aqi('Rio de Janeiro', 3, 8, 182.99199157007376, 'Unhealthy').
 aqi('Beijing', 8, 26, 91.3, 'Moderate').
-aqi('Dubai', 2, 15, 99.6845493562232, 'Moderate').
-aqi('Tokyo', 8, 17, 163.71211801896737, 'Unhealthy').
+aqi('Dubai', 2, 15, 99.68454935622319, 'Moderate').
+aqi('Tokyo', 8, 17, 163.71211801896735, 'Unhealthy').
 aqi('Istanbul', 2, 23, 137.78693467336683, 'Poor').
 aqi('Toronto', 7, 21, 170.98208640674395, 'Unhealthy').
 aqi('Seoul', 7, 18, 119.81206030150754, 'Poor').
@@ -30206,13 +30206,13 @@ aqi('Seoul', 2, 8, 90.98826086956522, 'Moderate').
 aqi('Los Angeles', 5, 18, 174.1213909378293, 'Unhealthy').
 aqi('Toronto', 7, 1, 199.44236037934667, 'Unhealthy').
 aqi('Cairo', 6, 22, 84.4, 'Moderate').
-aqi('Johannesburg', 2, 14, 163.7327713382508, 'Unhealthy').
+aqi('Johannesburg', 2, 14, 163.73277133825079, 'Unhealthy').
 aqi('Tokyo', 2, 17, 172.40200210748156, 'Unhealthy').
 aqi('Mumbai', 11, 6, 181.3190727081138, 'Unhealthy').
 aqi('New York', 2, 16, 185.10895679662804, 'Unhealthy').
 aqi('London', 9, 26, 166.75331928345628, 'Unhealthy').
 aqi('New York', 3, 11, 176.81148577449946, 'Unhealthy').
-aqi('Bangkok', 2, 18, 194.75922023182292, 'Unhealthy').
+aqi('Bangkok', 2, 18, 194.75922023182298, 'Unhealthy').
 aqi('Los Angeles', 4, 13, 156.2149631190727, 'Unhealthy').
 aqi('Sydney', 7, 6, 184.8249736564805, 'Unhealthy').
 aqi('London', 11, 17, 156.8603793466807, 'Unhealthy').
@@ -30225,7 +30225,7 @@ aqi('Paris', 8, 1, 167.1767123287671, 'Unhealthy').
 aqi('Paris', 12, 7, 184.2105374077977, 'Unhealthy').
 aqi('London', 6, 2, 192.8023182297155, 'Unhealthy').
 aqi('Dubai', 12, 1, 181.02476290832456, 'Unhealthy').
-aqi('Dubai', 8, 18, 192.518335089568, 'Unhealthy').
+aqi('Dubai', 8, 18, 192.51833508956798, 'Unhealthy').
 aqi('Madrid', 10, 24, 197.44415173867228, 'Unhealthy').
 aqi('Rio de Janeiro', 6, 6, 168.86512118018967, 'Unhealthy').
 aqi('Madrid', 2, 26, 169.6809272918862, 'Unhealthy').
@@ -30235,13 +30235,13 @@ aqi('Mumbai', 12, 6, 98.7180808080808, 'Moderate').
 aqi('Mexico City', 11, 16, 182.0109589041096, 'Unhealthy').
 aqi('London', 2, 10, 60.67435897435898, 'Moderate').
 aqi('Rio de Janeiro', 10, 4, 74.2230303030303, 'Moderate').
-aqi('Mumbai', 8, 16, 181.7166491043204, 'Unhealthy').
+aqi('Mumbai', 8, 16, 181.71664910432034, 'Unhealthy').
 aqi('Tokyo', 1, 10, 193.46838777660696, 'Unhealthy').
 aqi('Beijing', 8, 23, 164.9977871443625, 'Unhealthy').
 aqi('Madrid', 12, 15, 161.94625922023184, 'Unhealthy').
 aqi('Sydney', 5, 18, 134.6105527638191, 'Poor').
-aqi('Beijing', 10, 18, 199.21517386722863, 'Unhealthy').
-aqi('Beijing', 8, 2, 197.5938883034773, 'Unhealthy').
+aqi('Beijing', 10, 18, 199.21517386722866, 'Unhealthy').
+aqi('Beijing', 8, 2, 197.59388830347734, 'Unhealthy').
 aqi('Mumbai', 11, 7, 85.69101010101011, 'Moderate').
 aqi('Cairo', 4, 3, 176.9405690200211, 'Unhealthy').
 aqi('Toronto', 4, 7, 75.3, 'Moderate').
@@ -30254,18 +30254,18 @@ aqi('Tokyo', 3, 6, 167.15605900948367, 'Unhealthy').
 aqi('Sydney', 9, 28, 141.6281407035176, 'Poor').
 aqi('Tokyo', 9, 17, 151.83129610115913, 'Unhealthy').
 aqi('Tokyo', 5, 17, 158.77597471022128, 'Unhealthy').
-aqi('Seoul', 2, 16, 49.41666666666666, 'Good').
-aqi('Berlin', 3, 28, 111.44020100502512, 'Poor').
+aqi('Seoul', 2, 16, 49.416666666666664, 'Good').
+aqi('Berlin', 3, 28, 111.44020100502513, 'Poor').
 aqi('New York', 8, 4, 166.64488935721812, 'Unhealthy').
 aqi('Sydney', 2, 18, 167.3057955742887, 'Unhealthy').
 aqi('Madrid', 6, 14, 104.7269696969697, 'Poor').
-aqi('Toronto', 5, 22, 195.5801896733404, 'Unhealthy').
+aqi('Toronto', 5, 22, 195.58018967334036, 'Unhealthy').
 aqi('Rio de Janeiro', 4, 20, 124.5643216080402, 'Poor').
 aqi('Bangkok', 6, 5, 164.70347734457323, 'Unhealthy').
 aqi('Bangkok', 7, 15, 158.93603793466806, 'Unhealthy').
 aqi('Johannesburg', 9, 16, 198.68335089567967, 'Unhealthy').
 aqi('Berlin', 12, 5, 83.90919191919193, 'Moderate').
-aqi('Moscow', 11, 26, 122.10201005025128, 'Poor').
+aqi('Moscow', 11, 26, 122.10201005025127, 'Poor').
 aqi('Berlin', 2, 3, 157.15985247629084, 'Unhealthy').
 aqi('Bangkok', 6, 13, 59.91673819742489, 'Moderate').
 

@@ -7,10 +7,7 @@ from sklearn.preprocessing import StandardScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def load_data(file_path):
-    return pd.read_csv(file_path)
-
-def plot_correlation_heatmap(df):
+def correlation_matrix(df):
     corr = df[['Dispersion_Index', 'Air_Quality', 'HasRained', 'Is_Stagnant']].corr()
     plt.figure(figsize=(6, 4))
     sns.heatmap(corr, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
@@ -34,7 +31,7 @@ def preprocess_data(df):
 
     return X_scaled, y
 
-def l_curve(X, y):
+def learn_curve(X, y):
     """Visualizza la curva di apprendimento del modello di regressione lineare."""
     train_sizes, train_scores, val_scores = learning_curve(
         LinearRegression(), X, y, cv=5,
@@ -85,18 +82,15 @@ def plot_results(y_test, y_pred):
     plt.plot([y_test.min(), y_test.max()], [y_test.min(), y_test.max()], 'k--', lw=2)  # Linea di uguaglianza
     plt.show()
 
-def main(file_path):
-    df = load_data(file_path)
 
-    plot_correlation_heatmap(df)
-    plot_scatter(df)
 
-    X, y = preprocess_data(df)
-    l_curve(X, y)  # Traccia la curva di apprendimento
-    y_test, y_pred = train_and_evaluate(X, y)
+"""
+correlation_matrix(df)
+plot_scatter(df)
 
-    plot_results(y_test, y_pred)
+X, y = preprocess_data(df)
+learn_curve(X, y)
+y_test, y_pred = train_and_evaluate(X, y)
 
-#Specifica il percorso del file CSV
-file_path = r"Final_globalAir.csv"
-main(file_path)
+plot_results(y_test, y_pred)
+"""

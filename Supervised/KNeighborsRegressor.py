@@ -7,26 +7,20 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 
-def load_data(file_path):
-    """Carica il dataset da un file CSV."""
-    return pd.read_csv(file_path)
+
 
 def preprocess_data(df):
-    """Prepara i dati per l'addestramento del modello."""
-    df['Dispersion_Index'] = pd.to_numeric(df['Dispersion_Index'], errors='coerce')
-    df['Air_Quality'] = pd.to_numeric(df['Air_Quality'], errors='coerce')
+    #Conversione numerica
     df['Is_Stagnant'] = pd.to_numeric(df['Is_Stagnant'], errors='coerce').fillna(0).astype(int)
     df['HasRained'] = pd.to_numeric(df['HasRained'], errors='coerce').fillna(0).astype(int)
-    df = df.dropna()
-    df = df[np.isfinite(df['Dispersion_Index']) & np.isfinite(df['Air_Quality'])]
     X = df[['Dispersion_Index', 'Is_Stagnant', 'HasRained']]
     y = df['Air_Quality']
     scaler = StandardScaler()
     X_scaled = scaler.fit_transform(X)
     return X_scaled, y
 
-def perform_grid_search(X_train, y_train):
-    """Esegue la ricerca a griglia per il modello K-Nearest Neighbors."""
+def grid_search(X_train, y_train):
+    #Ricerca degli iperparametri
     param_grid = {
         'n_neighbors': [5, 10, 20, 30, 40],
         'weights': ['uniform', 'distance'],
@@ -39,8 +33,11 @@ def perform_grid_search(X_train, y_train):
     print("Migliori parametri trovati:", grid_search.best_params_)
     return grid_search.best_estimator_
 
-def plot_learning_curve(model, X, y):
-    """Visualizza la curva di apprendimento del modello K-Nearest Neighbors."""
+def trainModel(X, y):
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+    return X_train, X_test, y_train, y_test
+
+def learn_curve(model, X, y):
     train_sizes, train_scores, val_scores = learning_curve(
         model, X, y, cv=5,
         scoring='neg_mean_squared_error', n_jobs=-1,
@@ -64,29 +61,26 @@ def plot_learning_curve(model, X, y):
     mse_cv= -np.mean(cv_scores)
     print(f"Mean squared error(CV): {mse_cv:.2f}")
 
-
-
-def main(file_path):
-    """Funzione principale per eseguire l'intero processo."""
-    df = load_data(file_path)
-    X, y = preprocess_data(df)
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-    best_knn = perform_grid_search(X_train, y_train)
-    plot_learning_curve(best_knn, X, y)  # Traccia la curva di apprendimento
-
-    y_pred = best_knn.predict(X_test)
-
+def evalModel(y_test, y_pred):
     mse = mean_squared_error(y_test, y_pred)
     r2 = r2_score(y_test, y_pred)
-
-
     print(f"Mean Squared Error (MSE): {mse:.2f}")
     print(f"R-squared: {r2:.2f}")
 
+"""
+X, y = preprocess_data(df)
+
+best_knn = grid_search(X_train, y_train)
+learn_curve(best_knn, X, y)
+
+y_pred = best_knn.predict(X_test)
+
+mse = mean_squared_error(y_test, y_pred)
+r2 = r2_score(y_test, y_pred)
 
 
+print(f"Mean Squared Error (MSE): {mse:.2f}")
+print(f"R-squared: {r2:.2f}")
 
+"""
 
-# Specifica il percorso del file CSV
-file_path = r"Final_globalAir.csv"
-main(file_path)

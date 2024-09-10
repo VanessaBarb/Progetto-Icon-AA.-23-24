@@ -7,9 +7,6 @@ import ValutazioneModello as evm
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def load_data():
-    df = pd.read_csv(r"Final_globalAir.csv")
-    return df
 
 def preprocessing(df):
     # Rimuovi colonne non necessarie
@@ -98,7 +95,8 @@ def train_model(X, y):
     return rf_resampled, X_train_resampled, X_test_resampled, y_train_resampled, y_test_resampled
 
 # Esecuzione del flusso
-df = load_data()
+"""
+
 df_cleaned = preprocessing(df)
 X_top, y = feature_imp_matrix_corr(df_cleaned)
 X_resampled, y_resampled = smote_good(X_top, y)
@@ -106,4 +104,4 @@ rf, X_train, X_test, y_train, y_test = train_model(X_resampled, y_resampled)
 
 # Assicurati che la funzione evaluate_model accetti i parametri corretti
 evm.evaluate_model(rf, X_train, X_test,y_train, y_test, "Random Forest")
-
+"""
