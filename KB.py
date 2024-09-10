@@ -5,7 +5,6 @@ import csv
 
 def create_kb(dataset):
     df = pd.read_csv(dataset)
-
     # Dizionari per raccogliere fatti separati per predicato
     geography_facts = []
     pollutants_facts = []
@@ -52,7 +51,7 @@ def create_kb(dataset):
         )
 
     with open('knowledge_base.pl', 'w') as file:
-        # Scrivi tutti i fatti raggruppati per predicato
+        # Scrittura dei dati per predicato
         file.write("\n% Fatti geografici\n")
         file.write("\n".join(geography_facts) + "\n")
 
@@ -134,7 +133,6 @@ def create_csv(input_file, output_file):
         city = row['City']
         month = row['Month']
         day = row['Day']
-        pm2_5 = row['PM2.5']
         # Esegui le query Prolog per le nuove feature
         try:
             rainy_day_query = f"rainy_day('{city}', {month}, {day}, HasRained)."
@@ -161,4 +159,4 @@ def create_csv(input_file, output_file):
 
     print(f"Dataset creato")
 
-create_csv(r"globalAir01.csv","Final_globalAir.csv")
+#create_csv(r"globalAir01.csv","Final_globalAir.csv")
