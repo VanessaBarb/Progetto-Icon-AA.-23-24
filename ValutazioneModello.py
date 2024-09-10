@@ -35,32 +35,14 @@ def evaluate_model(model,X_train,X_test,y_train, y_test, model_name):
     test_mean = np.mean(test_scores, axis=1)
     test_std = np.std(test_scores, axis=1)
 
-    plt.figure(figsize=(10, 6))
-    plt.plot(train_sizes, train_mean, label="Training score")
-    plt.plot(train_sizes, test_mean, label="Cross-validation score")
-    plt.fill_between(train_sizes, train_mean - train_std, train_mean + train_std, alpha=0.1)
-    plt.fill_between(train_sizes, test_mean - test_std, test_mean + test_std, alpha=0.1)
+    plt.figure(figsize=(12, 8))
+    plt.plot(train_sizes, train_mean,'o-', color='r', label="Training score")
+    plt.plot(train_sizes, test_mean, 'o-', color='g',label="Cross-validation score")
+    plt.fill_between(train_sizes, train_mean - train_std, train_mean + train_std, alpha=0.1, color='r')
+    plt.fill_between(train_sizes, test_mean - test_std, test_mean + test_std, alpha=0.1, color='g')
     plt.title(f"Curva di apprendimento per {model_name}")
     plt.xlabel("Dimensione del Training set")
     plt.ylabel("Accuratezza")
     plt.legend(loc="best")
+    plt.grid(True)
     plt.show()
-
-    # Importanza delle feature (solo per Random Forest)
-    if model_name=="Random Forest":
-        importances = model.feature_importances_
-        indices = np.argsort(importances)[::-1]
-        features = X_train.columns
-
-        print("\nFeature ranking:")
-        for f in range(X_train.shape[1]):
-            print(f"{f + 1}. feature {features[indices[f]]} ({importances[indices[f]]:.4f})")
-
-        # Visualizza graficamente le feature importance
-        plt.figure(figsize=(10, 6))
-        plt.title(f"Feature Importances per {model_name}")
-        plt.bar(range(X_train.shape[1]), importances[indices], align="center")
-        plt.xticks(range(X_train.shape[1]), features[indices], rotation=90)
-        plt.xlabel("Features")
-        plt.ylabel("Importance")
-        plt.show()
