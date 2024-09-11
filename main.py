@@ -1,7 +1,7 @@
 import CalculateAqi as caqi
 import FeatureStudy as fs
 from Supervised import init
-from Supervised import KNeighborsRegressor as kn
+from Supervised import KNNRegressor as kn
 from Supervised import LinearRegression as lr
 from Supervised import RandomForest as rf
 from Supervised import ValutazioneModello as evm

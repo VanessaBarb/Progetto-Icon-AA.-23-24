@@ -1,8 +1,7 @@
 
 from sklearn.metrics import classification_report, accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 import matplotlib.pyplot as plt
-from sklearn.model_selection import train_test_split, learning_curve, cross_val_score
-import pandas as pd
+from sklearn.model_selection import  learning_curve, cross_val_score
 import numpy as np
 
 #Valutazione del modello

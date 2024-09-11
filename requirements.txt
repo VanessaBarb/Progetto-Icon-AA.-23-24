@@ -1,15 +1,14 @@
-imbalanced-learn             0.12.3
-matplotlib                   3.9.2
-networkx                     3.3
-numpy                        1.26.4
-pandas                       2.2.2
-pickleDB                     0.9.2
-pyswip                       0.2.11
-scikit-learn                 1.5.1
-seaborn                      0.13.2
-torch                        2.4.0
-
-
+imbalanced-learn==0.12.3
+matplotlib==3.9.2
+networkx==3.3
+numpy==1.26.4
+pandas==2.2.2
+pgmpy==0.1.26
+pickleDB==0.9.2
+pyswip==0.2.11
+scikit-learn==1.5.1
+seaborn==0.13.2
+torch==2.4.0
 
 
 

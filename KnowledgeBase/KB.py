@@ -1,6 +1,6 @@
 from pyswip import Prolog
 import pandas as pd
-import csv
+
 
 
 def create_kb(df):

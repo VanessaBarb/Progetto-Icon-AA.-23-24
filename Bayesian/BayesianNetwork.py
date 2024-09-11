@@ -31,7 +31,7 @@ def create_model():
     relevant_columns = ['PM2.5', 'PM10', 'SO2', 'NO2', 'CO', 'O3', 'Temperature', 'Humidity', 'Wind Speed', 'Dispersion_Index']
     df[relevant_columns] = discretizer.transform(df[relevant_columns])
     hc = HillClimbSearch(df)
-    best_model = hc.estimate(scoring_method=K2Score(df), max_indegree=14)
+    best_model = hc.estimate(scoring_method=K2Score(df), max_indegree=12)
     #creazione della rete bayesiana
     model = BayesianNetwork(best_model.edges())
     print(f"Archi trovati: {model.edges()}")

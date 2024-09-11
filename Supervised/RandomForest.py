@@ -3,7 +3,6 @@ from sklearn.model_selection import train_test_split
 import pandas as pd
 import numpy as np
 from imblearn.over_sampling import SMOTE
-import ValutazioneModello as evm
 import matplotlib.pyplot as plt
 import seaborn as sns
 
